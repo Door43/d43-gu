@@ -1,0 +1,22 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[gu:home|Door43 (gu)]]
+  * [[en:license|License]]
+
+**Resources**
+
+  * [[gu:obs|Open Bible Stories (gu)]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-gu|d43-gu repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-gu/archive/master.zip|d43-gu.zip]]
+
+**Recent Changes**
+{{changes>ns = gu}}
+
+**Latest Status**
+{{page>en:uwadmin:gu:obs:status}}
+
