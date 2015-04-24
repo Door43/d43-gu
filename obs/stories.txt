@@ -1,10 +1,10 @@
 
 
-  - [[:gu:obs:01|ઉત્પત્તિ]]
-  - [[:gu:obs:02|પાપ વિશ્વમા પ્રવેશે છે]]
+  - [[:gu:obs:01|સર્જન]]
+  - [[:gu:obs:02|પાપનો જગતમાં પ્રવેશ]]
   - [[:gu:obs:03|જળપ્રલય]]
-  - [[:gu:obs:04|God's Covenant with Abraham]]
-  - [[:gu:obs:05|The Son of Promise]]
+  - [[:gu:obs:04|ઇબ્રાહીમ સાથે ઇશ્વરનો કરાર]]
+  - [[:gu:obs:05|વચનનો પુત્ર]]
   - [[:gu:obs:06|God Provides for Isaac]]
   - [[:gu:obs:07|God Blesses Jacob]]
   - [[:gu:obs:08|God Saves Joseph and His Family]]
