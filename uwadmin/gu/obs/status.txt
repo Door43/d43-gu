@@ -1,0 +1,19 @@
+//The status of development for Open Bible Stories//
+
+publish date: 2015-04-24
+
+version: 3.2.1
+
+contributors: Bridge Connectivity Solutions
+
+checking entity :
+
+checking level:
+
+source text: en
+
+source text version: 3.2.1
+
+comments:
+
+Progress Notes: Translation in Progress
