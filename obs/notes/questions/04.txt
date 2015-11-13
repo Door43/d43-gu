@@ -2,38 +2,37 @@
 
 ===== Comprehension Questions and Answers =====
 
-  - **After the flood, did the people fill the earth as God had commanded?**
-    *//No. They gathered together and built a city. [04-01]//
-  - **How many different languages were there in the world at that time?**
-    *//There was only one language. [04-01]//
-  - **What did the people work together to do instead of filling the earth?**
-    *//The started to build a tall tower to reach heaven. [04-02]//
-  - **What did God do to cause the people to spread out all over the world?**
-    *//He changed their language into many different languages. [04-03]//
-  - **What was the name of the city that they were building?**
-    *//Babel. [04-03]//
-  - **What does the name "Babel" mean?**
-    *//Confused. [04-03]//
-  - **What did God tell Abram to do?**
-    *//God told Abram to leave his country and family and go to another land. [04-04]//
-  - **What did God promise to do for Abram?**
-    *//He promised to give Abram all the land he could see, to make his name great, to make his descendants a great nation, and to bless all the families on earth through him. [04-04]//
-  - **To which land did Abram go?**
-    *//The land of Canaan. [04-05]//
-  - **What promise did God make to Abram about Canaan?**
-    *//God would give it to Abram and his descendants as an inheritance. [04-06]//
-  - **Who was Melchizedek?**
-    *//He was the priest of God Most High. [04-07]//
-  - **What did Melchizedek do for Abram?**
-    *//He blessed Abram. [04-07]//
-  - **What did Abram give to Melchizedek?**
-    *//A tenth of all he owned. [04-07]//
-  - **What did God promise Abram after he had lived in Canaan for many years?**
-    *//Abram would have a son and as many descendants as the stars in the sky. [04-08]//
-  - **Why did God say Abram was righteous?**
-    *//Because Abram believed God's promise. [04-08]//
-  - **What is a covenant?**
-    *//An agreement between two parties. [04-09]//
+  - **જળપ્રલય પછી, શું બધા લોકો દેવની આજ્ઞા પ્રમાણે પૃથ્વીમાં વધીને ભરપુર થયાં?**
+      * નહિ, તેઓ સાથે ભેગા થયાં અને એક શહેર બાંધવાનું વિચાર્યું.// [// ૦૪-૦૧//]//
+  - **એ સમયે પૃથ્વી પર કેટલા ભાષાઓ હતા?**
+      * એક જ ભાષા હતી// [// ૦૪-૦૧//]//
+  - **લોકોએ પૃથ્વી ભરવાને બદલે કયો કાર્ય ભેગા મળીને શરૂ કર્યા?**
+      * તેઓ આકાશ સુધી પહોંચવા માટે એક લાંબી ઈમારત બનાવવાનું શરૂ કર્યા.// [// ૦૪-૦૨//]//
+  - **દેવે શું કર્યું જેથી તેઓ સમગ્ર પૃથ્વીમાં ન ફેલાય?**
+      * તેમણે તેઓનાં ભાષાને ગૂંચવી નાખ્યું.// [// ૦૪-૦૩//]//
+  - **તેઓએ બાંધવાનું શરૂ કરેલા શહેરનું નામ શું હતું?**
+      * બાબેલ// [// ૦૪-૦૩//]//
+  - **“બાબેલનો” અર્થ શું છે?**
+      * ગુંચવણ// [// ૦૪-૦૩//]//
+  - **દેવે ઇબ્રામને શું કરવા કહ્યું?**
+      * દેવે ઇબ્રામને પોતાના દેશ તથા સગાંઓને છોડી બીજા દેશ જવા કીધું.// [// ૦૪-૦૪//]//
+  - **દેવે ઇબ્રામને શું વચન આપ્યું?**
+      * દેવે ઇબ્રામને વચન આપ્યું કે, આ દેશ તેમને આપશે, તેમનું નામ મોટુ કરશે, તેમના વંશને એક મોટું જાતી બનાવશે, અને બધા જાતિના લોકો તેના વડે આશીર્વાદિત થશે.// [// ૦૪-૦૪//]//
+  - **કયા દેશમાં ઇબ્રામ ગયો?**
+      * કનાન દેશમાં// [// ૦૪-૦૫//]//
+  - **દેવે કનાન વિશે ઇબ્રામને શું વચન આપ્યું?**
+      * દેવે ઇબ્રામને અને તેના વંશજોને વચન આપ્યું કે તેઓ આ દેશનો વારસો બનશે// [// ૦૪-૦૬//]//
+  - **મેલ્ખીસેદેક કોણ હતો?**
+      * તે પરાત્પર દેવનો યાજક હતો// [// ૦૪-૦૭//]//
+  - **મેલ્ખીસેદેકે ઇબ્રામ માટે શું કર્યું?**
+      * તેમને ઇબ્રામને આશીર્વાદ આપ્યું.// [// ૦૪-૦૭//]//
+  - **ઇબ્રામે મેલ્ખીસેદેકને શું આપ્યું?**
+      * તેના સર્વમાંથી દસમો ભાગ આપ્યું.// [// ૦૪-૦૭//]//
+  - **કનાનમાં ઘણા વર્ષ રહ્યા પછી દેવે ઇબ્રામને શું વચન આપ્યું?**
+      * ઇબ્રામને એક દીકરો થશે અને તેના વંશજો આકાશના તારાઓ જેટલા થશે.// [// ૦૪-૦૮//]//
+  - **શા માટે દેવે ઇબ્રામને ન્યાયી ઠરાવ્યા?**
+      * કારણ કે ઇબ્રામ દેવના વચન પર વિશ્વાસ કર્યો.// [// ૦૪-૦૮//]//
+  - **કરાર શું છે?**
+      * બે પક્ષો વચ્ચે એક સમજૂતી// [// ૦૪-૦૯//]//
 
-
-**[[en/obs/notes/questions/03|<< ]] | [[en/obs/notes/questions/05| >>]]**
+**[[:en:obs:notes:questions:03|<< ]] | [[:en:obs:notes:questions:05| >>]]**
