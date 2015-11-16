@@ -2,28 +2,27 @@
 
 ===== Comprehension Questions and Answers =====
 
-  - **How did Jacob, the younger son, obtain the rights of the oldest son?**
-    *//Esau gave Jacob the rights of the oldest son in exchange for some food. [07-02]//
-  - **To whom did Isaac want to give his formal blessing?**
-    *//Esau. [07-03]//
-  - **How did Jacob trick Isaac into giving him the blessing?**
-    *//He pretended to be Esau by wearing goatskins so that Isaac would think he was Esau. [07-03]//
-  - **Because Jacob stole Esau's blessing, what did Esau plan to do to him?**
-    *//Esau planned to kill Jacob after Isaac died. [07-05]//
-  - **What did Isaac and Rebekah do when Rebekah heard of Esau's plan to kill Jacob?**
-    *//They sent Jacob far away to live with Rebekah's relatives. [07-06]//
-  - **What happened to Jacob during the next twenty years?**
-    *//He married, had twelve sons and a daughter, and God made him wealthy. [07-07]//
-  - **Why was Jacob afraid when he returned to Canaan?**
-    *//He thought Esau would kill him. [07-09]//
-  - **What did Jacob do in order to soothe Esau's anger?**
-    *//He sent herds of animals to Esau as a gift. [07-09]//
-  - **Was Esau still angry with Jacob?**
-    *//No, he had already forgiven him. [07-10]//
-  - **Where did Jacob settle to live?**
-    *//In Canaan. [07-10]//
-  - **After Isaac's death, who received the covenant promises that God originally gave to Abraham?**
-    *//Jacob. [07-10]//
+  - **નાના દીકરા યાકૂબે, કેવી રીતે મોટાં દીકરાનું અધિકાર મેળવ્યું?**
+      * એસાવે ખોરાકના બદલે તેના જ્યેષ્ઠ પુત્રનો અધિકાર યાકૂબને આપી દીધો.// [// ૦૭-૦૨//]//
+  - **ઇસ્હાક તેમના ઔપચારિક આશીર્વાદ કોણે આપવા માંગતો હતો?**
+      * એસાવને// [// ૦૭-૦૩//]//
+  - **યાકૂબે કેવી રીતે ઇસ્હાકને છેતરીને આશીર્વાદ મેળવ્યો?**
+      * તેમણે એસાવ હોવાનો ઢોંગ કર્યું અને બકરાના ચામડા પેહેર્યા જેથી ઇસ્હાકને લાગશે તે એસાવ છે.// [// ૦૭-૦૩//]//
+  - **યાકૂબે એસાવનો આશીર્વાદ ચોર્યા, તેથી એસાવે તેને શું કરવાનું યોજના ઘડી?**
+      * એસાવે ઇસ્હાકની મૃત્યુ પછી યાકૂબને મારી નાખવાની યોજના ઘડી.// [// ૦૭-૦૫//]//
+  - **રિબકાહ અને ઇસ્હાકે શું કર્યું જયારે તેઓને ખબર પડી કે એસાવ યાકૂબને મારવા માટે યોજના કરે છે?**
+      * તેઓ યાકૂબને રિબકાહના સંબંધી પાસે રેહવા માટે દૂર મોકલ્યા.// [// ૦૭-૦૬//]//
+  - **પછીના વીસ વર્ષ દરમિયાન યાકૂબ સાથે શું થયું?**
+      * તેમણે લગ્ન કરી લીધા, બાર પુત્રો અને એક પુત્રી થઇ, અને દેવે તેમને શ્રીમંત બનાવ્યા// [// ૦૭-૦૭//]//
+  - **જયારે યાકૂબ કનાનમાં પાછા ફર્યા ત્યારે તે શા માટે ભયભીત હતા?**
+      * તેમણે વિચાર્યું કે એસાવ તેને મારી નાખશે.// [// ૦૭-૦૯//]//
+  - **યાકૂબે એસાવનો ગુસ્સો શાંત પાડવા માટે શું કર્યું?**
+      * તેમણે એક ભેંટ તરીકે એસાવને પ્રાણીઓના ટોળાંઓને મોકલ્યો.// [// ૦૭-૦૯//]//
+  - **શું એસાવ યાકૂબની સાથે હજુ પણ ક્રોધિત હતો?**
+      * ના, તેમણે પહેલેથી જ તેમને માફ કરી હતી.// [// ૦૭-૧૦//]//
+  - **યાકૂબે કયા જગ્યાએ રેહવાનું નક્કી કર્યું?**
+      * કનાનમાં// [// ૦૭-૧૦//]//
+  - **ઇસ્હાકની મૃત્યુ પછી, જે કરાર નું વચન દેવે ઈબ્રાહીમને આપ્યુ હતું, એ કોણે મળ્યો?**
+      * યાકૂબને// [// ૦૭-૧૦//]//
 
-
-**[[en/obs/notes/questions/06|<< ]] | [[en/obs/notes/questions/08| >>]]**
+**[[:en:obs:notes:questions:06|<< ]] | [[:en:obs:notes:questions:08| >>]]**
