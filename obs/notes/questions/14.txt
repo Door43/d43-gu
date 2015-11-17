@@ -2,38 +2,37 @@
 
 ===== Comprehension Questions and Answers =====
 
-  - **Where did God lead the Israelites after they left Mount Sinai?**
-    *//He led them towards Canaan, the Promised Land. [14-01]//
-  - **What did God tell the Israelites to do to the Canaanites?**
-    *//He told them to get rid of all of them, not to make peace with them, not to marry them, and to destroy all of their idols. [14-03]//
-  - **What did the twelve spies say about the land of Canaan?**
-    *//The land is very fertile and the crops are plentiful. [14-05]//
-  - **Why did ten of the spies say the Israelites should not attack the people of Canaan?**
-    *//They said, "The cities are strong and the people are giants. If we attack them, they will defeat us and kill us!" [14-05]//
-  - **What did Caleb and Joshua say about the people of Canaan?**
-    *//The people are strong, but we can defeat them. God will fight for us! [14-06]//
-  - **What did the people want to do after they heard the report of the spies?**
-    *//They wanted to choose another leader and go back to Egypt. [14-07]//
-  - **How did God say he would punish the people for their disobedience?**
-    *//They would wander in the wilderness until everyone twenty years or older, except Caleb and Joshua, died. [14-08]//
-  - **Why were the Israelites defeated when they attacked the Canaanites?**
-    *//Because God did not go with them into the battle. [14-10]//
-  - **How long did the Israelites wander in the wilderness?**
-    *//Forty years. [14-11]//
-  - **How did God provide for the Israelites in the wilderness?**
-    *//He gave them "manna," sent flocks of quail, and kept their clothes and shoes from wearing out. [14-11]//
-  - **How did God respond when the people complained and grumbled?**
-    *//God was still faithful to his promises to Abraham, Isaac, and Jacob. [14-12]//
-  - **Why was God angry when Moses struck the rock?**
-    *//Because Moses dishonored God by not speaking to the rock as he was told to do. [14-13]//
-  - **How did God punish Moses for his disobedience?**
-    *//God said that Moses would not enter the Promised Land. [14-13]//
-  - **Who did God promise to send one day in the future?**
-    *//Another prophet like Moses. [14-14]//
-  - **Who led the Israelites after Moses died?**
-    *//Joshua. [14-15]//
-  - **What kind of leader was Joshua?**
-    *//He was a good leader because he trusted and obeyed God. [14-15]//
+  - **સિનાઇ પર્વત છોડ્યા પછી દેવે ઈસ્રાએલીઓને ક્યાં લઇ ગયા?**
+      * તેમણે તેઓને વાયદાનો દેશ, કનાન તરફ લઈ ગયા.// [// ૧૪-૦૧//]//
+  - **દેવે ઈસ્રાએલીઓને કનાનીઓ સાથે શું કરવા કહ્યું હતું?**
+      * તેમણે જણાવ્યું કે તેઓને તમારા પાસેથી દૂર હાંકી કાઢો, તેઓ સાથે શાંતિ નો કરાર બાંધવો નહિ, તેઓની સાથે લગ્ન ન કરો અને તેઓના તમામ મૂર્તિઓ તોડી નાખો.// [// ૧૪-૦૩//]//
+  - **બાર જાસૂસો કનાન દેશ વિશે શું કહ્યું હતું?**
+      * જમીન ખૂબ જ ફળદ્રુપ છે અને પાક પુષ્કળ છે.// [// ૧૪-૦૫//]//
+  - **શા માટે દસ જાસૂસોએ ઈસ્રાએલીઓને કનાનીઓ પર હુમલા કરવા ના પાડી?**
+      * તેઓ જણાવ્યું, "ત્યાંના નગરો મજબૂત અને લોકો રાક્ષસો જેવા શક્તિશાળી છે.અમે તેમને હુમલો કરશે, તો તેઓ અમને સરળતાથી હરાવશે અને અમને મારી નાખશે!"// [// ૧૪-૦૫//]//
+  - **કાલેબ અને યહોશુએ કનાનના લોકો વિશે શું કહ્યું?**
+      * તે લોકો મજબૂત છે, પણ આપણે તેઓને હરાવી શકશે. દેવ આપણને માટે લડશે!// [// ૧૪-૦૬//]//
+  - **જાસૂસોની ફરિયાદ સાંભળ્યા પછી લોકો શું કરવા માંગતા હતા?**
+      * તેઓ અન્ય આગેવાન ઈચ્છતા હતા અને પાછા મિસરમાં જવા માંગતા હતા.// [// ૧૪-૦૭//]//
+  - **દેવના કહ્યા પ્રમાણે લોકોને કઈ રીતે તેમના આજ્ઞાભંગ માટે સજા થશે?**
+      * દરેક જન રણમાં ભટકશે જ્યાં સુધી તેઓ વીસ વર્ષ કે તેથી વધુ ઉંમરના ન થઇ જાય,કાલેબ અને યહોશુ સિવાય બધા મૃત્યુ પામ્યા.// [// ૧૪-૦૮//]//
+  - **કનાનીઓ પર હુમલો કર્યો ત્યારે શા માટે ઈસ્રાએલીઓ પરાજય થઇ ગયા?**
+      * કારણ કે દેવે યુદ્ધ માટે તેમની સાથે ન ગયા.// [// ૧૪-૧૦//]//
+  - **ઈસ્રાએલીઓ રણમાં કેટલા સમય સુધી ભટક્યા?**
+      * ચાળીસ વર્ષ.// [// ૧૪-૧૧//]//
+  - **દેવે કઈ રીતે રણમાં ઈસ્રાએલીઓની જરૂરતો પૂરી કરી?**
+      * તેમણે તેમને "મન્ના," આપી, લાવરીઓના ટોળાને મોકલી આપ્યો, અને તેમના કપડાં અને જૂતાં ફાટ્યા નહિ.// [// ૧૪-૧૧//]//
+  - **દેવે શું પ્રતિભાવ આપ્યો જયારે લોકો તેમની સામે ફરિયાદ અને તકરાર કરી?**
+      * દેવે હજુ પણ ઇબ્રાહીમ, ઇસ્હાક અને યાકૂબને આપેલા વચનો પર વફાદાર રહ્યા.// [// ૧૪-૧૨//]//
+  - **જયારે મુસાએ ખડક પર લાકડા પછાડી ત્યારે દેવે તેના પર શા માટે ગુસ્સે થયો?**
+      * દેવે મુસાને કહ્યું હતું કે ખડકને માત્ર આજ્ઞા આપજો, પણ તેણે દેવનો તિરસ્કાર કર્યો. // [// ૧૪-૧૩//]//
+  - **દેવે કઈ રીતે મુસાને તેમના આજ્ઞાભંગ માટે સજા કરી?**
+      * દેવે કહ્યું કે, જે દેશ તેઓને આપ્યું તેમાં મુસા દાખલ નહિ કરશે.// [// ૧૪-૧૩//]//
+  - **ભવિષ્યમાં દેવે કોણે મોકલવાનું વચન આપ્યું હતું?**
+      * મૂસા જેવા અન્ય પ્રબોધક.// [// ૧૪-૧૪//]//
+  - **મૂસાની મૃત્યુ પછી કોણ ઈસ્રાએલીઓની આગેવાની કરી?**
+      * યહોશુ// [// ૧૪-૧૫//]//
+  - **યહોશું કઈ પ્રકારના આગેવાન હતા?**
+      * તેમણે એક સારા આગેવાન હતા કારણ કે તેમણે દેવ પર ભરોસા રાખ્યા અને તેમની આજ્ઞાઓ પાલન કરી.// [// ૧૪-૧૫//]//
 
-
-**[[en/obs/notes/questions/13|<< ]] | [[en/obs/notes/questions/15| >>]]**
+**[[:en:obs:notes:questions:13|<< ]] | [[:en:obs:notes:questions:15| >>]]**
