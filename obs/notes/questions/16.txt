@@ -2,34 +2,33 @@
 
 ===== Comprehension Questions and Answers =====
 
-  - **How did the Israelites disobey God after Joshua died?**
-    *//They did not drive out the Canaanites, and worshiped the Canaanite gods instead of Yahweh, the true God. [16-01]//
-  - **How did God punish the Israelites for their disobedience?**
-    *//God allowed their enemies to defeat them. [16-02]//
-  - **How did God respond when the Israelites cried out for help?**
-    *//He provided a deliverer who rescued them and brought peace to the land. [16-03]//
-  - **What was Gideon doing when the angel of Yahweh came to him?**
-    *//Gideon was threshing grain secretly so the Midianites would not steal it. [16-05]//
-  - **What two signs did God do to prove that he would save Israel through Gideon?**
-    *//God made the morning dew fall only on the cloth and not the ground, and then the dew fell only on the ground and not the cloth. [16-08], [16-09]//
-  - **Why did Gideon send home all except 300 of the soldiers?**
-    *//Because God told him he had too many men. [16-10]//
-  - **What additional sign did God give Gideon so he would not be afraid?**
-    *//Gideon heard a Midianite soldier tell of his dream that Gideon's army would defeat the Midianite army. [16-11]//
-  - **What did Gideon do when he heard the Midianite soldier's dream?**
-    *//He worshiped God. [16-11]//
-  - **How did Gideon and his men attack the Midianites?**
-    *//They surrounded the Midianite camp, broke their pots to reveal their torches, and blew their horns and shouted, "A sword for Yahweh and for Gideon." [16-13]//
-  - **What did God do to help Gideon defeat the Midianites?**
-    *//God confused the Midianites so they attacked and killed each other. [16-14]//
-  - **What did Gideon do that later led the people to return to idol worship?**
-    *//He made a special garment of gold that the people later began to worship as an idol. [16-16]//
-  - **What was the pattern that Israel repeated many times?**
-    *//The Israelites would sin, God would punish them, they would repent, and God would send a deliverer to save them. [16-17]//
-  - **Why did the people ask God for a king?**
-    *//All the other nations had kings, and they wanted someone to lead them into battle. [16-18]//
-  - **How did God answer their request?**
-    *//He gave them a king just as they had asked. [16-18]//
+  - **યહોશુનો મૃત્યુ પછી ઈસ્રાએલીઓ કેવી રીતે દેવની આજ્ઞા તોડી હતી?**
+      * તેઓ કનાનીઓને હાંકી કાઢ્યા નહિ, અને તેમના દેવતાઓની પૂજા કરી.// [// ૧૬-૦૧//]//
+  - **દેવે કઈ રીતે ઈસ્રાએલીઓને તેમના આજ્ઞાભંગ માટે શિક્ષા આપી હતી?**
+      * દેવે તેમના દુશ્મનોને તેમને હરાવવા માટે મંજૂરી આપી હતી.// [// ૧૬-૦૨//]//
+  - **ઈસ્રાએલીઓ મદદ માટે પોકાર કર્યો, ત્યારે દેવે તેમને કઈ રીતે જવાબ આપ્યો?**
+      * તેમણે તેમને બચાવવા માટે એક ઉદ્ધારક મોકલ્યો અને દેશમાં શાંતિ લાવ્યા.// [// ૧૬-૦૩//]//
+  - **ગિદિયોન શું કરતો હતો જયારે યહોવાના દૂત તેમની પાસે આવ્યો?**
+      * ગિદિયોન મિદ્યાનીઓની નજર છુપાવીને અનાજ ઝૂડતો હતો.// [// ૧૬-૦૫//]//
+  - **ગિદિયોન ઇસ્રારાયેલીઓને બચાવશે તે સાબિત કરવા માટે દેવે કયા બે નિશાની આપી હતી?**
+      * દેવે સવારે માત્ર કાપડ ઉપર ઝાકળ પડવા દીધો અને જમીન પર પડી નહિ, અને પછી ઝાકળ માત્ર જમીન પર પડ્યો અને કાપડ પર પડ્યો નહિ. //[// ૧૬-૦૮//], [// ૧૬-૦૯//]//
+  - **શા માટે ગિદિયોન ૩૦૦ સૈનિકો સિવાય બધાને ઘરે મોકલ્યો?**
+      * કારણ કે દેવે તેને કહ્યું હતું કે તેમણી પાસે ઘણા માણસો થઇ ગયા.// [// ૧૬-૧૦//]//
+  - **ગિદિયોન ભયભીત ન થાય જાય તે માટે દેવે તેને વધારાના શું નિશાની આપી હતી?**
+      * એક મિદ્યાની સૈનિક બીજા સૈનિકને પોતાના સ્વપ્નની વાત કહેતા સાંભળ્યું કે ગિદિયોનના લશ્કરો મિદ્યાની લાશ્કરોને હરાવશે.// [// ૧૬-૧૧//]//
+  - **મિદ્યાની સૈનિકનો સ્વપ્ન સાંભળ્યું ત્યારે ગિદિયોને શું કર્યું?**
+      * તેમણે દેવની ઉપાસના કરી.// [// ૧૬-૧૧//]//
+  - **ગિદિયોન અને તેના માણસો મિદ્યાનીઓ પર કેવી રીતે હુમલો કર્યો?**
+      * તેઓ મિદ્યાનીઓના છાવણી ઘેરી લીધા, બરણીઓ તોડી નાખ્યા અને હાથમાં મશાલો પકડી રણશિંગડા ફૂંક્યા અને જોરથી બૂમ પાડી, "યહોવા અને ગિદિયોન માટે તલવાર."// [// ૧૬-૧૩//]//
+  - **દેવે મિદ્યાનીઓને હરાવવા માટે ગિદિયોનને કેવી રીતે મદદ કરી?**
+      * દેવે મિદ્યાનીઓને મૂંઝવણમાં મુક્યા તેથી તેઓ એક બીજા પર પર હુમલો કર્યા અને દરેકને માર્યા.// [// ૧૬-૧૪//]//
+  - **ગિદિયોને શું કર્યું જેથી લોકો મૂર્તિ પૂજા પર પાછા દોરી ગયા?**
+      * તેમણે સોનાનું એક ખાસ વસ્ત્ર બનાવ્યા જેથી લોકો થોડા દિવસ પછી એ વસ્ત્રને મૂર્તિ તરીકે પૂજા કરવાનું શરૂ કર્યું.// [// ૧૬-૧૬//]//
+  - **ઇસ્રાએલીઓ વારંવાર કયા પ્રથાને અનુસર્યા?**
+      * ઈસ્રાએલીઓ પાપ કરશે, દેવ તેમને સજા કરશે, તેઓ પસ્તાવો કરશે, અને દેવ તેમને બચાવવા માટે એક ઉદ્ધારક મોકલશે.// [// ૧૬-૧૭//]//
+  - **લોકોએ દેવ પાસે શા માટે એક રાજાને પૂછ્યું?**
+      * બધા દેશો પાસે રાજા હતા, અને તેઓ ઇચ્છતા હતા કે કોઈ તેમણે યુદ્ધમાં આગેવાન કરે.// [// ૧૬-૧૮//]//
+  - **દેવે કઈ રીતે તેમની વિનંતીનો જવાબ આપ્યો?**
+      * તેમણે તેઓના માગ્યા પ્રમાણે એક રાજા આપી.// [// ૧૬-૧૮//]//
 
-
-**[[en/obs/notes/questions/15|<< ]] | [[en/obs/notes/questions/17| >>]]**
+**[[:en:obs:notes:questions:15|<< ]] | [[:en:obs:notes:questions:17| >>]]**
