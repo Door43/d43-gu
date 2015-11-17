@@ -3,27 +3,28 @@
 ===== Comprehension Questions and Answers =====
 
   - **સુલેમાંને દેવ પાસે શું માંગ્યો?**
-      * શાણપણ.// [// ૧૮-૦૧//]//
-  - **What was the purpose of the Temple that Solomon built?**
-      * //It was a place for the people to worship God and offer sacrifices. [18-02]//
-  - **What serious sins did Solomon commit?**
-      * //He married many foreign women and worshiped their gods in his old age. [18-03]//
-  - **How did God punish Solomon’s sins?**
-      * //God promised to divide the nation of Israel into two kingdoms after Solomon’s death. [18-04]//
-  - **What foolish answer did Rehoboam give to the people?**
-      * //I will make you work harder and punish you more than my father Solomon did. [18-06]//
-  - **What was the name of the kingdom founded by the two southern tribes who remained with Rehoboam?**
-      * //The kingdom of Judah. [18-07]//
-  - **How many of the tribes rebelled against Rehoboam and formed the northern kingdom?**
-      * //Ten tribes joined the kingdom of Israel. [18-08]//
-  - **What did Jeroboam do to keep his people from going to Judah to worship at the Temple?**
-      * //He built two idols for the people to worship. [18-09]//
-  - **How many of the kings of Israel were faithful to God?**
-      * //None. [18-11]//
-  - **What were some of the evil practices that were often included in the worship of idols?**
-      * //Sexual immorality and child sacrifice. [18-12]//
-  - **Who was the ancestor of the kings of Judah?**
-      * //King David. [18-13]//
-  - **Were any kings of Judah faithful to God?**
-      * //Yes, some were faithful, but most were evil. [18-13]//
+      * શાણપણ.// [//  ૧૮-૦૧//]//
+  - **સુલેમાંને બાંધેલા મંદિરનો શો ઉદેશ્ય હતું?**
+      * લોકો દેવની ઉપાસના કરી શકે અને બલિદાન ચઢાવી શકે તે માટે એક સ્થળ બનાવવા.// [// ૧૮-૦૨//]//
+  - **સુલેમાંને કયો ગંભીર પાપ કર્યાં?**
+      * તેમણે ઘણા વિદેશી સ્ત્રીઓ સાથે લગ્ન કર્યા અને તેઓના દેવતાઓની પૂજા કરી// [// ૧૮-૦૩//]//
+  - **દેવે કઈ રીતે સુલેમાંનને તેમણી પાપોની સજા કરી?**
+      * દેવે વચન આપ્યું કે સુલેમાંનના મરણ પછી ઇસ્રાએલ બે રાજ્યોમાં ભાગ થઇ જશે.// [// ૧૮-૦૪//]//
+  - **રહાબઆમે લોકોને શું મૂર્ખ જવાબ આપ્યો?**
+      * હું તમને સખત કામ કરાવીશ અને મારા પિતા સુલેમાંન કરતા વધુ શિક્ષા આપીશ.// [// ૧૮-૦૬//]//
+  - **રહાબઆમ સાથે રહ્યા જે બે દક્ષિણ જાતિઓ દ્વારા સ્થાપના કરેલા રાજ્યનો નામ શું હતું?**
+      * યહૂદા રાજ્ય// [// ૧૮-૦૭//]//
+  - **કેટલી જાતિઓ રહાબઆમ સામે બળવો કર્યો અને ઉત્તરીય રાજ્ય બનાવ્યા?**
+      * દસ જાતિઓ ઇસ્રાએલ રાષ્ટ્રમાં જોડાયા હતા.// [// ૧૮-૦૮//]//
+  - **યરોબઆમ પોતાના લોકોને યહૂદાના મંદિરમાં દેવની ઉપાસના ન કરવા દેવા માટે શું કર્યો?**
+      * તેમણે લોકોને પૂજા કરવા માટે બે મૂર્તિઓ બનાવી છે.// [// ૧૮-૦૯//]//
+  - **કેટલા ઇસ્રાએલી રાજાઓ દેવ પ્રત્યે વફાદાર હતા?**
+      * કોઈ પણ નહિ//. [// ૧૮-૧૧//]//
+  - **ઘણી વખત મૂર્તિ પૂજામાં સમાવેલા કેટલાક દુષ્ટ આચરણો શું હતા?**
+      * જાતીય અનૈતિકતા અને બાળકનું બલિદાન.// [// ૧૮-૧૨//]//
+  - **યહૂદાના રાજાઓના પૂર્વજ કોણ હતા?**
+      * રાજા દાઉદ// [// ૧૮-૧૩//]//
+  - **શું યહૂદાના કોઈપણ રાજાઓ દેવ પ્રત્યે વફાદાર હતા?**
+      * હા, કેટલાક વફાદાર હતા, પરંતુ મોટા ભાગના રાજાઓ દુષ્ટ હતા.// [// ૧૮-૧૩//]//
+
 **[[:en:obs:notes:questions:17|<< ]] | [[:en:obs:notes:questions:19| >>]]**
