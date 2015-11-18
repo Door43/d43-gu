@@ -2,32 +2,31 @@
 
 ===== Comprehension Questions and Answers =====
 
-  - **What happened when Jesus arrived where the Gerasene people lived?**
-    *//A demon-possessed man came running up to Jesus. [32-02]//
-  - **What did the demon cause the man to do?**
-    *//The demon made him break chains, live among the tombs, scream all day and night, not wear clothes, and cut himself with stones. [32-03], [32-04]//
-  - **What was the demon’s name?**
-    *//His name was Legion. [32-06]//
-  - **What did the name "Legion" mean?**
-    *//It meant that there were many demons in the man. [32-06]//
-  - **Where did the demons beg Jesus to send them when they left the man?**
-    *//They asked to go into a herd of about 2,000 pigs. [32-07], [32-08]//
-  - **What happened to the pigs when the demons entered them?**
-    *//They ran down a steep bank into the lake and drowned. [32-08]//
-  - **How did the man behave after the demons left him?**
-    *//He sat calmly, wore clothes, and acted like a normal person. [32-09]//
-  - **How did the people react to the healed man and the dead pigs?**
-    *//They were afraid and asked Jesus to leave them. [32-10]//
-  - **What did Jesus tell the healed man to do instead of going with Jesus?**
-    *//Jesus told him to go home and tell his friends and family about everything God had done for him. [32-11]//
-  - **Why did the woman with the bleeding problem come to Jesus?**
-    *//She thought that if she touched Jesus’ clothes, she would be healed. [32-14]//
-  - **What happened as soon as the woman touched Jesus' clothes?**
-    *//Her bleeding stopped. [32-14]//
-  - **How did Jesus know someone had touched him?**
-    *//He realized that power had gone out from him. [32-15]//
-  - **What did Jesus say to the woman when she fell down before him?**
-    *//“Your faith has healed you. Go in peace.” [32-16]//
+  - **ઇસુ ગદરાનીના દેશમાં આવ્યા ત્યારે ત્યાં શું થયું?**
+      * અશુદ્ધ આત્માઓથી વળગેલા એક માણસ તેમણી તરફ દોડતા આવ્યું.// [// ૩૨-૦૨//]//
+  - **અશુદ્ધ આત્માએ તે માણસ સાથે શું કર્યું?**
+      * અશુદ્ધ આત્માએ તેની સાંકળો તોડી નાખ્યા, તે કબરોમાં રેહતો, રાત દિવસ બુમો પાડતો, કપડા પહેરતો ન હતો, અને પોતાને પથ્થરથી ઘાયલ કરતો હતો.// [// ૩૨-૦૩//], [// ૩૨-૦૪//]//
+  - **અશુદ્ધ આત્માનું નામ શું હતું?**
+      * તેનું નામ સેના હતું// [// ૩૨-૦૬//]//
+  - **સેના નો અર્થ શું હતો?**
+      * એના અર્થ એ છે કે તે માણસની અંદર ઘણા દુષ્ટઆત્માઓ હતા.// [// ૩૨-૦૬//]//
+  - **અશુદ્ધ આત્માએ ઈસુ પાસે તેઓને ક્યાં મોકલવા વિનંતી કરી?**
+      * ૨૦૦૦ ભૂંડોના ટોળામાં મોકલવા વિનંતી કરી.// [// ૩૨-૦૭//], [// ૩૨-૦૮//]//
+  - **જયારે અશુદ્ધ આત્માઓ ભૂંડા માં પેઠા ત્યારે તેમને શું થયું?**
+      * તેઓ પહાડની ધાર પરથી સરોવરમાં ઘસી પડ્યું અને ડૂબીને મરી ગયા.// [// ૩૨-૦૮//]//
+  - **અશુદ્ધ આત્માથી સ્વસ્થ થયેલા માણસનો વ્યવહાર શું હતું?**
+      * તેમણે સામાન્ય માણસની જેમ કપડા પહેરેલા હતા અને શાંત બેઠા હતો// [// ૩૨-૦૯//]//
+  - **લોકોએ સ્વસ્થ થયેલા માણસ અને ભૂંડો પ્રત્યે શું પ્રતિભાવ આપ્યો?**
+      * તેઓ ડરી ગયા અને ઈસુને દૂર ચાલ્યા જવા કહ્યું//. [// ૩૨-૧૦//]//
+  - **ઈસુની પાછળ આવવા માંગતા એ સ્વસ્થ માણસને ઈસુએ શું કરવા કહ્યું?**
+      * ઈસુએ તેમણે ઘરે પાછા જઈને તેમના મિત્રો અને કુટુંબોને દેવે તેના માટે શું કર્યું છે તે બતાવવા કહ્યું.// [// ૩૨-૧૧//]//
+  - **શા માટે રક્તસ્ત્રાવ થી પીડિત સ્ત્રીએ ઇસુ પાસે આવી?**
+      * તેને વિચાર્યું કે તે ઈસુના વસ્ત્રોને અડકીને સાજા થઇ જશે.// [// ૩૨-૧૪//]//
+  - **સ્ત્રીએ જયારે ઈસુની લૂગડાંની કોરને અડકી ત્યારે શું થયું?**
+      * તે જ ક્ષણે તેના લોહીવા બંદ થઇ ગયું.// [// ૩૨-૧૪//]//
+  - **ઈસુને કેવી રીતે ખબર ડી કે કોઈ તેને સ્પર્શ કર્યો છે?**
+      * તેમણે ખબર પડી કારણ કે શક્તિ તેમનામાંથી બહાર નીકળ્યું. // [// ૩૨-૧૫//]//
+  - **સ્ત્રી તેના પગે પડી ત્યારે ઈસુએ તેણે શું કહ્યું?**
+      * “તને તારા વિશ્વાસે સાજી કરી છે. શાંતિથી જા.”//[// ૩૨-૧૬//]//
 
-
-**[[en/obs/notes/questions/31|<< ]] | [[en/obs/notes/questions/33| >>]]**
+**[[:en:obs:notes:questions:31|<< ]] | [[:en:obs:notes:questions:33| >>]]**
