@@ -2,32 +2,31 @@
 
 ===== Comprehension Questions and Answers =====
 
-  - **How many years had passed since God had spoken to his people?**
-    *//400 years. [22-01]//
-  - **What problem did Elizabeth, Zechariah’s wife, have?**
-    *//She had not been able to have children. [22-01]//
-  - **What did the angel tell Zechariah to name his son?**
-    *//He was to name him John. [22-02]//
-  - **What did the angel say John would do in his life?**
-    *//John would prepare the people for the Messiah. [22-02]//
-  - **Why did Zechariah not believe Elizabeth would have a son?**
-    *//They were too old. [22-02]//
-  - **How did the angel punish Zechariah because he did not believe?**
-    *//Zechariah was not able to speak until John was born. [22-03]//
-  - **How long had Elizabeth been pregnant when the angel appeared to Mary?**
-    *//Six months. [22-04]//
-  - **What did the angel say was going to happen to Mary?**
-    *//She would become pregnant and give birth to a son. [22-04]//
-  - **Who did the angel say Jesus was going to be?**
-    *//The Son of the Most High God. [22-04]//
-  - **Why was Jesus’ birth a miracle?**
-    *//Mary was a virgin. [22-05]//
-  - **Whose son is Jesus?**
-    *//Jesus is the Son of God. [22-05]//
-  - **Who did Mary go to visit after after the angel left her?**
-    *//She went to visit Elizabeth. [22-06]//
-  - **What did Zechariah say about John?**
-    *//John would be a prophet of the Most High God and would tell the people how they could receive forgiveness for their sins. [22-07]//
+  - **દેવે પોતાના લોકો સાથે વાત કર્યા પછી કેટલા વર્ષ પસાર થઇ ગયા?**
+      * ૪૦૦ વર્ષ// [// ૨૨-૦૧//]//
+  - **ઝખાર્યાની પત્ની એલિઝાબેથ ને શું સમસ્યા હતું?**
+      * તેણીએ બાળકો થવા માટે સક્ષમ ન હતી.// [// ૨૨-૦૧//]//
+  - **સ્વર્ગદૂતે ઝખાર્યાને પોતાના દીકરાને શું નામ આપવા કહ્યું?**
+      * તેમણે યુહાન નામ આપવા કહ્યું.// [// ૨૨-૦૨//]//
+  - **સ્વર્ગદૂતના જણાવ્યા પ્રમાણે યુહાન તેમના જીવનમાં શું કરશે?**
+      * યુહાન મસીહ માટે લોકોને તૈયાર કરશે.// [// ૨૨-૦૨//]//
+  - **એલિઝાબેથને એક પુત્ર થશે એવું શા માટે ઝખાર્યા માનતા ન હતા?**
+      * તેઓ ઘણા ઘરડા હતા// [// ૨૨-૦૨//]//
+  - **ઝખાર્યા વિશ્વાસ ન કર્યો માટે સ્વર્ગદૂતે તેમને શું સજા આપી?**
+      * યુહાન નો જન્મ સુધી ઝખાર્યા વાત કરવા માટે અસમર્થ રહ્યો.// [// ૨૨-૦૩//]//
+  - **દેવદૂત મરિયમ પાસે આવ્યો ત્યારે એલિઝાબેથ કેટલા સમયથી ગર્ભવતી હતી?**
+      * છ મહિના.// [// ૨૨-૦૪//]//
+  - **દેવદૂતે મરિયમને શું કહ્યું હતું?**
+      * તે ગર્ભવતી થશે અને એક પુત્રને જન્મ આપશે.// [// ૨૨-૦૪//]//
+  - **દેવદૂત જણાવ્યા પ્રમાણે ઇસુ કોણ હશે?**
+      * પરાત્પર દેવના પુત્ર.// [// ૨૨-૦૪//]//
+  - **ઈસુના જન્મ શા માટે એક ચમત્કાર હતો?**
+      * મરિયમ એક કુંવારી હતી.// [// ૨૨-૦૫//]//
+  - **ઈસુ કોના દીકરો છે?**
+      * ઈસુ દેવના દીકરો છે.// [// ૨૨-૦૫//]//
+  - **મરિયમે દેવદૂત સાથે વાત કર્યા પછી કોની મુલાકાત લીધી?**
+      * તેમણે એલિઝાબેથની મુલાકાત લીધી.// [// ૨૨-૦૬//]//
+  - **ઝખાર્યાએ યુહાન વિશે શું કહ્યું?**
+      * યોહાન પરાત્પર દેવના પ્રબોધક હશે જે લોકોને તેમના પાપોની ક્ષમા માટે માર્ગ બતાવશે.// [// ૨૨-૦૭//]//
 
-
-**[[en/obs/notes/questions/21|<<  ]] | [[en/obs/notes/questions/23| >>]]**
+**[[:en:obs:notes:questions:21|<< ]] | [[:en:obs:notes:questions:23| >>]]**
