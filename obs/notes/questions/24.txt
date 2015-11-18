@@ -2,29 +2,29 @@
 
 ===== Comprehension Questions and Answers =====
 
-  - **Where did John live when he grew up?**
-    *//He lived in the wilderness. [24-01]//
-  - **What message did John preach to the people?**
-    *//“Repent, for the kingdom of God is near!” [24-02]//
-  - **What did John do to the people who repented at his preaching?**
-    *//He baptized them. [24-03]//
-  - **Which group of people did John compare to poisonous snakes?**
-    *//This referred to many of the religious leaders who refused to repent. [24-04]//
-  - **What was John's answer when the Jews asked him if he was the Messiah?**
-    *//He said he was not the Messiah. [24-05]//
-  - **What title did John use for Jesus when he saw him coming to be baptized?**
-    *//He called him, "the Lamb of God who will take away the sin of the world.” [24-06]//
-  - **Why did Jesus not need to repent of his sins before John baptized him?**
-    *//Because Jesus had never sinned. [24-07]//
-  - **Why did Jesus say that John should baptize him?**
-    *//John baptized Jesus because it was the right thing to do. [24-07]//
-  - **Who came to rest on Jesus after he was baptized?**
-    *//The Spirit of God appeared in the form of a dove. [24-08]//
-  - **What did God say to Jesus after he was baptized?**
-    *//“You are my Son whom I love, and I am very pleased with you.” [24-08]//
-  - **Whom did God say the Holy Spirit would come down and rest upon?**
-    *//He would rest on the Son of God. [24-09]//
-  - **How many gods are there?**
-    *//There is only one God. [24-10]//
+  - **યુહાન મોટો થયો ત્યારે તે ક્યાં રહેતા હતા?**
+      * તેમણે રણમાં રહેતા હતા.// [// ૨૪-૦૧//]//
+  - **યોહાને લોકોને શું ઉપદેશ આપ્યો?**
+      * પસ્તાવો, કેમ કે દેવનું રાજ્ય નજીક છે!”// [// ૨૪-૦૨//]//
+  - **જે લોકો પસ્તાવો કર્યો તેમને યુહાને શું કર્યું?**
+      * તેમણે તેમને બાપ્તિસ્મા આપી.// [// ૨૪-૦૩//]//
+  - **યુહાને કયા જૂથના લોકોને ઝેરી સાપ સાથે તુલના કર્યું?**
+      * ઘણા ધર્મગુરુઓને જે પસ્તાવો કરવાનો ઇનકાર કર્યો હતો.// [// ૨૪-૦૪//]//
+  - **યુહાને શું જવાબ આપ્યું જયારે યહૂદીઓએ તેમણે પૂછ્યું કે તું મસીહ છે કે નહિ?**
+      * તેમણે જણાવ્યું કે તે મસીહ નથી.// [// ૨૪-૦૫//]//
+  - **જયારે યુહાને ઇસુને બાપ્તિસ્મા લેવા આવતા જોયું ત્યારે તેણે ઇસુ માટે કયો શીર્ષકનો ઉપયોગ કર્યો હતો?**
+      * તેમણે કહ્યું, આ દેવનું ઘેટું છે જે પૃથ્વીના પાપોને દૂર કરશે.”// [// ૨૪-૦૬//]//
+  - **યુહાન પાસે બાપ્તિસ્મા લેતા પહેલાં ઈસુને શા માટે પાપોની પસ્તાવો કરવાની જરૂર ન પડી?**
+      * કારણ કે ઈસુએ ક્યારેય પાપ ન કર્યો.// [// ૨૪-૦૭//]//
+  - **શા માટે ઈસુએ યોહાનને પોતાને બાપ્તિસ્મા આપવા કહ્યું?**
+      * યોહાને ઈસુને બાપ્તિસ્મા આપ્યું કારણ કે તેમ કરવું યોગ્ય અને સારું હતું.// [// ૨૪-૦૭//]//
+  - **બાપ્તિસ્મા પછી ઇસુ ઉપર કોણ ઉતર્યા?**
+      * દેવની આત્મા કબૂતરની જેમ તેમના પર ઉતર્યા.// [// ૨૪-૦૮//]//
+  - **બાપ્તિસ્મા લીધા પછી દેવે ઇસુને શું કહ્યું?**
+      * “આ મારો પુત્ર છે અને હું તેને ચાહું છું, અને તેનાથી હું ખૂબજ પ્રસન્ન છું.”//[// ૨૪-૦૮//]//
+  - **દેવે જણાવ્યા પ્રમાણે કોના ઉપર પવિત્ર આત્મા આવશે છે અને આરામ કરશે?**
+      * દેવના પુત્ર ઉપર આવશે.// [// ૨૪-૦૯//]//
+  - **કેટલા દેવતાઓ છે?**
+      * માત્ર એક જ દેવ છે.// [// ૨૪-૧૦//]//
 
-**[[en/obs/notes/questions/23|<<  ]] | [[en/obs/notes/questions/25| >>]]**
+**[[:en:obs:notes:questions:23|<< ]] | [[:en:obs:notes:questions:25| >>]]**
