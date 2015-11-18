@@ -2,32 +2,31 @@
 
 ===== Comprehension Questions and Answers =====
 
-  - **Where did Jesus go after he overcame Satan’s temptations?**
-    *//Jesus went to the region of Galilee where he lived. [26-01]//
-  - **What was the name of the city where Jesus lived as a child?**
-    *//Nazareth. [26-02]//
-  - **Where did Jesus go on the Sabbath?**
-    *//He went to the place of worship. [26-02]//
-  - **Why did the people in the place of worship hand Jesus the scroll of Isaiah?**
-    *//They wanted Jesus to read from it. [26-02]//
-  - **The passage of Scripture that Jesus read referred to what person?**
-    *//The Messiah. [26-04]//
-  - **What did Jesus say about the Scripture that he had just read?**
-    *//He said it was being fulfilled right then. [26-04]//
-  - **How did the people of Jesus' hometown react to his words?**
-    *//They were amazed and asked, “Isn't this the son of Joseph?” [26-04]//
-  - **What examples did Jesus give of God's prophets helping people from other nations?**
-    *//God helped a widow during a drought in Elijah’s time, and he healed Naaman, a commander of Israel’s enemies. [26-05], [26-06]//
-  - **How did the people respond when Jesus told them these stories?**
-    *//They were furious and tried to kill Jesus. [26-06], [26-07]//
-  - **How did Jesus escape from the crowd?**
-    *//Jesus walked through the crowd and left the town. [26-07]//
-  - **How did the crowds in Galilee respond to Jesus?**
-    *//They brought him many who were sick or handicapped so he could heal them. [26-08]//
-  - **Who did the demons acknowledge Jesus to be when he commanded them to come out of people?**
-    *//They said Jesus was the Son of God. [26-09]//
-  - **How many men did Jesus choose to be his apostles?**
-    *//He chose twelve apostles. [26-10]//
+  - **શેતાનની પરીક્ષણો પાર થયાં પછી ઇસુ ક્યાં ગયા હતા?**
+      * ઈસુ જ્યાં રહેતો તે ગાલીલના પ્રદેશમાં ગયા// [// ૨૬-૦૧//]//
+  - **ઈસુ જ્યાં બાળપણમાં રહેતા હતા તે શહેરનું નામ શું હતું?**
+      * નાઝારેથ// [// ૨૬-૦૨//]//
+  - **વિશ્રામવારના દિવસે ઇસુ ક્યાં ગયા?**
+      * તેમણે પ્રાર્થના સ્થળે ગયા હતા.// [// ૨૬-૦૨//]//
+  - **પ્રાર્થના સ્થળના લોકોએ શા માટે ઈસુને યશાયા નો પુસ્તક આપ્યું?**
+      * તેઓ ઈસુને વાંચવા માટે આપ્યું હતું.// [// ૨૬-૦૨//]//
+  - **ઈસુએ જે ભાગમાંથી વાંચ્યું તેમાં કોના વિશે ઉલ્લેખ કર્યું હતું?**
+      * મસીહ.// [// ૨૬-૦૪//]//
+  - **ઈસુએ જે ભાગ વાંચ્યું તેના વિશે શું કહ્યું?**
+      * તેમણે જણાવ્યા કે જે વાંચ્યું છે તે હમણાં થઈ રહ્યું છે.// [// ૨૬-૦૪//]//
+  - **ઈસુના વતનના લોકોએ તેના શબ્દો પર કેવી રીતે પ્રતિક્રિયા આપી?**
+      * તેઓ નવાઇ પામ્યા અને પૂછ્યું, "આ યૂસફનો દીકરો નથી?"// [// ૨૬-૦૪//]//
+  - **ઈસુએ કયા ઉદાહરણો આપ્યા જેમાં દેવના પ્રબોધાકોએ અન્ય દેશનાં લોકોને મદદ કર્યા?**
+      * દેવે એલીયાહ પ્રબોધાકના વડે દુકાળમાં એક વિધવાની મદદ કરી હતી, અને તે નામાંનને સાજો કર્યો, જે ઇઝરાયેલી દુશ્મનના સેનાપતિ હતા.// [// ૨૬-૦૫//], [// ૨૬-૦૬//]//
+  - **ઈસુ તેઓને આ વાર્તા સંભળાવ્યું ત્યારે લોકોએ કેવી રીતે પ્રતિભાવ આપ્યા?**
+      * તેઓ ઘણા ગુસ્સે થયા અને ઈસુને મારી નાખવા પ્રયાસ કર્યો હતો.// [// ૨૬-૦૬//], [// ૨૬-૦૭//]//
+  - **ઈસુએ કેવી રીતે ભીડમાંથી છટકી ગયા?**
+      * ઈસુએ ભીડની વચ્ચેથી નીકળી ગયા અને નગર છોડી દીધા.// [// ૨૬-૦૭//]//
+  - **ગાલીલમાં ભીડ ઈસુને કેવી રીતે પ્રતિભાવ આપ્યા?**
+      * તેઓ બીમાર તથા અશક્ય લોકોને તેમની પાસે લાવ્યા અને તેમણે તેઓને સાજા કર્યા.// [// ૨૬-૦૮//]//
+  - **જયારે ઈસુએ દુષ્ટાત્માઓને લોકોમાંથી બહાર આવવા આજ્ઞા આપી ત્યારે દુષ્ટત્માએ ઇસુ વિશે શું સ્વીકાર્યું?**
+      * તેઓ જણાવ્યા કે ઈસુ દેવનો દીકરો છે.// [// ૨૬-૦૯//]//
+  - **ઈસુએ કેટલા પુરુષોને તેમના પ્રેરિત રીતે પસંદ કર્યા?**
+      * તેમણે બાર પ્રેરિતોને પસંદ કર્યા.// [// ૨૬-૧૦//]//
 
-
-**[[en/obs/notes/questions/25|<< ]] | [[en/obs/notes/questions/27| >>]]**
+**[[:en:obs:notes:questions:25|<< ]] | [[:en:obs:notes:questions:27| >>]]**
