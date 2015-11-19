@@ -3,29 +3,30 @@
 ===== Comprehension Questions and Answers =====
 
   - **ઈસુએ જણાવ્યા પ્રમાણે લાજરસના માંદગીનો અંતિમ પરિણામ શું હતું?**
-      * તે દેવનો મહિમા માટે હતું.// [// ૩૭-૦૧//]//
+      * તે દેવનો મહિમા માટે હતું.// [//  ૩૭-૦૧//]//
   - **લાજરસ માંદો છે એ સાંભળ્યા પછી ઈસુએ શું કર્યું?**
-      * તેમણે પોતે જ્યાં હતા તે જગ્યાએ વધારે બે દિવસ રહ્યા.// [// ૩૭-૦૧//]//
-  - **Why were the disciples concerned when Jesus decided to go to Judea?**
-      * //Because the people there wanted to kill him. [37-02]//
-  - **What did the disciples think Jesus meant when he said that Lazarus had fallen asleep?**
-      * //They thought he was just asleep and would get better. [37-03]//
-  - **What did Jesus plainly tell the disciples about Lazarus?**
-      * //Jesus said that Lazarus had died. [37-03]//
-  - **Why was Jesus glad that he was not there when Lazarus died?**
-      * //Because something would happen that would make the disciples believe in Jesus. [37-03]//
-  - **Did Martha believe that Jesus could have healed Lazarus?**
-      * //Yes. [37-04]//
-  - **What will happen to believers because Jesus is the Resurrection and the Life?**
-      * //Whoever believes in him will live, even though he dies, and everyone who believes in him will never die. [37-05]//
-  - **Who did Martha believe that Jesus was?**
-      * //The Messiah, the Son of God. [37-05]//
-  - **How long had Lazarus been dead?**
-      * //He had been dead for four days. [37-04], [37-07]//
-  - **Why did Jesus thank the Father out loud?**
-      * //He did that so the people would believe that the Father had sent him. [37-09]//
-  - **What did Jesus command Lazarus to do?**
-      * //He commanded Lazarus to come out of the tomb! [37-09]//
-  - **How did the religious leaders of the Jews react when they saw the miracle?**
-      * //They became jealous and planned to kill Jesus and Lazarus. [37-11]//
+      * તેમણે પોતે જ્યાં હતા તે જગ્યાએ વધારે બે દિવસ રહ્યા.// [//  ૩૭-૦૧//]//
+  - **શા મારે શિષ્યોએ ચિંતામાં પડી ગયા જયારે ઈસુ યહૂદિયા જવા માટે તૈયાર થયા?**
+      * કારણ કે ત્યાંના લોકો તેમણે મારી નાખવા માંગતા હતા.// [// ૩૭-૦૨//]//
+  - **જયારે ઈસુએ જણાવ્યું કે લાજરસ ઊંઘી ગયો છે ત્યારે શિષ્યોએ શું વિચારું?**
+      * તેઓ વિચાર્યું કે તે માત્ર ઊંઘે છે અને સાજો થઇ જશે.// [// ૩૭-૦૩//]//
+  - **ઈસુએ સ્પષ્ટ રૂપે તેમના શિષ્યોને લાજરસ વિશ શું જણાવ્યું ?**
+      * ઈસુએ જણાવ્યું કે લાજરસ મૃત્યુ પામેલ છે.// [// ૩૭-૦૩//]//
+  - **ઇસુ શા માટે આ વાતથી પ્રસન્ન હતા કે તેમણે લાજરસની મૃત્યુ સમયે ત્યાં ન હતો?**
+      * કારણ કે ત્યાં કંઇક થશે જેથી શિષ્યો ઇસુ પર વિશ્વાસ કરશે.// [// ૩૭-૦૩//]//
+  - **શું માર્થાએ વિશ્વાસ કરી હતી કે ઇસુ લાજરસને સાજો કરશે?**
+      * હા.// [// ૩૭-૦૪//]//
+  - **ઇસુ પુનરુંત્થાન અને જીવન છે તેથી જે કોઈ એના પર વિશ્વાસ કરશે તેમની સાથે શું થશે?**
+      * જે કોઈ વ્યક્તિ તેના પર વિશ્વાસ કરશે તે મૃત્યુ પામ્યા પછી પણ જીવત રહેશે, અને દરેક વ્યક્તિ જે તેના પર વિશ્વાસ કરશે તેઓ કદી મૃત્યુ પામશે નહિ.// [// ૩૭-૦૫//]//
+  - **માર્થાએ ઈસુને તે કોણ હતા માનતી હતી?**
+      * મસીહ, જે દેવનો પુત્ર છે.// [// ૩૭-૦૫//]//
+  - **લાજરસ મર્યાને કેટલા સમય થઇ ગયા હતા?**
+      * તેમણે મર્યાને ચાર દિવસ થઇ ગયા હતા.// [// ૩૭-૦૪//], [// ૩૭-૦૭//]//
+  - **ઈસુએ શા માટે ઉંચે આવાજથી પિતાનો આભાર માન્યો?**
+      * તેમણે એમ કર્યું જેથી લોકો જાણશે કે પિતાએ તેમણે મોકલી હતી.// [// ૩૭-૦૯//]//
+  - **ઈસુએ લાજરસને શું કરવા આદેશ આપ્યો?**
+      * તેમણે લાજરસને કબરમાંથી બહાર અવવા આદેશ આપ્યો!// [// ૩૭-૦૯//]//
+  - **ઇસુનો ચમત્કાર જોઇને યહુદી ધાર્મિક ગુરોઓની શું પ્રતિક્રિયા હતી?**
+      * તેઓને ઈર્ષ્યા થઇ અને ઇસુ અને લાજરસને મારી નાખવા માટે યોજના કરી.// [// ૩૭-૧૧//]//
+
 **[[:en:obs:notes:questions:36|<< ]] | [[:en:obs:notes:questions:38| >>]]**
