@@ -3,31 +3,33 @@
 ===== Comprehension Questions and Answers =====
 
   - **સ્તેફન કયા પ્રકારનો માણસ હતો?**
-      * તે સારો પ્રતિષ્ઠિત માણસ હતો તથા પવિત્ર આત્મા અને જ્ઞાન થી ભરપુર હતો// [// ૪૫-૦૧//]//
+      * તે સારો પ્રતિષ્ઠિત માણસ હતો તથા પવિત્ર આત્મા અને જ્ઞાન થી ભરપુર હતો// [//  ૪૫-૦૧//]//
   - **અમુક યહુદીઓએ સ્તેફન સામે શું ખોટા તહોમત મુક્?**
-      * તેઓ કહ્યા કે સ્તેફને મૂસા અને દેવની વિરુદ્ધ નિંદા કરી.// [// ૪૫-૦૨//]//
-  - **What did Stephen say the people had done that was worse than their ancestors?**
-      * //They killed the Messiah. [45-03]//
-  - **How did the religious leaders react to Stephen's accusation?**
-      * //They dragged Stephen out of the city and threw stones at him in order to kill him. [45-04]//
-  - **What was the last thing Stephen said before he died?**
-      * //“Master, do not count this sin against them.” [45-05]//
-  - **Who guarded the robes of the people who killed Stephen?**
-      * //Saul. [45-06]//
-  - **What did the believers do when the persecution began in Jerusalem?**
-      * //They fled to other places and preached about Jesus wherever they went. [45-06]//
-  - **Who did Philip meet on the desert road?**
-      * //An important official from Ethiopia. [45-07]//
-  - **What was the Ethiopian official doing as Phillip approached?**
-      * //He was reading what the prophet Isaiah wrote. [45-08]//
-  - **Did the official understand the prophecy that he was reading?**
-      * //No, he needed someone to explain it to him. [45-09]//
-  - **To whom did Philip say the prophesy of the lamb referred?**
-      * //It referred to Jesus. [45-10]//
-  - **After Philip explained the prophecy and then the Ethiopian saw some water, what did he ask?**
-      * //The Ethiopian asked if he could be baptized. [45-11]//
-  - **What happened to Philip after he baptized the Ethiopian official?**
-      * //The Holy Spirit carried Philip away. [45-12]//
-  - **What did the Ethiopian official do after Philip left him?**
-      * //He continued traveling toward his home, happy that he knew Jesus. [45-13]//
+      * તેઓ કહ્યા કે સ્તેફને મૂસા અને દેવની વિરુદ્ધ નિંદા કરી.// [//  ૪૫-૦૨//]//
+  - **સ્તેફને જણાવ્યા મુજબ લોકોએ તેમના પૂર્વજો કરતાં વધુ ખરાબ કામ શું કર્યું?**
+      * તેઓ મસીહ ને મરી નાખ્યા.// [// ૪૫-૦૩//]//
+  - **ધાર્મિક ગુરુઓએ સ્તેફન પર લાગેલા આરોપ પર શું પ્રતિકિયા આપી?**
+      * તેઓ સ્તેફનને શહેરની બહાર લઇ ગયા અને તેને મારી નાખવા માટે તેના પર પથરાવ કરવા શરૂ કર્યા.// [// ૪૫-૦૪//]//
+  - **મરતા પહેલાં છેલ્લી વાર સ્તેફને શું વાત જણાવ્યું?**
+      * "પ્રભુ, આ પાપ માટે તેઓને દોષ દઈશ નહિ."// [// ૪૫-૦૫//]//
+  - **સ્તેફનને મારી નાખેલા લોકોના ઝભ્ભો કોણ સાચવતો હતો?**
+      * શાઉલ.// [// ૪૫-૦૬//]//
+  - **વિશ્વાસીઓએ શું કર્યું જયારે યરૂશાલેમમાં સતાવણી શરૂ થઈ?**
+      * તેઓ સર્વત્ર વિખરાઈ ગયા અને જ્યાં પણ ગયા ત્યાં ઈસુ વિશે ઉપદેશ આપ્યા.// [// ૪૫-૦૬//]//
+  - **ફિલિપે અરણ્યના માર્ગ પર કોણે મળ્યો?**
+      * ઈથિઓપિયાનો એક મહત્વનો અમલદાર// [// ૪૫-૦૭//]//
+  - **જયારે ફિલિપે તેમની નજીક આવ્યો ત્યારે ઇથિઓપિયાનો અમલદાર શું કરી રહ્યો હતો?**
+      * તેમણે યશાયા પ્રબોધકનું પુસ્તક વાંચી રહ્યો હતો.// [// ૪૫-૦૮//]//
+  - **શું અમલદારે પોતે વાંચેલા ભવિષ્યવાણી સમજી શક્યા?**
+      * ના, તેમણે કોઈ સમજાવનાર ની જરૂર હતી.// [// ૪૫-૦૯//]//
+  - **ફિલિપે જણાવ્યા પ્રમાણે ભવિષ્યવાણીમાં ઘેંટા કોણે ઓળખવામાં આવે છે?**
+      * તે ઈસુને ઓળખવામાં આવે છે.// [// ૪૫-૧૦//]//
+  - **ફિલિપે ભવિષ્યવાણી સમજાવ્યા પછી ઇથિઓપિયનો રહેવાસી જયારે પાણી જોયું, ત્યારે તે શું કહ્યું?**
+      * ઇથિઓપિયાનો રહેવાસીએ પૂછ્યું કે તેમણે બાપ્તિસ્મા મળી શકે તો સારું.// [// ૪૫-૧૧//]//
+  - **ઇથિઓપિયાનો રહેવાસીએ બાપ્તિસ્મા લીધા પછી ફિલિપને શું થયું?**
+      * પવિત્ર આત્મા ફિલિપને દૂર લઇ ગયા.// [// ૪૫-૧૨//]//
+  - **ફિલિપ તેને છોડ્યા પછી ઇથિઓપિયાનો અમલદારે શું કર્યું?**
+      * તેમણે ઈસુને જાણીને આનંદિત થયો અને પોતાના ઘર તરફનો પ્રવાસ ચાલુ રાખ્યો
+. // [// ૪૫-૧૩//]//
+
 **[[:en:obs:notes:questions:44|<< ]] | [[:en:obs:notes:questions:46| >>]]**
