@@ -1,27 +1,21 @@
-===== The Gnats and the Flies [10-05] =====
+===== ડંખીલા કિડાઓ (જુઓ) અને માખીઓ [૧૦-૦૫] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-05.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-05.jpg?nolink}}
+એટલે પરમેશ્વરે ડંખીલા કિડાઓ (જુઓ)ની મહામારી મોકલી. ત્યારબાદ તેમણે માખીઓની મહામારી મોકલી. ફેરોને મુસા અને હારુનને બોલાવ્યા અને તેમને કહ્યુ કે તેઓ મહામારી રોકે, તો ઈસ્રાએલીઓ મિસર છોડી શકશે. જ્યારે મુસાએ પ્રાર્થના કરી, પરમેશ્વરે બધી માખીઓને મિસરમાંથી હટાવી દીધી. પરંતુ ફેરોને એના હ્રદયને કઠોર કર્યુ અને લોકોને સ્વતંત્ર જવા દેવા ના પાડી.
 
-So **God sent a plague of gnats**. Then he sent a plague of **flies**. **Pharaoh** called **Moses** and **Aaron** and told them that if they stopped the plague, the **Israelites** could leave Egypt. When Moses prayed, God removed all the flies from **Egypt**. But Pharaoh **hardened his heart** and would not let the people go free.
-===== Important Terms: =====
+===== મહત્વના શબ્દોઃ =====
 
+  * **પરમેશ્વર**
+  * **ફારુન**
+  * **મુસા**
+  * **હારુન**
+  * **ઈઝરાયેલીઓ**
+  * **મિસર**
+==== ભાષાંતર નોંધોઃ ====
 
-  * **[[:gu:obe:kt:god]]**
-  * **[[:gu:obe:other:pharaoh]]**
-  * **[[:gu:obe:other:moses]]**
-  * **[[:gu:obe:other:aaron]]**
-  * **[[:gu:obe:other:israel]]**
-  * **[[:gu:obe:other:egypt]]**
-
-
-==== Translation Notes: ====
-
-
-  * **God sent a plague** – This could be translated as, "God caused there to be a plague" or, "God caused a plague (of gnats) to come over the land of Egypt."
-  * **gnats** - These were tiny, biting insects flying in large swarms, annoying and landing on all the people and animals of Egypt.
-  * **flies** - These were much bigger flying insects that were both annoying and destructive. There were so many of these flies that they covered everything, even filling the Egyptians' houses.
-  * **hardened his heart** - See note in **[[:gu:obs:notes:frames:10-04|[10-04]]]**.
-
-
+  * **પરમેશ્વરે મહામારી મોકલી "આ આવી રીતે ભાષાંતર કરી શકાય છે,**  "પરમેશ્વરે એવુ કર્યુ કે ત્યાં મહામારીને આવી પડી" અથવા, "પરમેશ્વરે એવુ કર્યુ કે (ડંખીલા કિડા(જુઓ)ની) મહામારી મિસર પર ફેલાઈ ગઈ.
+  * **ડંખીલા કિડાઓ (જુઓ) **- આ નાનકડા, ડંખીલા ઉડતા કિડાઓ જે મોટા ટોળામાં, લોકોને ત્રાસ આપનારા અને મિસરના સર્વ લોકો અને પ્રાણીઓ પર ઉતરી આવ્યા.
+  * **માખીઓઃ**  સરખામણીમાં આ મોટી ઉડતી માખીઓ હતી જે પરેશાન કરનાર અને વિનાશકારક પણ હતી. એ વખતે ત્યાં અસંખ્ય પ્રમાણમાં આ માખીઓ સૌની ઉપર છવાઈ ગઈ, ત્યાં સુધી કે મિસ્ત્રીઓના ઘરોમાં પણ ભરાઈ ગઈ.
+  * **તેના હ્રદયને કઠોર કર્યુ**  - જુઓ નોંધ [૧૦-૦૪]માં
 **[[:gu:obs:notes:frames:10-04|<<]] | [[:gu:obs:notes:10|Up]] | [[:gu:obs:notes:frames:10-06|>>]]**
