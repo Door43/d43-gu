@@ -1,22 +1,16 @@
-===== The Water Became Blood [10-03] =====
+===== પાણી લોહિ બની ગયુ [૧૦-૦૩] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-03.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-03.jpg?nolink}}
+પરમેશ્વરે નાઈલ નદીને લોહિમાં બદલી નાંખી, પરંતુ ફારુન ઈઝરાયેલીઓના જતા ન રહેવા બાબતે અડગ હતો.
 
-**God turned the Nile River into blood**, but **Pharaoh** still would not let the **Israelites** go.
-===== Important Terms: =====
+===== મહત્વના શબ્દોઃ =====
 
+  * **પરમેશ્વર**
+  * **નાઈલ નદી**
+  * **ફારુન**
+  * **ઈઝરાયેલીઓ**
+==== ભાષાંતર નોંધોઃ ====
 
-  * **[[:gu:obe:kt:god]]**
-  * **[[:gu:obe:other:nileriver]]**
-  * **[[:gu:obe:other:pharaoh]]**
-  * **[[:gu:obe:other:israel]]**
-
-
-==== Translation Notes: ====
-
-
-  * **turned the Nile River into blood** - Some languages may need to say, "turned the water in the Nile River into blood." Instead of water in the river there was blood, so the fish died and the people had no water to drink.
-
-
+  * **નાઈલ નદીને લોહિ (ની નદી)માં બદલી નાંખી**  - કોઈ કોઈ ભાષાઓ કદાચ એવુ કહેવુ પડે કે, "નાઈલ નદીના પાણીને લોહિમાં બદલી નાંખ્યું." નદીમાં પાણીને બદલે લોહિ હતુ, એટલે માછલાઓ મરી ગયા અને લોકો પાસે પીવા માટે પાણી ન હતુ.
 **[[:gu:obs:notes:frames:10-02|<<]] | [[:gu:obs:notes:10|Up]] | [[:gu:obs:notes:frames:10-04|>>]]**
