@@ -1,24 +1,19 @@
-===== Pharaoh Refused to Listen [10-12] =====
+===== ફારુન સાંભળવા માટે ના પાડી. [૧૦-૧૨] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-12.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-12.jpg?nolink}}
+આ નવ મહામારીઓ છતાં, ફારુન હજુ પણ ઈસ્રાએલીઓને સ્વતંત્ર કરવા નકારી રહ્યો હતો. ફારુન સાંભળતો જ ન હતો, એટલે પરમેશ્વરે છેવટની મહામારીને મોકલવાનો નિશ્ચય કર્યો. આ કદાચ ફારુન ના મનને બદલે.
 
-Even after **these nine plagues**, **Pharaoh** still refused to let the **Israelites** go free. **Since Pharaoh would not listen**, **God** planned to send one last plague. **This would change Pharaoh’s mind**.
-===== Important Terms: =====
+===== મહત્વના શબ્દોઃ =====
 
+  * **ફારુન**
+  * **ઈઝરાયેલીઓ**
+  * **પરમેશ્વર**
+==== ભાષાંતર નોંધોઃ ====
 
-  * **[[:gu:obe:other:pharaoh]]**
-  * **[[:gu:obe:other:israel]]**
-  * **[[:gu:obe:kt:god]]**
-
-
-==== Translation Notes: ====
-
-
-  * **these nine plagues** - This means, "these nine disasters that God had caused."
-  * **Since Pharaoh would not listen** - This could be translated as, "Since Pharaoh would not do what God was telling him to do" or, "Since Pharaoh refused to obey God."
-  * **This would change Pharaoh's mind** - Another way to say this would be, "This last plague would cause Pharaoh to change how he thought about God and as a result he would let the Israelites go free."
-  * //A Bible story from// - These references may be slightly different in some Bible translations.
-
+  * **આ નવ મહામારીઓ**  - એનો અર્થ છે કે, "આ નવ મહામારીઓ જે પરમેશ્વરની ઈચ્છાથી આવી હતી."
+  * **ફારુન સાંભળશે નહિ એટલે**  - આ આવી રીતે ભાષાંતર કરી શકાય, "પરમેશ્વરે ફારુન ને જે કહેતા હતા એને એ નકારતો હતો એટલે" અથવા "પરમેશ્વરે કહેલુ ફારુન નકારતો હતો એટલે."
+  * **આ કદાચ ફારુન ના મનને બદલે**  - બીજી રીતે કહેવાનો અર્થ છે, "આ છેલ્લી મહામારી કદાચ ફારુન પરમેશ્વર વિશે કેવુ ધારે છે એ બદલે અને એના કારણે એ ઈઝરાએલીઓને સ્વતંત્ર કરી જવા દે.
+  * માંથી લીધેલી બાઈબલ વાર્તા - અન્ય બાઈબલ અનુવાદોમાં આ સંદર્ભો કદાચ થોડા અલગ હોય.
 
 **[[:gu:obs:notes:frames:10-11|<<]] | [[:gu:obs:notes:10|Up]] | [[:gu:obs:notes:frames:11-01|>>]]**
