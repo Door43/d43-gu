@@ -1,17 +1,18 @@
-===== ફારુન  હુકમનો અનાદર કરે છે. [૧૦-૦૨] =====
+===== ફારુન હુકમનો અનાદર કરે છે. [૧૦-૦૨] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-02.jpg?nolink&}}
 
-**Pharaoh** kept refusing to let **the people** go, so **God** sent **ten terrible plagues** on **Egypt**. Through these plagues, God showed Pharaoh that he is more powerful than Pharaoh and **all of Egypt's gods**.
-===== Important Terms: =====
+ફારુન લોકોને જવા દેવાનુ નકારતો રહે છે, એટલે પરમેશ્વરે દસ ભયંકર મહામારીઓ મિસર પર મોકલી. આ મહામારીઓને દ્વારા, પરમેશ્વરે ફારુનને દેખાડ્યુ કે તે ફારુન અને મિસરના દરેક દેવતાઓ કરતા કેટલા શક્તિશાળી છે.
 
-  * **[[:gu:obe:other:pharaoh|Pharaoh, King of Egypt]]**
-  * **[[:gu:obe:kt:god|God]]**
-  * **[[:gu:obe:other:egypt|Egypt, Egyptian]]**
-  * **[[:gu:obe:kt:falsegod|false god, god]]**
-==== Translation Notes: ====
+===== મહત્વના શબ્દોઃ =====
 
-  * **the people**  - This refers to the people of Israel, also called, "the Israelites."
-  * **ten terrible plagues**  - A plague is something very bad or terrible that happens to someone or something. A plague usually refers to something that affects many people or happens over a large geographic area. Another word for "plague" would be "disaster."
-  * **all of Egypt's gods**  - It may be more clear to say, "all the gods that the Egyptian people worshiped." The people of Egypt worshiped many different false gods. These false gods were either spirit beings that the God of Israel created, or they did not actually exist.
+  * **ફારુન**
+  * **પરમેશ્વર**
+  * **મિસર**
+  * **દેવતાઓ**
+==== ભાષાંતર નોંધોઃ ====
+
+  * **લોકો**  - આ ઈસ્રાએલના લોકોનો ઉલ્લેખ કરે છે, જેઓ "ઈઝરાયેલી" પણ કહેવાય છે.
+  * **દસ મહાભયંકર મહામારીઓ**  - મહામારી એ કોઈની ઉપર આવી પડતી ખુબજ ખરાબ અથવા ભયંકર પરીણામ અથવા એવુ કંઈક. મહામારી એ મોટે ભાગે માનવસમુહ અથવા વિશાળ ભૌગોલિક ભુભાગ પર મહાવિનાશક અસર લાવનાર પરીબળ છે. "મહામારી" માટે બીજો શબ્દ "સંકટ" વાપરી શકાય.
+  * **મિસરના દરેક દેવતાઓ**  - આમ કહેવુ વધારે સ્પષ્ટ કરશે, "બધા દેવતાઓ જેની મિસરના લોકો આરાધના કરતા હતા." મિસરના લોકો અલગ અલગ જુઠ્ઠાં દેવતાઓની આરાધના કરતા હતા. આ અસત્ય દેવતાઓ એ આત્માઓ હતા જેને ઈસ્રાએલના પરમેશ્વરે રચ્યા હતા, અથવા અસલમાં તે હયાત જ ન હતા.
 **[[:gu:obs:notes:frames:10-01|<<]] | [[:gu:obs:notes:10|Up]] | [[:gu:obs:notes:frames:10-03|>>]]**
