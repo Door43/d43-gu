@@ -1,17 +1,18 @@
-===== Blood on the Door [11-03] =====
+===== દરવાજા પર લોહિ [૧૧-૦૩] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-11-03.jpg?nolink&}}
 
-**God** told the **Israelites** to put some of the **lamb's blood** around the door of their house, and to roast the meat and eat it quickly, along with bread that was **made without yeast**. He also told them to be ready to leave **Egypt when they ate**.
-===== Important Terms: =====
+પરમેશ્વરએ ઈસ્રાએલીઓને કહ્યુ કે તેઓના ઘરના દરવાજાને ફરતે હલવાનના થોડા લોહિને છાંટે, અને એના માંસને આગમાં ભુંજી તરત જ અખમીરી રોટલી સાથે ખાઈ લેવુ. એમણે તેઓને એમ પણ કહ્યુ કે જમી લો એટલે મિસરને છોડી જવા તૈયાર રહો.
 
-  * **[[:gu:obe:kt:god]]**
-  * **[[:gu:obe:other:israel]]**
-  * **[[:gu:obe:kt:lamb]]**
-  * **[[:gu:obe:kt:blood]]**
-  * **[[:gu:obe:other:egypt]]**
-==== Translation Notes: ====
+===== મહત્વના શબ્દોઃ =====
 
-  * **made without yeast**  – Yeast is something that is mixed into bread dough that makes the dough expand and it also makes the bread rise as it bakes. This could be translated as, "made without something that would make it rise." Making the bread with yeast would have taken much longer, so cooking the bread without yeast was a way to be prepared to leave Egypt quickly.
-  * **when they ate**  – This means they needed to be prepared to leave before they started to eat.
+  * **પરમેશ્વર**
+  * **ઈઝરાયેલીઓ**
+  * **હલવાનનુ**
+  * **લોહિ**
+  * **મિસર**
+==== ભાષાંતર નોંધોઃ ====
+
+  * **ખમીર વગર બનાવેલ**  " ખમીર એ રાંધતી વખતે રોટલીને ફુલાવી શકે એ માટે રોટલીના  લોટમાં મેળવાયેલુ હોય છે." આ આવી રીતે ભાષાંતર કરી શકાય છે, "એના વગર બનાવેલ જે એને ફુલાવે છે."રોટલીને ખમીર સાથે બનાવવી એ ઘણો સમય વેડફી નાંખશે, એટલે રોટલીને ખમીર વગર બનાવવાથી મિસરને ઝડપથી છોડી શકાય,
+  * **જ્યારે તેઓએ જમી લીધુ હોય**  “એનો અર્થ એ છે કે જમવાનુ શરુ કરવા પહેલા જ તેઓએ નીકળી જવા માટે તૈયાર રહેવુ.
 **[[:gu:obs:notes:frames:11-02|<<]] | [[:gu:obs:notes:11|Up]] | [[:gu:obs:notes:frames:11-04|>>]]**
