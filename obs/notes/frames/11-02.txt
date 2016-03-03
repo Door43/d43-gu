@@ -1,24 +1,18 @@
-===== The Sacrifice [11-02] =====
+===== બલિદાન[૧૧-૦૨] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-11-02.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-11-02.jpg?nolink}}
+જેઓ પરમેશ્વરને માને છે તેમને પરમેશ્વરે તેઓના પ્રથમ પુત્રને બચાવવાનો એક ઉપાય સુચવ્યો છે. દરેક કુટુંબે એક ખોડ વગરનુ હલવાન લઈને મારવાનું હતું.
 
-**God provided** a way to **save** the firstborn **son** of anyone who **believed** in him. Each family had to choose a **perfect lamb** and kill it.
-===== Important Terms: =====
+===== મહત્વના શબ્દોઃ =====
 
+  * **પરમેશ્વર**
+  * **બચાવવુ**
+  * **પુત્ર**
+  * **વિશ્વાસ કર્યો**
+  * **હલવાન**
+==== ભાષાંતર નોંધોઃ ====
 
-  * **[[:gu:obe:kt:god]]**
-  * **[[:gu:obe:kt:save]]**
-  * **[[:gu:obe:kt:son]]**
-  * **[[:gu:obe:kt:believe]]**
-  * **[[:gu:obe:kt:lamb]]**
-
-
-==== Translation Notes: ====
-
-
-  * **God provided** – God is the only one who could provide the way to save the Israelites' sons from death.
-  * **perfect lamb** - That is, "a young sheep or goat that had no blemishes or defects."
-
-
+  * **પરમેશ્વરે પુરું પાડ્યુ**  "પરમેશ્વર જ એકમાત્ર છે જે ઈઝરાયેલીઓના પુત્રને મૃત્યુથી બચાવવાનો માર્ગ ચિંધવી શકે છે.
+  * **પવિત્ર હલવાન**  - એટલે કે, "એક જવાન ઘેટું અથવા બકરું જેને કોઈ પણ બીમારી કે ખોડ ના હોય."
 **[[:gu:obs:notes:frames:11-01|<<]] | [[:gu:obs:notes:11|Up]] | [[:gu:obs:notes:frames:11-03|>>]]**
