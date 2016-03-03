@@ -2,13 +2,14 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-10.jpg?nolink&}}
 
-So **God** caused **swarms of locusts** to come over **Egypt**. These **locusts** ate all the crops that the **hail** had not destroyed.
-===== Important Terms: =====
+એટલે પરમેશ્વરે એવુ કર્યુ કે તીડાનુ વિશાળ ઝુંડ મિસર ઉપર ફરી વળ્યુ. આ તીડોએ જે કરાંઓએ નાશ ન કર્યુ હતુ એ ખેતરોમાંનુ બધુ જ ખાઈ ગયા અને નાશ કર્યો.
 
-  * **[[:gu:obe:kt:god|God]]**
-  * **[[:gu:obe:other:egypt|Egypt, Egyptian]]**
-==== Translation Notes: ====
+===== મહત્વના શબ્દોઃ =====
 
-  * **swarms of locusts**  - Locusts are grasshoppers that fly together in swarms, or large groups, and that can destroy large areas of all kinds of plants and food crops by eating them.
-  * **hail**  - Hail is like chunks of ice that fall down from the clouds as rain does.
+  * **પરમેશ્વર**
+  * **મિસર**
+==== ભાષાંતર નોંધોઃ ====
+
+  * **તીડોનુ ઝુંડ**  - તીડ એ ઘાસ ખાનારા કિડાઓ છે જે એક ટોળામાં ઉડે છે, અથવા મોટા ઝુંડમાં, અને એ વિશાળ જગ્યામાં પથરાયેલ છોડવાઓ અને અનાજના ખેતરોને ખાઈને બરબાદ કરી નાંખે છે.
+  * **કરાં**  - કરાં એ બરફના ટુકડાઓ હોય છે જે આકાશમાંથી વરસાદની જેમ વરસે છે.
 **[[:gu:obs:notes:frames:10-09|<<]] | [[:gu:obs:notes:10|Up]] | [[:gu:obs:notes:frames:10-11|>>]]**
