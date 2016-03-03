@@ -1,23 +1,17 @@
-===== The Animals Died [10-06] =====
+===== પશુંઓ મ્રુત્યુ પામ્યાં [૧૦-૦૬] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-06.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-06.jpg?nolink}}
+ત્યાર બાદ, પરમેશ્વરને કારણે મિસરીઓના ખેતરમાના પશુંઓ, બિમારીના કારણે મોતને વર્યા. પરંતુ ફારુન નુ હ્રદય સખત હતુ, અને એ ઈસ્રાએલીઓને જવા દેતો ન હતો.
 
-Next, **God** caused all the farm animals that belonged to the **Egyptians** to get sick and die. But **Pharaoh’s heart was hardened**, and he would not let the **Israelites** go.
-===== Important Terms: =====
+===== મહત્વના શબ્દોઃ =====
 
+  * **પરમેશ્વર**
+  * **મિસરીઓ**
+  * **ફારુન**
+  * **ઈઝરાયેલીઓ**
+==== ભાષાંતર નોંધોઃ ====
 
-  * **[[:gu:obe:kt:god]]**
-  * **[[:gu:obe:other:egypt]]**
-  * **[[:gu:obe:other:pharaoh]]**
-  * **[[:gu:obe:other:israel]]**
-
-
-==== Translation Notes: ====
-
-
-  * **farm animals** - This refers to large animals that the Egyptians used to help them in their work, such as horses, donkeys, camels, cattle, sheep, and goats.
-  * **heart was hardened** - See note in **[[:gu:obs:notes:frames:10-04|[10-04]]]**.
-
-
+  * **ખેતીના પશુઓ**  - આ વાક્યાંશ મોટા પશુઓ જે મિસરીઓને તેઓના કામમાં મદદ કરતા, જેવા કે ઘોડા, ગધેડાઓ, ઉંટો, .ગાય-ભેંસો, ઘેંટાઓ અને બકરીઓને દર્શાવે છે.
+  * **હ્રદય કઠોર કર્યુ**  - જુઓ નોધ [૧૦-૦૪]માં.
 **[[:gu:obs:notes:frames:10-05|<<]] | [[:gu:obs:notes:10|Up]] | [[:gu:obs:notes:frames:10-07|>>]]**
