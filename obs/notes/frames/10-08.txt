@@ -1,28 +1,22 @@
-===== The Hail [10-08] =====
+===== કરાં [૧૦-૦૮] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-08.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-08.jpg?nolink}}
+ત્યારબાદ, પરમેશ્વરે કરાં વરસાવ્યાં જેનાથી મિસરના મોટાભાગના ખેતરોનો નાશ થયો અને જેઓ બહાર નીકળ્યા તેઓ માર્યા ગયા. ફારુને મુસા અને હારુનને બોલાવ્યા અને તેઓને કહ્યુ, "મે પાપ કર્યુ છે. તમે જઈ શકો છે." એટલે મુસાએ પ્રાર્થના કરી, અને આકાશમાંથી કરાં પડવાનુ બંધ થઈ ગયુ.
 
-**After that**, **God sent hail** that destroyed most of the crops in **Egypt** and killed anybody who went outside. **Pharaoh** called **Moses** and **Aaron** and told them, “I have **sinned**. **You may go**.” So Moses **prayed**, and the hail stopped falling from the sky.
-===== Important Terms: =====
+===== મહત્વના શબ્દોઃ =====
 
+  * **પરમેશ્વર**
+  * **મિસર**
+  * **ફારુન**
+  * **મુસા**
+  * **હારુન**
+  * **પાપ કર્યુ**
+  * **પ્રાર્થના કરી**
+==== ભાષાંતર નોંધોઃ ====
 
-  * **[[:gu:obe:kt:god]]**
-  * **[[:gu:obe:other:egypt]]**
-  * **[[:gu:obe:other:pharaoh]]**
-  * **[[:gu:obe:other:moses]]**
-  * **[[:gu:obe:other:aaron]]**
-  * **[[:gu:obe:kt:sin]]**
-  * **[[:gu:obe:other:pray]]**
-
-
-==== Translation Notes: ====
-
-
-  * **After that** - This means, after God caused the painful sores to appear on the Egyptians' skin.
-  * **God sent hail** - God caused hail to fall from the sky.
-  * **hail** - Hail is like chunks of ice that fall down from the clouds as rain does. These chunks can be very small or very large. The larger ones will hurt or kill whatever they fall on.
-  * **You may go** - The word "you" refers to Moses, Aaron, and the Israelites.
-
-
+  * **ત્યારબાદ**  - આનો અર્થ, ત્યારબાદ પરમેશ્વરની ઈચ્છાને કારણે દુખદાયક ફોડાઓ મિસરીઓની ચામડી પર ઉપસી.
+  * **પરમેશ્વરે કરાં મોકલ્યા**  - પરમેશ્વરની ઈચ્છાથી આકાશમાંથી કરાં પડવા લાગ્યા.
+  * **કરાં**  - કરાં એટલે બરફના ટુકડા જે વરસાદના જેમ વાદળોમાંથી પડે છે. આ ટુકડાઓ ઘણા નાના અથવા ઘણા મોટા હોઈ શકે મોટા ટુકડાઓ જેના પર પડે એને ઘાયલ કરે અથવા મારી નાંખે છે
+  * **તમે જઈ શકો છો**  - શબ્દ "તમે" એ મુસા, હારુન અને સર્વ ઈસ્રાએલીઓને દર્શાવે છે.
 **[[:gu:obs:notes:frames:10-07|<<]] | [[:gu:obs:notes:10|Up]] | [[:gu:obs:notes:frames:10-09|>>]]**
