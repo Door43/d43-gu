@@ -1,25 +1,19 @@
-===== The Frogs [10-04] =====
+===== દેડકાઓ [૧૦-૦૪] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-04.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-04.jpg?nolink}}
+પરમેશ્વરે આખા મીસર પર દેડકાંઓ મોકલ્યા. ફેરોને મુસા પાસે દેડકાંઓ દુર કરી દેવા માટે વિનંતી કરી. પરંતુ બધા દેડકાંઓ મરી ગયા પછી, ફેરોને પોતાનુ હ્રદય કઠોર કર્યુ અને ઈસ્રાએલીઓને મિસર છોડી જવાની ના પાડી.
 
-**God sent frogs all over Egypt**. **Pharaoh begged Moses** to take away the frogs. But after all the frogs died, Pharaoh **hardened his heart** and would not let the **Israelites** leave Egypt.
 ===== Important Terms: =====
 
-
-  * **[[:gu:obe:kt:god]]**
-  * **[[:gu:obe:other:egypt]]**
-  * **[[:gu:obe:other:pharaoh]]**
-  * **[[:gu:obe:other:beg]]**
-  * **[[:gu:obe:other:moses]]**
-  * **[[:gu:obe:other:israel]]**
-
-
+  * **[[:gu:obe:kt:god|God]]**
+  * **[[:gu:obe:other:egypt|Egypt, Egyptian]]**
+  * **[[:gu:obe:other:pharaoh|Pharaoh, King of Egypt]]**
+  * **[[:gu:obe:other:beg|beg, beggar]]**
+  * **[[:gu:obe:other:moses|Moses]]**
+  * **[[:gu:obe:other:israel|Israel, Israelites, nation of Israel]]**
 ==== Translation Notes: ====
 
-
-  * **God sent frogs all over Egypt** - This could be translated as, "God caused many frogs to appear throughout Egypt."
-  * **hardened his heart** - He became stubborn again and refused to obey God.
-
-
+  * **God sent frogs all over Egypt**  - This could be translated as, "God caused many frogs to appear throughout Egypt."
+  * **hardened his heart**  - He became stubborn again and refused to obey God.
 **[[:gu:obs:notes:frames:10-03|<<]] | [[:gu:obs:notes:10|Up]] | [[:gu:obs:notes:frames:10-05|>>]]**
