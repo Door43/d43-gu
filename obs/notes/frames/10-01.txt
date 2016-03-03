@@ -2,20 +2,21 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-01.jpg?nolink&}}
 
-મુસા અને હારુન ફારુન પાસે ગયા. They said, “This is what the **God of Israel** says, ‘**Let my people go**!’” Pharaoh did not **listen to** them. Instead of letting the **Israelites** go free, he forced them to work even harder!
-===== Important Terms: =====
+મુસા અને હારુન ફારુન પાસે ગયા. તેઓએ કહ્યુ, "ઈસ્રાએલનો પરમેશ્વર કહે છે, ~ મારા લોકોને જવા દે!" ફેરોને તેઓનુ ન સાંભળ્યુ. ઈસ્રાએલીઓને જવા દેવાને બદલે, એણે તેઓને વધુ સખત પરીશ્રમ કરવાનો હુકમ કર્યો!
 
-  * **[[:gu:obe:other:moses|Moses]]**
-  * **[[:gu:obe:other:aaron|Aaron]]**
-  * **[[:gu:obe:other:pharaoh|Pharaoh, King of Egypt]]**
-  * **[[:gu:obe:kt:god|God]]**
-  * **[[:gu:obe:other:israel|Israel, Israelites, nation of Israel]]**
-  * **[[:gu:obe:other:israel|Israel, Israelites, nation of Israel]]**
-==== Translation Notes: ====
+===== મહત્વના શબ્દોઃ =====
 
-  * **to Pharaoh**  – It may be clearer to say, "to Pharaoh's palace to talk to him."
-  * **God of Israel**  - This could be translated as, "God, who chose the Israelites to be his people" or, "God, who rules the people of Israel" or, "the God whom the Israelites worship."
-  * **Let My people go**  – Another way to say this would be, "Allow My people to go free" or, "Free My people to leave Egypt."
-  * **my people**  - See "my people" in **[[:gu:obs:notes:frames:09-13|[09-13]]]**.
-  * **listen to**  – This could be translated as "heed" or, "obey."
+  * **મુસા**
+  * **હારુન**
+  * **ફારુન**
+  * **પરમેશ્વર**
+  * **ઈસ્રાએલ**
+  * **ઈઝરાયેલીઓ**
+==== ભાષાંતર નોંધોઃ ====
+
+  * **ફારુન ને**  "આવી રીતે કહેવુ એકદમ સ્પષ્ટ થશે, "ફારુન ના મહેલમાં તેની જોડે વાતો કરવા માટે."
+  * **ઈસ્રાએલનો પરમેશ્વર**- આ આવી રીતે ભાષાંતર કરી શકાય કે, "પરમેશ્વર, જેણે ઈસ્રાએલીઓને પોતાના લોકો બનવા માટે પસંદ કર્યા." અથવા "પરમેશ્વર, જે ઈસ્રાએલીના લોકો પર રાજ કરે છે" અથવા, "એક પરમેશ્વર જેની ઈસ્રાએલીઓ આરાધના કરે છે."
+  * **મારા લોકોને જવા દે**  "આ બીજી રીતે કહિએ તો, "મારા લોકોને સ્વતંત્ર કરી દે" અથવા, "મારા લોકોને સ્વતંત્ર જવા દે" અથવા " મારા લોકો મિસર છોડીને જતા રહે એ માટે મુક્ત કર."
+  * **મારા લોકો**  - જુઓ "મારા લોકો" [૦૯-૧૩]
+  * **સાંભળ**  "આ આવી રીતે ભાષાંતર કરી શકાય છે "ધ્યાન દઈને સાંભળ" અથવા, "હુકમ નો પાલન કર."
 **[[:gu:obs:notes:frames:09-15|<<]] | [[:gu:obs:notes:10|Up]] | [[:gu:obs:notes:frames:10-02|>>]]**
