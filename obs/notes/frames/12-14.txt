@@ -1,29 +1,22 @@
-===== An Annual Feast [12-14] =====
+===== વાષિક પર્વ [૧૨-૧૪] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-12-14.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-12-14.jpg?nolink}}
+પરમેશ્વરે ઈસ્રાએલીઓને હુકમ કરી રાખ્યો છે કે **પસાર થઈ જવા** ને (પાસ્ખાં પર્વ રુપે) દર વર્ષે ઉજવે જેથી તેઓ યાદ રાખે કે પરમેશ્વરે તેઓને કેવી રીતે મિસરીઓ પર વિજયી બનાવી અને તેઓને ગુલામીમાંથી બચાવ્યા હતા. તેઓએ એક નિર્દોષ હલવાનને (બલિ રુપે) વધ કરી, અખમરી રોટલી સાથે જમીને, અને કેવી રીતે પરમેશ્વરે તેઓને બચાવ્યા હતા એ કહીને (નાચી અને ગાઈને) ઉજવણી કરે.
+===== મહત્વના શબ્દોઃ =====
 
-**God** commanded the **Israelites** to celebrate **the Passover** every year in order to **remember how God gave them victory over** the **Egyptians** and rescued them from being **slaves**. They celebrated by killing a **perfect lamb**, eating it with **bread that was made without yeast**, and telling about how God had **saved** them.
-===== Important Terms: =====
+  * **પરમેશ્વર**
+  * **ઈઝરાયેલીઓ**
+  * **પસાર થઈ જવુ (પાસ્ખાં પર્વ)**
+  * **મિસરીઓ**
+  * **ગુલામો**
+  * **હલવાન**
+==== ભાષાંતર નોંધોઃ ====
 
-
-  * **[[:gu:obe:kt:god]]**
-  * **[[:gu:obe:other:israel]]**
-  * **[[:gu:obe:kt:passover]]**
-  * **[[:gu:obe:other:egypt]]**
-  * **[[:gu:obe:other:servant]]**
-  * **[[:gu:obe:kt:lamb]]**
-
-
-==== Translation Notes: ====
-
-
-  * **the Passover** - This could be translated as, "the Passover activities" or, "the Passover celebration" or, "the Passover meal."
-  * **remember how God gave them victory over** – This could be translated as, "regularly remind themselves of how God defeated." The word "remember" here doesn't just mean to not forget; it also means to formally commemorate something.
-  * **perfect lamb** - The word "perfect" here refers to a lamb with no disease or anything else wrong with it. Another way to say this might be, "a completely healthy and well-formed lamb."
-  * **bread that was made without yeast** - Another way to say this is, "unleavened bread." See how you translated this in **[[:gu:obs:notes:frames:11-03|[11-03]]]**.
-
-  * //A Bible story from// - These references may be slightly different in some Bible translations.
-
+  * **પસાર થવુ (પાસ્ખાં પર્વ)**  - આ આવી રીતે ભાષાંતર કરી શકાય, "પસાર થઈ જવાની વીધી (પાસ્ખાં પર્વની વિધીઓ)", "પસાર થઈ જવાનો ઉત્સવ (પાસ્ખાં પર્વ)" અથવા, "પસાર થઈ જવાનુ ભોજ (પાસ્ખાં પર્વનુ જમણ)."
+  * **યાદ રાખે પરમેશ્વરે તેઓને કેવી રીતે તેઓ પર વિજય અપાવ્યો હતો**  - આ આ આવી રીતે ભાષાંતર કરી શકાય, "પોતાને નિયમીત રીતે યાદ કરાવવાનુ કે કેવી રીતે પરમેશ્વરે  હરાવ્યા." શબ્દ "યાદ રાખો" એ અહિ ફક્ત ન ભુલશો એ જ નથી; (પરંતુ) એ એવુ પણ સમજાવે છે કે નિયમીત રીતે કોઈનુ સન્માન કરવુ એ પણ છે.
+  * નિર્દોષ હલવાન - શબ્દ "નિર્દોષ" અહિ એ દર્શાવે છે કે હલવાન જે બીમાર ના હોય અથવા કોઈ પ્રકારની ખોડ ધરાવતુ હોય. આ કહેવાનો બીજો ઉપાય કદાચ આવો હોય, "સંપુર્ણ રીતે તંદુરસ્ત અને સર્વાંગ-સુંદર હલવાન."
+  * **અખમીરી રોટલી**  - અને બીજી રીતે આમ કહિ શકાય, "રોટલી જે ખમીર વગર બનાવી હોય."
+  * માંથી એક બાઈબલ વાર્તા - આ સંદર્ભ અન્ય બાઈબલ અનુવાદોમાં અલગ હોઈ શકે છે.
 
 **[[:gu:obs:notes:frames:12-13|<<]] | [[:gu:obs:notes:12|Up]] | [[:gu:obs:notes:frames:13-01|>>]]**
