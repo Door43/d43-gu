@@ -1,25 +1,18 @@
-===== Saved by the Blood [11-05] =====
+===== રક્ત દ્વારા બચાવી લીધેલા[૧૧-૦૫] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-11-05.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-11-05.jpg?nolink}}
+દરેક ઈઝરાયેલીઓએ ઘરના દરવાજા ફરતે (હલવાનનુ બલિ કરાયેલુ) લોહિ લગાડ્યુ હતુ, એટલે (ક્રોધીત) પરમેશ્વર (શાંતીથી) એ ઘરો ઉપરથી જતા રહ્યા. એમા રહેલા દરેક જણ બચી ગયા હતા. **T** (પરમેશ્વરને બલી ચડાવેલા) હલવાનના લોહિને કારણે એ લોકો બચી ગયા હતા
+===== મહત્વના શબ્દોઃ =====
 
-All the houses of the **Israelites** had **blood** around the doors, so **God passed over** those houses. Everybody inside them was safe. **They were saved because of the lamb's blood**.
-===== Important Terms: =====
+  * **ઈઝરાયેલીઓ**
+  * **લોહિ**
+  * **પરમેશ્વર**
+  * **બચી ગયેલા**
+  * **હલવાનનુ**
+==== ભાષાંતર નોંધો ====
 
-
-  * **[[:gu:obe:other:israel]]**
-  * **[[:gu:obe:kt:blood]]**
-  * **[[:gu:obe:kt:god]]**
-  * **[[:gu:obe:kt:save]]**
-  * **[[:gu:obe:kt:lamb]]**
-
-
-==== Translation Notes: ====
-
-
-  * **passed over** - This means that God passed by those houses and did not stop to kill anyone there. This phrase became the name of the Jewish festival, "Passover."
-  * **They were saved** - God did not kill their firstborn son.
-  * **because of the lamb's blood** - This could be translated as, "because the lamb's blood was on their door." God saw that they had killed their lamb as he had commanded, so he did not kill their son.
-
-
+  * **ઉપરથી પસાર થઈ જવુ**  – આનો અર્થ એ છે કે પરમેશ્વર એ ઘરો ઉપરથી પસાર થઈ ગયા અને કોઈને મારી નાંખવા માટે ત્યા ન રોકાણાં. આ વાક્યાંશ યહુદીઓમાં તેઓનો તહેવાર “ફસહ પર્વ” અથવા “પાસ્ખાં પર્વ” બની ગયો.
+  * **તેઓ બચાવી લેવાયા**  – પરમેશ્વરે તેઓના પ્રથમ જન્મેલા પુત્રને ન માર્યો.
+  * **હલવાનના લોહિને કારણે**  – આ આવી રીત ભાષાંતર કરી શકાય, “કેમ કે તેઓના ઘરના દરવાજા ઉપર (પરમેશ્વરને બલિ ચડાવેલા) હલવાનનુ લોહિ હતુ.” પરમેશ્વરે એ જોયુ કે તેમણે તેઓને આપેલા આદેશ પ્રમાણે હલવાનને બલિ ચડાવ્યુ હતુ, એટલે પરમેશ્વરે તેઓના પુત્રને ન માર્યા.
 **[[:gu:obs:notes:frames:11-04|<<]] | [[:gu:obs:notes:11|Up]] | [[:gu:obs:notes:frames:11-06|>>]]**
