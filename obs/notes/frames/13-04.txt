@@ -1,28 +1,23 @@
-===== I Am Your God [13-04] =====
+===== હુ તમારો પરમેશ્વર છુ [૧૩-૦૪] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-04.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-04.jpg?nolink}}
+ત્યારબાદ પરમેશ્વરે તેઓને નિયમો આપ્યા અને કહ્યુ, "હુ યહોવા છું, તમારો પરમેશ્વર, જેણે તમને મિસરની ગુલામીમાંથી છોડાવ્યા હતા," બીજા દેવતાઓને ના પુજો.
 
-**Then God gave them the covenant and said**, “I am **Yahweh**, **your God**, **who saved you from slavery** in **Egypt**. Do not **worship** other **gods**.”
-===== Important Terms: =====
+===== મહત્વના શબ્દોઃ =====
 
+  * **દેવ**
+  * **સંધિ**
+  * **યહોવા**
+  * **બચાવ્યા**
+  * **ગુલામી**
+  * **મિસર**
+  * **આરાધના**
+  * **દેવતાઓ**
+==== **ભાષાંતર**** નોંધઃ**  ====
 
-  * **[[:gu:obe:kt:god]]**
-  * **[[:gu:obe:kt:covenant]]**
-  * **[[:gu:obe:kt:yahweh]]**
-  * **[[:gu:obe:kt:save]]**
-  * **[[:gu:obe:other:servant]]**
-  * **[[:gu:obe:other:egypt]]**
-  * **[[:gu:obe:kt:worship]]**
-  * **[[:gu:obe:kt:falsegod]]**
-
-
-==== Translation Notes: ====
-
-
-  * **Then God gave them the covenant and said** - What God says next is the content of the covenant, that is, he tells the people the things that they must obey. This could be translated as, "Then God told them His covenant. He said" or, "Then God made this covenant with them:"
-  * **Yahweh your God** - In some languages it might be more natural to change the order and say "your God Yahweh." Make sure it does not sound like the Israelites had more than one God. It should be clear that Yahweh is the only God. Another way to translate this would be, "Yahweh, who is your God" or, "your God, whose name is Yahweh."
-  * **who saved you from slavery** - This could be translated as, "I freed you from slavery."
-
-
+  * **ત્યારબાદ**** પરશ્વરે તેઓને સંધિ આપ્યો અને કહ્યું**
+ - જે પરમેશ્વર કહે છે હવે એ સંધિનો એક ભાગ છે, એટલે કે, એ લોકોને તે બાબતો વિશે કહે છે જેનુ તેઓએ પાલન કરવું. આ રીતે ભાષાંતર કરી શકાય,  “ત્યારબાદ પરમેશ્વર તેઓને એમનો સંધિ કહ્યો. એમણે કહ્યુ” અથવા, “ત્યારબાદ પરશ્વરે એમની જોડે એમનો સંધિ કર્યો:”
+  * **યહોવા**** તમારો પરમેશ્વર** - કેટલીક ભાષાઓમાં ક્રમ બદલવો અને  “તમારો પરમેશ્વર યહોવા” કહેવુ એ કદાચ  વધુ સ્વાભાવિક લાગે. ખાતરી કરો કે એવું ન લાગે કે ઈસ્રાએલીઓ પાસે એકથી વધુ દેવતાઓ. તે એકદમ સ્પષ્ટ હોવુ જોઈએ કે યહોવા એકમાત્ર જ પરમેશ્વર છે.. આ બીજી ભાષાતંર કરી શકાય તે આ છે, “યહોવા, જે તમારો પરમેશ્વર છે” અથવા, “તમારો પરમેશ્વર, જેનુ નામ યહોવા છે.”
+  * **જેણે**** તમને બચાવ્યા ગુલામીથી** - આ રીતે ભાષાંતર કરી શકાય,  “મે તમને છોડાવ્યા ગુલામીથી.”
 **[[:gu:obs:notes:frames:13-03|<<]] | [[:gu:obs:notes:13|Up]] | [[:gu:obs:notes:frames:13-05|>>]]**
