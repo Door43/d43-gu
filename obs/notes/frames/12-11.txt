@@ -1,25 +1,19 @@
-===== The Egyptians Drowned [12-11] =====
+===== મીસરીઓ ડુબી ગયા [૧૨-૧૧] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-12-11.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-12-11.jpg?nolink}}
+જ્યારે ઈસ્રાએલીઓસુખરુપે સમુદ્રની બીજે પાર જઈ પહોંચ્યા, ત્યારે પરમેશ્વરે મુસાને એના હાથને ફરીથી લંબાવવા કહ્યુ. જ્યારે એણે અમલ કર્યો, પાણી મિસરી સેના પર ઢળી પડ્યુ અને એના સામાન્ય સ્થાન પર પાછુ આવી ગયુ. અને સંપુર્ણ મિસરી સેના ડુબી ગઈ.
 
-After the **Israelites** all **made it safely to the other side** of the sea, **God** told **Moses** to **stretch out his arm again**. When he obeyed, the **water fell on the Egyptian army** and **returned to its normal place**. **The whole Egyptian army** drowned.
-===== Important Terms: =====
+===== મહત્વના શબ્દોઃ =====
 
+  * **ઈઝરાયેલીઓ**
+  * **પરમેશ્વર**
+  * **મુસા**
+  * **મિસરીઓ**
+==== ભાષાંતર નોંધો ====
 
-  * **[[:gu:obe:other:israel]]**
-  * **[[:gu:obe:kt:god]]**
-  * **[[:gu:obe:other:moses]]**
-  * **[[:gu:obe:other:egypt]]**
-
-
-==== Translation Notes: ====
-
-
-  * **made it safely to the other side** – This could be translated as, "walked safely to the other side" or, "arrived safely on the other side" or, "walked to the other side and were safe from the Egyptians and the sea."
-  * **stretch out his arm again** - This could be translated as, "lift his arm over the sea again" or, as a direct command, as in, "God told Moses, 'Stretch out your arm again.'"
-  * **returned to its normal place** - This could be translated as, "covered the place again where the path had been," or "filled the whole sea again" or, "went back to where it was before God separated it."
-  * **The whole Egyptian army** - This could be translated as, "everyone in Egypt's army."
-
-
+  * **સમુદ્રની બીજી તરફ પહોંચી ગયા**  " આ આવી રીતે ભાષાંતર થઈ શકે, "બીજી તરફ સુખરુપે ચાલીને ગયા" અથવા "બીજી તરફ આવી પહોંચ્યા, અને મીસરીઓ અને સમુદ્રથી સુરક્ષિત હતા.
+  * **એના હાથને ફરીથી લંબાવ્યો**  - આ આવી રીતે ભાષાંતર કરી શકાય, "એના હાથને સમુદ્ર ઉપર ફરીથી ઉઠાવ્યો" અથવા, સીધી આજ્ઞા તરીકે, જેમ કે, "પરમેશ્વરે મુસાને કહ્યુ, 'તારા હાથને ફરીથી ઉઠાવ."'
+  * **એના મુળ સ્થાને આવી ગયુ**  - આ આવી રીતે ભાષાંતર કરી શકાય, "જ્યાં રસ્તો હતો એ જગ્યા ઉપર ફરીથી ફરી વળ્યુ." અથવા, "સંપુર્ણ સમુદ્રને ફરીથી પુરી દીધો' અથવા, "પાછુ ફર્યુ જ્યાંથી પરમેશ્વરે એને અલગ કર્યુ હતુ ત્યાં."
+  * **સંપુર્ણ મીસરી સેના**  - આને આવી રીતે ભાષાંતર કરી શકાય, "મિસરી લશ્કરમાંના પ્રત્યેક"
 **[[:gu:obs:notes:frames:12-10|<<]] | [[:gu:obs:notes:12|Up]] | [[:gu:obs:notes:frames:12-12|>>]]**
