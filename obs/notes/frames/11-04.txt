@@ -1,21 +1,15 @@
-===== The Passover Meal [11-04] =====
+===== પાસ્ખાંનુ જમણ[૧૧-૦૪] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-11-04.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-11-04.jpg?nolink}}
+ઈઝરાયેલીઓએ એ બધુ જ કર્યુ જેવુ પરમેશ્વરે તેઓને કરવા કહ્યુ. મધ્યરાત્રીએ, પરમેશ્વર મિસર દેશ ઉપર ફરી વળ્યા અને દરેકના પ્રથમપુત્રને મારી નાંખ્યા.
 
-The **Israelites** did everything just as **God** had commanded them to do. In the middle of the night, God went throughout **Egypt** killing **every firstborn son**.
-===== Important Terms: =====
+===== મહત્વના શબ્દોઃ =====
 
+  * **ઈઝરાયેલીઓ**
+  * **પરમેશ્વર**
+  * **મિસર**
+==== અનુવદ નોધોઃ ====
 
-  * **[[:gu:obe:other:israel]]**
-  * **[[:gu:obe:kt:god]]**
-  * **[[:gu:obe:other:egypt]]**
-
-
-==== Translation Notes: ====
-
-
-  * **every firstborn son** - This means every firstborn son of families who had not made the blood sacrifice, that is, the Egyptians. To make this clear you may want to add, "Every Egyptian firstborn son" (since all the Israelite families had put the blood on their doorposts).
-
-
+  * **સર્વ પ્રથમજન્મેલ પુત્ર**  – એનો અર્થ એ છે કે, એ દરેક કુટુંબ એટલે કે, મિસ્ત્રીઓ, જેમણે (પરમેશ્વરની આજ્ઞા પ્રમાણે) (હલવાનનુ) રક્ત બલિદાન ના કર્યુ હોય, એના પ્રથમજન્મેલ પુત્ર. આ વધુ સ્પષ્ટ કરવા માટે તમને કદાચ આ ઉમેરવુ પડે કે, “દરેક મિ્સરીઓના પ્રથમજન્મેલ પુત્ર” (કેમ કે દરેક ઈઝરાયેલીઓએ એમના ઘરના દરવાજા પર [પરમેશ્વરને બલિ અપાયેલા હલવાનનુ] રક્ત લગાડ્યુ હતુ.)
 **[[:gu:obs:notes:frames:11-03|<<]] | [[:gu:obs:notes:11|Up]] | [[:gu:obs:notes:frames:11-05|>>]]**
