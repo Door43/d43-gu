@@ -1,25 +1,19 @@
-===== The Mountain at Sinai [13-01] =====
+===== સીનાઈ પર્વત[૧૩-૦૧] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-01.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-01.jpg?nolink}}
+ત્યારબાદ પરમેશ્વરે ઈસ્રાએલીઓને લાલ સમુદ્રમાંથી પસાર કરાવી, એમણે તેઓને જંગલમાંથી પસાર કરાવી સીનાઈ પર્વત સુધી દોરવણી કરી. આ એ જ પર્વત છે જ્યાં મુસાએ સળગતી ઝાડી જોઈ હતી. એ પર્વતની તળેટીમાં લોકોએ તેમના તંબુઓ બાંધ્યા.
 
-After **God** led the **Israelites** through the **Red Sea**, he led them through the wilderness to a mountain called **Sinai**. This was the same mountain where **Moses** had seen the **burning bush**. The people **set up their tents** at the **base of the mountain**.
-===== Important Terms: =====
+===== મહત્વના શબ્દોઃ =====
 
+  * **પરમેશ્વર**
+  * **ઈઝરાયેલીઓ**
+  * **લાલ સમુદ્ર**
+  * **સીનાઈ (પર્વત)**
+  * **મુસા**
+==== ભાષાંતર નોંધોઃ ====
 
-  * **[[:gu:obe:kt:god]]**
-  * **[[:gu:obe:other:israel]]**
-  * **[[:gu:obe:other:redsea]]**
-  * **[[:gu:obe:kt:sinai]]**
-  * **[[:gu:obe:other:moses]]**
-
-
-==== Translation Notes: ====
-
-
-  * **burning bush** - Before Moses returned to Egypt, God had spoken to him from a shrub that was on fire, but that was not burned up by the fire. See **[[:gu:obs:notes:frames:09-12|[09-12]]]**.
-  * **set up their tents** - The Israelites had to travel a great distance from Egypt to the Promised Land. So they took tents with them so that they could set them up as shelters and sleep in them along the way. Some languages could translate this as, "hung their tents."
-  * **base of the mountain** – This could be translated as, "bottom of the mountain." This refers to the area of land that is located next to the place where the ground starts to slant upward to form a mountain.
-
-
+  * **સળગતી ઝાડી**  - મિસરમાં મુસાના પાછા ફરતા પહેલા, પરમેશ્વરે એની જોડે વાત કરી હતી એક સળગતી ઝાડીમાંથી જે સળગીને નાશ ન થતી હતી. જુઓ[૦૯-૧૨].
+  * **તેઓના તંબુઓ બાંધ્યા**  - ઈસ્રાએલીઓને મિસરદેશથી પ્રતિજ્ઞાના દેશ સુધી ખાસ્સુ લાંબુ અંતર પ્રવાસ કરવાનો હતો. એટલે તેઓએ તેમના તંબુઓને તેઓની સાથે લીધા જેથી આખા પ્રવાસ દરમ્યાન તેઓ તેને સુરક્ષીત આશ્રય સ્થાન રુપે ઉભા કરી અને એમાં સુઈ શકે.  કોઈ ભાષામાં એ કદાચ આવી રીતે ભાષાંતર થઈ શકે, "તેઓના તંબુઓને ટાંગ્યા."
+  * **પર્વતની તળેટી**  - આ કદાચ આવી રીતે ભાષાંતર થઈ શકે, "પર્વતના તળીયે." આ એ જગ્યાનો નિર્દેશ કરે છે જે એ જ્ગ્યાની અજુબાજુમાં હોય જ્યાથી પર્વત બનાવતુ ચઢાણ શરુ થતુ હોય.
 **[[:gu:obs:notes:frames:12-14|<<]] | [[:gu:obs:notes:13|Up]] | [[:gu:obs:notes:frames:13-02|>>]]**
