@@ -1,25 +1,19 @@
-===== Go Away! [11-08] =====
+===== **દુર જતા રહો****![૧૧-૦૮]**  =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-11-08.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-11-08.jpg?nolink}}
+એ જ રાત્રે, **ફેરોને મુસા અને હારુનને બોલાવ્યા** અને કહ્યુ “**ઈસ્રાએલીઓને** લઈને અબઘડીએ જ **મીસરદેશ** ને છોડો! **મીસરી** લોકો પણ ઈસ્રાએલીઓને અબઘડીએ જ જતા રહેવા વિનવવા લાગ્યા.
+===== **મહત્વના શબ્દોઃ**  =====
 
-That same night, **Pharaoh called for Moses** and **Aaron and said**, “Take the **Israelites** and leave **Egypt** immediately!” The **Egyptian** people also urged the Israelites to leave immediately.
-===== Important Terms: =====
+  * **ફારુન**
+  * **મુસા**
+  * **હારુન**
+  * **ઈઝરાયેલીઓ**
+  * **મીસર દેશ**
+==== **ભાષાંતર નોંધો**  ====
 
-
-  * **[[:gu:obe:other:pharaoh]]**
-  * **[[:gu:obe:other:moses]]**
-  * **[[:gu:obe:other:aaron]]**
-  * **[[:gu:obe:other:israel]]**
-  * **[[:gu:obe:other:egypt]]**
-
-
-==== Translation Notes: ====
-
-
-  * **called for** – This means that Pharaoh told his servants to tell Moses and Aaron to come to him.
-  * **and said** – Pharaoh said the following words to Moses and Aaron after they came to him. In some languages this would be translated as, "and said to them," or, "After they came, Pharaoh said to them."
-  * //A Bible story from// - These references may be slightly different in some Bible translations.
-
+  * **ને માટે બોલાવ્યા**  “અર્થાત ફેરોને તેના સેવકોને કહ્યુ કે મુસા અને હારુનને કહો કે આવીને એને મળે.
+  * **અને કહ્યુ****"**  ફેરોને નીચેના શબ્દો મુસા અને હારુનને તેઓના આવી ગયા ત્યારે કહ્યા. કેટલીક ભાષામાં આ આવી રીતે ભાષાંતર થઈ શકે છે, “અને તેઓને કહ્યુ,” અથવા, “તેઓના આવી ગયા બાદ, ફેરોને તેઓને કહ્યુ.”
+  * ~//માંથી એક બાઈબલ વાર્તા//  – આ સંદર્ભ અન્ય બાઈબલ ભાષાંતરમાં અલગ હોઈ શકે છે.
 
 **[[:gu:obs:notes:frames:11-07|<<]] | [[:gu:obs:notes:11|Up]] | [[:gu:obs:notes:frames:12-01|>>]]**
