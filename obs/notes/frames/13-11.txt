@@ -1,24 +1,17 @@
-===== Make Us an Idol for Us [13-11] =====
+===== **આપણે આપણાં માટે એક મુર્તી બનાવીએ ****[૧૩-૧૧]**  =====
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-11.jpg?nolink&}}
 
+ઘણાં દિવસો સુધી મુસા સિનાઈ પર્વત ઉપર પરમેશ્વર સાથે વાતો કરતો હતો. **પણ લોકો તેની પાછા આવવાની રાહ જોઈને થાકી ગયા**. તેથી તેઓ હારુન પાસે સોનુ લઈને આવ્યાં અને તેને કહ્યું કે તે તેઓ માટે એક મુર્તી બનાવે!
+===== **મહત્વના**** શબ્દોઃ**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-11.jpg?nolink}}
+  * **મુસા**
+  * **પર્વત**** સીનાઈ**
+  * **પરમેશ્વર**
+  * **હારુન**
+  * **મુર્તી**
+==== **ભાષાંતર**** નોંધઃ**  ====
 
-For many days, **Moses** was on top of **Mount Sinai** talking with **God**. **The people became tired of waiting** for him to return. So they **brought gold** to **Aaron** and asked him to make an **idol** for them!
-===== Important Terms: =====
-
-
-  * **[[:gu:obe:other:moses]]**
-  * **[[:gu:obe:other:sinai]]**
-  * **[[:gu:obe:kt:god]]**
-  * **[[:gu:obe:other:aaron]]**
-  * **[[:gu:obe:other:idol]]**
-
-
-==== Translation Notes: ====
-
-
-  * **The people became tired of waiting** - This could be translated as, "The people became impatient because he did not return quickly" or, "The people didn't want to wait any longer for him to return."
-  * **brought gold** - These were objects and jewelry made of gold, which could be melted and formed into other things.
-
-
+  * **લોકો રાહ જોઈને થાકી ગયા**
+ - આ રીતે ભાષાંતર કરી શકાય,  “ તે જલ્દી આવતો ન હતો તેથી લોકો ધિરજ ન રાખી શક્યા" અથવા "લોકો હવે વધારે તેની પાછા આવવાની રાહ જોવા માંગતા ન હતા.”
+  * **સોનુ લાગ્યા** - આ સોનામાંથી બનેલા દાગિના અને વસ્તુઓ હતી જેને ઓગાળીને તેમાંથી બીજી વસ્તુ બનાવવાની હતી.
 **[[:gu:obs:notes:frames:13-10|<<]] | [[:gu:obs:notes:13|Up]] | [[:gu:obs:notes:frames:13-12|>>]]**
