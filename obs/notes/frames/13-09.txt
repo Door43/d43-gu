@@ -1,33 +1,27 @@
-===== The Altar [13-09] =====
+===== **વેદી ****[૧૩-૦૯]**  =====
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-09.jpg?nolink&}}
 
+જે કોઈ પરમેશ્વરની આજ્ઞાઓનુ ઉલ્લંઘન કરતો તે મુલાકાત મંડપની સામેની વેદી પાસે પરમેશ્વરને ચડાવવા સારું એક સારા પશુનુ અર્પણ લઈને આવતા. યાજકે તે પશુને મારવાનુ રહેતુ અને વેદી ઉપર તેને બાળતો. પશુનુ રક્ત જે અર્પણ કરવામાં આવતું તે વ્યક્તિના પાપને ઢાંપી દેતુ અને તે વ્યક્તિને પરમેશ્વરની નજરમાં નિર્દોષ બનાવતો. પરમેશ્વરે મુસાના ભાઈ હારુન અને હારુનના વંશજોને તેના યાજક બનવા માટે પસંદ કર્યા.
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-09.jpg?nolink}}
+===== **મહત્વના**** શબ્દોઃ**  =====
 
-Anyone who **disobeyed God's law** could bring an animal **to the altar in front of the Tent of Meeting** as a **sacrifice** to **God**. A **priest** would kill the animal and burn it on the **altar**. The **blood of the animal that was sacrificed covered the person’s sin** and made that person **clean in God's sight**. God chose **Moses**' brother, **Aaron**, and Aaron's **descendants** to be his priests.
-===== Important Terms: =====
+  * **આજ્ઞાનુ**** ઉલ્લંઘન કરવુ**
+  * **પરમેશ્વરના કાયદાઓ**
+  * **મુલાકાત મંડપ**
+  * **અર્પણ**** આપવુ**
+  * **પરમેશ્વર**
+  * **યાજક**
+  * **વેદી**
+  * **લોહિ**
+  * **પાપ**
+  * **મુસા**
+  * **હારુન**
+  * **વંશજો****s**
+==== **ભાષાંતર**** નોંધઃ**  ====
 
-
-  * **[[:gu:obe:other:disobey]]**
-  * **[[:gu:obe:kt:lawofmoses]]**
-  * **[[:gu:obe:other:tentofmeeting]]**
-  * **[[:gu:obe:other:sacrifice]]**
-  * **[[:gu:obe:kt:god]]**
-  * **[[:gu:obe:kt:priest]]**
-  * **[[:gu:obe:other:altar]]**
-  * **[[:gu:obe:kt:blood]]**
-  * **[[:gu:obe:kt:sin]]**
-  * **[[:gu:obe:other:moses]]**
-  * **[[:gu:obe:other:aaron]]**
-  * **[[:gu:obe:other:descendant]]**
-
-
-==== Translation Notes: ====
-
-
-  * **God's law** - This refers to all the commandments and instructions that God had told the Israelites to obey.
-  * **to the Tent of Meeting** - They did not bring the animal inside the Tent of Meeting, but to the altar in front of the Tent of Meeting. Be sure not to use an expression that means that they brought it inside.
-  * **covered the person's sin** - When people brought animals to sacrifice, God chose to see the blood of the animals as a covering over their sin. This is like hiding something that is ugly or dirty by covering it.
-  * **clean in God's sight** - This could be translated as, "as if he did not have the sin according to God" or, "free of the punishment for breaking God's law."
-
-
+  * **પરમેશ્વરનો કાયદો**
+ - આ પરમેશ્વરે ઈસ્રાએલીઓને પાલન કરવા માટે કહેલી દરેક આજ્ઞાઓ અને સુચનાને દર્શાવે છે.
+  * **મુલાકાત મંડપ પાસે ****-  તેઓ પશુને મુલાકાત મંડપની અંદર ન લઈ જઈ શક્તા હતા, પણ મુલાકાત ** પરંતુ મુલાકાત મંડપની સામે રહેલી વેદી પાસે. ચોક્ક્સ રહો કે તેવા શબ્દોનો પ્રયોગ ના કરો જેનો અર્થ એવો થતો હોય કે તેઓ તેને અંદર લઈ ગયા.
+  * **વ્યક્તિના પાપોને ઢાંકતુ ****- ** જ્યાઅરે લોકો પશુને અર્પણ માટે લઈને આવતા, પરમેશ્વર પશુના રક્તને તેઓના પાપ ઢાંકવા માટે પસંદ કરતા. આ તો એના જેવુ છે કે તે ઢાંકવા દ્વારા જે દુષ્ટ કે ઘ્રુણિત છે એને છુપાવવું.
+  * **પરમેશ્વરની નજરમાં નિર્દોશ** - આ રીતે ભાષાંતર કરી શકાય,  “પરમેશ્વરના અનુસાર તેણે પાપ જ ના કર્યુ હોય તેવુ” અથવા, “પરેમેશ્વરના કાયદો તોડવાથી મળતા દંડથી સ્વતંત્ર.”
 **[[:gu:obs:notes:frames:13-08|<<]] | [[:gu:obs:notes:13|Up]] | [[:gu:obs:notes:frames:13-10|>>]]**
