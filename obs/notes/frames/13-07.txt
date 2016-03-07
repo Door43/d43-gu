@@ -1,30 +1,23 @@
-===== The Stone Tablets [13-07] =====
+===== **શીલા પાટીઓ ****[૧૩-૦૭]**  =====
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-07.jpg?nolink&}}
 
+ત્યારબાદ **પરમેશ્વરે આ દસ આજ્ઞાઓ પથ્થરની બે શિલાઓ પર લખી અને એને મુસાને આપી**. **પરમેશ્વરે બીજી ઘણી આજ્ઞાઓ અને નિયમો પાળવા માટે આપ્યા**. જો લોકો આ કાયદાઓનુ પાલન કરે,તો પરમેશ્વરે તેઓને વચન આપ્યુ કે તે તેઓને આશિર્વાદીત કરશે ને તેઓનુ દરેક રીતે રક્ષણ કરશે. જો તેઓ તેનુ ઉલ્લંઘન કરશે તો તે તેઓને દંડીત કરશે.
+===== **મહત્વના**** શબ્દો**: =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-07.jpg?nolink}}
+  * **પરમેશ્વર**
+  * **દસ આજ્ઞાઓ**
+  * **મુસા**
+  * **કાયદાઓ**
+  * **આજ્ઞાનુ**** પાળવી**
+  * **વચન આપ્યુ**
+  * **આશિર્વાદ આપવુ**
+  * **આજ્ઞાનુ ઉલ્લંઘન કરવુ**
+  * **દંડ કરવો**
+==== **ભાષાંતર**** નોંધઃ**  ====
 
-Then **God** wrote **these Ten Commandments** on two **stone tablets** and gave them to **Moses**. **God also gave** many other laws and rules **to follow**. If the people **obeyed** these laws, God **promised** that he would **bless** and protect them. If they **disobeyed** them, God would **punish them**.
-===== Important Terms: =====
-
-
-  * **[[:gu:obe:kt:god]]**
-  * **[[:gu:obe:other:tencommandments]]**
-  * **[[:gu:obe:other:moses]]**
-  * **[[:gu:obe:kt:lawofmoses]]**
-  * **[[:gu:obe:other:obey]]**
-  * **[[:gu:obe:kt:promise]]**
-  * **[[:gu:obe:kt:bless]]**
-  * **[[:gu:obe:other:disobey]]**
-  * **[[:gu:obe:other:punish]]**
-
-
-==== Translation Notes: ====
-
-
-  * **these Ten Commandments** - This refers to the commands God gave to Moses for the Israelites to obey. They are listed in frames **[[:gu:obs:notes:frames:13-05|[13-05]]]** and **[[:gu:obs:notes:frames:13-06|[13-06]]]**.
-  * **stone tablets** - These were flat pieces of stone.
-  * **God also gave** - This can be translated as, "God also told them."
-  * **to follow** - This can be translated as, "that they must obey" or, "that they must keep."
-
-
+  * **દસ આજ્ઞાઓ**
+ - આ તે આજ્ઞાઓને દર્શાવે છે જે દેવે મુસાને ઈસ્રાએલીઓને પાળવા માટે આપી હતી. તે માળખાંમાં સુચીત છે.**[૧૩-૦૫]**  અને** [૧૩-૦૬]**.
+  * **શિલા પાટીઓ** - આ પથ્થરના સપાટ ટુકડાઓ હતા.
+  * **ઉપરાંત પરમેશ્વરે આપ્યું** - આ રીતે ભાષાંતર કરી શકાય, “ઉપરાંત પરમેશ્વરે તેઓને કહ્યુ.”
+  * **અનુસરવુ** - આ રીતે ભાષાંતર કરી શકાય, “કે તેઓએ અનિવાર્ય પણે આજ્ઞાનુ પાલન કરવું” અથવા, “તેઓએ અનિવાર્ય પણે પળવુ.”
 **[[:gu:obs:notes:frames:13-06|<<]] | [[:gu:obs:notes:13|Up]] | [[:gu:obs:notes:frames:13-08|>>]]**
