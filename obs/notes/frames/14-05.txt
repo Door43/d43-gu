@@ -1,21 +1,14 @@
-===== The Bad Report [14-05] =====
+===== **માઠાં સમાચાર ****[૧૪-૦૫]**  =====
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-14-05.jpg?nolink&}}
 
+બાર પુરુષોએ કનાનમાં ચાળીસ દિવસો સુધી મુસાફરી કરી અને પછી તેઓ પાછા ફર્યા. તેઓએ લોકોને કહ્યું, “દેશ ખુબ જ ફળદ્રુપ છે અને ત્યાં પાક ઘણો છે!” પરંતુ દસ જાસુસોએ કહ્યું, “**શહેર ખુબજ મજબુત છે અને ત્યાના લોકો ખુબ જ કદાવરન છે**!" જો આપણે તેઓ પર આક્રમણ કરવા કરીશુ, તો તેઓ ચોક્કસપણે આપણને હરાવશે અને આપણને મારી નાંખશે!”
+===== **મહત્વના**** શબ્દોઃ**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-14-05.jpg?nolink}}
+  * **કનાન**
+==== **ભાષાંતર**** નોંધઃ**  ====
 
-The twelve men traveled through **Canaan** for forty days and then **they came back**. They told the people, “The land is very fertile and the crops are plentiful!” But ten of the spies said, “**The cities are very strong** and **the people are giants**! If we attack them, they will certainly defeat us and kill us!”
-===== Important Terms: =====
-
-
-  * **[[:gu:obe:other:canaan]]**
-
-
-==== Translation Notes: ====
-
-
-  * **they came back** - They returned to where the rest of the Israelites were waiting, just outside the border of Canaan.
-  * **The cities are very strong** - The cities had strong walls around them, so it would be very difficult for the Israelites to attack them.
-  * **the people are giants** – This could be translated as, "the people are like giants compared to us!" or, "the people are much taller and stronger than we are!"
-
-
+  * **તેઓ પાછા ફર્યા**
+ - તેઓ જ્યાં બાકીના ઈસ્રાએલીઓ રાહ જોતા હતા ત્યાં પાછા ફર્યા, કનાની સિમા પાસે.
+  * **શહેરો ખુબ જ મજબુત છે** - શહેરની આસપાસ મજબુત દિવાલો છે તેથી ઈસ્રાએલીઓ માટે તેઓ ઉપર આક્રમણ કરવા કરવું ખુબ જ અઘરું હતું.
+  * **લોકો ખુબ જ મોટા કદના હતા** “ આ રીતે ભાષાંતર કરી શકાય,  “લોકો આપણી સરખામણીએ કદમાં મોટા છે!” અથવા, “લોકો આપણા કરતા વધારે ઉંચા અને મજબુત છે!”
 **[[:gu:obs:notes:frames:14-04|<<]] | [[:gu:obs:notes:14|Up]] | [[:gu:obs:notes:frames:14-06|>>]]**
