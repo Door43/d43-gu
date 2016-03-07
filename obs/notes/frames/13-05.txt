@@ -5,13 +5,12 @@
 “Do not make **idols** and do not **worship** them, because **I**, **Yahweh**, **am a jealous God**. **Do not use my name in a disrespectful way**. Be sure to keep the **Sabbath day holy**. In other words, do all your work in six days, for the **seventh day** is a day for you to rest and **to remember me**.”
 ===== Important Terms: =====
 
-  * **[[:gu:obe:other:idol]]**
-  * **[[:gu:obe:kt:worship]]**
-  * **[[:gu:obe:kt:yahweh]]**
-  * **[[:gu:obe:kt:god]]**
-  * **[[:gu:obe:kt:sabbath]]**
-  * **[[:gu:obe:kt:holy]]**
-
+  * **[[:gu:obe:other:idol|idol, idolatrous]]**
+  * **[[:gu:obe:kt:worship|worship]]**
+  * **[[:gu:obe:kt:yahweh|Yahweh]]**
+  * **[[:gu:obe:kt:god|God]]**
+  * **[[:gu:obe:kt:sabbath|Sabbath]]**
+  * **[[:gu:obe:kt:holy|holy, holiness]]**
 ==== Translation Notes: ====
 
   * (God continues speaking to Moses.)
