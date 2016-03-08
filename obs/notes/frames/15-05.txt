@@ -1,23 +1,16 @@
 ===== The Walls Fell Down [15-05] =====
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-15-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-15-05.jpg?nolink&}}
 
 Then the walls around **Jericho** fell down! The **Israelites** destroyed everything in the city as **God** had commanded. They only spared **Rahab** and her family, who **became part of** the Israelites. When the other people living in **Canaan** heard that the Israelites had destroyed Jericho, they were terrified that the Israelites would attack them also.
 ===== Important Terms: =====
 
-
-  * **[[:gu:obe:other:jericho]]**
-  * **[[:gu:obe:other:israel]]**
-  * **[[:gu:obe:kt:god]]**
-  * **[[:gu:obe:other:rahab]]**
-  * **[[:gu:obe:other:canaan]]**
-
-
+  * **[[:gu:obe:other:jericho|Jericho]]**
+  * **[[:gu:obe:other:israel|Israel, Israelites, nation of Israel]]**
+  * **[[:gu:obe:kt:god|God]]**
+  * **[[:gu:obe:other:rahab|Rahab]]**
+  * **[[:gu:obe:other:canaan|Canaan, Canaanite]]**
 ==== Translation Notes: ====
 
-
-  * **became part of** - This can be translated as, "who then joined the Israelite community" or, "who then became members of the nation of Israel."
-
-
+  * **became part of**  - This can be translated as, "who then joined the Israelite community" or, "who then became members of the nation of Israel."
 **[[:gu:obs:notes:frames:15-04|<<]] | [[:gu:obs:notes:15|Up]] | [[:gu:obs:notes:frames:15-06|>>]]**
