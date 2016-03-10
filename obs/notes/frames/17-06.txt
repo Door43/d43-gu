@@ -1,26 +1,21 @@
-===== David Wanted to Build a Temple [17-06] =====
+===== **દાઉદ**** એક મંદિર બનાવવા ઈચ્છતો હતો/ઈચ્છતા હતા [૧૭-૦૬]**  =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-17-06.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-17-06.jpg?nolink}}
+**દાઉદ એક મંદિર બનાવવા ઈચ્છતો હતો****/ઈચ્છતા હતા** જ્યાં બધા ઈસ્રાએલીઓ પરમેશ્વરની **આરાધના કરી શકે** અને બલિ **અર્પણ**** કરી શકે**. ૪૦૦ વર્ષો સુધી, લોકો પરમેશ્વરની આરાધના અને એમને બલિઓની અર્પણવિધીઓ મેળપ તંબુ જે મુસાએ બનાવ્યો હતો એમાં કરતા હતાં.
+===== **મહત્વના**** શબ્દો**: =====
 
-**David** wanted to **build a temple** where all the **Israelites** could **worship God** and offer him **sacrifices**. For about 400 years, the people had been worshiping God and offering sacrifices to him at the **Tent of Meeting** that **Moses** had built.
-===== Important Terms: =====
+  * **દાઉદ**
+  * **મંદિર**
+  * **ઈસ્રાએલીઓ**
+  * **આરાધના**
+  * **પરમેશ્વર**
+  * **અર્પણો**
+  * **મિલાપનો મંડપ**
+  * **મુસા**
+==== **ભાષાંતર**** નોંધ**: ====
 
-
-  * **[[:gu:obe:other:david]]**
-  * **[[:gu:obe:kt:temple]]**
-  * **[[:gu:obe:other:israel]]**
-  * **[[:gu:obe:kt:worship]]**
-  * **[[:gu:obe:kt:god]]**
-  * **[[:gu:obe:other:sacrifice]]**
-  * **[[:gu:obe:other:tentofmeeting]]**
-  * **[[:gu:obe:other:moses]]**
-
-
-==== Translation Notes: ====
-
-
-  * **build a temple** - David wanted to construct a permanent building for worshiping God that would replace the portable Tent of Meeting.
-
+  * **એક**** મંદિર બનાવે**
+ - પરમેશ્વરની આરાધના કરવા માટે હરતા ફરતા તંબુને બદલે દાઉદ એક સ્થાઈ સ્થાન બનાવવા ઈચ્છતો હતો.
 
 **[[:gu:obs:notes:frames:17-05|<<]] | [[:gu:obs:notes:17|Up]] | [[:gu:obs:notes:frames:17-07|>>]]**
