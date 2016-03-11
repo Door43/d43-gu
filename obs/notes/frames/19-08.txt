@@ -1,24 +1,18 @@
-===== Baal Did Not Answer [19-08] =====
+===== **બાલે**** જવાબ ન આપ્યો [૧૯-૦૮]**  =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-19-08.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-19-08.jpg?nolink}}
+ત્યારબાદ બાલના પ્રબોધકોએ બાલે **પ્રાર્થના કરી**, “અમને સાંભળ, બાલ!” આખા દિવસ દરમ્યાન તેઓએ પ્રાર્થના કરી અને **બુમો પાડે રાખી** અને પોતાને છરીઓ દ્વારા ઘાયલ કરતા રહ્યાં, પરંતુ **ત્યાં કોઈ**** જવાબ ન આવ્યો**.
+===== **મહત્વના**** શબ્દો**: =====
 
-Then the **prophets** of **Baal prayed to Baal**, “Hear us, Baal!” All day long they prayed and **shouted** and even **cut themselves with knives**, but **there was no answer**.
-===== Important Terms: =====
+  * **પ્રબોધકો**
+  * **બાલ**
+  * **પ્રાર્થના કરી**
+==== **ભાષાંતર**** નોંધ**: ====
 
-
-  * **[[:gu:obe:kt:prophet]]**
-  * **[[:gu:obe:other:baal]]**
-  * **[[:gu:obe:other:pray]]**
-
-
-==== Translation Notes: ====
-
-
-  * **prayed to Baal** - the prophets of Baal asked Baal to send fire onto the bull they prepared as a sacrifice.
-  * **shouted** - They yelled or called out loudly to Baal.
-  * **cut themselves with knives** - They injured themselves with knives as an extreme way to show their devotion to Baal, hoping that this would persuade him to listen to them.
-  * **there was no answer** - There was no response of any kind to their shouting, and no fire came to burn up the sacrifice.
-
-
+  * **બાલને પ્રાર્થના કરી**
+ - બાલના પ્રબોધકો બાલને કહ્યું કે બલિ તરીકે તૈયાર કરેલા બળદ ઉપર આગ વરસાવે.
+  * **બુમો પાડે રાખી** - તેઓએ વિનવતા રહ્યા અથવા ઉંચે અવાજે બાલને બોલાવતા રહ્યા.
+  * **છરી વડે**** તેઓ પોતાને ઘાયલ કરાત રાહ્યાં** - બાલ પ્રત્યે તીવ્ર ભક્તિ દેખાડવાની રીતે તેઓ પોતાને છરી દ્વારા ઘાયલ કરતા રહ્યા, એ આશા સાથે કે આવુ બધુ એને તેઓનું સાંભળવા મજબુર કરે.
+  * **ત્યા કોઈ જવાબ ન આપ્યો** - તેઓના બુમબરાડા ને કોઈપણ પ્રકારનો જબાવ આપનાર ત્યા ન હતુ, અને બલિ ગ્રહણ કરવા ન આગ વરસી.
 **[[:gu:obs:notes:frames:19-07|<<]] | [[:gu:obs:notes:19|Up]] | [[:gu:obs:notes:frames:19-09|>>]]**
