@@ -1,10 +1,10 @@
-====== Complete List of Important Terms - Gujarati ======
+====== Complete List of translationWords - Gujarati ======
 
 ==== "Key Terms" and "Other Terms" in the OBE Directory: ====
 
-  * [[:gu:obe:kt:home]]
-  * [[:gu:obe:other:home]]
+  * [[:gu:obe:kt:home|List of the Key Terms in the OBE Dictory]]
+  * [[:gu:obe:other:home|List of the Other Terms in the OBE Directory]]
 
-==== All Important Terms: ====
+==== All Terms in the OBE: ====
 
 <nspages gu:obe -r -title -exclude:home -textPages="">
