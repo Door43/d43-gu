@@ -4,4 +4,8 @@
 
 આ વિષયને સમજવા માટે, આ વાંચવું લાભદાયક રહેશે:
 
-[[https://door43.org/en/ta/vol1/intro/uw_intro|અન્ફોલ્ડીંગ વર્ડ પ્રોજેક્ટ (યોજના]]
+[[https://door43.org/gu/ta/vol1/intro/uw_intro|અન્ફોલ્ડીંગ વર્ડ પ્રોજેક્ટ]]
+
+[[https://door43.org/gu/ta/vol1/intro/statement_of_faith|વિશ્વાસનું વિધાન]]
+
+[[https://door43.org/gu/ta/vol1/intro/translation_guidelines|અનુવાદ માર્ગદર્શિકા]]
