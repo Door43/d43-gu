@@ -52,6 +52,6 @@
   - [[:gu:obs:50|50. ઈસુ પાછો આવે છે]]
 
   * [[:gu:obs:front-matter|Front Matter]] (સામેની બાબત)
-  * [[:gu:obs:back-matter|Back Matter]]
-  * [[:gu:obs:app_words|Mobile App Words]]
+  * [[:gu:obs:back-matter|Back Matter]] (પાછળની બાબત)
+  * [[:gu:obs:app_words|Mobile App Words]] (મોબાઇલ એપ શબ્દો)
 
