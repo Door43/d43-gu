@@ -1,31 +1,21 @@
-//Translation for the unfoldingWord mobile app interface // 
+==== //મોબાઈલ એપ ઈન્ટરફેસ માટે અનફોલ્ડિંગવર્ડનું અનુવાદ//// //  ====
 
+ભાષા પસંદ કરોઃ ભાષા પસંદ કરો
 
-Select a language: Select a Language
+અધ્યાયોઃ અધ્યાયો
 
+ભાષાઓઃ ભાષાઓ
 
-Chapters: Chapters
+આગળનો અધ્યાયઃ આગળનો અધ્યાય
 
+બરાબર : બરાબર
 
-Languages: Languages
+રદ કરોઃ રદ કરો
 
+અહિ સેવ કરોઃ અહિ સેવ કરો
 
-Next chapter: Next Chapter
+આ પંક્તિ સાચવોઃ ઓફલાઇન વપરાશ માટે સ્થાનિક રીતે આ ભાષા સાચવો.
 
+અહિંથી રદ કરોઃ અહિંથી રદ કરોઃ
 
-OK: OK
-
-
-Cancel: Cancel
-
-
-Save locally: Save Locally
-
-
-Save this string: Save this language locally for offline use.
-
-
-Remove locally: Remove Locally
-
-
-Remove this string: Remove this language from offline storage. You will need an internet connection to view it in the future.
+આ પંક્તિ રદ કરોઃ આ ભાષાને ઓફલાઈન સંગ્રહ માંથી રદ કરો. ભવિષ્યમાં ફરીથી આ જોવા માટે તમારે ઈન્ટરનેટ કનેક્શનની જરૂર પડશે.
