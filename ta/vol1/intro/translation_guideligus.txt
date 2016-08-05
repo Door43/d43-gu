@@ -44,4 +44,4 @@
 
   * //[[:gu:ta:vol1:intro:open_license|મુક્ત પરવાનો (]]// [[https://door43.org/en/ta/vol1/intro/open_license|Open License]][[:gu:ta:vol1:intro:open_license|)]]
   * //[[:gu:ta:vol1:intro:gu:ta:vol1:translate:translate_manual|અનુવાદ મેન્યુઅલ પરિચય (]]// [[https://door43.org/en/ta/vol1/translate/translate_manual|Introduction to Translation Manual]][[:gu:ta:vol1:intro:gu:ta:vol1:translate:translate_manual|)]]
-  * //[[:gu:ta:vol1:intro:gu:ta:vol1:checking:intro_checking|અનુવાદ તપાસણી પરિચય (]]// [[:gu:ta:vol1:intro:gu:ta:vol1:checking:intro_checking|Introduc]]//tion to Translation Checking// //[[:gu:ta:vol1:intro:gu:ta:vol1:checking:intro_checking|)]]//
+  * //////[[:gu:ta:vol1:intro:gu:ta:vol1:checking:intro_checking|અનુવાદ તપાસણી પરિચય (Introduction to Translation Checking)]]//////
