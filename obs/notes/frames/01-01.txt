@@ -1,20 +1,19 @@
-===== The Beginning [01-01] =====
+===== **આરંભ** [01-01] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-01.jpg?nolink&}}
 
-This is how **the beginning** of everything happened. God **created** the **universe** and everything in it in six days. After God created the earth it was **dark** and **empty**, and **nothing had been formed** in it. But **God's Spirit** was there over the water.
-===== Important Terms: =====
+આવી રીતે **આરંભ** માં દરેક વસ્તુ ઉત્પન્ન થઈ. **દેવે** **સૃષ્ટી** **અને** **તેમાની** **દરેક** **વસ્તુ** ની રચના છ દિવસમાં કરી. દેવે પૃથ્વી રચી ત્યારે એ **અંધકાર** થી છવાયેલી અને **ખાલી** હતી, અને એનામાં **કશુ** **પણ** **ન** **રચાયું** હતું. પરંતુ **દેવનો** **આત્મા** એના જળ ઉપર હતો.
+===== **મહત્વના** **શબ્દોઃ**  =====
 
-  * **[[:gu:obe:kt:god]]**
-  * **[[:gu:obe:kt:holyspirit]]**
-==== Translation Notes: ====
+  * **દેવ**
+  * **દેવનો****આત્મા**
+==== **અનુવાદ**  **નોંધોઃ**  ====
 
-  * **the beginning**  - That is, "the beginning of all things," before anything existed except God.
-  * **created**  - This is used here in the sense of making something out of nothing.
-  * **universe**  - This includes everything that God created on the earth and in the heavens, both visible and invisible things.
-  * **earth** - The word "earth" refers to the whole world that people live on.
-  * **dark**  - It was completely dark. There was no light at all, since God had not yet created light.
-  * **empty**  - God had not yet created anything except for the bare earth covered by water.
-  * **nothing had been formed**  - There were no distinguishing features–just water covering everything.
-  * **God's Spirit**  - The Spirit of God, sometimes called the Holy Spirit, was present in the beginning, moving freely over the earth in order to create all that he had planned to do.
+  * **આરંભ**  - એટલે કે, "દરેક વસ્તુઓનો આરંભ," દેવ સિવાય દરેક વસ્તુઓની હયાતી હતી એ પહેલા.
+  * **રચ્યું**/**ઘડ્યું**  - કશું પણ ન હતું એમાંથી રચવામાં આવ્યું હોય એવા ભાવ રૂપે આ અહિં વપરાયું છે.
+  * **સૃષ્ટી**  - આમા એ બધાનો આમાં સમાવેશ થાય છે, જે દ્રશ્ય અને અદ્રશ્ય હોય એવું દરેક જે દેવે પૃથ્વી અને આકાશમાં રચ્યુ હતું.
+  * **અંધારું**  - ત્યારે સંપુર્ણ (કાળુ ડિબાંગ) અંધારુ હતુ. ત્યારે બિલ્કુલ પ્રકાશ જ ન હતો, કેમ કે દેવે ત્યારે પ્રકાશની રચના ન કરી હતી.
+  * **ખાલી**  - દેવે ત્યારે કશું પણ રચ્યું ન હતુ સિવાય પાણીથી ઢંકાયેલી વેરાન ધરતી.
+  * **કશું****પણ****રચવામાં****ન****આવ્યું****હતું**  - ત્યારે કોઈ પણ મહત્વની રચના ન હતી, ફક્ત જળ દરેક વસ્તુ પર છવાયેલું હતું.
+  * **દેવનો****આત્મા**  - દેવનો આત્મા, મોટે ભાગે પવિત્ર આત્મા તરીકે ઓળખાય છે, એ આરંભમાં હયાત હતો, જે એમણે બધુ રચવાની યોજનાને લઈને પૃથ્વી ઉપર અહિં તહિં સ્વતંત્ર રીતે ફરતો હતો.
 **[[:gu:obs:notes:01|Up]] | [[:gu:obs:notes:frames:01-02|>>]]**
