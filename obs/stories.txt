@@ -51,9 +51,7 @@
   - [[:gu:obs:49|49. ઈસુનો નવો કરાર]]
   - [[:gu:obs:50|50. ઈસુ પાછો આવે છે]]
 
-સામેની બાબત ( [[:gu:obs:front-matter|Front Matter]])
-
-પાછળની બાબત ( [[:gu:obs:back-matter|Back Matter]])
-
-મોબાઇલ એપ શબ્દો ( [[:gu:obs:app_words|Mobile App Words]])
+  * સામેની બાબત ( [[:gu:obs:front-matter|Front Matter]])
+  * પાછળની બાબત ( [[:gu:obs:back-matter|Back Matter]])
+  * મોબાઇલ એપ શબ્દો ( [[:gu:obs:app_words|Mobile App Words]])
 
