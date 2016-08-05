@@ -1,17 +1,28 @@
-===== God Created Light [01-02] =====
+===== **દેવે** **પ્રકાશની** **રચના** **કરી** [01-02] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-02.jpg?nolink&}}
 
-Then **God said**, “**Let there be** light!” And there was **light**. God saw that the light **was good** and called it “day.” He separated it from the darkness, which he called “night.” God created the light on the first day of **creation**.
-===== Important Terms: =====
+ત્યારે **દેવે** **કહ્યુ**, "અજવાળું **થાઓ**!" અને ત્યારે **અજવાળું** થયું. દેવે જોયું કે અજવાળું **સારૂં** **છે** અને એને કહ્યું "દિવસ." એમણે એને અંધકારથી અલગ કર્યું, જેને એમણે કહ્યુ, "રાત્રિ." દેવે પ્રથમ દિવસે પ્રકાશનું **નિર્માણ** કર્યું.
+===== **મહત્વના** **શબ્દોઃ**  =====
 
-  * **[[:gu:obe:kt:god]]**
-  * **[[:gu:obe:kt:good]]**
-==== Translation Notes: ====
+  * **દેવ**
+  * **સારૂં**
+==== **અનુવાદ**  **નોંધોઃ**  ====
 
-  * **God said**  - God created light by means of a simple verbal command.
-  * **let there be**  - This is a command that happened immediately because it was spoken by God. It may be more natural to translate this as a statement of certainty that this would definitely happen. For example, you could translate this as, "God said, 'There will be light.'"
-  * **light**  - This was a special light that God created–the sun was not created until later.
-  * **was good**  - This phrase is often repeated through the Creation story, and emphasizes that each stage of creation was pleasing to God and accomplished his plan and purpose.
-  * **creation**  - This word is used here to refer to the six-day period during which God made everything that exists.
+  *
+
+**દેવે****કહ્યું**  - દેવે અજવાળાની રચના ફક્ત સામાન્ય મૌખિક હુકમ દ્વારા કરી હતી.
+  *
+
+**ત્યાં****થઈ****જાઓ**  - આ એ હુકમ છે જે તરત જ અમલ કરે છે કેમ કે એ દેવ દ્વારા ઉચ્ચારાયેલો હતો. આને આવી રીતે અનુવાદ કરવું વધુ સ્વાભાવિક કહેવાશે કે ચોક્કસતાનો આ હુકમ જે  ખરેખર (કહ્યું એ જ) કરશે. ઉદાહરણ તરીકે, તમે એને આવી રીતે અનુવાદ કરી શકો છો, "દેવે કહ્યું, 'ત્યાં અજવાળું થશે."
+  *
+
+**અજવાળુ**  - આ ખાસ અજવાળુ છે જે દેવે રચ્યું છે, "સુર્ય ન રચાયો હતો એ પહેલા.
+  *
+
+**સારૂ****હતું**  - આ વાક્ય રચનાની વાર્તા દરમ્યાન વારંવાર વપરાયો છે, અને ખાસ જોર આપે છે કે રચનાના દરેક પગથીયા દેવને આનંદદાયક અને એમની યોજના અને ઈચ્છાને પુરી કરનાર હતા.
+  *
+
+**રચના**  - આ શબ્દ અહિં છ દિવસનો સમયકાળ જે દેવે અત્યારે હયાત છે એ દરેક વસ્તુની રચના કરી એ માટે વપરાયો છે
+
 **[[:gu:obs:notes:frames:01-01|<<]] | [[:gu:obs:notes:01|Up]] | [[:gu:obs:notes:frames:01-03|>>]]**
