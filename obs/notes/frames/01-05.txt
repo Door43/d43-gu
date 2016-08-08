@@ -1,26 +1,21 @@
-===== God Created the Plants [01-05] =====
+===== **દેવે** **વનસ્પતિની** **રચના** **કરી** [01-05] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-05.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-05.jpg?nolink}}
+ત્યારબાદ **દેવે** **કહ્યું**, "**પૃથ્વી** **દરેક** **પ્રકારના** વૃક્ષો અને છોડવાઓ **પેદા** **કરો****.**"
 
-Then **God said**, “**Let the earth produce all kinds** of trees and plants.” And that is what happened. God saw that what he had **created was good**. 
+અને ત્યારે એ બધું પેદા થઈ ગયું.
 
+દેવે ધ્યાન રાખ્યું કે એમણે જે **રચ્યું** **હતુ** **એ** **સારૂ** **હતું****.**
+===== **મહત્વના** **શબ્દોઃ**  =====
 
-===== Important Terms: =====
+  * **દેવ**
+  * **સારૂં**
+==== **અનુવાદ**  **નોંધોઃ**  ====
 
-
-  * **[[:gu:obe:kt:god]]**
-  * **[[:gu:obe:kt:good]]**
-
-
-==== Translation Notes: ====
-
-
-  * **God said** - God created all vegetation by speaking a command.
-  * **let the earth produce** - This is a command that happened immediately because God spoke it.
-  * **all kinds** - The many different species, or types, of plants and trees.
-  * **created** - This word is used here in the sense of making something out of nothing.
-  * **was good** - This phrase is often repeated through the Creation story, and emphasizes that each stage of creation was pleasing to God and accomplished his plan and purpose.
-
-
+  * **દેવે****કહ્યું**  - દેવે દરેક વનસ્પતિની રચના હુકમ બોલીને કરી.
+  * **ધરતી****પેદા****કરો**  - આ એ હુકમ છે જે તરત જ અમલમાં મુકાઈ ગયો કેમ કે દેવે ઉચ્ચાર્યો હતો.
+  * **દરેક****પ્રકારના**  - અસંખ્ય જાતિના, અથવા પ્રકારના, છોડવાઓ અથવા વૃક્ષો.
+  * **રચના****કરી**  - અહિં આ શબ્દ શુન્યમાંથી કશુંક રચવા અર્થે વપરાયો છે.
+  * **સારૂ****હતું**  - આ વાક્ય રચનાની વાર્તા દરમ્યાન વારંવાર વપરાયો છે, અને ખાસ જોર આપે છે કે રચનાના દરેક પગથીયા દેવને આનંદદાયક અને એમની યોજના અને ઈચ્છાને પુરી કરનાર હતા.
 **[[:gu:obs:notes:frames:01-04|<<]] | [[:gu:obs:notes:01|Up]] | [[:gu:obs:notes:frames:01-06|>>]]**
