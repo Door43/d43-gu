@@ -1,24 +1,16 @@
-===== Adam Was Alone [01-12] =====
+===== **આદમ** **એકલો** **હતો** [01-12] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-12.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-12.jpg?nolink}}
+ત્યારે **દેવે** કહ્યું, “આદમે **એકલા** રહેવું એ **સારું** **નથી**” પરંતુ કોઈપણ પ્રાણી **આદમને** **મદદરૂપ** ન બની શક્યું.
+===== **મહત્વના** **શબ્દોઃ**  =====
 
-Then **God** said, “It is **not good** for man to be **alone**.” But none of the animals could be **Adam's helper**. 
+  * **દેવ**
+  * **સારૂ**
+  * **આદમનું**
+==== **અનુવાદ**  **નોંધોઃ**  ====
 
-===== Important Terms: =====
-
-
-  * **[[:gu:obe:kt:god]]**
-  * **[[:gu:obe:kt:good]]**
-  * **[[:gu:obe:other:adam]]**
-
-
-==== Translation Notes: ====
-
-
-  * **not good** - This is the first time that anything in creation was not good. It means it was, "not yet good" because God was not finished with the creation of humans.
-  * **alone** - Adam was the only human, with no possibility of a relationship with another person, and unable to reproduce children and multiply.
-  * **Adam's helper** - There was no one who was similar enough to Adam to join with him to accomplish the task that God gave to him. None of the animals could do this.
-
-
+  * **સારુ****નથી**  – રચનાની દરેક પ્રક્રિયામાં આ પહેલી વખત છે જે સારૂ ન હતું. એનો અર્થ એ છે કે “હજુ સારુ નથી” કેમ કે દેવે આદમોની રચના પ્રક્રિયા પુરી નથી કરી.
+  * **એકલો**  – આદમ તો ફક્ત મનુષ્ય હતો, બીજા અન્ય વ્યક્તિ જોડે કોઈ સગાપણાની કોઈ શક્યતા જ ન હતી, અને બાળકો પેદા કરીને સંખ્યામાં દ્વિગુણીત થાય એ અશક્ય હતું
+  * **આદમનો****મદદગાર**  – ત્યારે ત્યાં અન્ય કોઈ જ ન હતુ જે આદમ સમાન હોય જેથી દેવે સોંપેલું કાર્ય પુરૂ કરી શકે. કોઈ પણ પ્રાણી એ કરી શકવા અસમર્થ હતું.
 **[[:gu:obs:notes:frames:01-11|<<]] | [[:gu:obs:notes:01|Up]] | [[:gu:obs:notes:frames:01-13|>>]]**
