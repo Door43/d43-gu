@@ -1,31 +1,23 @@
-===== Two Trees [01-11] =====
+===== **બે** **વૃક્ષો** [01-11] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-11.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-11.jpg?nolink}}
+**બગીચાના** **મધ્યમાં**, **દેવે** **બે** **ખાસ** **વૃક્ષો** – **જીવનનું** **વૃક્ષ** **અને** **સારા** **અને** **ભુંડાનું** **જ્ઞાન** **આપતા** **વૃક્ષની** **રોપણી** **કરી** **હતી**. દેવે આદમને આજ્ઞા આપી કે એ ફક્ત સારા-ભુંડાનું જ્ઞાન આપતા વૃક્ષને છોડીને બગીચાના કોઈ પણ વૃક્ષમાંથી ફળ ખાઈ શકે છે. જો એ પ્રતિબંધિત વૃક્ષનું ફળ ખાશે, તો એ **મરણ** પામશે.
+===== **મહત્વના** **શબ્દોઃ**  =====
 
-**In the middle** of the **garden**, God planted two special trees—the **tree of life** and the **tree of the knowledge of good and evil**. God told Adam that he could eat from any tree in the garden except from the tree of the knowledge of good and evil. If he ate from this tree, he would **die**. 
+  * **દેવ**
+  * **જીવન**
+  * **સારૂ**
+  * **ભુંડુ**
+  * **આદમ**
+  * **મરણ****પામીશ**
+==== **અનુવાદ**  **નોંધોઃ**  ====
 
-===== Important Terms: =====
-
-
-  * **[[:gu:obe:kt:god]]**
-  * **[[:gu:obe:kt:life]]**
-  * **[[:gu:obe:kt:good]]**
-  * **[[:gu:obe:kt:evil]]**
-  * **[[:gu:obe:other:adam]]**
-  * **[[:gu:obe:kt:death]]**
-
-
-==== Translation Notes: ====
-
-
-  * **in the middle** - The central location emphasizes the importance of the two trees.
-  * **garden** - An area of land planted with trees and plants for a purpose–usually to produce food or to provide beauty.
-  * **tree of life** - Anyone who ate fruit from this tree would never die.
-  * **tree of knowledge of good and evil** - The fruit of this tree could enable a person to know both good and evil.
-  * **knowledge** - To know or understand by personal experience.
-  * **good and evil** - Evil is the opposite of good. Just as "good" refers to what is pleasing to God, "evil" refers to everything that is not pleasing to God.
-  * **die** - In this instance, he would die both physically and spiritually.
-
-
+  * **ની મધ્યે**  – મધ્ય ભાગ જે બે વૃક્ષોના મહત્વને ખાસ રીતે દર્શાવે છે.
+  * **બગીચો**  – જમીનનો હિસ્સો જેમાં વૃક્ષો અને ઝાડવાઓ ખોરાક અથવા સુંદરતા પુરી પાડવાના મુખ્ય કારણે ઉગાડવામાં આવ્યા હોય.
+  * **જીવનનું****વૃક્ષ**  – જે કોઈપણ આ વૃક્ષનું ફળ ખાશે એ કદી પણ મરણ નહિ પામે.
+  * **સારા****અને****ભુંડાનુ****જ્ઞાન****આપતું****વૃક્ષ**  – આ વૃક્ષનું ફળ કોઈપણ વ્યક્તિને બન્ને, સારું અને ભુંડું સમજવાની શક્તિ પ્રદાન કરે છે.
+  * **જ્ઞાન**  – વ્યક્તિગત અનુભવને જાણવું અથવા સમજવું.
+  * **સારું****અને****ભુંડુ**  – ભુંડુ એ સારાપણાની વિરુધ્ધ છે. જેવી રીતે “સારું” એ દેવને આનંદદાયક હોય એને દર્શાવે છે, એવી રીતે “ભુંડુ” એ દેવને નાપસંદ હોય એવી દરેક વસ્તુને દર્શાવે છે.
+  * **મરણ****પામીશ**  – આ ઉદાહરણમાં, એ બન્ને રીતે, ભૌતિક અને આત્મિક રીતે મરણ પામશે.
 **[[:gu:obs:notes:frames:01-10|<<]] | [[:gu:obs:notes:01|Up]] | [[:gu:obs:notes:frames:01-12|>>]]**
