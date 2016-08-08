@@ -1,27 +1,19 @@
-===== God Created the Birds and Fish [01-07] =====
+===== **દેવે** **પક્ષીઓ** **અને** **માછલાઓની** **રચના** **કરી** [01-07] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-07.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-07.jpg?nolink}}
+**પાંચમા** **દિવસે**, **દેવે** **ઉચ્ચાર્યું** અને **જે** **પાણીમાં** **તરે** **છે** એ અને **દરેક** **પક્ષીઓ** એ દરેકની રચના કરી. દેવ ધ્યાન રાખ્યું કે **એ** **સારું** **હતુ**, અને એમણે એને **આશિર્વાદ** **આપ્યાં**.
+===== **મહત્વના** **શબ્દોઃ**  =====
 
-On **the fifth day**, **God spoke** and **made everything that swims** in the water and **all the birds**. God saw that **it was good**, and he **blessed them**. 
+  * **દેવ**
+  * **સારૂં**
+  * **અશીષિત, ધન્ય​**
+==== **અનુવાદ**  **નોંધોઃ**  ====
 
-===== Important Terms: =====
-
-
-  * **[[:gu:obe:kt:god]]**
-  * **[[:gu:obe:kt:good]]**
-  * **[[:gu:obe:kt:bless]]**
-
-
-==== Translation Notes: ====
-
-
-  * **the fifth day** - God continues his orderly progression of creation that he started during the previous four days.
-  * **God spoke** - God created the birds and water creatures by speaking a command.
-  * **everything that swims** - God not only made fish, but every kind of living thing that lives in the waters. Every one exists because God chose to create it.
-  * **all the birds** - God did not make just one kind of bird, but all of the amazing variety of shapes, sizes, colors, and kinds of birds.
-  * **it was good** - This phrase is repeated throughout creation to show that every step went exactly according to God's wise plan and purpose.
-  * **blessed them** - God speaks his desire that they would prosper and that things would go well for them in the world in which he had placed them.
-
-
+  * **પાંચમો****દિવસ**  - દેવ એમની શિસ્તમય રચનાની સાંકળ જે એમણે પાછલા ચાર દિવસથી શરૂ કરી હતી એને ચાલુ રાખે છે.
+  * **દેવ****બોલ્યા**  - દેવે પક્ષી અને જળના જીવોની રચના ઉચ્ચારેલા હુકમ દ્વારા કરી હતી.
+  * **દરેક****જે****તરે****છે**  - દેવે ફક્ત માછલાઓ જ નહિ, પરંતુ દરેક પ્રકારની જીવિત વસ્તુ જે જળમાં જીવે છે એની રચના કરી હતી. દરેક હયાત છે કેમ કે દેવે એની રચના કરવાનું પસંદ કર્યું હતું.
+  * **દરેક****પક્ષીઓ**  - દેવે ફક્ત એક જ પ્રકારના પક્ષીની રચના ન કરી હતી, પરંતુ દરેક પ્રકારના અદભુત આકારના, રંગના અને જાતિના પક્ષીઓ.
+  * **એ****સારૂ****હતું**  - આ વાક્ય આખી રચનાની પ્રક્રિયા દરમ્યાન, દરેક પગથિયું દેવની યોજના અને હેતુ મુજબ થઈ રહ્યુ હતું એ દર્શાવવા વારંવાર વપરાયો છે
+  * **એમને****આશિષ****આપ્યા**  - દેવ એમની ઈચ્છા બોલી રહ્યા છે કે જે જગતમાં તેઓને મુક્યાં છે એમા તેઓ સમૃધ્ધ બને અને દરેક વસ્તુઓ તેઓ માટે  સારી બની રહે.
 **[[:gu:obs:notes:frames:01-06|<<]] | [[:gu:obs:notes:01|Up]] | [[:gu:obs:notes:frames:01-08|>>]]**
