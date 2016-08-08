@@ -1,21 +1,16 @@
-===== God Created the Land [01-04] =====
+===== **દેવે** **ધરતીની** **રચના** **કરી** [01-04] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-04.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-04.jpg?nolink}}
+**ત્રીજે** **દિવસે**, **દેવ** **બોલ્યા** અને જળને સુકી ધરતીથી અલગ કર્યું. એમણે સુકી **ધરતી** ને "પૃથ્વી" કહિ અને એમણે જળને "સમુદ્રો" કહ્યાં. દેવે એ ધ્યાન રાખ્યું કે એમણે જે **રચ્યું** એ **સારૂં** છે.
+===== **મહત્વના** **શબ્દોઃ**  =====
 
-On the **third day**, **God spoke** and separated the water from the dry land. He called the dry land “**earth**,” and he called the water “seas.” God saw that what he had **created** was **good**. 
+  * **દેવ**
+  * **સારૂં**
+==== **અનુવાદ**  **નોંધોઃ**  ====
 
-===== Important Terms: =====
-
-
-  * **[[:gu:obe:kt:god]]**
-  * **[[:gu:obe:kt:good]]**
-
-
-==== Translation Notes: ====
-
-  * **third day**  - The next in the series of orderly days in which God prepared the earth for life.
-  * **God spoke**  - God created the dry land by speaking a command.
-  * **earth**  - This word is used here to refer to dirt or soil, which is what dry land is made of.
-  * **created**  - This word is used here in the sense of making something out of nothing.
+  * **ત્રીજો****દિવસ**  - શિસ્તબધ્ધ દિવસોમાંના આગલા દિવસે જેમાં દેવે જીવન જીવવા લાયક ધરતીની રચના કરી.
+  * **દેવ****બોલ્યા**  - દેવે હુકમ ઉચ્ચારીને સુકી ધરતીની રચના કરી.
+  * **પૃથ્વી**  - આ શબ્દ ધુળ અથવા માટી, જેનાથી આ સુકી ધરતી રચવામાં આવી છે એનો ઉલ્લેખ કરવા માટે વપરાયો છે. "પૃથ્વી" શબ્દ એ સંપુર્ણ જગત જેમાં મનુષ્યો જીવે છે એનો ઉલ્લેખ કરાયો છે.
+  * **રચના****કરી**  - અહિં આ શબ્દ, શુન્યમાંથી જે રચાયુ એનો ઉલ્લેખ કરે છે.
 **[[:gu:obs:notes:frames:01-03|<<]] | [[:gu:obs:notes:01|Up]] | [[:gu:obs:notes:frames:01-05|>>]]**
