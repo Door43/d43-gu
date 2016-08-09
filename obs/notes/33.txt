@@ -1,45 +1,40 @@
-====== 33. The Story of the Farmer ======
+====== 33. ખેડૂતની વાર્તા ======
 
+===== ઝાંખી: =====
 
-===== Overview: =====
+જેમ લોકોનું ટોળું ઈસુ પાસે આવ્યું, તેણે એક ખેડૂતની વાર્તા કહી જે તેના બી વાવે છે. કેટલાંક બી ખરાબ ભૂમિ પર પડ્યા અને ઉગ્યા નહિ. બીજા બી સારી ભૂમિ પર પડ્યા અને સારો પાક થયો. તેવી જ રીતે, દેવ ના વચન તેને સંભાળનારા લોકોના જીવનમાં અલગ અલગ પરિણામ ઉત્પન્ન લારે છે. કેટલાંક લોકો વિશ્વાસ નથી કરતા કે ફાળો ઉત્પન્ન નથી કરતા. બીજા લોકો તેજ વચનને સંભાળે છે અને વિશ્વાસ કરે છે. આ લોકો ઘણા આત્મિક ફળો ઉત્પન્ન કરે છે.
 
+====== વાર્તાનું ભાષાંતર ======
 
-As crowds of people came to Jesus, he told a story about a farmer who spread his seeds. Some seeds fell on poor ground and did not grow. Other seeds fell on good ground and produced a harvest. In the same way, the word of God produces different results in the people who hear it. Some people do not believe or produce fruit. Other people hear the same words and believe them. These people produce much spiritual fruit.
+વાર્તાની દરેક ફ્રેમનું ભાષાંતર કરવા નીચે આપેલી આકૃતિ ઉપર ક્લિક કરો.
 
+[[:gu:obs:notes:frames:33-01|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-01.jpg?nolink&200}}]]\\
+ઈસુએ ટોળાને શીખવ્યું [33-01]
 
-====== Translate the Story ======
+[[:gu:obs:notes:frames:33-02|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-02.jpg?nolink&200}}]]\\
+રસ્તા પરના બી [33-02]
 
+[[:gu:obs:notes:frames:33-03|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-03.jpg?nolink&200}}]]\\
+ખડકો પરના બી [33-03]
 
-Click on the links below to translate each frame of the story.
+[[:gu:obs:notes:frames:33-04|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-04.jpg?nolink&200}}]]\\
+કાંટાઓ પરના બી [33-04]
 
-[[:gu:obs:notes:frames:33-01|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-01.jpg?nolink&200}}]]\\ 
-Jesus Taught the Crowds [33-01]
+[[:gu:obs:notes:frames:33-05|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-05.jpg?nolink&200}}]]\\
+સારી ભૂમિ પરના બી [33-05]
 
-[[:gu:obs:notes:frames:33-02|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-02.jpg?nolink&200}}]]\\ 
-The Seed on the Path [33-02]
+[[:gu:obs:notes:frames:33-06|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-06.jpg?nolink&200}}]]\\
+બી એ દેવ નું વચન છે [33-06]
 
-[[:gu:obs:notes:frames:33-03|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-03.jpg?nolink&200}}]]\\ 
-The Seed on the Rocks [33-03]
+[[:gu:obs:notes:frames:33-07|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-07.jpg?nolink&200}}]]\\
+સતાવ અને વિપત્તિ [33-07]
 
-[[:gu:obs:notes:frames:33-04|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-04.jpg?nolink&200}}]]\\ 
-The Seed in the Thorns [33-04]
+[[:gu:obs:notes:frames:33-08|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-08.jpg?nolink&200}}]]\\
+ધનવાન બનવાની ઈચ્છા [33-08]
 
-[[:gu:obs:notes:frames:33-05|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-05.jpg?nolink&200}}]]\\ 
-The Seed in Good Soil [33-05]
+[[:gu:obs:notes:frames:33-09|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-09.jpg?nolink&200}}]]\\
+આત્મિક ફળ [33-09]
 
-[[:gu:obs:notes:frames:33-06|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-06.jpg?nolink&200}}]]\\ 
-The Seed Is the Word [33-06]
+//બાઇબલની એક વાર્તા : // માથ્થી ૧૩:૧-૮, ૧૮-૨૩; માર્ક ૪:૧-૮, ૧૩-૨૦; લૂક ૮:૪-૧૫
 
-[[:gu:obs:notes:frames:33-07|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-07.jpg?nolink&200}}]]\\ 
-Persecution and Hardship [33-07]
-
-[[:gu:obs:notes:frames:33-08|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-08.jpg?nolink&200}}]]\\ 
-The Desire for Riches [33-08]
-
-[[:gu:obs:notes:frames:33-09|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-09.jpg?nolink&200}}]]\\ 
-Spiritual Fruit [33-09]
-
-//A Bible story from: Matthew 13:1-8, 18-23; Mark 4:1-8, 13-20; Luke 8:4-15// 
-
-
-**[[:gu:obs:notes:32|<< Previous]] | [[:gu:obs:notes:34|Next >>]]** 
+**[[:gu:obs:notes:32|<< Previous]] | [[:gu:obs:notes:34|Next >>]]**
