@@ -1,42 +1,37 @@
-====== 41. God Raises Jesus from the Dead ======
+====== 41. દેવે ઈસુને મૃત્યુમાંથી સજીવન કર્યો ======
 
+===== ઝાંખી: =====
 
-===== Overview: =====
+કબરમાં ત્રણ દિવસો પછી, ઈસુ મૃત્યુ માંથી સજીવન થયા. સૈનિકોએ તેના કબરની રક્ષા કરી તેનાથી આને કોઈ મતલબ નથી. જયારે કબર ખોલવા માટે સ્વર્ગદૂત પ્રગટ થયા, ત્યારે સૈનિકો ડરી ગયા. જ્યારે કેટલીક સ્ત્રીઓ જે ઈસુની પાછળ ચાલતી હતી તે ઈસુના શરીરમાં મસાલા ભરવા માટે આવી, ત્યારે સ્વર્ગદૂતે તેઓને કહ્યું કે ઈસુ જીવતો છે. પછી ઈસુ પણ સ્ત્રીઓની સામે પ્રગટ થયા અને તેઓને કહ્યું કે શિષ્યોને કહો કે તે સજીવન થયો છે.
 
+====== વાર્તાનું ભાષાંતર ======
 
-After three days in the tomb, Jesus rose from the dead! It did not matter that soldiers guarded his tomb. When an angel appeared to open the tomb, the soldiers were terrified. When some of the women who followed Jesus came to put spices on his body, the angel told them that Jesus was alive. Then Jesus also appeared to the women and told them to tell the disciples that he had risen. 
+વાર્તાની દરેક ફ્રેમનું ભાષાંતર કરવા નીચે આપેલી આકૃતિ ઉપર ક્લિક કરો.
 
+[[:gu:obs:notes:frames:41-01|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-01.jpg?nolink&200}}]]\\
+કબરની રક્ષા માટે રક્ષકો [41-01]
 
-====== Translate the Story ======
+[[:gu:obs:notes:frames:41-02|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-02.jpg?nolink&200}}]]\\
+કબરને બંધ કરવામાં આવી [41-02]
 
+[[:gu:obs:notes:frames:41-03|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-03.jpg?nolink&200}}]]\\
+સ્ત્રી [41-03]
 
-Click on the links below to translate each frame of the story.
+[[:gu:obs:notes:frames:41-04|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-04.jpg?nolink&200}}]]\\
+સ્વર્ગદૂત પ્રગટ થયો [41-04]
 
+[[:gu:obs:notes:frames:41-05|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-05.jpg?nolink&200}}]]\\
+ઈસુ ઉઠ્યો છે [41-05]
 
-[[:gu:obs:notes:frames:41-01|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-01.jpg?200|Frame 41-01}}]]\\ 
-Guards for the Tomb [41-01]\\ 
+[[:gu:obs:notes:frames:41-06|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-06.jpg?nolink&200}}]]\\
+શિષ્યોને કહો [41-06]
 
-[[:gu:obs:notes:frames:41-02|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-02.jpg?200|Frame 41-02}}]]\\ 
-The Tomb Was Sealed [41-02]\\ 
+[[:gu:obs:notes:frames:41-07|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-07.jpg?nolink&200}}]]\\
+આનંદના સમાચાર [41-07]
 
-[[:gu:obs:notes:frames:41-03|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-03.jpg?200|Frame 41-03}}]]\\ 
-The Women [41-03]\\ 
+[[:gu:obs:notes:frames:41-08|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-08.jpg?nolink&200}}]]\\
+ઈસુ સ્ત્રી સામે પ્રગટ થયા [41-08]
 
-[[:gu:obs:notes:frames:41-04|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-04.jpg?200|Frame 41-04}}]]\\ 
-The Angel Appeared [41-04]\\ 
-
-[[:gu:obs:notes:frames:41-05|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-05.jpg?200|Frame 41-05}}]]\\ 
-Jesus Is Risen [41-05]\\ 
-
-[[:gu:obs:notes:frames:41-06|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-06.jpg?200|Frame 41-06}}]]\\ 
-Tell the Disciples [41-06]\\ 
-
-[[:gu:obs:notes:frames:41-07|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-07.jpg?200|Frame 41-07}}]]\\ 
-The Joyful News [41-07]\\ 
-
-[[:gu:obs:notes:frames:41-08|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-08.jpg?200|Frame 41-08}}]]\\ 
-Jesus Appeared to the Women [41-08]\\ 
-
-//A Bible story from: Matthew 27:62-28:15; Mark 16:1-11; Luke 24:1-12; John 20:1-18//
+//બાઈબલની એક વાર્તા : // માથ્થી ૨૭:૬૨-૨૮:૧૫; માર્ક ૧૬:૧-૧૧; લૂક ૨૪:૧-૧૨; યોહાન ૨૦:૧-૧૮
 
 **[[:gu:obs:notes:40|<< Previous]] | [[:gu:obs:notes:42|Next >>]]**
