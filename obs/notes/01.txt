@@ -1,61 +1,63 @@
-====== 1. The Creation ======
+====== 1. સર્જન ======
 
-===== Overview: =====
+=====
+ઝાંખી : =====
 
-This is the true story of how God created the earth and everything in it in only six days. He created the first man and woman to enjoy and care for His creation. They had a special relationship with God, and He provided everything they needed. There was no sin or imperfection. Everything that God created was very good.
+આ એક
+સાચી વાર્તા છે કે,  કેવી રીતે ઈશ્વરે  માત્ર છ દિવસમાં પૃથ્વી અને તેમાનું બધું બનાવ્યું . તેમણે પ્રથમ પુરુષ અને સ્ત્રીને બનાવ્યાં અને તેઓને આનંદ અને તેમની રચનાની કાળજી લેવા માટે સોંપ્યાં. તેઓ ઈશ્વર સાથે ખાસ સંબંધ હતા, અને ઈશ્વરે તેમણી બધી જરૂરત પુરી પાડી. ત્યાં કંઈપણ પાપ કે અપૂર્ણતા ન હતા. ઈશ્વરે જે પણ બનાવ્યું તે ખૂબ જ સારી હતી.
 
-====== Translate the Story ======
+====== વાર્તાનો અનુવાદ ======
 
-Click on the images below to translate each frame of the story.
+નીચેના છબીઓ પર ક્લિક કરો અને વાર્તાનો દરેક ચોકઠુ અનુવાદ કરો.
 
 [[:gu:obs:notes:frames:01-01|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-01.jpg?nolink&200}}]]\\
-The Beginning [01-01]\\
+આરંભ [01-01]\\
 \\
 [[:gu:obs:notes:frames:01-02|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-02.jpg?nolink&200}}]]\\
-God Created Light [01-02]\\
+**દેવે** **પ્રકાશની** **રચના** **કરી** [01-02]\\
 \\
 [[:gu:obs:notes:frames:01-03|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-03.jpg?nolink&200}}]]\\
-God Created the Sky [01-03]\\
+**દેવે** **આકાશની** **રચના** **કરી** [01-03]\\
 \\
 [[:gu:obs:notes:frames:01-04|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-04.jpg?nolink&200}}]]\\
-God Created the Land [01-04]\\
+**દેવે** **ધરતીની** **રચના** **કરી** [01-04]\\
 \\
 [[:gu:obs:notes:frames:01-05|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-05.jpg?nolink&200}}]]\\
-God Created the Plants [01-05]\\
+**દેવે** **વનસ્પતિની** **રચના** **કરી** [01-05]\\
 \\
 [[:gu:obs:notes:frames:01-06|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-06.jpg?nolink&200}}]]\\
-God Created the Sun, Moon and Stars [01-06]\\
+**દેવે** **સુરજ**, **ચંદ્ર**, **અને** **તારાઓની** **રચના** **કરી** [01-06]\\
 \\
 [[:gu:obs:notes:frames:01-07|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-07.jpg?nolink&200}}]]\\
-God Created the Birds and Fish [01-07]\\
+**દેવે** **પક્ષીઓ** **અને** **માછલાઓની** **રચના** **કરી** [01-07]\\
 \\
 [[:gu:obs:notes:frames:01-08|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-08.jpg?nolink&200}}]]\\
-God Created the Animals [01-08]\\
+**દેવે** **પ્રાણીઓની** **રચના** **કરી** [01-08]\\
 \\
 [[:gu:obs:notes:frames:01-09|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-09.jpg?nolink&200}}]]\\
-God Made Man in His Image [01-09]\\
+**દેવે** **મનુષ્યને** **એમની** **આકૃતિ** **સમાન** **બનાવ્યો** [01-09]\\
 \\
 [[:gu:obs:notes:frames:01-10|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-10.jpg?nolink&200}}]]\\
-God Made Adam [01-10]\\
+**દેવે** **આદમની** **રચના** **કરી** [01-10]\\
 \\
 [[:gu:obs:notes:frames:01-11|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-11.jpg?nolink&200}}]]\\
-Two Trees [01-11]\\
+**બે** **વૃક્ષો ** [01-11]\\
 \\
 [[:gu:obs:notes:frames:01-12|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-12.jpg?nolink&200}}]]\\
-Adam Was Alone [01-12]\\
+**આદમ** **એકલો** **હતો** [01-12]\\
 \\
 [[:gu:obs:notes:frames:01-13|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-13.jpg?nolink&200}}]]\\
-God Made Eve [01-13]\\
+**દેવે** **હવાની** **રચના** **કરી** [01-13]\\
 \\
 [[:gu:obs:notes:frames:01-14|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-14.jpg?nolink&200}}]]\\
-Adam Met Eve [01-14]\\
+**આદમ** **હવાને** **મળે** **છે** [01-14]\\
 \\
 [[:gu:obs:notes:frames:01-15|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-15.jpg?nolink&200}}]]\\
-Fill the Earth [01-15]\\
+**પૃથ્વીને** **ભરી** **દો** [01-15]\\
 \\
 [[:gu:obs:notes:frames:01-16|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-16.jpg?nolink&200}}]]\\
-God Rested [01-16]
+**દેવે** **આરામ** **કર્યો** [01-16]
 
-//A Bible story from: Genesis 1-2//
+//બાઈબલની એક વાર્તા: ઉત્પતિ 1-2//
 
 **[[:gu:obs:notes:02|Next >>]]**
