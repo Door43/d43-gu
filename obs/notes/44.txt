@@ -1,45 +1,40 @@
-====== 44. Peter and John Heal a Beggar ======
+====== 44. પિતર અને યોહાને ભિખારીને સાજો કર્યો ======
 
+===== ઝાંખી: =====
 
-===== Overview: =====
+પિતર અને યોહાન મંદિરમાં હતા જયારે તેઓએ એક લંગડા ભિખારીને ઈસુના નામમાં સાજો કર્યો હતો. લોકો આશ્ચર્યચકિત થયા, પણ ધાર્મિક શાસકો ગુસ્સે થયા અને તેઓને પકડી લીધા. તેમ છતાં, શાસકો વિવાદ ન કરી શક્યા કે આ ચમત્કાર પિતર અને યોહાને કર્યો છે. તેથી તેઓએ તેમને કહ્યું કે હવે ઈસુ વિષે વધારે વાત ન કરતા, અને તેઓને છોડી દીધા.
 
+====== વાર્તાનું ભાષાંતર ======
 
-Peter and John were in the temple when they healed a crippled beggar in the name of Jesus. The people were amazed, but the religious rulers were angry and arrested them. However, the rulers could not dispute that Peter and John had done this miracle. So they told them not to speak about Jesus anymore, and released them.
+વાર્તાની દરેક ફ્રેમનું ભાષાંતર કરવા નીચે આપેલી આકૃતિ ઉપર ક્લિક કરો.
 
+[[:gu:obs:notes:frames:44-01|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-01.jpg?nolink&200}}]]\\
+લંગડો માણસ [44-01]
 
-====== Translate the Story ======
+[[:gu:obs:notes:frames:44-02|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-02.jpg?nolink&200}}]]\\
+ઉભો થા અને ચાલ [44-02]
 
+[[:gu:obs:notes:frames:44-03|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-03.jpg?nolink&200}}]]\\
+લંગડો માણસ સાજો થયો [44-03]
 
-Click on the links below to translate each frame of the story.
+[[:gu:obs:notes:frames:44-04|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-04.jpg?nolink&200}}]]\\
+ઈસુનું સામર્થ [44-04]
 
+[[:gu:obs:notes:frames:44-05|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-05.jpg?nolink&200}}]]\\
+પિતાર પ્રચાર કર્યો [44-05]
 
-[[:gu:obs:notes:frames:44-01|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-01.jpg?200|Frame 44-01}}]]\\ 
-The Crippled Man [44-01]\\ 
+[[:gu:obs:notes:frames:44-06|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-06.jpg?nolink&200}}]]\\
+પિતર અને યોહાનને પકડી લેવામાં આવ્યા [44-06]
 
-[[:gu:obs:notes:frames:44-02|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-02.jpg?200|Frame 44-02}}]]\\ 
-Get Up and Walk [44-02]\\ 
+[[:gu:obs:notes:frames:44-07|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-07.jpg?nolink&200}}]]\\
+યહૂદી આગેવાનોની સામે [44-07]
 
-[[:gu:obs:notes:frames:44-03|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-03.jpg?200|Frame 44-03}}]]\\ 
-The Crippled Man Was Healed [44-03]\\ 
+[[:gu:obs:notes:frames:44-08|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-08.jpg?nolink&200}}]]\\
+બીજો કોઈ રસ્તો નહિ પણ ઈસુ [44-08]
 
-[[:gu:obs:notes:frames:44-04|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-04.jpg?200|Frame 44-04}}]]\\ 
-The Power of Jesus [44-04]\\ 
+[[:gu:obs:notes:frames:44-09|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-09.jpg?nolink&200}}]]\\
+શિષ્યો છૂટી ગયા [44-09]
 
-[[:gu:obs:notes:frames:44-05|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-05.jpg?200|Frame 44-05}}]]\\ 
-Peter Preached [44-05]\\ 
-
-[[:gu:obs:notes:frames:44-06|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-06.jpg?200|Frame 44-06}}]]\\ 
-Peter and John Were Arrested [44-06]\\ 
-
-[[:gu:obs:notes:frames:44-07|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-07.jpg?200|Frame 44-07}}]]\\ 
-Before the Jewish Leaders [44-07]\\ 
-
-[[:gu:obs:notes:frames:44-08|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-08.jpg?200|Frame 44-08}}]]\\ 
-No Other Way but Jesus [44-08]\\ 
-
-[[:gu:obs:notes:frames:44-09|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-09.jpg?200|Frame 44-09}}]]\\ 
-The Disciples Were Released [44-09]\\ 
-
-//A Bible story from: Acts 3:1-4:22//
+//બાઈબલની એક વાર્તા : // પ્રેરીતોના કૃત્યો ૩:૧-૪:૨૨
 
 **[[:gu:obs:notes:43|<< Previous]] | [[:gu:obs:notes:45|Next >>]]**
