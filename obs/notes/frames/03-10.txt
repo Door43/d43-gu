@@ -1,12 +1,15 @@
-===== The Raven [03-10] =====
+===== કાગડો [03-10] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-10.jpg?nolink&}}
 
-After forty more days, **Noah** sent out a bird called a **raven** to see if the water had dried up. The raven flew back and forth looking for dry land, but it could not find any.
-===== Important Terms: =====
+ચાળીસ વધુ દિવસો પછી **નૂહે** એક પક્ષી જે કાગડો કહેવાય બહાર મોકલ્યો એ જોવા માટે કે પાણી સુકાઈ ગયું હતું કે નહિં. **કાગડાએ** આગળ-પાછળ ઉડાણ ભરી સૂકી જમીન શોધવાની કોશિશ કરી, પરંતુ તે ક્યાંય પણ શોધી શક્યો નહિ.
 
-  * **[[:gu:obe:other:noah|Noah]]**
-===== Translation Notes: =====
+===== મહત્વપૂર્ણ શબ્દો:: =====
 
-  * **raven**  - A black bird that flies and eats a variety of plant and animal foods, including the rotting flesh of dead animals.
+  * **[[:gu:obe:other:noah|નૂહ]]**
+
+===== અનુવાદ નોંધો: =====
+
+  * **કાગડો** - એક કાળું પક્ષી જે ઉડે અને વિવિધ વનસ્પતિ અને પ્રાણીઓનો ખોરાક, મૃત પ્રાણીઓના સડેલા માંસ સહિત, ખાય છે. ખાય છે.
+
 **[[:gu:obs:notes:frames:03-09|<<]] | [[:gu:obs:notes:03|Up]] | [[:gu:obs:notes:frames:03-11|>>]]**
