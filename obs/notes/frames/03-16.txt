@@ -1,25 +1,20 @@
-===== The Rainbow [03-16] =====
+===== **મેઘધનુષ્ય** [03-16] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-16.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-16.jpg?nolink}}
+**દેવે** **ત્યાર** પછી **તેમના** **વચનની** **નિશાની** **રૂપે** પ્રથમ **સપ્તરંગી** મેઘધનુષ રચ્યું. **જ્યારે** **પણ** સપ્તરંગી મેઘધનુષ આકાશમાં દેખાયા, દેવ **તેમણે** **શું** **વચન** **આપ્યું** **હતું** **એ** યાદ કરશે  અને તેવું જ તેમના લોકો પણ કરશે.
+===== **મહત્વપૂ્ર્ણ** **શબ્દો****:**  =====
 
-**God** then made the first **rainbow** as **a sign of his promise**. **Every time** the rainbow appeared in the sky, God would remember **what he promised** and so would his people. 
+  * **દેવ**
+  * **વચન**
+===== **અનુવાદ**  **નોંધો****:**  =====
 
-===== Important Terms: =====
-
-
-  * **[[:gu:obe:kt:god]]**
-  * **[[:gu:obe:kt:promise]]**
-
-
-===== Translation Notes: =====
-
-
-  * **rainbow** - This is the multicolored arc of light that often appears in the sky after a rainstorm.
-  * **a sign** - A sign is something (such as an object or event) that gives a certain meaning or which points to something that is true or will happen.
-  * **as a sign of his promise** – In some languages it may be better to say, "to show that he had promised."
-  * **Every time** – Make sure it is clear that this means every time a rainbow appeared from that time on. It may be necessary to add, "From then on, every time."
-  * **what he promised** - This refers back to the previous frame in which God promised to never again destroy the earth with a flood.
-  * //A Bible story from// - These references may be slightly different in some Bible translations.
-
+  * **મેઘધનુષ**
+ - આ સપ્તરંગી પ્રકાશનું ધનુષ છે જે ઘણીવાર વરસાદ પછી આકાશમાં દેખાય છે.
+  * **નિશાની** - એક સંકેત જે કંઈક (જેમ કે એક પદાર્થ કે ઘટના) ચોક્કસ અર્થ આપે છે અથવા જે કંઈક છે જે સાચું છે અથવા થશે એવો નિર્દેશ કરે છે.
+  * **તેમના****વચનના****એક****સંકેત****તરીકે**** -**  અમુક ભાષાઓમાં તે વધુ સારી કહી શકાય કે "તે દર્શાવે છે કે તેમણે વચન આપ્યું હતું."
+  * **દર****વખતે**** -** ખાતરી કરો કે તે સ્પષ્ટ હોય કે દર વખતે એક મેઘધનુષ્ય તે સમય બાદ દેખાશે.
+  * એ ઉમેરવું જરૂરી હોઈ શકે છે "ત્યાર પછી, દરેક સમયે."
+  * **તેમણે****જે****વચન****આપ્યું** - આ અગાઉના માળખાનો ઉલ્લેખ કરે છે કે જેમાં દેવે ફરી જળપ્રલય સાથે પૃથ્વીનો નાશ ન કરવાનું વચન આપ્યું હતું.
+  * //બાઇબલમાંથી////એક////વાર્તા// - આ સંદર્ભો કેટલાક બાઇબલ અનુવાદમાં સહેજ અલગ હોઈ શકે છે.
 **[[:gu:obs:notes:frames:03-15|<<]] | [[:gu:obs:notes:03|Up]] | [[:gu:obs:notes:frames:04-01|>>]]**
