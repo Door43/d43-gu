@@ -1,27 +1,29 @@
-===== God Cursed the Man [02-11] =====
+===== દેવે આદમને શ્રાપ આપ્યો  [02-11] =====
 
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-11.jpg?nolink}}
 
-**God** said to the man, “You listened to your wife and **disobeyed** me. Now the **ground is cursed**, and you will need to work hard to grow food. Then **you will die**, and your body will **return to dirt**.” The man named his wife **Eve**, **which means** “**life-giver**,” because she would become the **mother of all people**. And God clothed **Adam** and Eve with animal skins. 
-
-===== Important Terms: =====
-
-  * **[[:gu:obe:kt:god]]**
-  * **[[:gu:obe:other:disobey]]**
-  * **[[:gu:obe:kt:curse]]**
-  * **[[:gu:obe:kt:death]]**
-  * **[[:gu:obe:other:eve]]**
-  * **[[:gu:obe:other:adam]]**
+**દેવે** આદમને કહ્યું, "તે તારી પત્નીનું સાંભળ્યું અને મારો** અનાદર** કર્યો. **હવે જમીન શ્રાપિત બની ગઈ**, અને તને ખોરાક ઉગાડવા માટે ભારે કામ કરવાની જરૂર પડશે. પછી તું **મૃત્યુ પામીશ**, અને તારું શરીર **ધૂળમાં પાછું જઈ મળશે**. "આદમે તેની પત્નીનુ નામ હવા રાખ્યું, **જેનો અર્થ થાય છે " જીવન આપનાર** ," કારણ કે તેણી **બધા લોકોની માતા** બનશે. અને દેવે આદમ અને હવાને પ્રાણીઓના ચામડાના કપડા પહેરાવ્યા.
 
 
-==== Translation Notes: ====
+===== મહત્વપૂર્ણ શબ્દો: =====
+
+  * **[[:gu:obe:kt:દેવ]]**
+  * **[[:gu:obe:other:અનાદર]]**
+  * **[[:gu:obe:kt:શ્રાપ]]**
+  * **[[:gu:obe:kt:મૃત્યુ]]**
+  * **[[:gu:obe:other:હવા ]]**
+  * **[[:gu:obe:other:આદમ]]**
 
 
-  * **ground is cursed** - As punishment for Adam's disobedience, the earth would no longer be fruitful. Adam would have to work very hard to raise enough food to eat.
-  * **you will die** - The ultimate punishment for their disobedience was death. Spiritual death is our separation from God. Physical death is our separation from our body.
-  * **return to dirt** - God created Adam from the dirt or soil and gave him life. As a result of sin, his life will be taken from him and his body will decompose and become dirt again.
-  * **Eve, which means 'life-giver'** - God gave life to Adam and Eve, and it is passed on to every person through childbirth.
-  * **mother of all people** - This means that she would be the female ancestor of all people. Some languages say "she would be the grandmother of all people."
+====અનુવાદ નોંધો: ====
+
+
+  * **જમીન શ્રાપિત છે** - આદમની આજ્ઞાભંગ માટેની શિક્ષા તરીકે, પૃથ્વી લાંબા સમય સુધી ફળદાયી નહિ રહેશે. પૂરતું ભોજન ઉત્પન્ન કરવા માટે આદમે ખૂબ જ ભારે શારીરીક કામ કરવું પડશે.
+  * **તું મૃત્યુ પામીશ** - તેના આજ્ઞાભંગની અંતિમ સજા મૃત્યુ હતી. આત્મિક મૃત્યુ એટલે કે દેવનું આપણાથી દુર જતા રહેવું છે. શારીરિક મૃત્યુ એ આપણું આપણા શરીરથી અલગ થવું એ છે.
+  * **ધૂળ પર પાછો ફરીશ** - દેવે ધૂળ અથવા માટીમાંથી આદમને રચ્યો અને તેને જીવન આપ્યું હતું. પાપના પરિણામે, તેનું જીવન તેની પાસેથી લઈ લેવામાં આવશે અને તેનું શરીર સડી જશે અને ફરી ધૂળ બની જશે.
+  * **હવા, જેનો અર્થ થાય છે 'જીવન આપનાર'** - દેવે આદમ અને હવાને જીવન આપ્યું છે, અને તેના બાળકના જન્મ દ્વારા દરેક વ્યક્તિમાં પસાર થાય છે.
+  * **બધા લોકોની માતા** - આનો અર્થ એ થાય કે તે બધા લોકોની સ્ત્રી પૂર્વજ હશે. કેટલીક ભાષાઓમાં કહે છે, "તે બધા લોકો દાદી હશે."
+
 
 **[[:gu:obs:notes:frames:02-10|<<]] | [[:gu:obs:notes:02|Up]] | [[:gu:obs:notes:frames:02-12|>>]]**
