@@ -1,21 +1,21 @@
-===== The Big Boat [03-03] =====
+===== મો્ટું જહાજ  [03-03] =====
 
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-03.jpg?nolink}}
 
-**God** told **Noah** to make **the boat** about 140 meters long, 23 meters wide, and 13.5 meters high. Noah was to build it with wood and to make three levels, many rooms, a roof, and a window. The boat would keep Noah, his family, and every kind of land animal safe during the flood. 
+**દેવે નૂહને** ૧૪૦ મીટર લાંબુ, ૨૩ મીટર પહોળું અને ૧૩.૫ મીટર ઊંચુ **જહાજ** બનાવવા માટે જણાવ્યું હતું. નૂહને એ બનાવવા માટે લાકડાઓ એકસાથે બાંધી અને ત્રણ સ્તરો, ઘણા ઓરડાઓ, એક છત, અને બારી બનાવવાની હતી. જહાજ નૂહ, અને તેના કુટુંબ અને દરેક પ્રકારના જમીન પ્રાણીઓને જળપ્રલય દરમિયાન સલામત રાખશે.
 
-===== Important Terms: =====
-
-
-  * **[[:gu:obe:kt:god]]**
-  * **[[:gu:obe:other:noah]]**
+===== મહત્વપૂર્ણ શબ્દો: =====
 
 
+  * **[[:gu:obe:kt:દેવ]]**
+  * **[[:gu:obe:other:નૂહ]]**
 
-===== Translation Notes: =====
 
 
-  * **the boat** - The boat was big enough to carry eight people, two of every kind of animal, and their provisions for almost a year.
+===== અનુવાદ નોંધો: =====
+
+
+  * **જહાજ** - જહાજ આઠ લોકો, દરેક પ્રકારના પ્રાણીની જોડી, અને લગભગ એક વર્ષ માટે તેમની દરેક જોગવાઈઓનું વહન કરવામાં માટે પૂરતું મોટું હતું.માં માટે પૂરતું મોટું હતું.
 
 **[[:gu:obs:notes:frames:03-02|<<]] | [[:gu:obs:notes:03|Up]] | [[:gu:obs:notes:frames:03-04|>>]]**
