@@ -1,22 +1,23 @@
-===== The Blame [02-08] =====
+===== દોષ [02-08] =====
 
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-08.jpg?nolink}}
 
-Then **God** asked, “**Who told you that you were naked**? Did you eat the fruit I told you not to eat?” The man answered, “You gave me this woman, and **she gave me the fruit**.” Then God asked the woman, “What have you done?” The woman replied, “**The snake tricked me**.” 
-===== Important Terms: =====
+પછી દેવે પૂછ્યું, " તમને કોણે જણાવ્યું હતું કે તમે નગ્ન હતા ? તમે એ ફળ ખાધું જેને મેં ન ખાવા તમને કહ્યું હતું? " આદમે ઉત્તર આપ્યો, "તમે મને આ સ્ત્રી આપી હતી, અને તેણે મને ફળ આપ્યા ." પછી દેવે સ્ત્રીને કહ્યું, "તે આ શું કર્યુ?" મહિલાએ જવાબ આપ્યો, " સાંપે મને છેતરી ."
+
+===== મહત્વપૂર્ણ શબ્દો: =====
 
 
-  * **[[:gu:obe:kt:god]]**
+  * **[[:gu:obe:kt:દેવ]]**
 
 
-==== Translation Notes: ====
+==== અનુવાદ નોંધો:     ====
 
+  * **તમને કોણે જણાવ્યું હતું કે તમે નગ્ન હતા?**  - અથવા, "તમે કેવી રીતે જાણ્યું કે તમે નગ્ન હતા?" દેવ પહેલેથી જ તેમના બધા પ્રશ્નોના જવાબ જાણે છે. આ પ્રશ્ન અને નીચેના પ્રશ્નનો પૂછીને, તેમણે આદમને આજ્ઞાભંગ કરવાના તેમના પાપને કબૂલ કરવાની તક આપતા હતા. નગ્ન હોવું એ પાપ ન હતું. દેવે તેમને એવી રીતે જ બનાવ્યાં હતાં. તેમની નગ્નતાનું તેઓને ભાન થવું એ સમસ્યા હતી. તેમની શરમ દર્શાવે છે કે તેઓએ પાપ કર્યું હતું.
+  * **તેણીએ મને ફળ આપ્યા** - આદમ તેમની આજ્ઞાભંગ કબૂલ કરવાની અને દેવની આજ્ઞા તોડવાની જવાબદારી સ્વીકારવાને બદલે સ્ત્રી પર આક્ષેપ નાંખે છે.
+  * **શું કર્યું તમે?** - અથવા, "શા માટે તમે આ કર્યું?" દેવ પહેલેથી આ પ્રશ્નનો જવાબ જાણતા હતા. આ પ્રશ્ન પૂછીને તેમણે સ્ત્રીને તેનો અપરાધ સ્વીકારવાની તક આપતા હતા. તેમણે એમ પણ જણાવ્યું કે જે ન કરવું જોઈએ તે તેણીએ કર્યું.
+  * **સાંપે મને છેતરી**   - સાંપે તેણીને છેતરી અથવા તેણીને ગેરમાર્ગે દોરી છે. તે ખોટું બોલ્યો હતો. એ શબ્દ ન વાપરવો કે એણે તેણી પર સંમોહન કર્યું અથવા તેણી પર જાદુનો ઉપયોગ કર્યો. સ્ત્રી તેની અનઆજ્ઞાકારીતાને કબૂલ કરીને દેવની આજ્ઞા તોડવાની જવાબદારી સ્વીકારવાને બદલે સાંપ પર આક્ષેપ મઢેં છે.      
 
-  * **Who told you that you were naked?** - Or, "How did you find out that you were naked?" God already knows the answer to all of his questions. By asking this question and the following question, he was giving Adam the opportunity to admit his sin of disobedience. Being naked was not a sin. God created them that way. Their knowledge of their nakedness was the problem. Their shame showed that they had sinned.
-  * **she gave me the fruit** - The man blamed the woman rather than confessing his disobedience and accepting responsibility for disobeying God.
-  * **What have you done?** - Or, "Why have you done this?" God already knew the answer to this question. By asking this question, he was giving the woman the opportunity to admit her guilt. He was also implying that she should not have done what she did.
-  * **The snake tricked me** - The snake deceived or misled her. He lied to her. Don't use a word that indicates that he cast a spell on her or bewitched her. The woman blamed the snake rather than confessing her disobedience and accepting responsibility for disobeying God.
 
 
 **[[:gu:obs:notes:frames:02-07|<<]] | [[:gu:obs:notes:02|Up]] | [[:gu:obs:notes:frames:02-09|>>]]**
