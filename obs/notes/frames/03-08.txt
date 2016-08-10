@@ -1,19 +1,13 @@
-===== Safe from the Flood [03-08] =====
+===== **જળપ્રલયથી સુરક્ષિત** [03-08] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-08.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-08.jpg?nolink}}
+સૂકી જમીન પર રહેનારા દરેક જીવ **મૃત્યુ** **પામ્યા** **હતા****, ****ફક્ત** **જેટલા** લોકો અને પ્રાણીઓ જહાજમાં હતા તે સિવાયના. જહાજ પાણી પર તરતું રહ્યું અને જહાજની અંદરનું બધું ડુબવાથી સુરક્ષિત રાખ્યું.
+===== **મહત્વપૂર્ણ** **શબ્દો****:**  =====
 
-Everything that lived on the dry land **died**, except the people and animals that were in the boat. The boat floated on the water and kept everything inside the boat safe from drowning.
+  * **મૃત્યુ****પામ્યા****હતા**
+===== **અનુવાદ**  **નોંધો****:**  =====
 
-===== Important Terms: =====
-
-
-  * **[[:gu:obe:kt:death]]**
-
-
-===== Translation Notes: =====
-
-
- * //(There are no notes for this frame.)// 
+* //(////આ//  //ચોકઠાં//  //પર//  //કોઈ//  //નોંધો//  //નથી////.)//
 
 **[[:gu:obs:notes:frames:03-07|<<]] | [[:gu:obs:notes:03|Up]] | [[:gu:obs:notes:frames:03-09|>>]]**
