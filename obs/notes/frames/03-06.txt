@@ -1,23 +1,25 @@
-===== The Animals Came [03-06] =====
+===== પ્રાણીઓ આવ્યા  [03-06] =====
 
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-06.jpg?nolink}}
 
-**God sent** a male and a female of every animal and bird to **Noah** so they could go into the boat and be kept safe during the flood. God sent seven males and seven females of every type of animal that could be **used for sacrifices**. When they were all in the boat, **God himself closed the door**. 
-
-===== Important Terms: =====
+દેવે દરેક પ્રાણીઓના એક નર અને એક માદાને નૂહ પાસે મોકલ્યા જેથી તેઓ જહાજમાં જઈ શકે છે અને પૂર દરમિયાન સલામત રહી શકે. દેવે દરેક પ્રકારના પશુઓના સાત નર અને સાત માદાઓને મોકલ્યાં જેનો બલિદાન માટે ઉપયોગ થઈ શકે. જ્યારે તેઓ બધા જહાજમાં પહોંચી ગયા હતા, દેવે પોતે બારણું બંધ કર્યું.
 
 
-  * **[[:gu:obe:kt:god]]**
-  * **[[:gu:obe:other:noah]]**
-  * **[[:gu:obe:other:sacrifice]]**
+===== મહત્વપૂર્ણ શબ્દો: =====
 
 
-===== Translation Notes: =====
+  * **[[:gu:obe:kt:દેવ]]**
+  * **[[:gu:obe:other:નૂહ]]**
+  * **[[:gu:obe:other:બલિદાન]]**
 
 
-  * **God sent** - Noah did not need to find the animals. God sent them to him.
-  * **used for sacrifices** - For some languages it may be better to say something like, "animals that were acceptable to sacrifice to God." God had decided that people should sacrifice animals to him, but he only permitted them to sacrifice certain kinds of animals.
-  * **God himself closed the door** - This emphasizes that it was God who shut the door.
+===== અનુવાદ નોંધો: =====
+
+
+  * દેવે મોકલ્યા - નૂહને પ્રાણીઓ શોધવાની જરૂર ન હતી. દેવ તેમને તેની પાસે મોકલ્યાં હતાં.
+  * **બલિદાન માટે વપરાય** - કેટલીક ભાષાઓ માટે આમ વધુ સારી રીતે કહી શકાય કે " કે દેવ માટે પ્રાણીઓનું બલિદાન સ્વીકાર્ય હતું." (મનુષ્યોની પરીક્ષા કરવા માટે) દેવે નિર્ણય કર્યો હતો કે લોકો તેમને પ્રાણીઓ બલિદાન રુપે ધરાવે, પરંતુ તેમણે માત્ર અમુક પ્રકારના પ્રાણીઓનું બલિદાન ચડાવવાની તેઓને પરવાનગી આપી હતી.
+  * **દેવે પોતે બારણું બંધ કર્યું**  - આ એના પર ભાર મૂકે છે કે તે દેવ હતા જેમણે બારણું બંધ કર્યું.
+  * 
 
 **[[:gu:obs:notes:frames:03-05|<<]] | [[:gu:obs:notes:03|Up]] | [[:gu:obs:notes:frames:03-07|>>]]**
