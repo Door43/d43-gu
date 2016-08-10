@@ -1,23 +1,17 @@
-===== Many Languages [04-03] =====
+===== **ઘણી ભાષાઓ ** [04-03] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-03.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-03.jpg?nolink}}
+તેથી **દેવે** **તેમની** **ભાષા** **ઘણી** **વિવિધ** **ભાષાઓમાં** **બદલી** **નાંખી** અને **લોકોને** સમગ્ર વિશ્વમાં **ફેલાવી** **દિધા**. જે શહેર તેઓએ બાંધવાનું શરૂ કર્યું હતું તે "બાબેલ" તરીકે ઓળખાતું હતું, જેનો અર્થ છે, " **ગેરસમજ** ."
+===== **મહત્વપૂર્ણ** **શબ્દો****:**  =====
 
-So **God changed their language** into **many different languages** and **spread the people** out all over the world. The city they had begun to build was called **Babel**, which means, “**confused**.” 
+  * **દેવ**
+===== **અનુવાદ**  **નોંધો****:**  =====
 
-===== Important Terms: =====
-
-
-  * **[[:gu:obe:kt:god]]**
-
-
-===== Translation Notes: =====
-
-
-  * **changed their language** – In an instant, God miraculously gave them different languages to speak so that suddenly they were no longer able to understand each other.
-  * **many different languages** – Instead of one large group of people speaking one language, there were now many smaller people groups each speaking its own separate language.
-  * **spread the people** - When God changed their languages, he caused these groups of people to scatter out on the earth and each group moved to its own area.
-  * **Babel** - We don't know the exact location of this city, other than it was somewhere in the ancient Middle East.
-  * **confused** - This refers to how the people were confused or, "mixed-up" when they could no longer understand each other after God changed their language.
+  * તેમની ભાષા બદલી -​ તરત જ, દેવે ચમત્કારિક રીતે તેમને બોલવા માટે વિવિધ ભાષાઓ પ્રદાન કરી જેથી તેઓ એકબીજાની વાત સમજવા માટે સક્ષમ ન રહ્યાં.
+  * ઘણી વિવિધ ભાષાઓમાં -કોઈ એક જ ભાષા બોલતા એક મોટા જૂથને બદલે, ત્યાં હવે ઘણા નાના જૂથોના દરેક લોકો તેની પોતાની અલગ અલગ ભાષા બોલતા હતા.
+  * લોકોનો ફેલાવો - જ્યારે દેવે તેમની ભાષાઓ બદલી, તેમણે લોકોના આ જૂથોને પૃથ્વી પર છૂટાછવાયા ફેલાવી દિધા અને દરેક જૂથ પોત-પોતાના વિસ્તારમાં જતાં રહ્યાં.
+  * બાબેલ - અમને આ શહેરના ચોક્કસ સ્થાન વિશે ખબર નથી, અન્ય કરતાં તે પ્રાચીન મધ્ય પૂર્વમાં ક્યાંક હતું.
+  * ગેરસમજ - આ એનો ઉલ્લેખ કરે છે કે, લોકોને કેવી રીતે ભેળસેળ કરવામાં આવ્યા હતા અથવા "ભેળસેળ થયા" જ્યારે તેઓ લાંબા સમય સુધી એકબીજાને સમજી ન શક્યા જ્યારે દેવે તેમની ભાષા બદલી.
 
 **[[:gu:obs:notes:frames:04-02|<<]] | [[:gu:obs:notes:04|Up]] | [[:gu:obs:notes:frames:04-04|>>]]**
