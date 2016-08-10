@@ -1,19 +1,28 @@
-===== Open Eyes [02-06] =====
+===== **ખુલ્લી આંખો** [02-06] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-06.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-06.jpg?nolink}}
+અચાનક, **તેમની** **આંખો** **ખુલી** **ગઈ**, અને તેઓને ભાન થયું**, ****તેઓ** **વસ્રહીન** **હતા**. તેઓએ પાંદડાઓ જોડીને સીવીને કપડાં બનાવી **તેમના** **શરીરને ઢાંકવા** માટે પ્રયાસ કર્યો હતો.
+===== **મહત્વપૂર્ણ** **શબ્દો****:**  =====
 
-Suddenly, **their eyes were opened**, and they realized **they were naked**. They tried to **cover their bodies** by sewing leaves together to make clothes.
+==== **અનુવાદ** **નોંધો****:**  ====
 
-===== Important Terms: =====
+  *
 
+**તેમની****આંખો****ખોલવામાં****આવી****હતી**
+ - આ આવી રીતે ભાષાંતર કરી શકાય કે, "તેઓ અલગ રીતે વસ્તુઓ જોતા હતા."
 
-==== Translation Notes: ====
+આ સમીકરણનો અર્થ થાય છે કે તેઓ હવે પ્રથમ વખત કંઈક સમજ્યાં.
 
+તમારી ભાષામાં, સમાન અર્થનું વાક્ય હશે જે તમે આ અનુવાદ કરવા ઉપયોગ કરી શકો છો.
 
-  * **their eyes were opened** - This could be translated as, "they saw things differently." This expression means they now understood something for the first time. In your language, there may be an expression with similar meaning that you could use to translate this.
-  * **realized they were naked** - After the man and the woman disobeyed God, they felt ashamed that they were naked. That is why they used leaves to try to cover their naked bodies.
-  * **cover their bodies** - The man and the woman attempted to use leaves to hide themselves from God.
+**ભાન****થયું****કે****તેઓ****વસ્રહીન** **હતા**
+ - જ્યારે આદમે અને તેની સ્ત્રીએ દેવની આજ્ઞા તોડી, તેઓને શરમ આવી કે, તેઓ વસ્રહીન હતાં.
 
+એટલા માટે તેઓએ પાંદડા દ્વારા તેમના નગ્ન શરીરને ઢાંકવાનો પ્રયાસ કર્યો.
 
+**તેઓનું શરીર ઢાંકી દીધું**  - આદમ અને સ્ત્રીએ પાંદડાનો ઉપયોગ કરી પોતાની જાતને દેવથી છુપાવાનો પ્રયાસ કર્યો હતો.
+
+  * **realized they were naked**  - After the man and the woman disobeyed God, they felt ashamed that they were naked. That is why they used leaves to try to cover their naked bodies.
+  * **cover their bodies**  - The man and the woman attempted to use leaves to hide themselves from God.
 **[[:gu:obs:notes:frames:02-05|<<]] | [[:gu:obs:notes:02|Up]] | [[:gu:obs:notes:frames:02-07|>>]]**
