@@ -1,22 +1,16 @@
-===== Leaving the Boat [03-13] =====
+===== **જહાજ છોડ્યું** [03-13] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-13.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-13.jpg?nolink}}
+**બે** **મહિના** **પછી** **દેવે નૂહને કહ્યું**, "તું અને તારો પરિવાર અને તમામ પ્રાણીઓ હવે જહાજ છોડી શકે છે. **ઘણા** **બાળકો** અને પૌત્રો **હોય** અને **પૃથ્વીને** **ભરી** **દો** . " એટલે નૂહ અને એનું કુટુંબ જહાજમાંથી બહાર આવ્યા.
+===== **મહત્વપૂર્ણ** **શબ્દો****:**  =====
 
-**Two months later** **God** said to **Noah**, “You and your family and all the animals may leave the boat now. **Have many children** and grandchildren and **fill the earth**.” So Noah and his family came out of the boat. 
+  * **દેવ**
+  * **નૂહ**
+===== **અનુવાદ**  **નોંધો****:**  =====
 
-===== Important Terms: =====
-
-
-  * **[[:gu:obe:kt:god]]**
-  * **[[:gu:obe:other:noah]]**
-
-
-===== Translation Notes: =====
-
-
-  * **Two months later** - This means two months after Noah released the dove from the ark. It may be necessary to say this explicitly if it is not clear.
-  * **Have many children** – To make sure it is clear that this was God's command and desire, you could say, "You must have many children." or, "I want you to have many children."
-  * **fill the earth** - If this is not clear, it may be necessary to say, "and fill the earth with people" or, "so that there will be many people living on the earth."
+  * બે મહિના પછી - આનો અર્થ છે બે મહિના પછી નૂહે વહાણ પરથી કબૂતરને સ્વતંત્ર કર્યું. આવું સ્પષ્ટપણે કહેવું જરૂરી હોઈ શકે છે જો તે સ્પષ્ટ ન હોય તો.
+  * ઘણા બાળકો હોય - તેની ખાતરી કરવા માટે કે આ દેવની આજ્ઞા અને ઈચ્છા હતી, તમે કહી શકો છો કે "તને ઘણા બાળકો હોય." અથવા," તને ઘણા બાળકો હોય એવું હું ઈચ્છું છું."
+  * પૃથ્વી ભરી દો - જો આ સ્પષ્ટ ન હોય, તો આમ કહેવું જરૂરી હોઇ શકે છે, "અને પૃથ્વીને લોકોથી ભરી દો" અથવા "જેથી પૃથ્વી પર ઘણા લોકો રહેતા હોય."
 
 **[[:gu:obs:notes:frames:03-12|<<]] | [[:gu:obs:notes:03|Up]] | [[:gu:obs:notes:frames:03-14|>>]]**
