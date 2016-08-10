@@ -1,25 +1,18 @@
-===== Do Not Touch [02-03] =====
+===== **સ્પર્શવું** **નહિ** [02-03] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-03.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-03.jpg?nolink}}
+સ્ત્રીએ જવાબ આપ્યો, "દેવે કહ્યું છે કે અમે કોઈ પણ વૃક્ષના ફળ ખાઈ શકીએ છીએ ફક્ત **ભલા** **અને** **ભુંડાનું** **જ્ઞાનના** **વૃક્ષ** ના નહિ. દેવે અમને કહ્યું છે, "જો તમે એ ફળને ખાશો અથવા એને સ્પર્શ કરશો, **તમે** **મરી** **જશો**."
+===== **મહત્વના** **શબ્દોઃ**  =====
 
-The woman answered, “**God** told us we could eat the **fruit** of any tree except from the **tree of the knowledge of good and evil**. God told us, ‘If you eat that fruit or even touch it, **you will die**.’” 
+  * **દેવ**
+  * **સારું**
+  * **પાપ**
+  * **મૃત્યુ**
+==== **અનુવાદ**  **નોંધોઃ**  ====
 
-===== Important Terms: =====
-
-
-  * **[[:gu:obe:kt:god]]**
-  * **[[:gu:obe:kt:good]]**
-  * **[[:gu:obe:kt:evil]]**
-  * **[[:gu:obe:kt:death]]**
-
-
-==== Translation Notes: ====
-
-
-  * **fruit** - We don't know what kind of fruit this was. We only know that it grew on this tree. If possible it is best to use a general word for fruit here, and not a word for a specific kind of fruit.
-  * **tree of the knowledge of good and evil** - The woman correctly understood that they were not allowed to eat from this one tree that would enable them to understand evil as well as good.
-  * **you will die** - Use your ordinary word for death, for a person's physical life to end. Don't avoid the term just because the thought of death sounds too harsh.
-
-
+  * **ફળ**  - અમે નથી જાણતાં કે એ કેવા પ્રકારનું ફળ હતું. અમે ફક્ત એ જાણીએ છીએ કે તે આ વૃક્ષ પર ઉગ્યું હતું. શક્ય હોય તો એ સારુ રહેશે કે ફળ માટેનો સામાન્ય શબ્દ વાપરવો, અને કોઈ ખાસ પ્રકારના ફળનો નહિ.
+  * **સારા****અને****અનિષ્ટ****જ્ઞાનનું****વૃક્ષ**
+ - સ્ત્રી યોગ્ય રીતે સમજી ગઈ છે કે આ એક એવું વૃક્ષ છે કે જે તેમને દુષ્ટ તેમજ સારું સમજવા માટે સક્રિય કરશે એ ખાવાની મંજૂરી ન હતી.
+  * **તમે****મૃત્યું****પામશો** - એક વ્યક્તિનું ભૌતિક જીવન સમાપ્ત કરનાર મૃત્યું માટે તમારા સામાન્ય શબ્દ વાપરો. આ શબ્દને ન ટાળવો કેમ કે મૃત્યુનો વિચાર પણ કઠોર લાગે છે.
 **[[:gu:obs:notes:frames:02-02|<<]] | [[:gu:obs:notes:02|Up]] | [[:gu:obs:notes:frames:02-04|>>]]**
