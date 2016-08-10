@@ -1,23 +1,15 @@
-===== The Snake [02-02] =====
+===== **સાંપ** [02-02] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-02.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-02.jpg?nolink}}
+પરંતુ ત્યાં બગીચામાં એક **ચાલાક** **સાંપ** હતો. એણે સ્ત્રીને કહ્યું, "**ખરેખર** **શું** **દેવે** **તને** **કહ્યું** **છે** કે બગીચામાંના **કોઈ** **પણ** **વૃક્ષનું** **ફળ** ન ખાઈશ?"
+===== **મહત્વના** **શબ્દોઃ**  =====
 
-But there was a **crafty snake** in the garden. He asked the woman, “**Did God really tell you** not to eat the **fruit from any of the trees** in the garden?” 
+  * **દેવ**
+==== **અનુવાદ**  **નોંધોઃ**  ====
 
-===== Important Terms: =====
-
-
-  * **[[:gu:obe:kt:god]]**
-
-
-==== Translation Notes: ====
-
-
-  * **crafty** - Clever and sly, with the intent to deceive.
-  * **snake** - An elongated, legless land creature that now moves by wiggling on its belly. Although later on in the story it is revealed that the snake is Satan, this should not be said here in this frame.
-  * **Did God really tell you** - The snake asked the woman whether God actually said not to eat from any of the trees in the garden. But he was only pretending that he didn't know what God had said because he wanted to create doubt in the woman's mind. He wanted her to question God's goodness.
-  * **fruit of any of the trees** - All of the various types of fruit from each of the different trees in the garden.
-
-
+  * **ચાલાક**  - હોંશિયર અને કપટી, છેતરામણી ઈચ્છાઓ સભર.
+  * **સાંપ**  - એક લાંબું, પગ વગરનું ધરતીનું પ્રાણી જે ધીરેથી એના પેટથી ઘસડાઈને ચાલે છે. છતાંપણ વાર્તામાં ત્યારબાદ એ જાહેર થયું કે સાંપ એ શૈતાન છે, આ ચોક્ઠાંમાં એવું અત્યારે અહિં ન કહેવું.
+  * **શું****દેવે****તને****ખરેખર****કહ્યું****છે**  - સાંપે સ્ત્રીને પુંછ્યું કે શું દેવે ખરેખર આ બગીચાના કોઈપણ વૃક્ષનું ફળ ખાવાની મનાઈ ફરમાવી છે. પરંતુ એ ફક્ત ઠગી રહ્યો હતો કે દેવે જે આજ્ઞા આપી હતી એને એ ખબર ન હતી કેમ કે એ સ્ત્રીના મનમાં શંકા ઉત્પન્ન કરવા ઈચ્છતો હતો. એ તેણીને દેવની ભલાઈ વિશે પ્રશ્ન પુછવા ઈચ્છતો હતો.
+  * **કોઈ****પણ****વૃક્ષના****ફળ**  - બગીચામાંના અલગ અલગ વૃક્ષોમાંથી દરેક અલગ અલગ પ્રકારના ફળો.
 **[[:gu:obs:notes:frames:02-01|<<]] | [[:gu:obs:notes:02|Up]] | [[:gu:obs:notes:frames:02-03|>>]]**
