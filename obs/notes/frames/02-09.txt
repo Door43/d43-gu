@@ -1,24 +1,26 @@
-===== God Cursed the Snake [02-09] =====
+===== દેવે સાપને શ્રાપ આપ્યો  [02-09] =====
 
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-09.jpg?nolink}}
 
-**God** said to the snake, “**You are cursed**! You will slide on your belly and eat dirt. You and the woman will **hate each other**, and your children and her children will hate each other, too. The **woman’s descendant** will **crush your head**, and you will **wound his heel**.” 
+**દેવે** સાંપને કહ્યું, " તું **શ્રાપિત છે** ! તું તારા પેટ પર ઘસડાઈશ અને ધૂળ ખાધા કરશે. તું અને સ્ત્રી બન્ને એકબીજાને નફરત કરશો, અને તારા બાળકો અને તેણીના બાળકો એકબીજા પણ તિરસ્કાર કરશે. આ **સ્ત્રીના વંશજ** પગ નીચે **તારું માથું છુંદશે** અને તું **તેની એડી છુંદીશ. "**
+ 
 
-===== Important Terms: =====
+===== મહત્વપૂર્ણ શબ્દો: =====
 
-  * **[[:gu:obe:kt:god]]**
-  * **[[:gu:obe:kt:curse]]**
-  * **[[:gu:obe:other:descendant]]**
-
-
-===== Translation Notes: =====
+  * **[[:gu:obe:kt:દેવ]]**
+  * **[[:gu:obe:kt:શ્રાપ]]**
+  * **[[:gu:obe:other:વંશજ]]**
 
 
-  * **you are cursed** - This could also be translated as, "I curse you" or, "Great harm will come to you." Do not use a word that implies magic.
-  * **hate each other** - The woman would hate the snake and the snake would hate the woman. The women's descendants would also hate the snake's descendants, and the snake's descendants would hate them.
-  * **woman's descendant** - Refers to one of her descendants in particular.
-  * **crush your head** - The descendant of the woman will destroy the descendant of the snake.
-  * **wound his heel** - The descendant of the snake will wound the descendant of the woman.
+===== અનુવાદ નોંધો: =====
+
+
+  * **તું શ્રાપિત છે** - આ રીતે પણ અનુવાદ કરી શકાય કે, "હું તને શાપ આપું છું" અથવા, " મોટું નુકસાન તારી ઉપર આવશે." જે જાદુ સૂચિત કરે એવા શબ્દનો ઉપયોગ કરશો નહીં.
+  * **પ્રત્યેક એકબીજાને** ઘૃણા કરશે - સ્ત્રી સાંપને ધિક્કારશે અને સાંપ સ્ત્રીનો ધિક્કાર કરશે. મહિલાના વંશજો પણ સાંપના વંશજોને ધિક્કારશે, અને સાંપના વંશજો તેમને ધિક્કાર કરશે.
+  * **મહિલાના વંશજ** - તેણીના એક ખાસ વંશજનો ઉલ્લેખ કરે છે.
+  * **તારું માથું છુંદશે** - મહિલાના વંશજ સાંપના વંશજનો નાશ કરશે.
+  * **તેની એડી છુંદશે**  - સાંપના વંશજ મહિલાના વંશજ પર ઘા કરશે. 
+
 
 **[[:gu:obs:notes:frames:02-08|<<]] | [[:gu:obs:notes:02|Up]] | [[:gu:obs:notes:frames:02-10|>>]]**
