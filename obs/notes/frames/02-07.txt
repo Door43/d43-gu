@@ -1,14 +1,17 @@
-===== Where Are You? [02-07] =====
+===== તમે ક્યાં છો?  [02-07] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-07.jpg?nolink&}}
+પછી આદમ અને તેની પત્નીએ બગીચામાં દેવના પગલાનો અવાજ સાંભળ્યો. તેઓ બંને દેવથી છુપાઈ ગયા. પછી દેવે આદમને કહ્યું " તું ક્યાં છે ?"આદમે જવાબ આપ્યો, "મેં બગીચામાં તમારા ચાલવાનો અવાજ સાંભળ્યો, અને હું ડરી ગયો, કારણ કે હું નગ્ન હતો.તેથી હું છુપાઈ ગયો. "
 
-Then the man and his wife heard the sound of **God walking** through the garden. They both hid from God. Then God called to the man, “**Where are you**?” **Adam** replied, “I heard you walking in the garden, and I was afraid, because I was naked. So I hid.”
-===== Important Terms: =====
+===== મહત્વપૂર્ણ શબ્દો: =====
 
-  * **[[:gu:obe:kt:god|God]]**
-  * **[[:gu:obe:other:adam|Adam]]**
+  * **[[:gu:obe:kt:god|દેવ]]**
+  * **[[:gu:obe:other:adam|આદમ]]**
 ==== Translation Notes: ====
+દેવ ચાલ્યા - એવું લાગે છે કે દેવ નિયમિત ફરવા અને આદમ અને સ્ત્રી સાથે વાત કરવા માટે બગીચામાં આવતા હતા.
+અમને ખબર નથી કે એ કેવું દેખાતું હશે..
+જો શક્ય હોય તો, એ શ્રેષ્ઠ રહેશે કે તે જ શબ્દ વપરાય કે જે વ્યક્તિ ચાલતો હોય એ દર્શાવવા માટે ઉપયોગ થતો હોય.
+તમે ક્યાં છો? - દેવ પહેલેથી જ આ પ્રશ્નનો જવાબ જાણતા હતા.
+પ્રશ્નનો હેતુ પુરુષ અને સ્ત્રીને સમજાવવા માટે કે શા માટે તેઓ છુપાયેલા હતા એવો દબાવ બનાવવા માટે હતો.
 
-  * **God walking**  - It seems that God regularly came to the garden to walk and talk with the man and the woman. We do not know what this looked like. If it is possible, it is best to use the same word that would be used to talk about a person walking.
-  * **Where are you?**  - God already knew the answer to this question. The purpose of the question was to force the man and the woman to explain why they were hiding.
 **[[:gu:obs:notes:frames:02-06|<<]] | [[:gu:obs:notes:02|Up]] | [[:gu:obs:notes:frames:02-08|>>]]**
