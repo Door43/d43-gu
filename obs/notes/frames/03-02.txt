@@ -1,23 +1,26 @@
-===== Noah Found Grace [03-02] =====
+===== નૂહે કૃપા મેળવી  [03-02] =====
 
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-02.jpg?nolink}}
 
-But **Noah found favor** with **God**. He was a **righteous** man, living among wicked people. God told Noah about the flood He was **planning to send**. He told Noah to build a huge boat. 
-
-===== Important Terms: =====
+પરંતુ **નૂહને દેવ તરફથી કૃપા મળી**. તે એક **પ્રામાણિક** માણસ હતો, જે દુષ્ટ લોકો વચ્ચે રહેતો હતો. દેવે નુહને જળપ્રલય મોકલવા **માટેની યોજનાની** વાત કરી હતી . તેમણે નૂહને એક વિશાળ જહાજ બનાવવા જણાવ્યું હતું.
 
 
-  * **[[:gu:obe:other:noah]] **
-  * **[[:gu:obe:kt:god]]**
-  * **[[:gu:obe:kt:righteous]]**
+===== મહત્વપૂર્ણ શબ્દો: =====
 
 
-===== Translation Notes: =====
+  * **[[:gu:obe:other:નૂહ]] **
+  * **[[:gu:obe:kt:દેવ]]**
+  * **[[:gu:obe:kt:ધર્મી]]**
 
 
-  * **found favor** - God was pleased with Noah because he feared and obeyed God. So even though Noah was not sinless, God was gracious to him and made a plan to rescue his family from the devastating flood. Make sure this doesn't sound like Noah was lucky or that he just happened to escape. Rather, it was God's choice.
-  * **the flood** - See how you translated this in **[[:gu:obs:notes:frames:03-01|[03-01]]]**.
-  * **planning to send** - God planned to cause deep water to cover the earth by sending a lot of rain. That is, he planned to cause the flood by causing a lot of rain to fall.
+===== અનુવાદ નોંધો: =====
+
+
+  * **કુપા મળી** - દેવ નૂહ સાથે ખુશ હતો કારણ કે તે દેવનો ભય માનતો હતો અને દેવની આજ્ઞાનું પાલન કરતો હતો. તેથી ભલે નૂહ નિષ્કલંક ન હતો, દેવ તેની પ્રત્યે દયાળુ હતા અને વિનાશક પૂરમાંથી તેના કુટુંબને બચાવવાની એક યોજના બનાવી હતી. ખાતરી કરો કે આ એવું ન લાગે કે નૂહ નસીબદાર હતો કે તે માત્ર ભાગેડું જણાતો હોય. તેના બદલે, તે દેવની પસંદગી હતો.
+  * **જળપ્રલય** - જુઓ કે કેવી રીતે તમે આ અનુવાદ\ [૦૩-૦૧] .
+  * **મોકલવા માટે આયોજન** - પુષ્કળ વરસાદ મોકલીને દેવે પૃથ્વીને આવરી લેવા માટે ઊંડા પાણીનું આયોજન કર્યુ.
+  * એટલે કે, તેમણે આયોજન કર્યું જેથી ઘણો વરસાદ પડે જેના કારણે જળપ્રલય પેદા થાય.
+
 
 **[[:gu:obs:notes:frames:03-01|<<]] | [[:gu:obs:notes:03|Up]] | [[:gu:obs:notes:frames:03-03|>>]]**
