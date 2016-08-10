@@ -1,22 +1,16 @@
-===== One People [04-01] =====
+===== **એક લોકો** [04-01] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-01.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-01.jpg?nolink}}
+**જળપ્રલયના** **ઘણા** **વર્ષો** **બાદ**, ત્યારે જગતમાં **ઘણા** **લોકો** **હતા**, અને તેઓ બધા આપસમાં એક **જ** **ભાષામાં** વાતો કરતા હતા. **દેવની** આજ્ઞા હતી કે પૃથ્વી પર ફેલાઈ જાઓ, એને બદલે, તેઓ એક જગ્યાએ એકઠાં મળી અને **એક** **શહેર** **બનાવ્યું**.
+===== **મહત્વપૂર્ણ** **શબ્દો****:**  =====
 
-**Many years after the flood**, there were **again many people** in the world, and they all spoke the **same language**. Instead of filling the earth as **God** had commanded, they gathered together and built **a city**.
+  * **દેવ**
+===== **અનુવાદ**  **નોંધો****:**  =====
 
-===== Important Terms: =====
-
-
-  * **[[:gu:obe:kt:god]]**
-
-
-===== Translation Notes: =====
-
-
-  * **many years after the flood** - Many generations had passed since the end of the flood.
-  * **again many people** - Noah's family multiplied into enough people to fill a city.
-  * **same language** - This means there was only one language, so they could all understand each other.
-  * **a city** - It is best to use a general word for "city" since the text does not give a specific name.
-
+  * **જળપ્રલયના****ઘણા****વર્ષો****પછી**
+ - જળપ્રલય બાદ અસંખ્ય પેઢીઓ પસાર થઇ ગઈ.
+  * **ફરીથી****ઘણા****લોકો** - નૂહનું કુટુંબે પૂરતી સંખ્યામાં ગુણાકાર થઈ એક શહેર ભરી દીધુ.
+  * **સમાન****ભાષા** - આનો અર્થ એ થાય કે માત્ર એક જ ભાષા હતી, જેથી તેઓ બધા એકબીજાને સમજી શકે.
+  * **એક****શહેર** - તે ઉત્તમ ગણાશે કે સામાન્ય શબ્દ "શહેર" માટે વપરાય, કારણ કે લખાણ ચોક્કસ નામ નથી આપતું.
 **[[:gu:obs:notes:frames:03-16|<<]] | [[:gu:obs:notes:04|Up]] | [[:gu:obs:notes:frames:04-02|>>]]**
