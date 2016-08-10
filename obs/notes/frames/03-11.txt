@@ -1,14 +1,20 @@
-===== The Dove [03-11] =====
+===== કબુતર [03-11] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-11.jpg?nolink&}}
 
-Later, **Noah** sent out a bird called a **dove**. But it also could not find any dry land, so it came back to Noah. A week later he sent the dove out again, and it came back with an **olive branch** in its beak! **The water was going down**, and the plants were growing again!
-===== Important Terms: =====
+ત્યાર બાદ નૂહે એક પક્ષી જે કબૂતર કહેવાય બહાર મોકલ્યું .
+પરંતુ તે પણ સૂકી જમીન શોધી શક્યું નહિં, તેથી તે નૂહ પાસે પાછું આવ્યું.
+એક અઠવાડિયા પછી તેણે ફરીથી કબૂતર બહાર મોકલ્યું, અને તે તેની ચાંચમાં એક જૈતુન (ઓલિવ)ની ડાળી સાથે પાછું આવ્યું !
+પાણી પસાર થતું રહ્યું, અને છોડવાઓ ફરીથી વધવા લાગ્યાં!
 
-  * **[[:gu:obe:other:noah]]**
-===== Translation Notes: =====
+===== મહત્વપૂર્ણ શબ્દો: =====
 
-  * **dove**  - A small, white or gray flying bird that eats seeds or fruit.
-  * **olive branch**  - An olive tree's fruit contains oil which people use for cooking or putting on their skin. If your language does not have a word for "olive branch," you could translate it as, "branch from a tree called 'olive'" or, "branch from an oil-tree."
-  * **water was going down**  - It may be more natural in your language to say that, "the water was going away" or, "the level of the water was getting lower."
+  * **[[:gu:obe:other:નૂહ]]**
+
+===== અનુવાદ નોંધો:=====
+  * 
+  * **કબૂતર** - એક, નાનું સફેદ અથવા ભુરા રંગનુ ઉડતું પક્ષી જે બીજ અથવા ફળ ખાય છે.
+  * **જૈતુન (ઓલિવ) શાખા** - જૈતુન વૃક્ષનું ફળ જે તેલથી સભર હોય છે, અને લોકો રસોઈ કે તેમની ચામડી પર લગાડવા માટે ઉપયોગ કરતાં હોય છે. તમારી ભાષામાં "જૈતુનની ડાળી," કોઈ શબ્દ ન હોય તો તમે તેને, "એક વૃક્ષ ની ડાળી જે 'જૈતુન' કહેવાય " ભાષાંતર કરી શકો છો અથવા, "એક તૈલી વૃક્ષની ડાળી."
+  * **પાણી પસાર થઈ રહ્યું હતું** - તમારી ભાષામાં આમ કહેવું વધુ કુદરતી લાગશે કે, "પાણી દૂર થઇ રહ્યા હતા" અથવા "પાણીના સ્તર નીચા જઈ રહ્યા હતા."
+
 **[[:gu:obs:notes:frames:03-10|<<]] | [[:gu:obs:notes:03|Up]] | [[:gu:obs:notes:frames:03-12|>>]]**
