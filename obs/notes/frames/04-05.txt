@@ -1,26 +1,24 @@
-===== To Canaan [04-05] =====
+===== **કનાન તરફ** [04-05] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-05.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-05.jpg?nolink}}
+તેથી ઈ**બ્રામ** **દેવની** **આજ્ઞાનું** **પાલન** **કરતો** **હતો**. **તેણે** તેની પત્ની **સારાય****, ** તેના બધા સાથી-**સેવકો** **સાથે** અને તેની માલિકીનું બધું હતું એ લઈને અને એ પ્રદેશ પર ગયો જે **દેવે** **તેને** **બતાવ્યો** **હતો**, **કનાન** **દેશ** .
+===== **મહત્વપૂર્ણ** **શબ્દો****:**  =====
 
-So **Abram obeyed God**. **He took** his wife, **Sarai**, together with all of his **servants** and everything he owned and went to the land **God showed him**, **the land of Canaan**. 
+  * **ઈબ્રામ**
+  * **આજ્ઞાપાલન**
+  * **દેવ**
+  * **સારાઈ**
+  * **સેવકો**
+  * **કનાન**
+===== **અનુવાદ**  **નોંધો****:      **  =====
 
-===== Important Terms: =====
-
-
-  * **[[:gu:obe:other:abraham]]**
-  * **[[:gu:obe:other:obey]]**
-  * **[[:gu:obe:kt:god]]**
-  * **[[:gu:obe:other:sarah]]**
-  * **[[:gu:obe:other:servant]]**
-  * **[[:gu:obe:other:canaan]]**
-
-
-===== Translation Notes: =====
-
-
-  * **He took** – Some languages would say, "He brought" here. Others would use two different verbs here, such as, "He caused his wife to come with him" and, "He brought along all of their servants and possessions."
-  * **God showed him** - Somehow God made it clear to Abram where he was to go. The text doesn't tell how God showed him.
-  * **land of Canaan** - The name of this land was "Canaan". This could be translated, "the land called Canaan."
+  * **તેણે****લીધો****
+ - ** કેટલીક ભાષાઓ કહે છે, "તે લાવ્યો" અહીં.
+  * અન્ય અહીં બે અલગ અલગ ક્રિયાપદોનો ઉપયોગ કરશે, જેમ કે "તેણે તેની પત્નીને સાથે આવવા ફરજ પાડી" અને, "તેણે તેના નોકરો અને સંપત્તિ બધાને સાથે લાવ્યો હતો."
+  * **દેવ****તેને****દર્શાવ્યું** - કોઈક રીતે દેવે ઈબ્રામ ઉપર તે સ્પષ્ટ કર્યું કે તેને ક્યાં જવાનું હતું.
+  * લખાણ કહેતું નથી કે દેવે કેવી રીતે દર્શાવ્યું છે.
+  * **કનાન****દેશ** - આ પ્રદેશનું નામ "કનાન" હતું.
+  * આવી રીતે પણ અનુવાદ કરી શકાય, "આ ધરતી કનાન કહેવાય છે."
 
 **[[:gu:obs:notes:frames:04-04|<<]] | [[:gu:obs:notes:04|Up]] | [[:gu:obs:notes:frames:04-06|>>]]**
