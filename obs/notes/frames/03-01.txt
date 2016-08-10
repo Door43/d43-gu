@@ -1,23 +1,25 @@
-===== Sin Increased [03-01] =====
+===== પાપનો વધારો  [03-01] =====
 
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-01.jpg?nolink}}
 
-**After a long time**, many people were living in the world. They had become **very wicked and violent**. **It became so bad** that **God decided to destroy** the whole world with a **huge flood**. 
-
-===== Important Terms: =====
+**લાંબા સમય પછી** , ઘણા લોકો જગતમાં રહેતા હતા. તેઓ **ખૂબ જ હિંસક અને દુષ્ટ બની ગયા હતા**. **તેઓ ખુબ જ ખરાબ બની ગયા હતા** કે દેવે **તેઓનો** એક સાથે સમગ્ર વિશ્વમાં મોટો **જળપ્રલય લાવી નાશ કરવાનું નક્કી કર્યું.**
 
 
-  * **[[:gu:obe:kt:god]]**
+===== મહત્વપૂર્ણ શબ્દો: =====
 
 
-===== Translation Notes: =====
+  * **[[:gu:obe:kt:દેવ]]**
 
 
-  * **After a long time** - This story happens many generations (hundreds of years) after creation.
-  * **very wicked and violent** - It may be more natural to say, "had become wicked and did violent things".
-  * **It became so bad** – It may be clearer to say, "People were behaving in such harmful and evil ways that God."
-  * **God decided to destroy** - This does not mean that the earth would be destroyed completely. Rather God planned to destroy all the people who had rebelled against him and who had caused such evil and violence. This flood would also kill all the land animals and the birds.
-  * **huge flood** - Very deep water that would cover the earth, even in places where the ground was normally dry, and even covering the tops of the highest mountains.
+===== અનુવાદ નોંધો: =====
+
+
+  * **લાંબા સમય પછી** - આ વાર્તા સૃષ્ટીની રચના પછી ઘણી પેઢીઓ (સેંકડો વર્ષ) બાદ થાય છે.
+  * **ખૂબ જ હિંસક અને દુષ્ટ** - આમ કહેવું વધુ કુદરતી હોઈ શકે છે, "દુષ્ટ બની ગયા હતા અને હિંસક કાર્યો કરતા હતા".
+  * **તે અતિશય ખરાબ બની ગયા હતા** - આમ કહેવું સ્પષ્ટ હોઈ શકે કે "લોકો હાનિકારક અને દુષ્ટ રીતે વર્તન કરતા હતા કે દેવ."
+  * **દેવે નાશ કરવાનું નક્કી કર્યું** - આનો અર્થ એ નથી કે પૃથ્વી સંપૂર્ણપણે નાશ થશે. દેવે એ તમામ લોકોનો નાશ કરવાનું આયોજન કર્યું જેઓએ તેમની સામે બળવો કર્યો હતો અને જેઓ આવા અનિષ્ટ અને હિંસાનું કારણ હતા. આ જળપ્રલયના કારણે દરેક જમીનના પ્રાણીઓ અને પક્ષીઓ મરી જશે.
+  * **મોટો જળપ્રલય** - ખૂબ ઊંડુ પાણી જે પૃથ્વી પર છવાયેલું છે, એ સ્થાનોમાં પણ જ્યાં જમીન સામાન્ય રીતે સૂકી રહેતી હતી, અને તે પણ જે સૌથી ઉંચા પર્વતોના શીખરો પર છવાયેલું હતું.
+
 
 **[[:gu:obs:notes:frames:02-12|<<]] | [[:gu:obs:notes:03|Up]] | [[:gu:obs:notes:frames:03-02|>>]]**
