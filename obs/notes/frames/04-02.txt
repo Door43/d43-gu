@@ -1,24 +1,16 @@
-===== The Tower [04-02] =====
+===== **મિનાર ** [04-02] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-02.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-02.jpg?nolink}}
+તેઓને ખૂબ જ **ગર્વ** હતો, અને તેઓને, **દેવે** શું જણાવ્યું હતું એ વિશે કાળજી ન હતી. તેઓએ **સ્વર્ગ** **સુધી** **પહોંચવા** **માટે** **ઊંચો** **મિનાર** બનાવવાનું પણ શરૂ કર્યું હતું. દેવે જોયું કે, જો તેઓ બધા સાથે મળીને **દુષ્ટ** કામ કરતા રહેશે, તો તેઓ આનાથી પણ ઘણું વધુ **પાપસભર** વસ્તુઓ કરી શકે છે.
+===== **મહત્વપૂર્ણ** **શબ્દો****:**  =====
 
-They were very **proud**, and they did not care about what **God** said. They even began building a **tall tower to reach heaven**. God saw that if they all kept working together to do **evil**, they could do many more **sinful** things. 
+  * ****[[:gu:obe:other:proud|ગર્વ]]****
+  * **દેવ**
+  * **સ્વર્ગ**
+  * **દુષ્ટ**
+  * **પાપી**
+==== **અનુવાદ**  **નોંધો****:**  ====
 
-===== Important Terms: =====
-
-
-  * **[[:gu:obe:other:proud]]**
-  * **[[:gu:obe:kt:god]]**
-  * **[[:gu:obe:kt:heaven]]**
-  * **[[:gu:obe:kt:evil]]**
-  * **[[:gu:obe:kt:sin]]**
-
-
-===== Translation Notes: =====
-
-
-  * **tall tower to reach heaven** - This structure was so tall that its top would be in the sky.
-  * **heaven** – This could be translated as, "sky."
-
-**[[:gu:obs:notes:frames:04-01|<<]] | [[:gu:obs:notes:04|Up]] | [[:gu:obs:notes:frames:04-03|>>]]**
+  * **સ્વર્ગ****સુધી****પહોંચવા****માટે****ઊંચો****મિનાર** - આ માળખું એટલું ઊંચું હતું કે તેની ટોચ આકાશમાં હતી.
+  * **સ્વર્ગ**** -**  આ, અનુવાદ કરી શકાય, " આકાશ"
