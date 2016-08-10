@@ -1,27 +1,22 @@
-===== No Son [04-08] =====
+===== **કોઈ પુત્ર નથી** [04-08] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-08.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-08.jpg?nolink}}
+**ઘણા** **વર્ષો** ગયા, પરંતુ **ઈબ્રામ** અને **સરાઈને** હજુ પણ **સંતાન** ન હતું. **દેવે** ઈબ્રામ સાથે વાત કરી અને ફરીથી **વચન** **આપ્યું** કે તેને એક પુત્ર અને **આકાશમાંના** **તારાઓ** **સમાન** ઘણા **વંશજો** હશે. ઈબ્રામે દેવનું વચન **માન્યું**. દેવે જાહેર કર્યું કે ઈબ્રામ **ધર્મી** **હતો**, કારણ કે તે દેવનું વચન માનતો હતો.
+===== **મહત્વપૂર્ણ** **શબ્દો****:**  =====
+   * **ઈબ્રામ**
+  * **સરાઈ**
+  * **પુત્ર**
+  * **દેવ**
+  * **વચન**
+  * **વંશજો**
+  * **માન્યું**
+  * **ધર્મી**
+===== **અનુવાદ**  **નોંધો****:**  =====
 
-**Many years** went by, but **Abram** and **Sarai** still did not have a **son**. **God** spoke to Abram and **promised** again that he would have a son and as many **descendants** **as the stars in the sky**. Abram **believed** God's promise. God declared that Abram was **righteous** because he believed in God's promise. 
+**ઘણા વર્ષો **- દેવે પ્રથમ વચન આપ્યું હતું કે ઈબ્રામને એક દીકરો થશે એના ઘણા વર્ષો પસાર થઈ ગયા હતા.
 
-===== Important Terms: =====
-
-
-  * **[[:gu:obe:other:abraham]]**
-  * **[[:gu:obe:other:sarah]]**
-  * **[[:gu:obe:kt:son]]**
-  * **[[:gu:obe:kt:god]]**
-  * **[[:gu:obe:kt:promise]]**
-  * **[[:gu:obe:other:descendant]]**
-  * **[[:gu:obe:kt:believe]]**
-  * **[[:gu:obe:kt:righteous]]**
-
-
-===== Translation Notes: =====
-
-
-  * **Many years** - Several years had passed since God had first promised that Abram would have a son.
-  * **as the stars in the sky** - This expression means that Abram's descendants will be so many that no one can count them all.
+**આકાશના તારાઓ સમાન**
+ - આ અભિવ્યક્તિનો અર્થ એ થાય કે ઈબ્રામના વંશજો ઘણા હશે જેની કોઈપણ ગણતરી નહિ કરી શકે.
 
 **[[:gu:obs:notes:frames:04-07|<<]] | [[:gu:obs:notes:04|Up]] | [[:gu:obs:notes:frames:04-09|>>]]**
