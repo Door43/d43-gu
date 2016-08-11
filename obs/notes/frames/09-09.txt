@@ -1,20 +1,14 @@
-===== Moses Killed an Egyptian [09-09] =====
+===== મુસાએ મિસરીને મારી નાંખ્યો [09-09] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-09.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-09.jpg?nolink}}
+જ્યારે **મુસાએ** વિચાર્યું કે કોઈ પણ જોઈ નહિ શકે, એણે **મિસરીને** મારી નાંખી અને માંટીમાં દાટી દિધો. પરંતુ કેટલાક લોકોએ મુસાને એવું કરતા જોઈ લીધો હતો.
+===== મહત્વપૂર્ણ શબ્દો: =====
 
-When **Moses** thought nobody would see, he killed the **Egyptian** and buried his body. But someone saw what Moses had done.
-===== Important Terms: =====
+  * **મુસા**
+  * **મિસરી**
+===== અનુવાદ નોંધોઃ =====
 
-
-  * **[[:gu:obe:other:moses]]**
-  * **[[:gu:obe:other:egypt]]**
-
-
-==== Translation Notes: ====
-
-
- * //(There are no notes for this frame.)// 
-
+//* (આ માળખામાં કોઈ નોંધો નથી)//
 
 **[[:gu:obs:notes:frames:09-08|<<]] | [[:gu:obs:notes:09|Up]] | [[:gu:obs:notes:frames:09-10|>>]]**
