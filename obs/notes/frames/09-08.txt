@@ -1,24 +1,17 @@
-===== An Egyptian Beat a Slave [09-08] =====
+===== એક મિસરીએ એક ગુલામને માર્યો [09-08] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-08.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-08.jpg?nolink}}
+એક દિવસ, જ્યારે **મુસા** યુવાન થઈ ગયો હતો, એણે જોયું કે એક **મિસરી** એક **ઈસ્રાએલી** **ગુલામ** ને મારી રહ્યો હતો. મુસાએ પોતાના ઈસ્રાએલી સાથીને બચાવવાની કોશિશ કરી.
+===== મહત્વપૂર્ણ શબ્દો: =====
 
-One day, when **Moses** had grown up, he saw an **Egyptian** beating an **Israelite slave**. Moses tried to **save** his **fellow Israelite**.
-===== Important Terms: =====
+  * **મુસા**
+  * **મિસરી**
+  * **ઈસ્રાએલી**
+  * **ગુલામ**
+  * **બચાવ**
+===== અનુવાદ નોંધોઃ =====
 
-
-  * **[[:gu:obe:other:moses]]**
-  * **[[:gu:obe:other:egypt]]**
-  * **[[:gu:obe:other:israel]]**
-  * **[[:gu:obe:other:servant]]**
-  * **[[:gu:obe:kt:save]]**
-
-
-==== Translation Notes: ====
-
-
-  * **grown up** - Another way to say this would be, "grown into a man."
-  * **fellow Israelite** - This phrase refers to the Israelite slave. The word "fellow" here indicates that Moses was also an Israelite. Although the daughter of the Egyptian Pharaoh raised Moses, Moses remembered that he was really an Israelite.
-
-
+  * **વયસ્ક બની ગયો**  – બીજી રીતે કહીએ તો, “એક માણસ બની ગયો.”
+  * **ઈસ્રાએલી સાથીદાર**  – આ વ્યાખ્યા ઈસ્રાએલી ગુલામ તરફ નિર્દેશ કરે છે. “સાથીદાર” એ શબ્દ અહિ મુસા પોતે પણ એક ઈસ્રાએલી હતો એ દર્શાવે છે. ફારુનની દિકરીએ મુસાનો ઉછેર કર્યો હોવા છતાંપણ, મુસાને એ યાદ હતું કે ખરેખર તે પોતે પણ એક ઈસ્રાએલી હતો.
 **[[:gu:obs:notes:frames:09-07|<<]] | [[:gu:obs:notes:09|Up]] | [[:gu:obs:notes:frames:09-09|>>]]**
