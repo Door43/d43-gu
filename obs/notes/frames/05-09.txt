@@ -1,23 +1,17 @@
-===== The Ram [05-09] =====
+===== **બકરો** [05-09] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-05-09.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-05-09.jpg?nolink}}
+નજીકમાં **ઈબ્રાહિમે** જોયું એક **બકરો** ઝાડીઓમાં અટવાઇ ગયો હતો. **દેવે** **ઇસહાકને** બદલે **બલિદાન** **રૂપે** બકરો **આપ્યો** **હતો**. ઈબ્રાહિમે ઉમળકાભેર બકરાનું બલિદન ધરાવે છે.
+===== **મહત્વપૂર્ણ** **શબ્દો****:**  =====
 
-Nearby **Abraham** saw **a ram** that was stuck in a bush. **God had provided the ram** to be the **sacrifice** instead of **Isaac**. Abraham happily offered the ram as a sacrifice. 
+  * **ઈબ્રાહિમ**
+  * **દેવ**
+  * **બલિદાન**
+  * **ઇસહાક**
+===== **અનુવાદ**  **નોંધો****:**  =====
 
-===== Important Terms: =====
-
-
-  * **[[:gu:obe:other:abraham]]**
-  * **[[:gu:obe:kt:god]]**
-  * **[[:gu:obe:other:sacrifice]]**
-  * **[[:gu:obe:other:isaac]]**
-
-
-===== Translation Notes: =====
-
-
-  * **a ram** - A ram is a male goat. Goats were one of the animals that people could sacrifice to God.
-  * **God had provided the ram** - Just at the right moment, God caused the ram to be stuck in the bush.
-
-**[[:gu:obs:notes:frames:05-08|<<]] | [[:gu:obs:notes:05|Up]] | [[:gu:obs:notes:frames:05-10|>>]]**
+  * **એક****બકરો**
+ - રામ એક બકરો છે. બકરા એ પ્રાણીઓ છે કે જેને લોકો દેવને બલિદાન કરી શકે છે.
+  * **દેવે****બકરો****આપ્યો****હતો** - માત્ર યોગ્ય સમયે, દેવે બકરાને ઝાડીમાં ફસાઈ જવા દીધો.
+**[[<<]] | [[Up]] | [[>>]]**
