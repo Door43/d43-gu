@@ -1,23 +1,17 @@
-===== The Israelites [09-01] =====
+===== ઈસ્રાએલીઓ [09-01] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-01.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-01.jpg?nolink}}
+યુસુફના મૃત્યુ પછી, તેના દરેક સગાસંબંધીઓ મિસરમાં રોકાઈ ગયા. તેઓ અને તેઓના વંશોજો ઘણા વર્ષો સુધી ત્યાં રહેવા લાગ્યા અને તેઓને ઘણા સંતાનો થયા. તેઓ ઈસ્રાએલીઓ કહેવાયા.
 
-After **Joseph** died, all of his relatives stayed in **Egypt**. They and their **descendants** continued to live there for many years and had many children. They were called the **Israelites**.
+===== મહત્વપૂર્ણ શબ્દો: =====
 
-===== Important Terms: =====
+  * **યુસુફ**
+  * **મિસર**
+  * **વંશજો**
+  * **ઈસ્રાએલીઓ**
+===== અનુવાદ નોંધોઃ =====
 
-
-  * **[[:gu:obe:other:josephot]]**
-  * **[[:gu:obe:other:egypt]]**
-  * **[[:gu:obe:other:descendant]]**
-  * **[[:gu:obe:other:israel]]**
-
-
-==== Translation Notes: ====
-
-
-  * **called the Israelites** - The people group that descended from Jacob was called "Israel," which is the name that God gave to Jacob. The people from that group were called "Israelites."
-
+ઈસ્રાએલીઓ કહેવાયા: યાકૂબમાંથી જે લોકોનું જુથ ઉતરી આવ્યું તેઓ “ઈસ્રાએલ” કહેવાયા, જે નામ યાકૂબને દેવે આપ્યું હતું. એ જુથાના લોકો “ઈસ્રાએલીઓ” કહેવાણા.
 
 **[[:gu:obs:notes:frames:08-15|<<]] | [[:gu:obs:notes:09|Up]] | [[:gu:obs:notes:frames:09-02|>>]]**
