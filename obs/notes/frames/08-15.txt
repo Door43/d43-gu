@@ -1,30 +1,24 @@
-===== The Twelve Sons [08-15] =====
+===== બાર પુત્રો [08-15] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-15.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-15.jpg?nolink}}
+દેવે ઈબ્રાહિમને કરારના વચનો આપ્યા હતા એ ઇસહાક પર પસાર થઈ ગયા હતા, પછી યાકૂબ ઉપર, અને પછી યાકૂબના બાર પુત્રો અને તેઓના કુટુંબીઓ પર. બાર પુત્રોના વંશજો ઈસ્રાએલાના બાર કુળો બની ગયા.
 
-The **covenant promises** that **God** gave to **Abraham** were **passed on to Isaac**, then to **Jacob**, and then to Jacob’s twelve sons and their families. The **descendants** of the twelve sons became the **twelve tribes of Israel**. 
+===== મહત્વપૂર્ણ શબ્દો: =====
 
-===== Important Terms: =====
+  * **કરાર**
+  * **વચનો**
+  * **દેવ**
+  * **ઈબ્રાહિમ**
+  * **ઇસહાક**
+  * **યાકૂબ**
+  * **વંશજો**
+  * **ઈસ્રાએલ**
+===== અનુવાદ નોંધોઃ =====
 
-
-  * **[[:gu:obe:kt:covenant]]**
-  * **[[:gu:obe:kt:promise]]**
-  * **[[:gu:obe:kt:god]]**
-  * **[[:gu:obe:other:abraham]]**
-  * **[[:gu:obe:other:isaac]]**
-  * **[[:gu:obe:other:jacob]]**
-  * **[[:gu:obe:other:descendant]]**
-  * **[[:gu:obe:other:israel]]**
-
-
-==== Translation Notes: ====
-
-
-  * **covenant promises** - Long ago God made an agreement with Abraham and promised him that he would give him many descendants; they would possess the land of Canaan and become a great nation. God also promised that all peoples would be blessed through Abraham's line. See also **[[:gu:obs:notes:frames:07-10|[07-10]]]**.
-  * **passed on to** - Another way to say this would be, "passed down to" or, "given to" or, "applied to." God's promise to Abraham was also for Abraham's children, grandchildren and all the rest of his descendants. See also **[[:gu:obs:notes:frames:06-04|[06-04]]]**.
-  * **twelve tribes of Israel** - God had promised Abraham, Isaac and Jacob that their descendants would become a great nation. God later changed Jacob's name to Israel. The descendants of Jacob's 12 sons became 12 great tribes. These 12 tribes made up the ancient nation called Israel, which was named by Jacob's new name.
-  * //A Bible story from// - These references may be slightly different in some Bible translations.
-
+  * કરારના વચનો – ઘણા સમય પહેલા દેવે ઈબ્રાહિમ જોડે એક કરાર કર્યો હતો અને એને વચન આપ્યું હતુ કે તેઓ એને અસંખ્ય વંશજો પ્રદાન કરશે; તેઓ કનાન દેશની જમીન કબજે કરશે અને તેઓ મહાન રાષ્ટ્ર બનશે. દેવે એ પણ વચન આપ્યું હતું કે દરેક લોકો ઈબ્રાહિમના વંશજો દ્વારા આશિર્વાદ પામશે. આ પણ જુઓ \ [૦૭-૧૦]
+  * ના ઉપર પસાર થઈ જવું – બીજી રીતે આવું કહિ શકાય કે, “ની નીચે પસાર થઈ ગયું” અથવા, “ને આપી દેવાયું” અથવા, “ને જોડી દેવાયું.” ઈબ્રાહિમને દેવનું વચન એના સંતાનો, પ્રપૌત્રો અને ભવિષ્યના વંશોજો માટે પણ હતું. આ પણ જુઓ \ [૦૬-૦૪]
+  * ઈસ્રાએલાના બાર કુળો – દેવે ઈબ્રાહિમ, ઇસહાક અને યાકૂબને વચન આપ્યું હતુ કે તેઓના વંશજો એક મહાન રાષ્ટ્ર બનશે. દેવે ત્યારબાદ યાકૂબનું નામ બદલીને ઈસ્રાએલ રાખ્યું. યાકૂબના બાર સંતાનોના વંશજો એ બાર મહાન જાતી બની ગયા. આ બાર જાતીઓએ પ્રાચીન રાષ્ટ્ર ઈસ્રાએલ રચ્યું, જે યાકૂબના નવા નામ પ્રમાણે બન્યું.
+  * બાઈબલની એક વાર્તા – આ સંદર્ભ અન્ય બાઈબલના અનુવાદો કરતા થોડું અલગ હોઈ શકે.
 
 **[[:gu:obs:notes:frames:08-14|<<]] | [[:gu:obs:notes:08|Up]] | [[:gu:obs:notes:frames:09-01|>>]]**
