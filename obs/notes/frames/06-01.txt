@@ -1,24 +1,25 @@
-===== A Wife for Isaac [06-01] =====
+===== ઇસહાક માટે પત્ની  [06-01] =====
 
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-06-01.jpg?nolink}}
 
-When **Abraham** was very old, his **son**, **Isaac**, had grown to be a man. So Abraham **sent one of his servants back to the land** where his relatives lived **to bring back a wife for his son**, **Isaac**. 
+જ્યારે ઈબ્રાહિમ ખૂબ જ ઘરડો થઈ ગયો, તેનો પુત્ર, ઇસહાક, એક યુવાન પુરુષ બની ગયો હતો. તેથી ઈબ્રાહિમ તેના એક સેવકને જ્યાં તેમના સંબંધીઓ રહેતા તેમના દેશમાં તેના પુત્ર ઇસહાક માટે પત્ની પાછી લાવવા માટે મોકલ્યો હતો.
 
-===== Important Terms: =====
-
-
-  * **[[:gu:obe:other:abraham]]**
-  * **[[:gu:obe:kt:son]]**
-  * **[[:gu:obe:other:isaac]]**
-  * **[[:gu:obe:other:servant]]**
+===== મહત્વપૂર્ણ શબ્દો: =====
 
 
-===== Translation Notes: =====
+  * **[[:gu:obe:other:ઈબ્રાહિમ]]**
+  * **[[:gu:obe:kt:પુત્ર]]**
+  * **[[:gu:obe:other:ઇસહાક]]**
+  * **[[:gu:obe:other:સેવકો]]**
 
 
-  * **sent one of his servants back** – This could be translated as, "told one of his servants to go back." The word "back" means that the servant would be going to the same place where Abraham used to live long ago before he came to Canaan. Make sure the translation of this phrase makes that clear.
-  * **to the land** - This land was east of where Abraham was now living.
-  * **to bring back a wife for his son, Isaac** - This could be translated as, "to bring back an unmarried woman for his son, Isaac, to marry".
+===== અનુવાદ નોંધો: =====
+
+
+  * **પોતાના એક સેવકને પાછો મોકલ્યોં** - આને આવી રીતે અનુવાદ કરી શકાય છે, "(તેના સગાઓના દેશમાં) પાછા જવા માટે તેના એક નોકરને કહ્યું." આ શબ્દ "પાછા" નો અર્થ એ થાય કે એનો સેવક એ જ જગ્યાએ જાય છે જ્યાં ઈબ્રાહિમ લાંબા સમય પહેલા ત્યાંથી રહેવા માટે કનાન આવ્યો. ખાતરી કરો કે આ શબ્દસમૂહ અનુવાદ સ્પષ્ટ બનાવે.
+  * **પ્રદેશ** - આ પ્રદેશ પૂર્વમાં હતો જ્યાં ઈબ્રાહિમ હવે રહેતો હતો,.
+  * **તેના પુત્ર ઇસ્હાક માટે પત્ની પાછી લાવવા માટે** - આ, આવી રીતે ભાષાંતર કરી શકાય છે "તેના પુત્ર ઇસહાકના લગ્ન કરવા માટે અપરિણીત સ્ત્રી પાછી લાવવા માટે."
+
 
 **[[:gu:obs:notes:frames:05-10|<<]] | [[:gu:obs:notes:06|Up]] | [[:gu:obs:notes:frames:06-02|>>]]**
