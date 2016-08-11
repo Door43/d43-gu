@@ -1,26 +1,20 @@
-===== Hagar [05-01] =====
+===== **હાગાર** [05-01] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-05-01.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-05-01.jpg?nolink}}
+દસ વર્ષ પછી **ઈબ્રામ** અને **સરાઈ** **કનાન** આવ્યા, **તેઓને** **હજુ** **પણ** **એકપણ** **બાળક** **ન** **હતું** . તેથી ઈબ્રામની પત્ની, સરાઈએ, તેને કહ્યું કે, "**દેવને****,** **મને** બાળકો હોય એ મંજૂર નથી અને હવે હું ખૂબ જ ઘરડી છું કે બાળકો હોય, અહીં મારી **સેવિકા** **છે**, **હાગાર** . **તેની** **જોડે** **લગ્ન** **કર** જેથી તે **મારા** **માટે** **એક** **બાળક** **પેદા** કરી શકે."
+===== **મહત્વપૂર્ણ** **શબ્દો****:**  =====
 
-Ten years after **Abram** and **Sarai** arrived in **Canaan**, **they still did not have a child**. So Abram's wife, Sarai, said to him, “Since **God** has not allowed me to have children and now I am too old to have children, here is my **servant**, **Hagar**. **Marry her also** so she can **have a child for me**.” 
+  * **ઈબ્રામ**
+  * **સરાઈ**
+  * **કનાન**
+  * **દેવ**
+  * **નોકર**
+  * **હાગાર**
+===== **અનુવાદ**  **નોંધો****:**  =====
 
-===== Important Terms: =====
-
-
-  * **[[:gu:obe:other:abraham]]**
-  * **[[:gu:obe:other:sarah]]**
-  * **[[:gu:obe:other:canaan]]**
-  * **[[:gu:obe:kt:god]]**
-  * **[[:gu:obe:other:servant]]**
-  * **[[:gu:obe:other:hagar]]**
-
-
-===== Translation Notes: =====
-
-
-  * **still did not have a child** - Without a child, Abram had no descendants to become a great nation.
-  * **Marry her also** - Abram would take Hagar as a second wife, but Hagar would not have the full status of a wife as Sarai did. She was still Sarai's servant.
-  * **have a child for me** - Since Hagar was Sarai's servant, Sarai would be considered the mother of any children that Hagar bore.
-
+  * **હજુ****પણ****એક****બાળક****ન****હતું**
+ - બાળક વિના, અબ્રામ એક મહાન રાષ્ટ્ર બને એવા કોઈ વંશજો ન હતા.
+  * **તેની****જોડે****પણ****લગ્ન** **કર**  - ઈબ્રામ હાગારને એક બીજી પત્ની તરીકે લેશે, પરંતુ હાગારને સંપૂર્ણ પત્નીનો દરજ્જો ન હશે, સરાઈ જેવો. તે હજુ પણ સરાઈની સેવિકા હતી.
+  * **મારા****માટે****એક****બાળક****હોય** - હાગાર સરાઈની સેવિકા હોવાથી, સરાઈ કોઇ પણ બાળકો જે હાગાર ધરાવશે, એની માતા ગણવામાં આવશે.
 **[[:gu:obs:notes:frames:04-09|<<]] | [[:gu:obs:notes:05|Up]] | [[:gu:obs:notes:frames:05-02|>>]]**
