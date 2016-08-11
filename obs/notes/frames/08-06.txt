@@ -1,27 +1,20 @@
-===== Pharaoh's Dream [08-06] =====
+===== **રાજાનું સ્વપ્ન** [08-06] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-06.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-06.jpg?nolink}}
+બે વર્ષ પછી, **યુસુફ** હજુ પણ જેલમાં હતો, તે **નિર્દોષ** **હોવા** છતાં પણ. એક રાત્રે, **ફારુન**, કે જેને **મિસરવાસીઓ** તેમનો રાજા કહે **છે**, બે **સપનાઓ** **તેને** **મોટા** **પ્રમાણમાં** **ખલેલ** **પહોંચાડતા** **હતા**. **તેના** **કોઈપણ** **સલાહકારો** તેને **સપનાનો** **અર્થ** કહી શકતા ન હતા.
+===== મહત્વપૂર્ણ શબ્દો: =====
 
-After two years, **Joseph** was still in prison, even though he was **innocent**. One night, the **Pharaoh**, which is what the **Egyptians** called their **kings**, had two **dreams** that **disturbed him greatly**. None of **his advisors** could tell him the **meaning of the dreams**. 
+  * **યુસુફ**
+  * **નિર્દોષ**
+  * **ફારુન**
+  * **મિસરવાસીઓ**
+  * **રાજા**
+  * **સપના**
+===== અનુવાદ નોંધો: =====
 
-===== Important Terms: =====
-
-
-  * **[[:gu:obe:other:josephot]]**
-  * **[[:gu:obe:kt:innocent]]**
-  * **[[:gu:obe:other:pharaoh]]**
-  * **[[:gu:obe:other:egypt]]**
-  * **[[:gu:obe:other:king]]**
-  * **[[:gu:obe:other:dream]]**
-
-
-==== Translation Notes: ====
-
-
-  * **disturbed him greatly** – This means that the king felt very afraid and confused (because of what he had seen in the dreams).
-  * **his advisors** - These were men with special powers and knowledge who could sometimes tell what dreams meant. Some translations refer to them as, "wise men."
-  * **meaning of the dreams** - People in Egypt believed that dreams were messages from the gods telling them about what would happen in the future. God used Pharaoh's dreams to tell him what would happen.
-
+  * તેને મોટા પ્રમાણમાં ખલેલ પહોંચાડી - "આનો અર્થ એ થાય કે રાજા ખૂબ જ ભયભીત અને (કારણ કે તે્ણે જે સપના માં જોયું હતું) ભ્રમીત થઈ ગયો.
+  * તેના સલાહકારો - આ પુરુષો ખાસ શક્તિ અને જ્ઞાન ધરાવતા હતા જેઓ કહી શકે કે શું અર્થ થાય છે સપનાનો. કેટલાક અનુવાદો, તેમનો સંદર્ભ "શાણા માણસો" જેવા સાથે સરખાવે છે.
+  * સપનાનો અર્થ - મિસરના લોકો માને છે કે સપના તેમને ભવિષ્યમાં શું થશે તે વિશે કહેતા દેવતાઓના સંદેશાઓ હોય છે. દેવે ફારુનના સપનાનો ઉપયોગ શું થવાનું છે એ કહેવા માટે કર્યો હતો.
 
 **[[:gu:obs:notes:frames:08-05|<<]] | [[:gu:obs:notes:08|Up]] | [[:gu:obs:notes:frames:08-07|>>]]**
