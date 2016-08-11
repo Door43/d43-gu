@@ -1,23 +1,17 @@
-===== Jacob Went to Egypt [08-14] =====
+===== યાકૂબ મિસર ગયો [08-14] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-14.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-14.jpg?nolink}}
+યાકૂબ વૃધ્ધ થઈ ગયો હતો છતાં પણ, એ એના દરેક કુંટુંબીઓ જોડે મિસર ગયો, અને તેઓએ ત્યાં નિવાસ કર્યો. યાકૂબે મરતા પહેલા, એના દરેક પુત્રોને આશિર્વાદ આપ્યા.
 
-**Even though Jacob was an old man, he moved to Egypt** with all of his family, and they all lived there. **Before Jacob died**, he **blessed** each of his sons. 
+===== મહત્વપૂર્ણ શબ્દો: =====
 
-===== Important Terms: =====
+  * **યાકૂબ**
+  * **મિસર**
+  * **ધન્ય**
+===== અનુવાદ નોંધોઃ =====
 
-
-  * **[[:gu:obe:other:jacob]]**
-  * **[[:gu:obe:other:egypt]]**
-  * **[[:gu:obe:kt:bless]]**
-
-
-==== Translation Notes: ====
-
-
-  * **Even though Jacob was an old man, he moved to Egypt** - Egypt was a great distance away from Canaan, and it would have been difficult for an elderly man to walk or ride a cart that far.
-  * **Before Jacob died** - Jacob died in Egypt. He did not get to return to Canaan, the land God had promised to give to him and his descendants.
-
+  * યાકૂબ વૃધ્ધ થઈ ગયો હતો છતાં પણ, એ મિસર ગયો – મિસર કનાનથી ખુબ જ દુર હતું, અને એક વૃધ્ધ વ્યક્તિ માટે એટલે દુર સુધી ચાલવું અથવા ગાડામાં સફર કરવી ખુબ જ મુશ્કેલ ભર્યું હતું.
+  * યાકૂબના મૃત્યુ પહેલા – યાકૂબ મિસરમાં મૃત્યું પામ્યો. એ પાછો કનાન ન આવી શક્યો, જે પ્રદેશ એને અને એના વંશજોને આપવાનું દેવે વચન આપ્યું હતું.
 
 **[[:gu:obs:notes:frames:08-13|<<]] | [[:gu:obs:notes:08|Up]] | [[:gu:obs:notes:frames:08-15|>>]]**
