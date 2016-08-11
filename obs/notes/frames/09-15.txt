@@ -1,25 +1,20 @@
-===== Aaron Helped Moses [09-15] =====
+===== હારુનની મુસાને મદદ [09-15] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-15.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-15.jpg?nolink}}
+**મુસા** **ડરી** **ગયો** **હતો** **અને** **ફારુન** **પાસે** **જવા** **ન** **ચાહતો** **હતો** કેમ કે એ ધારતો હતો કે એ સારો વક્તા ન હતો, એટલે **દેવે** **મુસાના** **ભાઈ****, ****હારુનને**, એને મદદ કરવા મોકલ્યો. પરમેશ્વર મુસા અને હારુનને ચેતવ્યા હતાં કે ફારુન ખુબ જ **જીદ્દી** હશે.
+===== મહત્વપૂર્ણ શબ્દો: =====
 
-**Moses was afraid and did not want to go to Pharaoh** because he thought he could not speak well, so **God** sent **Moses’ brother**, **Aaron**, to help him. God warned Moses and Aaron that Pharaoh would be **stubborn**.
-===== Important Terms: =====
+  * **મુસા**
+  * **ફારુન**
+  * **પરમેશ્વર**
+  * **હારુન**
+===== અનુવાદ નોંધોઃ =====
 
-
-  * **[[:gu:obe:other:moses]]**
-  * **[[:gu:obe:other:pharaoh]]**
-  * **[[:gu:obe:kt:god]]**
-  * **[[:gu:obe:other:aaron]]**
-
-
-==== Translation Notes: ====
-
-
-  * **was afraid and did not want to go** - Moses knew that Pharaoh wanted to kill him, and he did not believe that he could do what God wanted him to do.
-  * **Moses' brother, Aaron** - Aaron was Moses's actual brother from his Israelite mother and father. Aaron would have been at least several years older than Moses.
-  * **stubborn** - This means the Pharaoh would refuse to obey God. You may also want to add, "stubborn and refuse to listen (or obey)."
-  * //A Bible story from// - These references may be slightly different in some Bible translations.
-
+  * ડરતો હતો અને જવા ઈચ્છતો ન હતો - મુસાએ જાણ્યું કે ફારુન એને મારી નાંખવા ઈચ્છતો હતો, અને એ વિશ્વાસ ન હતો કે પરમેશ્વર જે ચાહે છે તે પોતે કરી શકે છે.
+  * મુસાનો ભાઈ હારુન - હારુન મુસાનો સગો ભાઈ હતો જે એની માતા અને પિતાનો પુત્ર હતો.
+  * હારુન મુસાથી થોડા જ વર્ષ મોટો હશે.
+  * હઠીલો - આનો અર્થ છે કે ફારુન પરમેશ્વરનું માનવાનું નકારશે. તમે કદાચ પોતે ઉમેરો કરવા ઈચ્છો, "જીદ્દી અને સાંભળવા (અમલ કરવા) નકારનાર."
+  * બાઈબલની વાર્તા - આ સંદરર્ભો કેટલાક બાઈબલ અનુવાદોથી કદાચ થોડા  અલગ હોઈ શકે.
 
 **[[:gu:obs:notes:frames:09-14|<<]] | [[:gu:obs:notes:09|Up]] | [[:gu:obs:notes:frames:10-01|>>]]**
