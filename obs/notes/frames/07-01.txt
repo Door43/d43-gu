@@ -1,24 +1,17 @@
-===== The Boys Grew Up [07-01] =====
+===== **છોકરાઓ મોટા થયા** [07-01] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-07-01.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-07-01.jpg?nolink}}
+જ્યારે છોકરાઓ મોટા થયા, ત્યારે **યાકૂબ** **ઘરમાં** **રહેવાને** **પ્રેમ** **કરતો**, પરંતુ **એસાવ** **શિકાર** **કરવાને** **પ્રેમ** **કરતો**. **રિબકા** **યાકૂબને** **પ્રેમ** **કરતી**, **પરંતુ** **ઇસહાક** **એસાવને** **પ્રેમ** **કરતો**.
+===== **મહત્વપૂર્ણ** **શબ્દો****:**  =====
+   * **યાકૂબ**
+  * **એસાવ**
+  * **રિબકા**
+  * **ઇસહાક**
+===== **અનુવાદ**  **નોંધો****:**  =====
 
-As the boys grew up, **Jacob loved to stay at home**, but **Esau loved to hunt**. **Rebekah loved Jacob**, **but Isaac loved Esau**. 
-
-===== Important Terms: =====
-
-
-  * **[[:gu:obe:other:jacob]]**
-  * **[[:gu:obe:other:esau]]**
-  * **[[:gu:obe:other:rebekah]]**
-  * **[[:gu:obe:other:isaac]]**
-
-
-===== Translation Notes: =====
-
-
-  * **loved to stay at home … loved to hunt** - Some languages will use a word for "love" here that is different from the one used for, "Rebekah loved Jacob." For example, this could be translated as, "liked to stay at home … liked to hunt" or, "preferred to stay at home … preferred to hunt."
-  * **at home** - This expression refers to the area around the family dwellings. Jacob preferred to stay close to the tents where they lived. Some languages have a special expression for, "at home."
-  * **Rebekah loved Jacob, but Isaac loved Esau** - This could be translated as, "Rebekah was more fond of Jacob, and Isaac was more fond of Esau." This does not necessarily mean that Rebekah and Isaac did not love the other son, but that each parent had a favorite.
-
+  * **એક****ઘરે****રહેવા****માટે****પ્રેમ****કરતો****| ****શિકાર****કરવાને****પ્રેમ** **કરતો**
+ - કેટલીક ભાષાઓ અહિં "પ્રેમ" માટે એક શબ્દ ઉપયોગ કરશે, જે "રિબકાને યાકૂબ માટે પ્રેમ" અલગ છે. ઉદાહરણ તરીકે, આ આવી રીતે ભાષાંતર કરી શકાય છે, કારણ કે " એકને ઘરે રહેવાનું ગમ્યું | શિકાર કરવાનું ગમ્યું" અથવા, " એકને ઘરમાં રહેવાનું પસંદ | શિકાર કરવાનું પસંદ"
+  * **ઘરે** - આ અભિવ્યક્તિ કૌટુંબિક નિવાસોના આસપાસના વિસ્તારનો ઉલ્લેખ કરે છે. યાકૂબે જ્યાં તંબુ હતા ત્યાં નજીક રહેવાનું પસંદ કર્યું હતું. કેટલીક ભાષાઓ માટે ખાસ અભિવ્યક્તિ ધરાવે છે, "ઘરમાં.'
+  * **રિબકા****યાકૂબને****પ્રેમ કરતી****હતી****, ****પરંતુ****ઇસહાક****એસાવને****પ્રેમ****કરતો****હતો** - આ રીતે પણ અનુવાદ કરી શકાય, "રિબકાને યાકૂબ વધુ ગમતો હતો, અને ઇસહાકને એસાવ વધુ ગમતો હતો" આ અર્થ એ નથી કે રિબકાને અને ઇસહાક અન્ય પુત્રને પ્રેમ ન કરતા હતા, પરંતુ દરેક માં બાપને એક પ્રિય હોય છે.
 **[[:gu:obs:notes:frames:06-07|<<]] | [[:gu:obs:notes:07|Up]] | [[:gu:obs:notes:frames:07-02|>>]]**
