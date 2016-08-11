@@ -1,21 +1,15 @@
-===== Moses Fled from Egypt [09-10] =====
+===== મુસા મિસરથી ભાગ્યો [09-10] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-10.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-10.jpg?nolink}}
+જ્યારે **ફારુને** સાંભળ્યું જે **મુસાએ** કર્યું હતું, એણે એને મારી નાંખવાની કોશિશ કરી. મુસા **મિસરથી** ભાગી **ઉજ્જ્ડ** **પ્રદેશમાં** ગયો જેથી ત્યાં એ ફારુનના સૈનિકોથી બચી શકે.
+===== મહત્વપૂર્ણ શબ્દો: =====
 
-When **Pharaoh** heard what **Moses** had done, he tried to kill him. Moses ran away from **Egypt** to the **wilderness** where he would be safe from Pharaoh's soldiers.
-===== Important Terms: =====
+  * **ફારુન**
+  * **મુસા**
+  * **મિસર**
+===== અનુવાદ નોંધોઃ =====
 
-
-  * **[[:gu:obe:other:pharaoh]]**
-  * **[[:gu:obe:other:moses]]**
-  * **[[:gu:obe:other:egypt]]**
-
-
-==== Translation Notes: ====
-
-
-  * **wilderness** - The wilderness was a large area that was rocky and dry. The land there was not good for growing food and few people lived there.
-
+**ઉજ્જડ પ્રદેશ**  – ઉજ્જડ પ્રદેશ એ વિશાળ પ્રદેશ છે જેમાં મોટા પથરાઓ અને માટી હોય છે. ત્યાંની જમીન અનાજ ઉગાડવા અથવા માણસોને રહેવાને લાયક નથી હોતી.
 
 **[[:gu:obs:notes:frames:09-09|<<]] | [[:gu:obs:notes:09|Up]] | [[:gu:obs:notes:frames:09-11|>>]]**
