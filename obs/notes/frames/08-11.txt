@@ -1,23 +1,16 @@
-===== The Brothers Bought Food [08-11] =====
+===== **ભાઈઓએ અનાજ ખરીધ્યું** [08-11] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-11.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-11.jpg?nolink}}
+એટલે **યાકૂબે** **તેમના** **મોટા** **પુત્રોને** અનાજ ખરીદવા માટે **મિસર** મોકલ્યાં. તેના ભાઈઓ **યુસુફને** **ઓળખી** **ન** **શક્યા** જ્યારે તેઓ તેની સમક્ષ અનાજ ખરીદી રહ્યા હતા.પરંતુ યોસેફે તેઓને ઓળખી લીધા.
+===== મહત્વપૂર્ણ શબ્દો: =====
 
-So **Jacob** sent **his older sons** to **Egypt** to buy food. The brothers **did not recognize Joseph** when they stood before him to buy food. But Joseph recognized them. 
+  * **યાકૂબ**
+  * **મિસર**
+  * **યુસુફ**
+===== અનુવાદ નોંધો: =====
 
-===== Important Terms: =====
-
-
-  * **[[:gu:obe:other:jacob]]**
-  * **[[:gu:obe:other:egypt]]**
-  * **[[:gu:obe:other:josephot]]**
-
-
-==== Translation Notes: ====
-
-
-  * **his older sons** - These were Joseph's older brothers who had sold him into slavery.
-  * **did not recognize Joseph** - They did not know that the man was Joseph, because now Joseph was much older than when they last saw him, and he was dressed as an Egyptian ruler.
-
+  * તેના મોટા પુત્રો - આ યુસુફના મોટા ભાઈઓ હતા જેઓએ તેને ગુલામ તરીકે વેહેચીં માર્યો હતો.
+  * યુસુફને ઓળખ્યો ન હતો - તેઓ જાણતા ન હતા કે એ માણસ યુસુફ હતો, કારણ કે યુસુફ હવે પહેલા કરતાં ખૂબ જ મોટો હતો જ્યારે તેઓએ છેલ્લે તેને જોયો હતો, અને તેણે ઇજિપ્તના એક શાસક તરીકે પોશાક પહેર્યો હતો.
 
 **[[:gu:obs:notes:frames:08-10|<<]] | [[:gu:obs:notes:08|Up]] | [[:gu:obs:notes:frames:08-12|>>]]**
