@@ -1,26 +1,22 @@
-===== Twins Were Born [06-07] =====
+===== **જોડકાંઓનો જન્મ થયો** [06-07] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-06-07.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-06-07.jpg?nolink}}
+જ્યારે **રિબકાને** **બાળકો** **જન્મ્યા** **હતા**, **મોટો** **પુત્ર** બહાર આવ્યો ત્યારે **લાલ** અને **રુવાંટીવાળું** **બાળક** **હતો**, અને તેઓએ તેને એસાવ નામ આપ્યું. પછી **નાનો** **પુત્ર** એસાવની એડી પકડીને બહાર આવ્યો, અને તેઓએ તેને નામ યાકૂબ આપ્યું.
+===== **મહત્વપૂર્ણ** **શબ્દો****:**  =====
+   * **રિબકા**
+  * **પુત્ર**
+  * **એસાવ**
+  * **યાકૂબ**
+===== **અનુવાદ**  **નોંધો****:**  =====
 
-When **Rebekah's babies were born**, **the older son** came out **red** and **hairy**, and they named him **Esau**. Then **the younger son** came out holding on to Esau's heel, and they named him **Jacob**. 
-
-===== Important Terms: =====
-
-
-  * **[[:gu:obe:other:rebekah]]**
-  * **[[:gu:obe:kt:son]]**
-  * **[[:gu:obe:other:esau]]**
-  * **[[:gu:obe:other:jacob]]**
-
-
-===== Translation Notes: =====
-
-
-  * **Rebekah's babies were born** - Some languages have a more indirect way of saying this such as, "when Rebekah saw and took them" or, "when Rebekah brought them to light."
-  * **the older son … the younger son** - This could be translated as, "the first son to come out … the second son to come out." Make sure that the way "older" and "younger" are translated still communicates that the boys were twins.
-  * **red** - This may mean that his skin was very red or that the hair on his body was red.
-  * **hairy** - Esau had a lot of hair on his body. You could say, "the older son's body was red, with lots of hair."
-  * //A Bible story from// - These references may be slightly different in some Bible translations.
+  * રિબકાને બાળકો જન્મ્યાં - કેટલીક ભાષાઓ આ વધુ પરોક્ષ રીતે કહી શકે છે જેમ કે, "જ્યારે રિબકાએ જોયું અને તેઓને ઉઠાવ્યાં" અથવા,"જ્યારે રિબકાએ તેઓને અજવાળામાં લાવ્યા."
+  * મોટો પુત્ર | નાનો પુત્ર - આ, આવી રીતે અનુવાદ કરી શકાય "પ્રથમ પુત્ર બહાર આવે છે | બીજો પુત્ર બહાર આવે છે."
+  * ખાતરી કરો કે જેવી રીતે "મોટો" અને "નાના" નો અનુવાદ હજુ પણ બન્ને જોડિયા છે તેવો અર્થ દર્શાવે છે.
+  * લાલ - આનો અર્થ એ થાય કે તેની ત્વચા ખૂબ જ લાલ હતી અથવા તેના શરીર પરના વાળ લાલ હતા.
+  * રુવાંટીવાળું - એસાવના શરીર પર ઘણા વાળ હતા.
+  * તમે કહી શકો છો કે, "મોટા પુત્રનું શરીર ઘણાં બધાં વાળ સાથે, લાલ હતું."
+  * //માંથી બાઇબલ////વાર્તા//
+ - આ સંદર્ભો બાઇબલના કેટલાક અનુવાદમાં સહેજ અલગ હોઈ શકે છે.
 
 **[[:gu:obs:notes:frames:06-06|<<]] | [[:gu:obs:notes:06|Up]] | [[:gu:obs:notes:frames:07-01|>>]]**
