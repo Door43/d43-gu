@@ -1,26 +1,27 @@
-===== Rebekah Was Childless [06-04] =====
+===== રિબકા નિઃસંતાન હતી  [06-04] =====
 
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-06-04.jpg?nolink}}
 
-After a long time, **Abraham** died and all of **the promises that God had made to him in the covenant were passed on** to **Isaac**. God had promised that Abraham would have **countless descendants**, but Isaac's wife, **Rebekah**, could not have children.
+લાંબા સમય પછી, ઈબ્રાહિમ મૃત્યુ પામ્યો અને તમામ વચનો જે દેવે કરાર રૂપે તેની જોડે કર્યા હતા તે સર્વ ઇસહાક પર પસાર થઈ ગયા. દેવે વચન આપ્યું હતું કે ઈબ્રાહિમના અગણિત વંશજો હશે, પરંતુ ઇસહાકની પત્ની રિબકાને, બાળકો ન થતાં હતા.
 
-===== Important Terms: =====
-
-
-  * **[[:gu:obe:other:abraham]]**
-  * **[[:gu:obe:kt:promise]]**
-  * **[[:gu:obe:kt:god]]**
-  * **[[:gu:obe:kt:covenant]]**
-  * **[[:gu:obe:other:isaac]]**
-  * **[[:gu:obe:other:descendant]]**
-  * **[[:gu:obe:other:rebekah]]**
+===== મહત્વપૂર્ણ શબ્દો: =====
 
 
-===== Translation Notes: =====
+  * **[[:gu:obe:other:ઈબ્રાહિમ]]**
+  * **[[:gu:obe:kt:વચનો]]**
+  * **[[:gu:obe:kt:દેવ]]**
+  * **[[:gu:obe:kt:કરાર]]**
+  * **[[:gu:obe:other:ઇસહાક]]**
+  * **[[:gu:obe:other:વંશજો]]**
+  * **[[:gu:obe:other:રિબકા]]**
 
 
-  * **the promises … were passed on** - The promises of the covenant that God made with Abraham were not for him only, but also for his descendants.
-  * **countless** - This could also be translated as, "very many." The word "countless" means there would be so many descendants that people would not be able to count them.
+===== અનુવાદ નોંધો: =====
+
+
+  * **વચનો પસાર કરવામાં આવ્યા** - જે કરાર ઇબ્રાહિમ સાથે દેવ દ્વારા કરાયા હતા એ ફક્ત તેના પુરતા જ નહિ, પણ તેના વંશજો માટે પણ હતા.
+  * **અગણિત** - આ આવી રીતે પણ ભાષાંતર કરી શકાય છે "ઘણા." આ શબ્દ "અસંખ્ય" નો અર્થ એ થાય કે તેના ઘણા વંશજો હશે જેની લોકો ગણતરી કરી શકવા માટે સમર્થ નહિં હોઈ શકે.
+
 
 **[[:gu:obs:notes:frames:06-03|<<]] | [[:gu:obs:notes:06|Up]] | [[:gu:obs:notes:frames:06-05|>>]]**
