@@ -1,26 +1,19 @@
-===== Joseph Interpreted the Dream [08-07] =====
+===== **યુસુફે સપનાનું અર્થઘટન કર્યું** [08-07] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-07.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-07.jpg?nolink}}
+**દેવે** **યુસુફને** **સપનાનું** **અર્થઘટન** **કરવાની** ક્ષમતા આપી હતી, તેથી **ફારુને** **યુસુફને** જેલમાંથી **તેની** **સમક્ષ** **બોલાવ્યો** **હતો**. યુસુફ તેને માટે સપનાનું અર્થઘટન કર્યું અને જણાવ્યું હતું કે, "**દેવ** **સાત** **વર્ષ** **માટે** પુષ્કળ પાક **મોકલી** **રહ્યા** **છે****, ****ત્યારબાદના** **આવતા** સાત વર્ષ **દુષ્કાળ** ."
+===== મહત્વપૂર્ણ શબ્દો: =====
 
-**God** had given **Joseph** the ability to **interpret dreams**, so **Pharaoh had Joseph brought to him** from the prison. Joseph interpreted the dreams for him and said, “**God is going to send** seven years of plentiful harvests, followed by seven years of **famine**.” 
+  * **દેવ**
+  * **યુસુફ**
+  * **સપના**
+  * **ફારુન**
+===== અનુવાદ નોંધો: =====
 
-===== Important Terms: =====
-
-
-  * **[[:gu:obe:kt:god]]**
-  * **[[:gu:obe:other:josephot]]**
-  * **[[:gu:obe:other:dream]]**
-  * **[[:gu:obe:other:pharaoh]]**
-
-
-==== Translation Notes: ====
-
-
-  * **interpret dreams** - To "interpret" is to tell what something means. So Joseph was able to tell people what their dreams meant.
-  * **had Joseph brought to him** - Another way to say this would be, "ordered his servants to bring Joseph to him."
-  * **God is going to send** - God will cause the crops to grow well for seven years, and after that He will cause them to produce very little food so that the people and animals will not have enough to eat.
-  * **famine** - The gardens and fields would produce so little food that people and animals would not have enough to eat.
-
-
+  * **સપનાનું****અર્થઘટન**
+ - "અર્થઘટન" નો અર્થ એ કહેવું કે "અમુક નો અર્થ શું છે" એવો થાય છે. તેથી યુસુફ લોકો્ને તેમના સપનાનો અર્થ કહી બતાવતો હતો.
+  * **તેઓ****યુસુફને****તેની****પાસે****લાવ્યા** - તેણે યુસુફને લાવવા તેના સેવકોને આદેશ આપ્યો" બીજી રીતે આમ કહિ શકાય છે,
+  * **દેવ****મોકલી****રહ્યા****છે** - દેવ સાત વર્ષ માટે પાક સારી રીતે ઉગે એનું કારણ બનશે, અને તે પછીના સાત વર્ષ તેઓ એવુ કરશે કે ખૂબ જ ઓછો પાક પેદા થાય જેથી લોકો અને પ્રાણીઓને ખાવા માટે પૂરતું ભોજન ન હોય.
+  * **દુકાળ** - બગીચા અને ખેતરો થોડો પાક પેદા કરશે કે જેથી લોકો અને પ્રાણીઓને ખાવા માટે પૂરતું ભોજન ન હોય.
 **[[:gu:obs:notes:frames:08-06|<<]] | [[:gu:obs:notes:08|Up]] | [[:gu:obs:notes:frames:08-08|>>]]**
