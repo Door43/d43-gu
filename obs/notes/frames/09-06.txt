@@ -1,19 +1,13 @@
-===== Moses in a Basket [09-06] =====
+===== ટોકરીમાં મુસા [09-06] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-06.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-06.jpg?nolink}}
+જ્યારે બાળકના માતાપિતા એને વધુ સાચવી ન શક્યાં ત્યારે, તેઓએ એને એક ત**રતી** **ટોકરીમાં** **મુકી** **નીલ** **નદીના** **કિનારે** **જંગલી** **ઝાડીઓની** **વચ્ચે** **મુકી** **દિધો** જેથી એને મારી નાંખવાથી બચાવી શકાય. તેની મોટી બહેને તેના પર નજર રાખતી હતી કે એની સાથે શું થાય છે.
+===== મહત્વપુર્ણ શબ્દોઃ =====
 
-When the boy's parents could no longer hide him, they put him in a **floating basket among the reeds along the edge of the Nile River** in order to save him from being killed. His older sister watched to see what would happen to him.
-===== Important Terms: =====
+  * **નીલ****નદી**
+===== અનુવાદ નોંધોઃ =====
 
-
-  * **[[:gu:obe:other:nileriver]]**
-
-
-==== Translation Notes: ====
-
-
- * //(There are no notes for this frame.)// 
-
+//* (આ માળખામાં કોઈ નોંધ નથી)//
 
 **[[:gu:obs:notes:frames:09-05|<<]] | [[:gu:obs:notes:09|Up]] | [[:gu:obs:notes:frames:09-07|>>]]**
