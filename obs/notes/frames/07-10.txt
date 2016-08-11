@@ -1,32 +1,24 @@
-===== The Brothers Were Reunited [07-10] =====
+===== **ભાઈઓનું પુનઃમિલન** [07-10] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-07-10.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-07-10.jpg?nolink}}
+પરંતુ **એસાવે** પહેલેથી જ **યાકૂબને** **માફ** **કરી** **દિધો** છે, અને તેઓ દરેક એકબીજાને ફરીથી જોવા માટે ખુશ હતા. યાકૂબ પછી **કનાન** માં **શાંતિપૂર્ણ** **રહેતો** **હતો**. પછી **ઇસહાક** મૃત્યુ પામ્યો હતો, અને યાકૂબ અને એસાવે **તેને** **દફનાવ્યોં**. આ **કરારનું** **વચન** **દેવે** **ઈબ્રાહિમને** વચન આપ્યું હતું જે હવે **ઇસહાક** **થી** **યાકૂબ** **પર** **પસાર** **થઈ** **રહ્યું** **હતું**.
+===== **મહત્વપૂર્ણ** **શબ્દો****:**  =====
+   * **એસાવ**
+  * **માફ**
+  * **યાકૂબ**
+  * **શાંતિપૂર્ણ**
+  * **કનાન**
+  * **ઇસહાક**
+  * **કરાર**
+  * **વચનો**
+  * **દેવ**
+  * **ઈબ્રાહિમ**
+===== **અનુવાદ**  **નોંધો****:**  =====
 
-But **Esau** had already **forgiven Jacob**, and they were happy to see each other again. Jacob then **lived peacefully** in **Canaan**. Then **Isaac** died, and Jacob and Esau **buried him**. The **covenant promises God** had promised to **Abraham** now **passed on from Isaac to Jacob**. 
-
-===== Important Terms: =====
-
-
-  * **[[:gu:obe:other:esau]]**
-  * **[[:gu:obe:kt:forgive]]**
-  * **[[:gu:obe:other:jacob]]**
-  * **[[:gu:obe:other:peace]]**
-  * **[[:gu:obe:other:canaan]]**
-  * **[[:gu:obe:other:isaac]]**
-  * **[[:gu:obe:kt:covenant]]**
-  * **[[:gu:obe:kt:promise]]**
-  * **[[:gu:obe:kt:god]]**
-  * **[[:gu:obe:other:abraham]]**
-
-
-===== Translation Notes: =====
-
-
-  * **lived peacefully** - This refers to the fact that Esau and Jacob were not angry at each other and did not fight with each other.
-  * **buried him** - This could mean that they dug a hole in the ground, placed Isaac's body in it, and covered the hole with dirt or stones. Or it could mean that they placed Isaac's body in a cave and covered the opening.
-  * **covenant promises** - These were the promises that God made in his covenant with Abraham.
-  * **passed on from Isaac to Jacob** - The promises went from Abraham to his son Isaac, and now to Isaac's son Jacob. Esau did not receive the promises. See also **[[:gu:obs:notes:frames:06-04|[06-04]]]**.
-  * //A Bible story from// - These references may be slightly different in some Bible translations.
+  * શાંતિપૂર્ણ રહેતા હતા - આ ઉલ્લેખ કરે છે કે હકીકત એ છે કે, એસાવ અને યાકૂબ એકબીજા પર ગુસ્સે ન હતા અને એકબીજા સાથે લડવા ન ચાહતા હતા.
+  * તેને દફનાવ્યો - આનો અર્થ આવો કરી શકાય છે કે તેઓ જમીનમાં એક ખાડો ખોદે છે, તેમાં ઇસહાકના શરીરને મૂકવામાં આવે છે, અને માટી અથવા પત્થરો સાથે ખાડો પુરી દે છે. અથવા આવું બની શકે છે કે તેઓ એક ગુફામાં ઇસહાકના શરીરને મૂકવામાં આવે અને એનું મુખ બંધ કરી લે.
+  * કરારના વચનો - આ એ વચનો છે જે દેવે ઈબ્રાહિમ સાથે કરેલા કરારમાં કરવામાં આવ્યા હતા.
+  * ઇસહાક પરથી યાકૂબ પર પસાર - આ વચનો ઈબ્રાહિમ પરથી ઇસહાક પર અને હવે એના પુત્ર યાકૂબ પર પસાર થઈ રહ્યાં હતા. એસાવને વચનો પ્રાપ્ત નથી થયા.
 
 **[[:gu:obs:notes:frames:07-09|<<]] | [[:gu:obs:notes:07|Up]] | [[:gu:obs:notes:frames:08-01|>>]]**
