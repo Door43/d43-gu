@@ -1,27 +1,20 @@
-===== The Name of God [09-14] =====
+===== દેવનું નામ [09-14] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-14.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-14.jpg?nolink}}
+**મુસાએ** પુછ્યું, “ત્યારે શું જ્યારે **લોકો** જાણવા માટે પુછશે કે કોણે તને મોકલ્યો, મારે શું કહેવું?”  **દેવે** કહ્યું, **“****હું** **જે** **છું** **તે** **છું**.” તેઓને કહે, **હુ** **છુંએ** મને તમારી પાસે મોકલ્યોં છે. તેઓને એ પણ કહે, “હું **યહોવા** છું, તમારા પુર્વજો **ઈબ્રાહિમ**, **ઇસહાક**, અને **યાકૂબ** નો દેવ.”  આ **મારૂ** **નામ** છે હંમેશા માટે.
+===== મહત્વપૂર્ણ શબ્દો: =====
 
-**Moses** asked, “What if **the people** want to know who sent me, what should I say?” **God** said, “**I AM WHO I AM**. Tell them, ‘**I AM** has sent me to you.’ Also tell them, 'I am **Yahweh**, the God of your ancestors **Abraham**, **Isaac**, and **Jacob**.' This is **my name** forever.”
-===== Important Terms: =====
+  * **મુસા**
+  * **દેવ**
+  * **યહોવા**
+  * **ઈબ્રાહિમ**
+  * **ઇસહાક**
+  * **યાકૂબ**
+===== અનુવાદ નોંધોઃ =====
 
-
-  * **[[:gu:obe:other:moses]]**
-  * **[[:gu:obe:kt:god]]**
-  * **[[:gu:obe:kt:yahweh]]**
-  * **[[:gu:obe:other:abraham]]**
-  * **[[:gu:obe:other:isaac]]**
-  * **[[:gu:obe:other:jacob]]**
-
-
-==== Translation Notes: ====
-
-
-  * **the people** - See "my people" in **[[:gu:obs:notes:frames:09-13|[09-13]]]**.
-  * **I AM WHO I AM** - This description shows that God can only be defined by himself, not by anything else that we know of, and he cannot be compared to anyone else.
-  * **I AM** - This name emphasizes that God is the only one who has always lived and always will live.
-  * **my name** - The name that God told Moses and all of Israel to use for him is "Yahweh," which is related to "I AM" and appears to mean, "HE IS."
-
-
+  * **લોકો **– __\[____૦૯____-____૧૩____]__ માં જુઓ “મારા લોકો” ૦૯-૧૩
+  * **હુ જે છું તે છું **– આ વર્ણન દર્શાવે છે કે પરમેશ્વરનું વર્ણન ફક્ત પરમેશ્વર જ કરી શકે છે, અન્ય કોઈ વસ્તુઓથી નહિ કે જેના થકી આપણે એમેન જાણીએ છીએ, અને તેમને અન્ય બીજા કોઈ જોડે સરખાવી ન શકાય.
+  * **હુ છું**  - આ નામ ભાર નાંખે છે કે પરમેશ્વર ફક્ત એક જ છે જે હંમેશા જીવિત છે અને હંમેશા જીવિત રહેશે.
+  * **મારું નામ**  - એ નામ જે પરમેશ્વરે મુસા અને સર્વ ઈસ્રાએલીઓને તેમના માટે ઉપયોગ કરવા કહ્યું એ "યહોવા" છે, જે "હું છું" થી સંકળાયેલું અને "તે છે" એવો અર્થ ઉપસાવે છે.
 **[[:gu:obs:notes:frames:09-13|<<]] | [[:gu:obs:notes:09|Up]] | [[:gu:obs:notes:frames:09-15|>>]]**
