@@ -1,26 +1,20 @@
-===== The Burning Bush [09-12] =====
+===== સળગતી ઝાડી [09-12] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-12.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-12.jpg?nolink}}
+એક દિવસ જ્યારે **મુસા** પોતાના **ઘેંટા** **બકરાઓની** **દેખભાળ** **કરી** **રહ્યો** **હતો**, ત્યારે એણે એક ઝાડી જોઈ જે સળગી રહી હતી. પરંતુ એ **ઝાડી** **રાખ** **ન** **બનતી** **હતી****.** મુસા એ ઝાડીની નજીક ગયો જેથી એ વધુ સારી રીતે એને જોઈ શકે. જેવો એ સળગતી ઝાડીની નજીક પહોંચ્યોં કે, **દેવનો** **અવાજ** **આવ્યો**, “મુસા, તરા પગના **પગરખા** **ઉતારી** **નાંખ**. તું **પવિત્ર** **જગ્યા** પર ઉભો છે.
+===== મહત્વપૂર્ણ શબ્દો: =====
 
-One day while **Moses** was **taking care of his sheep**, he saw a bush that was on fire. But the **bush did not burn up**. Moses went towards the bush to be able to see it better. As he approached the burning bush, **the voice of God said**, “Moses, take **off your shoes**. You are standing on **holy ground**.”
-===== Important Terms: =====
+  * **મુસા**
+  * **ઘેંટા**
+  * **દેવ**
+  * **પવિત્ર**
+===== અનુવાદ નોંધોઃ =====
 
-
-  * **[[:gu:obe:other:moses]]**
-  * **[[:gu:obe:other:sheep]]**
-  * **[[:gu:obe:kt:god]]**
-  * **[[:gu:obe:kt:holy]]**
-
-
-==== Translation Notes: ====
-
-
-  * **taking care of his sheep** - This means he was doing the work of a shepherd to guide the sheep to grass and water, and to protect them. It could be translated as, "tending the sheep."
-  * **bush did not burn up** - God made the bush full of fire, but the fire did not damage the bush.
-  * **the voice of God said** - This could be translated as, "God said out loud." Moses heard God speak, but he did not see God.
-  * **take off your shoes** - God wanted him to take off his shoes to show that he greatly respected God. To make clear the reason for this, you could say, "take off your shoes, because you are on holy ground."
-  * **holy ground** - It was holy in the sense that God set it apart from the ordinary land and made it to be a special place where He would reveal Himself.
-
-
+  * **પોતાના****ઘેંટા****-****બકરાઓની****દેખભાળ****કરતો****હતો**  – આનો અર્થ છે કે એ ઘેંટા-બકરાઓને ઘાસ અને પાણી સુધી દોરનાર, અને એમની રક્ષા કરનાર ગોવાળિયાનું  કામ કરતો હતો. આ આવી રીતે પણ અનુવાદ કરી શકાય છે, “ઘેંટા-બકરાઓની દેખભાળ કરનાર.”
+  * **ઝાડી****સળગીને રાખ****ન****થતી****હતી**  – દેવે એવું કર્યું કે ઝાડી તો આગથી ભરપુર રીતે સળગતી હતી, પરંતુ આગ ઝાડીને નુકસાન ન કરતી હતી.
+  * **દેવના****અવાજે****કહ્યું**  – આને આવી રીતે અનુવાદ કરી શકાય છે, “દેવ ઉંચે અવાજે બોલી ઉઠ્યાં.”
+  * મુસાએ દેવને બોલતા સાંભળ્યાં, પરંતુ દેવને જોઈ ન શક્યો.
+  * **તારા****પગના****પગરખાં****ઉતાર**  – દેવ એવું ઈચ્છતા હતા કે એ એના પગરખાં ઉતારે જેથી એ દેવનો આદર કરે છે કે નહિ, એ તપાસે. આનું કારણ સાફ કરવા માટે, તમે કદાચ કહેશો, “તારા પગરખાં ઉતાર, કેમ કે તુ પવિત્ર જમીન પર ઉભો છે.”
+  * **પવિત્ર****જમીન**  – એ એવા અર્થમાં પવિત્ર હતી કે દેવે એને સામાન્ય જગ્યાઓથી અલગ કરી હતી અને એને ખાસ સ્થાન બનાવ્યું હતું જ્યાં તેઓ પોતાને પ્રગટ કરે.
 **[[:gu:obs:notes:frames:09-11|<<]] | [[:gu:obs:notes:09|Up]] | [[:gu:obs:notes:frames:09-13|>>]]**
