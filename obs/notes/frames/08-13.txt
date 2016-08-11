@@ -1,22 +1,15 @@
-===== Joseph Was Alive [08-13] =====
+===== યુસુફ જીવિત હતો [08-13] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-13.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-13.jpg?nolink}}
+જ્યારે યુસુફના ભાઈઓ એમના ઘરે પાછા ફર્યા અને એમના પિતા, યાકૂબને કહ્યું કે યુસુફ હજું જીવિત છે, ત્યારે તે ખુબ ખુશ થયો.
 
-When **Joseph's** brothers returned home and told their father, **Jacob**, that Joseph was still alive, he was very happy. 
+===== મહત્વપૂર્ણ શબ્દો: =====
 
-===== Important Terms: =====
+  * **યુસુફ**
+  * **યાકૂબ**
+===== અનુવાદ નોંધો: =====
 
-
-  * **[[:gu:obe:other:josephot]]**
-  * **[[:gu:obe:other:jacob]]**
-
-
-==== Translation Notes: ====
-
-
-//(There are no notes for this frame.)// 
-
-
+//(આ માળખા માટે કોઈ નોંધ નથી)//
 
 **[[:gu:obs:notes:frames:08-12|<<]] | [[:gu:obs:notes:08|Up]] | [[:gu:obs:notes:frames:08-14|>>]]**
