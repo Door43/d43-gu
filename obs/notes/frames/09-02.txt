@@ -1,25 +1,24 @@
-===== A New Pharaoh [09-02] =====
+===== નવો ફારુન [09-02] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-02.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-02.jpg?nolink}}
+સેંકડો વર્ષો પછી, ઈસ્રાએલીઓની સંખ્યા ખુબ જ વધી ગઈ.
 
-After hundreds of years, the number of **Israelites** had become very large. The **Egyptians** no longer remembered **Joseph** and all he had done to help them. They became afraid of the Israelites because there were so many of them. So the **Pharaoh** who was ruling Egypt at that time **made the Israelites slaves** to the Egyptians. 
+મિસરના લોકોને યુસુફ અને એના ભલાઈના કામો યાદ ન રહ્યા અથવા યાદ ન કરતા હતા.
 
-===== Important Terms: =====
+તેઓ ઈસ્રાએલીઓથી ગભરાઈ ગયા હતા કેમ કે તેઓની સંખ્યા ખુબ જ હતી.
 
+એટલે ફારુન જે ત્યારે મિસર પર રાજ કરતો હતો, તેણે ઈસ્રાએલીઓને મિસરના લોકો માટે ગુલામ બનાવી દીધા હતા.
 
-  * **[[:gu:obe:other:israel]]**
-  * **[[:gu:obe:other:egypt]]**
-  * **[[:gu:obe:other:josephot]]**
-  * **[[:gu:obe:other:pharaoh]]**
-  * **[[:gu:obe:other:servant]]**
+===== મહત્વપૂર્ણ શબ્દો:  =====
 
+  * **ઈસ્રાએલીઓ**
+  * **મિસરવાસીઓ**
+  * **યુસુફ**
+  * **ફારુન**
+  * **ગુલામો**
+===== અનુવાદ નોંધોઃ =====
 
-==== Translation Notes: ====
-
-
-  * **Pharaoh** – "Pharaoh" is an Egyptian word that refers to their king. This Pharaoh was probably the son of a former Pharaoh who had died, who may have been a descendant of the Pharaoh that Joseph knew.
-  * **made the Israelites slaves** - That is, "forced the Israelites to do hard labor against their will and treated them very harshly."
-
-
+  * **ફારુન**  – “ફારુન” એ એક મિસરી શબ્દ છે જે તેઓના રાજા એવો નિર્દેશ કરે છે. ફારુન કદાચ એની પહેલાના ફારુનનો પુત્ર હશે જે મરી ગયો હતો, જે કદાચ એ ફારુનનો ઉત્તરાધિકારી હતો જે યુસુફને જાણતો હતો.
+  * **ઈસ્રાએલીઓને ગુલામ બનાવ્યા**  –એટલે કે, “ઈસ્રાએલીઓને તેઓની ઈચ્છા વિરુધ્ધ જબરજસ્તીથી સખત મજુરીનું કામ કરવા મજબુર કર્યા હતા અને તેઓને ખુબ જ રીબાવ્યા હતા.
 **[[:gu:obs:notes:frames:09-01|<<]] | [[:gu:obs:notes:09|Up]] | [[:gu:obs:notes:frames:09-03|>>]]**
