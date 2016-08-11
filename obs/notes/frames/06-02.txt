@@ -1,15 +1,18 @@
-===== Finding Rebekah [06-02] =====
+===== રિબકાની શોધ [06-02] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-06-02.jpg?nolink&}}
 
-After a very long journey to the land where **Abraham's** relatives lived, **God** led the **servant** to **Rebekah**. She was the **granddaughter of Abraham's brother**.
-===== Important Terms: =====
+ખૂબ જ લાંબા પ્રવાસ પછી એ પ્રદેશમાં જ્યાં ઈબ્રાહિમના સંબંધીઓ રહેતા હતા, દેવ સેવકને  રિબકા સુધી દોરી ગયા. તેણી ઈબ્રાહિમના ભાઈની પૌત્રી હતી.
 
-  * **[[:gu:obe:other:abraham|Abraham, Abram]]**
-  * **[[:gu:obe:kt:god|God]]**
-  * **[[:gu:obe:other:servant|servant, slave, slavery]]**
-  * **[[:gu:obe:other:rebekah|Rebekah]]**
-===== Translation Notes: =====
+===== મહત્વપૂર્ણ શબ્દો: =====
 
-  * **granddaughter of Abraham's brother**  - Specifically, she was the daughter of Abraham's brother's son. Her grandfather was Abraham's brother.
+  * **[[:gu:obe:other:abraham|ઈબ્રાહિમના]]**
+  * **[[:gu:obe:kt:god|દેવ]]**
+  * **[[:gu:obe:other:servant|નોકર]]**
+  * **[[:gu:obe:other:rebekah|રિબકા]]**
+===== અનુવાદ નોંધો: =====
+  * 
+  *   **ઇબ્રાહિમના ભાઈની પૌત્રી** - ખાસ કરીને, તે ઇબ્રાહિમના ભાઈના પુત્રની પુત્રી હતી.
+તેના દાદા ઈબ્રાહિમના ભાઈ હતા.
+
 **[[:gu:obs:notes:frames:06-01|<<]] | [[:gu:obs:notes:06|Up]] | [[:gu:obs:notes:frames:06-03|>>]]**
