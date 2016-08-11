@@ -1,27 +1,23 @@
-===== Test of Faith [05-06] =====
+===== **વિશ્વાસની પરીક્ષા** [05-06] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-05-06.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-05-06.jpg?nolink}}
+જ્યારે **ઇસહાક** એક યુવાન પુરુષ હતો, **યહોવાએ** **ઈબ્રાહિમના** **વિશ્વાસની** **કસોટી** **એવું** કહીને કરી કે "ઇસહાક, તારા એકના એક પુત્રને લે, અને **તેને** **મારા** **માટે** **બલિદાન** તરીકે **માર**."
 
-When **Isaac** was a young man, **God tested Abraham's faith** by saying, “Take Isaac, your only **son**, and **kill him** as a **sacrifice** to me.” Again Abraham **obeyed** God and **prepared to sacrifice** his son. 
+ફરીથી ઈબ્રાહિમે દેવની આજ્ઞાનું **પાલન** **કર્યું** અને **બલિદાન** **માટે** તેના પુત્રને **તૈયાર** **કર્યો**.
+===== **મહત્વપૂર્ણ** **શબ્દો****:**  =====
 
-===== Important Terms: =====
+  * **ઇસહાક**
+  * **દેવ**
+  * **ઈબ્રાહિમ**
+  * **વિશ્વાસ**
+  * **પુત્ર**
+  * **બલિદાન**
+  * **આજ્ઞાપાલન**
+===== **અનુવાદ**  **નોંધો****:**  =====
 
-
-  * **[[:gu:obe:other:isaac]]**
-  * **[[:gu:obe:kt:god]]**
-  * **[[:gu:obe:other:abraham]]**
-  * **[[:gu:obe:kt:faith]]**
-  * **[[:gu:obe:kt:son]]**
-  * **[[:gu:obe:other:sacrifice]]**
-  * **[[:gu:obe:other:obey]]**
-
-
-===== Translation Notes: =====
-
-
-  * **God tested Abraham's faith** - God wanted Abraham to show that he was completely submitted to God, that he would obey whatever God told him to do.
-  * **kill him** - God did not want human sacrifice. God wanted to see that Abraham loved God more than he loved his son and would obey God even when God told him to give his son back to God.
-  * **prepared to sacrifice** - Abraham got ready to sacrifice his son. God stopped him before he killed his son.
+  * યહોવાએ ઈબ્રાહિમના વિશ્વાસની કસોટી કરી - દેવ ઈબ્રાહિમ તરફથી ઈચ્છે છે કે તે દર્શાવે કે તે સંપૂર્ણપણે દેવ પ્રત્યે વફાદાર છે, કે તેને દેવ ગમે તે કહે, તે કરવા તૈયાર રહેશે.
+  * તેને મારી નાંખ - દેવ માનવ બલિદાન ન ઈચ્છતા હતાં. દેવ જોવા ઈચ્છતા હતા કે ઈબ્રાહિમ દેવને તેના પુત્ર કરતા વધારે પ્રેમ કરે છે અને દેવની દરેક આજ્ઞાઓ પણ પાળે છે કે જ્યારે દેવે તેને કહ્યું હતું કે તેના પુત્રને દેવને પાછો આપે.
+  * બલિદાન તૈયાર કર્યું - ઈબ્રાહિમ તેના પુત્રને બલિદાન રૂપે આપવા માટે તૈયાર થઈ જાય છે. તે તેના પુત્રને મારે એ પહેલા જ દેવે તેને અટકાવ્યો.
 
 **[[:gu:obs:notes:frames:05-05|<<]] | [[:gu:obs:notes:05|Up]] | [[:gu:obs:notes:frames:05-07|>>]]**
