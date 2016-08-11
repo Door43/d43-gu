@@ -1,23 +1,16 @@
-===== Pharaoh's Daughter [09-07] =====
+===== ફારુનની પુત્રી [09-07] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-07.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-07.jpg?nolink}}
+**ફારુન** ની પુત્રીએ ટોપલીને જોઈ અને એની અંદર જોયું. જ્યારે તેણે બાળકને જોયું, **તેણે** **તેને** **પોતાના** **બાળક** **રૂપે** **સ્વિકારી** **લીધું**. એણે એ બાળકની **સંભાળ** **રાખવા** **ઈસ્રાએલી** સ્ત્રીને ભાડે રાખી એ જાણ્યા વગર કે તેણી એ બાળકની જ પોતાની માતા છે. જ્યારે બાળક માતાનું દુધ છોડવા લાયક મોટો થઈ ગયો ત્યારે તેણીએ તેને ફારુનની પુત્રીને પાછો સોંપી દિધો, જેણે એનું નામ **મુસા** રાખ્યું.
+===== મહત્વપૂર્ણ શબ્દો: =====
 
-A daughter of **Pharaoh** saw the basket and looked inside. When she saw the baby, she **took him as her own son**. She hired an **Israelite** woman **to nurse him** without realizing the woman was the baby’s own mother. When the child was old enough that he no longer needed his mother's milk, she returned him to Pharaoh’s daughter, who named him **Moses**.
-===== Important Terms: =====
+  * **ફારુન**
+  * **પુત્ર**
+  * **ઈસ્રાએલી**
+  * **મુસા**
+===== અનુવાદ નોંધોઃ =====
 
-
-  * **[[:gu:obe:other:pharaoh]]**
-  * **[[:gu:obe:kt:son]]**
-  * **[[:gu:obe:other:israel]]**
-  * **[[:gu:obe:other:moses]]**
-
-
-==== Translation Notes: ====
-
-
-  * **took him as her own son** - She was a princess. When she made him her son, he became a prince of Egypt.
-  * **to nurse him** - Another way to say this would be, "to breastfeed him."
-
-
+  * **એને પોતાના જ પુત્ર તરીકે ગોદ લીધો**  – તેણી એક રાજકુમારી હતી. જ્યારે તેણીએ તેને પોતાના પુત્ર બનાવ્યો, તે મિસરનો યુવરાજ બની ગયો.
+  * **એની દાઈમા**  – બીજી રીતે કહીએ તો, “તેને દૂધ પીવડાવવું.”
 **[[:gu:obs:notes:frames:09-06|<<]] | [[:gu:obs:notes:09|Up]] | [[:gu:obs:notes:frames:09-08|>>]]**
