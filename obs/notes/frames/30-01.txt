@@ -1,20 +1,17 @@
-===== A Quiet Place [30-01] =====
+===== એક શાંત જગ્યા [30-01] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-01.jpg?nolink&}}
 
-**Jesus** sent his **apostles** to **preach** and to teach people in many different villages. When they returned to where Jesus was, they told him what they had done. Then Jesus invited them to go with him to a **quiet place** across the lake to rest for a while. So, they got into a boat and went to the other side of the lake.
+ઈસુએ તેના પ્રેરિતોને  ઉપદેશ આપવા માટે અને ઘણાં લોકો શીખવે એ માટે વિવિધ ગામોમાં મોકલ્યાં. જ્યારે તેઓ જ્યાં ઈસુ હતો ત્યાં પાછા ફર્યા, તેઓએ શું કર્યું હતું તે તેને જણાવ્યું. પછી ઈસુએ તેઓને તેની સાથે તળાવ તરફ એક શાંત જગ્યાએ જવા માટે આમંત્રિત કર્યા જ્યાં થોડીવાર માટે આરામ કરી શકે. તેથી, તેઓ હોડીમાં બેઠા અને તળાવની બીજી તરફ ગયા.
 
+===== મહત્વપૂર્ણ શબ્દો: =====
 
-===== Important Terms: =====
+  * **ઈસુ**
+  * **પ્રેરિતો**
+  * **ઉપદેશ**
+===== અનુવાદ નોંધો: =====
 
-  * **[[:gu:obe:kt:jesus]]**
-  * **[[:gu:obe:kt:apostle]]**
-  * **[[:gu:obe:other:preach]]**
-
-
-===== Translation Notes: =====
-
-  * **quiet place** - This refers to a place with few people where they could be by themselves.
-
+  * **શાંત જગ્યાએ**
+ - આ એ સ્થળનો ઉલ્લેખ કરે છે જ્યાં લોકો થોડા હોય અને તેઓ થોડો આરામ કરી શકે છે.
 
 **[[:gu:obs:notes:frames:29-09|<<]] | [[:gu:obs:notes:30|Up]] | [[:gu:obs:notes:frames:30-02|>>]]**
