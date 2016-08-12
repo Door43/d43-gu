@@ -1,23 +1,20 @@
-===== Jesus Read the Scriptures [26-03] =====
+===== ઈસુએ વચનો વાંચ્યા [26-03] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-03.jpg?nolink&}}
 
-Jesus read, “**God** has given me his **Spirit** so that I can **proclaim good news to the poor**, **freedom to captives, recovery of sight for the blind**, and **release to the oppressed**. This is **the year of the Lord's favor**.”
-===== Important Terms: =====
+ઈસુએ વાંચ્યું, “દેવે મને તેનો આત્મા આપ્યો છે કે જેથી હું ગરીબોને સુવાર્તાની ઘોષણા કરી શકું, બંદીવાનોને છોડાવી શકું, આંધળાઓને દેખતા કરી શકું, અને ચાગદાએલાઓને સ્વતંત્ર કરી શકું. આ પ્રભુની કૃપાનું વર્ષ છે.”
 
-  * **[[:gu:obe:kt:god]]**
-  * **[[:gu:obe:kt:holyspirit]]**
-  * **[[:gu:obe:kt:goodnews]]**
-  * **[[:gu:obe:kt:lord]]**
+===== મહત્વના શબ્દો: =====
 
+  * **દેવ**
+  * **આત્મા**
+  * **સુવાર્તા**
+  * **પ્રભુનું**
+===== ભાષાંતર નોંધ: =====
 
-===== Translation Notes: =====
-
-  * **proclaim good news to the poor** - That is, "to tell poor and needy people the good message that God will help them."
-  * **freedom to captives** - That is, "to tell people who are wrongfully in prison that they will be released."
-  * **recovery of sight for the blind** - This could be translated as, "that those who are blind will receive their sight."
-  * **release to the oppressed** - That is, "freedom for those who are mistreated in life."
-  * **the year of the Lord's favor** - This may be translated as, "the time when the Lord will be merciful to us" or, "the time when the Lord will be very gracious to us."
-
-
+  * **ગરીબોને સુવાર્તાની ઘોષણા કરવી**  – તે છે, “ગરીબ અને જરૂરીયાત વાળાને શુભ સંદેશ કહેવો કે દેવ તેઓની મદદ કરશે.”
+  * **બંદીવાનોને છોડાવવા**  – તે છે, “જઈને લોકોને કહેવું કે તમે જેલમાં ખોટી રીતે છો તેથી તમને છોડાવવામાં આવશે.”
+  * **આંધળાઓને દેખતા કરવા **– આ રીતે ભાષાંતર થાય, “જેઓ આંધળા છે તેઓ પોતાની દ્રષ્ટિ પાછી મેળવશે.”
+  * **ચાગદાએલાઓને સ્વતંત્ર કરવા**  – તે છે, “જેઓ સાથે દુર્વ્યવહાર થયો છે તેઓ માટે સ્વતંત્રતા.”
+  * **પ્રભુની કૃપાનું વર્ષ **– આ રીતે ભાષાંતર થાય, “એવો સમય જયારે પ્રભુ આપણા તરફ દયાળું બનશે” અથવા, “એવો સમય જયારે પ્રભુ આપણા તરફ કૃપાળું થશે.”
 **[[:gu:obs:notes:frames:26-02|<<]] | [[:gu:obs:notes:26|Up]] | [[:gu:obs:notes:frames:26-04|>>]]**
