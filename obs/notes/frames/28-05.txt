@@ -1,18 +1,13 @@
-===== Not Willing to Obey [28-05] =====
+===== આજ્ઞા માનવાની ઈચ્છા ન હતી [28-05] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-05.jpg?nolink&}}
 
-When the young man **heard what Jesus said**, he became very sad, because he was very rich and did not want to give away all the things he possessed. He turned and went away from Jesus.
+ઈસુએ જે કહ્યું તે જુવાન માણસે સાંભળ્યું ત્યારે, તે ખુબજ દુ:ખી થઈ ગયો, કારણકે તે ખુબજ ધનવાન હતો અને તે પોતાની માલિકીની બધીજ વસ્તુ છોડવા માંગતો ન હતો. તેણે રસ્તો બદલી નાખ્યો અને ઈસુથી દુર જતો રહ્યો.
 
+===== મહત્વના શબ્દો: =====
 
-===== Important Terms: =====
+  * **ઈસુ**
+===== ભાષાંતર નોંધ: =====
 
-  * **[[:gu:obe:kt:jesus]]**
-
-
-===== Translation Notes: =====
-
-  * **heard what Jesus said** - That is, "heard Jesus tell him to give away what he owned."
-
-
+  * **ઈસુએ જે કહ્યું તે સાંભળ્યું**  – તે છે, “તેની માલિકીની બધીજ વસ્તુ છોડવા માટે ઈસુએ તેને કહ્યું તે તેણે સાંભળ્યું.”
 **[[:gu:obs:notes:frames:28-04|<<]] | [[:gu:obs:notes:28|Up]] | [[:gu:obs:notes:frames:28-06|>>]]**
