@@ -1,19 +1,16 @@
-===== The Birth of Jesus [23-05] =====
+===== ઈસુનો જન્મ [23-05] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-05.jpg?nolink&}}
 
-When they arrived in **Bethlehem**, there was **no place to stay**. The only room they could find was a **place where animals stayed**. The baby was born there and his mother laid him in a **feeding trough**, since they did not have a bed for him. They named him **Jesus**.
-===== Important Terms: =====
+જયારે તેઓ બેથલેહેમમાં આવ્યા, ત્યાં રહેવા માટે કોઈ જગ્યા ન હતી. તેઓને ફક્ત એકજ ઓરડો મળ્યો જ્યાં પ્રાણીઓ રહેતા હતા. ત્યાં બાળકનો જન્મ થયો અને તેની માતાએ તેને ગભાણમાં સુવડાવ્યો, ત્યાં તેમની પાસે કોઈ ખાટ ન હતી. તેઓએ તેનું નામ ઈસુ પડ્યું.
 
-  * **[[:gu:obe:other:bethlehem]]**
-  * **[[:gu:obe:kt:jesus]]**
- 
+===== મહત્વના શબ્દો: =====
 
-===== Translation Notes: =====
+  * **બેથલેહેમ**
+  * **ઈસુ**
+===== ભાષાંતર નોંધ: =====
 
-  * **no place to stay** - That is, "no usual place to stay." Because Bethlehem was so crowded at that time, the usual rooms for guests were already full of people.
-  * **place where animals stayed** - This was a place for sheltering animals, not a place where people lived. Translate this with a term that would normally be used for a place where animals were kept.
-  * **feeding trough** - That is, "animal feed box" or, "wooden or stone box for feeding animals." The box could have been filled with hay to provide a padded surface for the baby to lie on.
-
-
+  * **રહેવા માટે કોઈ જગ્યા નહતી**  – તે છે, “રહેવા માટે કોઈ ચોક્કસ જગ્યા ન હતી.” કારણ કે બેથલેહેમ તે સમયે લોકોના ટોળાથી ભરાયેલો હતો, મહેમાનો માટેના ઓરડાઓ પહેલેથીજ ભરાયેલા હતા.
+  * **પ્રાણીઓને રહેવાની જગ્યા**  – આ જગ્યા પ્રાણીઓના રહેવા માટેની હતી, લોકોને રહેવા માટેની ન હતી. આ વાક્યનું ભાષાંતર સામાન્ય રીતે પ્રાણીઓને જ્યાં રાખવામાં આવે છે  તે શબ્દોથી કરો.
+  * **ગાભાણ**  – તે છે, “પ્રાણીઓને દૂધ પીવડાવવાની જગ્યા” અથવા, “પ્રાણીઓને દૂધ પીવડાવવાની લાકડાનની કે પથ્થરની પેટી.” તે પેટી સુકાયેલા ઘાસ થી ભરાયેલી હતી જેથી નાનું બાળક તેની ઉપર આરામથી સુઈ શકે.
 **[[:gu:obs:notes:frames:23-04|<<]] | [[:gu:obs:notes:23|Up]] | [[:gu:obs:notes:frames:23-06|>>]]**
