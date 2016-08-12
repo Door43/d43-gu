@@ -1,21 +1,17 @@
-===== The Jewish Traveler [27-04] =====
+===== યહૂદી યાત્રાળુ [27-04] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-04.jpg?nolink&}}
 
-**Jesus** answered the **law expert** by telling a story. “There was a **Jewish** man who was traveling along the road from **Jerusalem** to **Jericho**.”
-===== Important Terms: =====
+ઈસુએ કાયદાના નિપુણ વ્યક્તિને વાર્તા કહેવા દ્વારા ઉત્તર આપ્યો. “એક યહૂદી માણસ યરુશલેમથી યરીખો તરફ યાત્રા કરી રહ્યો હતો.”
 
-  * **[[:gu:obe:kt:jesus]]**
-  * **[[:gu:obe:other:jew]]**
-  * **[[:gu:obe:other:jerusalem]]**
-  * **[[:gu:obe:other:jericho]]**
+===== મહત્વના શબ્દો: =====
 
+  * **ઈસુ**
+  * **યહૂદી**
+  * **યરુશલેમ**
+  * **યરીખો**
+===== ભાષાંતર નોંધ: =====
 
-===== Translation Notes: =====
-
-  * (The cloud-like frame around this picture indicates that Jesus is telling a story, and not necessarily explaining a historical event.)
-  * **law expert** - See how you translated this term in **[[:gu:obs:notes:frames:27-01|[27-01]]]**.
-  * **from Jerusalem to Jericho** - In some languages you could translate this as, "from the city of Jerusalem to the city of Jericho" or, "from Jerusalem City to Jericho City."
-
-
+  * **કાયદાનો નિપુણ**  – જુઓ નોંધ:માળખું:27-01
+  * **યરુશલેમથી યરીખો તરફ **– કેટલીક ભાષાઓમાં આ રીતે ભાષાંતર થાય, “શહેર યરુશલેમથી શહેર યરીખો તરફ” અથવા, “યરુશલેમ શહેરથી યરીખો શહેર તરફ.”
 **[[:gu:obs:notes:frames:27-03|<<]] | [[:gu:obs:notes:27|Up]] | [[:gu:obs:notes:frames:27-05|>>]]**
