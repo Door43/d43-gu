@@ -1,22 +1,16 @@
-===== Israel Was Removed from the Land [20-03] =====
+===== ઇસ્રાએલને ભૂમિ માંથી દૂર કરી દીધું [20-03] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-03.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-03.jpg?nolink}}
+આશુરના લોકોએ બધા આગેવાનો, ધનવાન લોકોને, અને આવડત વાળા લોકોને ભેગા કરીને તેઓને આશુર મા લઈ ગયા. ફક્ત ગરીબ ઇસ્રાએલીઓ જેઓને મારી નાખવામાં નહોતા આવ્યા તેઓ ઇસ્રએલના રાજ્યમા બાકી રહ્યા.
 
-The **Assyrians** gathered all the leaders, the rich people, and the people with **skills** and took them to Assyria. Only the very poor **Israelites** who had not been killed **remained** in the **kingdom of Israel**.
-===== Important Terms: =====
+===== મહત્વના શબ્દો: =====
 
+  * **આશુરી**
+  * **ઇસ્રાએલીઓ**
+  * **ઇસ્રાએલનું રાજ્ય**
+===== ભાષાંતર નોંધ: =====
 
-  * **[[:gu:obe:other:assyria]]**
-  * **[[:gu:obe:other:israel]]**
-  * **[[:gu:obe:other:kingdomofisrael]]**
-
-
-==== Translation Notes: ====
-
-
-  * **skills** – This refers to practical skills such as woodworking, metalworking, and building.
-  * **remained** - That is, "stayed" or, "were left behind" or, "were allowed to stay behind."
-
-
+  * **આવડત**  – આ વ્યવહારુ આવડત ને દર્શાવે છે જેમ કે લાકડાનું કાર્ય, ધાતુનું કાર્ય, અને નિર્માણનું કાર્ય.
+  * **બાકી રહ્યા**  – તે છે, “ટકવું” અથવા, “પાછળ બાકી રહ્યા” અથવા, “પાછળ રહેવાની પરવાનગી આપવામાં આવી.”
 **[[:gu:obs:notes:frames:20-02|<<]] | [[:gu:obs:notes:20|Up]] | [[:gu:obs:notes:frames:20-04|>>]]**
