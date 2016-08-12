@@ -1,24 +1,21 @@
-===== Worship Only God [25-07] =====
+===== ફક્ત દેવની આરાધના કરવી [25-07] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-07.jpg?nolink&}}
 
-**Jesus** replied, “**Get away from me**, **Satan**! **In God’s word he commands his people**, ‘**Worship only the Lord your God and only serve him**.’”
-===== Important Terms: =====
+ઈસુએ ઉત્તર આપ્યો, “શેતાન, મારી પાસેથી દૂર જા. દેવના વચનમાં તેણે તેના લોકોને આજ્ઞા આપી છે, ફક્ત તારા પ્રભુ તારા દેવની આરાધના કર અને ફક્ત તેમની સેવા કર.
 
-  * **[[:gu:obe:kt:jesus]]**
-  * **[[:gu:obe:kt:satan]]**
-  * **[[:gu:obe:kt:wordofgod]]**
-  * **[[:gu:obe:kt:worship]]**
-  * **[[:gu:obe:kt:lord]]**
-  * **[[:gu:obe:kt:god]]**
+===== મહત્વના શબ્દો: =====
 
+  * **ઈસુ**
+  * **શેતાન**
+  * **દેવનું વચન**
+  * **આરાધના**
+  * **પ્રભુ**
+  * **દેવ**
+===== ભાષાંતર નોંધ: =====
 
-===== Translation Notes: =====
-
-  * **Get away from me** - This may also be translated as, "Leave me" or, "Leave me alone."
-  * **In God's word he commands his people, "Worship only the Lord your God and only serve him"** - This could be written as an indirect quote, "In God's word, he commands us that we must worship and serve only the Lord God, who rules over us."
-  * **Lord your God** - Translate this phrase the same way as you did in **[[:gu:obs:notes:frames:25-05|[25-05]]]**.
-  * **and only serve him** - Another way to say this would be, "He is the only one you should serve."
-
-
+  * **મારી પાસેથી દૂર જા**  – અ પણ આરીતે ભાષાંતર થશે, “મને છોડી દે” અથવા, “મને એકલો છોડી દે.”
+  * **દેવના વચનમાં તેણે તેના લોકોને આજ્ઞા આપી છે, “ફક્ત તારા પ્રભુ તારા દેવની આરાધના કર અને ફક્ત તેમની સેવા કર**” – અ પરોક્ષ રીતે પણ લખી શકાય, “દેવના વચનમાં, તેણે આપણને આજ્ઞા આપી છે કે આપણે ફક્ત પ્રભુ દેવની જ આરાધના અને સેવા કરવી, જે આપણી ઉપર શાશન કરે છે.”
+  * **પ્રભુ તારા દેવ**  – જુઓ નોંધ:માળખું:25-05
+  * **અને ફક્ત તેની સેવા કર**  – બીજી આ રીતે કહી શકાય, “ફક્ત તે એકજ છે જેની તારે સેવા કરવી જોઈએ.”
 **[[:gu:obs:notes:frames:25-06|<<]] | [[:gu:obs:notes:25|Up]] | [[:gu:obs:notes:frames:25-08|>>]]**
