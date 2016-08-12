@@ -1,25 +1,21 @@
-===== Mary Was Pregnant [23-01] =====
+===== મરિયમ ગર્ભવતી થઈ [23-01] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-01.jpg?nolink&}}
 
-**Mary** was engaged to a **righteous** man named **Joseph**. When he heard that Mary was pregnant, **he knew it was not his baby**. He did not want **to shame Mary**, so **he planned to quietly divorce her**. Before he could do that, an **angel** came and spoke to him **in a dream**.
-===== Important Terms: =====
+મરિયમની સગાઈ યૂસફ નામના ધર્મિ વ્યક્તિ સાથે થઇ હતી. જયારે તેણે સાંભળ્યું કે મરિયમ ગર્ભવતી છે, તે જાણતો હતો કે તે તેનું બાળક નથી. તે મરિયમને શરમમાં નાખવા નહોતો માંગતો, તેથી તેણે તેણીને છૂટાછેડા આપવાની યોજના બનાવી. તે આવું કરે તે પહેલા, સ્વર્ગદૂતે સ્વપનમાં આવીને તેની સાથે વાત કરી.
 
+===== મહત્વના શબ્દો: =====
 
-  * **[[:gu:obe:other:mary]]**
-  * **[[:gu:obe:kt:righteous]]**
-  * **[[:gu:obe:other:josephnt]]**
-  * **[[:gu:obe:kt:angel]]**
-  * **[[:gu:obe:other:dream]]**
+  * **મરિયમ**
+  * **ધર્મી**
+  * **યૂસફ**
+  * **સ્વર્ગદૂત**
+  * **સ્વપ્ન**
+===== ભાષાંતર નોંધ: =====
 
-
-===== Translation Notes: =====
-
-  * **he knew it was not his baby** - That is, "he knew that he was not the one who had caused her to be pregnant."
-  * **to shame Mary** - That is, "to cause Mary to be publicly disgraced" or "to embarrass Mary publicly." Joseph was merciful to Mary, even though it seemed like she was an adulterer.
-  * **he planned to quietly divorce her** - This could also be translated as, "He planned to divorce her without telling others why," or, "He planned to divorce her without telling others about her pregnancy." Because Joseph was righteous, he wanted to resolve the situation in the best way possible, which in this culture would be to divorce her quietly.
-  * **divorce her** - For some languages it may be better to say, "break their engagement." Joseph and Mary were engaged or, "pledged to be married." But in Jewish culture a divorce was required in order to break off an engagement.
-  * **in a dream** - That is, "while he was asleep and dreaming."
-
-
+  * **તે જાણતો હતો કે તે તેનું બાળક નથી**  – તે છે, “તે જાણતો હતો કે તેના દ્વારા તેણી ગર્ભવતી નહોતી થઈ.”
+  * **મરિયમ માટે શરમ**  – તે છે, “મરિયમને જાહેરમાં બદનામ કરવી” અથવા, “મરિયમને જાહેરમાં વ્યાકુળ કરવી.” તેણી વ્યભિચારી હોય તેવું લાગતું હોવા છતાં, યૂસફ મરિયમના પ્રત્યે દયાળુ રહ્યો.
+  * **તેણે તેણીને છૂટા છેડા આપવાની યોજના બનાવી **– આ રીતે પણ ભાષાંતર થઈ શકે, “તેણે બીજાને કારણ આપ્યા વગર તેણીને છૂટા છેડા આપવાની યોજના બનાવી”, અથવા, “તેને તેણીના ગર્ભવતી થયા વિષે બીજાને કહ્યા વગર તેને છૂટા છેડા આપવાની યોજના બનાવી.” કારણકે યૂસફ ધર્મી હતો, તેથી તે પરિસ્થિતિને શક્ય તેટલું સારી રીતે સમાધાન કરવા માંગતો હતો, તેની સંસ્કૃતિમાં શાંતિથી છૂટા છેડા આપવા તે યોગ્ય હતું.
+  * **તેણીને છૂટા છેડા આપ્યા**  – કેટલીક ભાષાઓમાં આમ કહેવું સારું રહેશે, “તેઓની સગાઈ ટુટી.” યૂસફ અને મરિયમ ની સગાઈ થઇ હતી અથવા, “લગ્ન કરવાની પ્રતિજ્ઞા લીધી હતી.” પણ યહૂદી રીતી રિવાજમાં સગાઈને તોડવા માટે છૂટા છેડા જરૂરી હતા.
+  * **સ્વપ્નામાં **– તે છે, “જયારે તે સુતો હતો અને સ્વપ્ન જોતો હતો.”
 **[[:gu:obs:notes:frames:22-07|<<]] | [[:gu:obs:notes:23|Up]] | [[:gu:obs:notes:frames:23-02|>>]]**
