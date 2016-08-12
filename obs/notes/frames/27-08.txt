@@ -1,18 +1,15 @@
-===== The Samaritan [27-08] =====
+===== સમરુની [27-08] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-08.jpg?nolink&}}
 
-“The next person to **walk down** that road was a **Samaritan**. (Samaritans were the descendants of Jews who had married people from other nations. Samaritans and Jews hated each other.) But when the Samaritan saw the Jewish man, he felt very strong compassion for him. So he cared for him and bandaged his wounds.”
-===== Important Terms: =====
+“ત્યાર પછી જે વ્યક્તિ તે રસ્તા પરથી પસાર થયો તે સામરી હતો. (સમરુની યહૂદીઓના વંશજો હતા જેઓએ બીજા દેશના લોકો સથે લગ્ન કાર્ય હતા. સમરુનીઓ અને યહૂદીઓ એકબીજાને ધિક્કારતા હતા.) પણ જયારે સમરુની માણસે યહૂદી વ્યક્તિને જોયો, તેને તેના પ્રત્યે ખુબજ દયા આવી. તેથી તેણે તેની કાળજી લીધી અને તેના ઘા પર પટ્ટી બાંધી.
 
-  * **[[:gu:obe:other:samaria]]**
-  * **[[:gu:obe:other:jew]]**
+===== મહત્વના શબ્દો: =====
 
+  * **સમરુની**
+  * **યહુદીઓ**
+===== ભાષાંતર નોંધ: =====
 
-===== Translation Notes: =====
-
-  * (Jesus continues to tell the story.)
-  * **walk down** - That is, "travel along." These people were traveling from one city to another. Make sure that it does not sound like they were just taking a walk.
-
-
+  * **(ઈસુએ વાર્તા કહેવાનું ચાલુ રાખ્યું.)**
+  * **ચાલવું – ** તે છે, “સાથે સાથે ચાલવું.” આ લોકો એક શહેરમાંથી બીજા શહેરમાં યાત્રા કરતા હતા. ધ્યાન રાખો કે એવું ન લાગે તે લોકો ફક્ત ચાલવા માટે નીકળ્યા હતા.
 **[[:gu:obs:notes:frames:27-07|<<]] | [[:gu:obs:notes:27|Up]] | [[:gu:obs:notes:frames:27-09|>>]]**
