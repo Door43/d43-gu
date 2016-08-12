@@ -1,17 +1,14 @@
-===== The Crowd Followed Jesus [30-02] =====
+===== ભીડ ઈસુને અનુસરે છે [30-02] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-02.jpg?nolink&}}
 
-But there were many people who saw **Jesus** and the **disciples** leave in the boat to cross the lake. These people ran along the shore of the lake to get to the other side ahead of them. So when Jesus and the disciples **arrived**, a large group of people was already there, waiting for them.
-===== Important Terms: =====
+પરંતુ ત્યાં ઘણા લોકોએ ઈસુ અને શિષ્યોને હોડીમાં બેસી તળાવ પાર જતાં જોયા. આ લોકો તેમની આગળ બીજી બાજુ જવા માટે તળાવને કિનારે-કિનારે ઉતાવળે ચાલતા હતા. તેથી જ્યારે ઈસુ અને એના શિષ્યો આવી પહોંચ્યા, લોકોનું મોટું ટોળું પહેલાથી જ ત્યાં હતું, તેમની રાહ જોઈ રહ્યું હતું.
 
-  * **[[:gu:obe:kt:jesus]]**
-  * **[[:gu:obe:kt:disciple]]**
+===== મહત્વપૂર્ણ શબ્દો: =====
 
+  * **ઈસુ**
+  * **શિષ્યો**
+===== અનુવાદ નોંધો: =====
 
-===== Translation Notes: =====
-
-  * **arrived** - That is, "got to the other side of the lake" or, "got there."
-
-
+  * **આવ્યા **- એટલે કે, "તળાવની બીજી બાજુ પહોંચી ગયા" અથવા, "ત્યાં પહોંચી ગયા."
 **[[:gu:obs:notes:frames:30-01|<<]] | [[:gu:obs:notes:30|Up]] | [[:gu:obs:notes:frames:30-03|>>]]**
