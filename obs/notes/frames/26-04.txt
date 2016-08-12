@@ -1,22 +1,17 @@
-===== The Prophesy about Jesus [26-04] =====
+===== ઈસુ વિશે ભવિષ્યવાણી [26-04] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-04.jpg?nolink&}}
 
+પછી ઈસુ બેસી ગયા. દરેક લોકોએ તેમને નજીકથી જોયા. તેણે મસીહાને દર્શાવતો ભાગ વાંચ્યો જે તેઓ જાણતા હતા. ઈસુએ કહ્યું, “જે વચનો મેં હમણાં તમને કહ્યા તે હમણા થયા છે.” દરેક લોકો ચકિત થઇ ગયા. તેઓએ કહ્યું “શું આજ યૂસફનો દીકરો નથી?”
 
-Then **Jesus** sat down. Everybody watched him closely. They knew the passage of **scripture** that he had just read referred to the **Messiah**. Jesus said, “**The words I just read to you are happening right now**.” All the people were **amazed**. “**Isn’t this the son of Joseph**?” they said.
-===== Important Terms: =====
+===== મહત્વના શબ્દો: =====
 
-  * **[[:gu:obe:kt:jesus]]**
-  * **[[:gu:obe:kt:wordofgod]]**
-  * **[[:gu:obe:kt:christ]]**
-  * **[[:gu:obe:other:josephnt]]**
+  * **ઈસુ**
+  * **દેવનું વચન**
+  * **મસીહા**
+  * **યૂસફ**
+===== ભાષાંતર નોંધ: =====
 
-
-===== Translation Notes: =====
-
-  * **The words I just read to you are happening right now** - Other ways to translate this would be, "The words you just heard me read are being fulfilled right now" or, "Today the words I read to you came true as you heard them."
-  * **amazed** - Translate the word "amazed" with a term that means that they were surprised, shocked, and confused about how this could be possible.
-  * **Isn't this the son of Joseph?** - This could also be translated as, "This man is only the son of Joseph!" or, "Everyone knows he is just Joseph's son!" The people were not asking if he was Joseph's son or not. They were wondering how he could be the Messiah since they thought he was only the son of an ordinary man.
-
-
+  * **જે વચનો મેં હમણાં તમને કહ્યા તે હમણા થયા છે **– બીજી આ રીતે ભાષાંતર થાય, “મે જે વચનો વાંચીને તમને સંભળાવ્યા તે અત્યારે પુરા થઈ રહ્યા છે” અથવા, “આજે જે વચનો તમે સાંભળ્યા છે તે સત્ય થયા છે.”
+  * **ચકિત થયા **– “ચકિત” શબ્દનું ભાષાંતર તેવા શબ્દો સાથે કરે કે જેનો અર્થ આશ્યાર્ચાકિત, સ્તબ્ધ, અને ઉલજનમા પાળી ગયા કે આવું કેવી રીતે થઈ શકે. શું આજ યૂસફનો દીકરો નથી? આ પણ આ રીતે ભાષાંતર થશે, “ફક્ત આજ માણસ યૂસફનો દીકરો છે!” અથવા, “દરેક લોકો જનતા હતા કે આજ યૂસફનો દીકરો છે!” લોકોએ એવું નહોતું પૂછ્યું કે તે યૂસફનો દીકરો છે કે નહિ. તેઓ આશ્ચર્યચકિત હતા કે તે મસીહા કેવી રીતે હોઈ શકે કેમકે તેઓ વિચારતા હતા કે તે તો ફક્ત એક સાધારણ માણસનો દીકરો છે.
 **[[:gu:obs:notes:frames:26-03|<<]] | [[:gu:obs:notes:26|Up]] | [[:gu:obs:notes:frames:26-05|>>]]**
