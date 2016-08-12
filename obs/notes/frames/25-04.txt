@@ -1,24 +1,19 @@
-===== The Second Temptation [25-04] =====
+===== બીજું પરીક્ષણ [25-04] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-04.jpg?nolink&}}
 
-**Then Satan** took **Jesus** to the highest point on the **Temple** and said, “If you are the **Son of God**, **throw yourself down**, because **it is written**, ‘**God** will command his **angels** to carry you **so your foot does not hit a stone**.’”
+પછી શેતાન ઈસુને મંદિરની ટોચ ઉપર લઈ ગયો અને કહ્યું, “જો તું દેવનો પુત્ર હોય તો તારી જાતને નીચે ફેંકી દે, કારણકે તે લખેલું છે કે, દેવ તેના સ્વર્ગદૂતોને આજ્ઞા કરશે કે તે તને ધરી રાખે જેથી તારા પગ પથ્થર સાથે અથડાય નહિ.
 
-===== Important Terms: =====
+===== મહત્વના શબ્દો: =====
 
-  * **[[:gu:obe:kt:satan]]**
-  * **[[:gu:obe:kt:jesus]]**
-  * **[[:gu:obe:kt:temple]]**
-  * **[[:gu:obe:kt:sonofgod]]**
-  * **[[:gu:obe:kt:god]]**
-  * **[[:gu:obe:kt:angel]]**
+  * **શેતાન**
+  * **ઈસુ**
+  * **મંદિર**
+  * **દેવનો દીકરો**
+  * **દેવ**
+  * **સ્વર્ગદૂત**
+===== ભાષાંતર નોંધ: =====
 
-
-===== Translation Notes: =====
-
-  * **throw yourself down** - That is, "jump off this building to the ground."
-  * **it is written** - That is, "a prophet of God wrote long ago."
-  * **so your foot does not hit a stone** - This means, "so that you will not be hurt at all; not even your foot will be injured on a stone." It could also be translated as, "so that even your foot will not strike against a stone; you will not be injured at all."
-
-
+  * **તારી જાતને નીચે ફેંકી દે**  – તે છે, “આ ઈમારત ઉપરથી જમીન ઉપર કુદી જા.”
+  * **તે લખેલું છે**  – તે છે, “દેવના પ્રબોધાકે ઘણા સમય પહેલા લખ્યું હતું.” જેથી તારા પગ પથ્થર સાથે અથડાય નહિ – આનો અર્થ છે, “જેથી તને કઈપણ ઈજા ન થાય; ત્યાં સુધી કે તારો પગ પણ પથ્થર સાથે અથડાય નહિ.” તે આ રીતે પણ ભાષાંતર થશે, “જેથી તારા પગ પથ્થર સાથે પણ ન અથડાય; તને કંઈપણ ઈજા ન થાય.”
 **[[:gu:obs:notes:frames:25-03|<<]] | [[:gu:obs:notes:25|Up]] | [[:gu:obs:notes:frames:25-05|>>]]**
