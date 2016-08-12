@@ -1,24 +1,20 @@
-===== Do the Same [27-11] =====
+===== તેવુજ કરવું [27-11] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-11.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-11.jpg?nolink&}}
 
+પછી ઈસુએ કાયદાના નિપુણ વ્યક્તિને કીધું, “તું શુ વિચારે છે? આ ત્રણ લોકો માંથી જે વ્યકી લુંટાયો હતો અને માર ખાધેલો હતો તેના પાડોશી કયો હતો?” તેણે ઉત્તર આપ્યો, “તે જે તે વ્યક્તિ પ્રત્યે દયાળું હતો.” ઈસુએ તેન કહ્યું, “તું જ અને તેવુંજ કર.”
 
-Then **Jesus** asked the **law expert**, “What do you think? Which one of **the three men was a neighbor** to the man who was robbed and beaten?” He replied, “The one who was **merciful** to him.” Jesus told him, “**You go and do the same**.”
-===== Important Terms: =====
+===== મહત્વના શબ્દો: =====
 
-  * **[[:gu:obe:kt:jesus]]**
-  * **[[:gu:obe:kt:mercy]]**
+  * **ઈસુ**
+  * **દયાળુ**
+===== ભાષાંતર નોંધ: =====
 
-
-===== Translation Notes: =====
-
-  * **law expert** - That is, "an expert in the Jewish law." See how you translated this term in **[[:gu:obs:notes:frames:27-01|[27-01]]]**.
-  * **the three men** - The three men were the priest, the Levite, and the Samaritan.
-  * **neighbor** - Jesus is using the word "neighbor" in a broader sense than in **[[:gu:obs:notes:frames:27-02|[27-02]]]**. "Neighbor" here refers to anyone that we meet who needs our help.
-  * **was a neighbor** - This can also be translated as, "behaved as a neighbor" or, "was a friend" or, "acted in a loving way". See how you translated "neighbor" in **[[:gu:obs:notes:frames:27-02|[27-02]]]** and **[[:gu:obs:notes:frames:27-03|[27-03]]]**.
-  * **You go and do** - That is, "You, too, should go and do" or, "Now you must do." Jesus was commanding the law expert to do as the Samaritan did.
-  * **do the same** - That is, "love others, even your enemies." Make sure it does not sound like "the same" is only referring to helping a wounded man.
-  * //A Bible story from//  - These references may be slightly different in some Bible translations.
-
-
+  * **કાયદાનો નિપુણ **– તે છે, “યહૂદી કાયદાનો નિપુણ.” જુઓ નોંધ:માળખું:[27-01]
+  * **ત્રણ માણસો **– ત્રણ માણસો યાજક, લેવી, અને સમરુની હતા.
+  * **પાડોશી –**  ઈસુ પાડોશી શબ્દનો ઉપયોગ ઊંડા અર્થથી કરે છે. અહીંયા “પાડોશી” શબ્દ તે વ્યક્તિને દર્શાવે છે જેઓને આપણી મદદની જરૂર છે. જુઓ નોંધ:માળખું: [27-02].
+  * **પાડોશી હતો **– આ રીતે ભાષાંતર થાય, “પાડોશી જેવું વર્તન કરવું” અથવા, “પ્રેમથી વર્તવું”. જુઓ નોંધ:માળખું:[27-02] અને નોંધ:માળખું: [27-03].
+  * **તું જા અને કર –**  તે છે, “તારે, પણ, જવું જોઈએ અને કરવું જોઈએ” અથવા, “હવે તારે કરવું જ જોઈએ.” ઈસુએ કાયદાના નિપુણ વ્યક્તિને જેમ સમરુનીએ કર્યું તેમ કરવાની આજ્ઞા આપી.
+  * **તેમ જ કર **– તે છે, “બીજાઓને પ્રેમ કર, તારા દુશ્મનોને પણ.” ધ્યાન રાખો કે “તેવું જ” શબ્દ નો અર્થ ફક્ત ઘાયલ વ્યક્તિની મદદ કરવી તેવું ન દર્શાવે.
+  * **બાઈબલ વાર્તા **- આ સંદર્ભ કેટલાક કેટલાક બાઈબલ ભાષાંતરોમાં અલગ હોઈ શકે છે.
 **[[:gu:obs:notes:frames:27-10|<<]] | [[:gu:obs:notes:27|Up]] | [[:gu:obs:notes:frames:28-01|>>]]**
