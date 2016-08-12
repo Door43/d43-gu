@@ -1,25 +1,22 @@
-===== Take Mary as Your Wife [23-02] =====
+===== મરિયમને તારી પત્ની તરીકે લે [23-02] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-02.jpg?nolink&}}
 
-The **angel** said, “**Joseph**, **do not be afraid to take Mary as your wife**. The baby that is in her **is from the Holy Spirit**. She will give birth to a **son**. Name him **Jesus** (which means, '**Yahweh saves**'), because he will save the people from their **sins**.”
-===== Important Terms: =====
+સ્વર્ગ્દૂતે કહ્યું, “યૂસફ, મરિયમને તારી પત્ની તરીકે રાખવા માટે બી મા. તેની અંદરનું બાળક પવિત્ર આત્મા તરફથી છે. તે એક પુત્રને જન્મ આપશે. તેનું નામ ઈસુ રાખજે (જેનો અર્થ છે, ‘યહોવા બચાવશે’), જે લોકોને તેના પાપોથી બચાવશે.”
 
-  * **[[:gu:obe:kt:angel]]**
-  * **[[:gu:obe:other:josephnt]]**
-  * **[[:gu:obe:other:mary]]**
-  * **[[:gu:obe:kt:holyspirit]]**
-  * **[[:gu:obe:kt:son]]**
-  * **[[:gu:obe:kt:jesus]]**
-  * **[[:gu:obe:kt:yahweh]]**
-  * **[[:gu:obe:kt:save]]**
-  * **[[:gu:obe:kt:sin]]**
+===== મહત્વના શબ્દો: =====
 
+  * **સ્વર્ગદૂત**
+  * **યૂસફ**
+  * **મરિયમ**
+  * **પવિત્ર આત્મા**
+  * **દીકરો**
+  * **ઈસુ**
+  * **યહોવા**
+  * **બચાવવું**
+  * **પાપો**
+===== ભાષાંતર નોંધ: =====
 
-===== Translation Notes: =====
-
-  * **do not be afraid to take Mary as your wife** - This can also be translated as, "Stop thinking that you shouldn't marry Mary" or, "Do not hesitate to have Mary as your wife."
-  * **is from the Holy Spirit** - That is, "was conceived by a miracle of the Holy Spirit."
-
-
+  * **મરિયમને તારી પત્ની તરીકે રાખવા માટે બી મા**  – આ રીતે પણ ભાષાંતર થાય, “તું મરિયમ સાથે લગ્ન નહિ કરી શકે તેવું વિચારવાનું બંધ કર” અથવા, “મરિયમને તારી પત્ની તરીકે રાખવાથી ગભરાઇશ નહિ.”
+  * **પવિત્ર આત્મા તરફથી છે**  – તે છે, “પવિત્ર આત્માના ચમત્કાર દ્વારા ગર્ભવતી થઈ.”
 **[[:gu:obs:notes:frames:23-01|<<]] | [[:gu:obs:notes:23|Up]] | [[:gu:obs:notes:frames:23-03|>>]]**
