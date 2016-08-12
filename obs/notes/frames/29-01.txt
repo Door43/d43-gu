@@ -1,24 +1,22 @@
-===== How Many Times? [29-01] =====
+===== કેટલી વખત? [29-01] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-01.jpg?nolink&}}
 
-**One day**, **Peter** asked **Jesus**, “**Master**, how many times should I **forgive my brother** when he **sins against me**? As many as seven times?” Jesus said, “**Not seven times**, **but seventy times seven**!” **By this, Jesus meant** that we should always forgive. Then Jesus told the following story.
-===== Important Terms: =====
+એક દિવસ, પિતરે ઈસુને પૂછ્યું, “પ્રભુ, જયારે મારો ભાઈ મારી વિરુદ્ધ પાપ કરે ત્યારે મારે કેટલી વખત માફ કરવો જોઈએ?” સાત વખત? ઈસુએ ઉત્તર આપ્યો, “સાત વાર નહી, પણ સિતેર ગણી સાત વાર!” આ દ્વારા, ઈસુ કહેવા માંગતા હતા કે આપણે હંમેશા માફ કરવું જોઈએ. પછી ઈસુએ નિમ્નલિખીત વાર્તા કહી.
 
-  * **[[:gu:obe:other:peter]]**
-  * **[[:gu:obe:kt:jesus]]**
-  * **[[:gu:obe:kt:lord]]**
-  * **[[:gu:obe:kt:forgive]]**
-  * **[[:gu:obe:kt:sin]]**
+===== મહત્વના શબ્દો: =====
 
+  * **પિતર**
+  * **ઈસુ**
+  * **સ્વામી**
+  * **માફ કરવું**
+  * **પાપો**
+===== ભાષાંતર નોંધ: =====
 
-===== Translation Notes: =====
-
-  * **One day** - This phrase introduces an event that happened in the past, but does not state the specific time. Many languages have a similar way to begin telling a true story.
-  * **my brother** - This term sometimes included people who were not actually siblings, but who shared another very strong connection such as religion, ethnic background, etc.
-  * **sins against me** - This could also be translated as, "does something wrong against me."
-  * **Not seven times, but seventy times seven!** - This could be translated as, "You should not forgive only seven times, rather you should forgive seventy times seven times." Jesus was not talking about an exact number. He was saying that we should forgive people every time they sin against us.
-  * **By this, Jesus meant** - That is, "When Jesus said this he meant."
-
+  * **એક દિવસ –**  આ વાક્ય ભૂતકાળમાં થયેલી ઘટનાનું વર્ણન કરે છે, પણ કોઈ ચોક્ક્સ સમય નથી દર્શાવતું. ઘણી ભાષાઓમાં સત્ય વાર્તા કહેવાનો સરખો જ રસ્તો છે.
+  * **મારો ભાઈ **– આ શબ્દમાં ઘણીવાર એવા લોકોનો સમાવેશ કરવામાં આવે છે જેઓ ખરેખર ભાઈઓ નથી, પણ ધર્મ, સંસ્કૃતિના, વગેરેના લીધે ખુબજ ગાઢ સંબંધ ધરાવે છે.
+  * **મારી વિરુદ્ધ પાપ**- આ રીતે પણ ભાષાંતર થાય, “મારી વિરુદ્ધ ખોટું કર્યું.”
+  * **સાત વાર નહિ, પણ સિતેર ગણી સાત વાર **– આ રીતે ભાષાંતર થાય, “તારે ફક્ત સાત વાર જ માફ ન કરવું જોઈએ, પણ તારે સિતેર ગણી સાત વાર માફ કરવું જોઈએ.” ઈસુ કોઈ ચોક્કસ સંખ્યા વિષે વાત નહોતા કરતા. તે કહેતા હતા કે આપણે લોકોને દરેક વખતે માફ કરવા જોઈએ જયારે તેઓ આપણા વિરુદ્ધ પાપ કરે છે.
+  * **આ દ્વારા, ઈસુ કહેવા માંગતા હતા**  – તે છે, “જ્યારે ઈસુએ આ કહ્યો તેનો મતલબ.”
 
 **[[:gu:obs:notes:frames:28-10|<<]] | [[:gu:obs:notes:29|Up]] | [[:gu:obs:notes:frames:29-02|>>]]**
