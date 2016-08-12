@@ -1,24 +1,20 @@
-===== The Trip to Bethlehem [23-04] =====
+===== બેથલેહેમ તરફની યાત્રા [23-04] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-04.jpg?nolink&}}
 
+જયારે મરિયમનો બાળકને જન્મ આપવાનો સમય નજીક આવ્યો, ત્યારે રોમન સરકારે દરેક લોકોને તેઓના પૂર્વજોની રહેતા હતા તે જગ્યાએ તેઓને વસ્તી ગણતરી કરાવવા માટે જવા કહ્યું. યૂસફ અને મરિયમે નાઝરેથ જ્યાં તેઓ રહેતા હતા ત્યાંથી બેથલેહેમ સુધીની લાંબી યાત્રા કરવાની હતી કારણકે તેમનો પૂર્વજ દાઉદનું જન્મસ્થળ બેથલેહેમ હતું.
 
-**When the time was near for Mary to give birth**, the **Roman government** told everyone to go **for a census** to the town where their ancestors had lived. **Joseph** and Mary had to make a long journey from where they lived in **Nazareth** to **Bethlehem** because their ancestor was **David** whose hometown was Bethlehem.
-===== Important Terms: =====
+===== મહત્વના શબ્દો: =====
 
-  * **[[:gu:obe:other:mary]]**
-  * **[[:gu:obe:other:rome]]**
-  * **[[:gu:obe:other:josephnt]]**
-  * **[[:gu:obe:other:nazareth]]**
-  * **[[:gu:obe:other:bethlehem]]**
-  * **[[:gu:obe:other:david]]**
+  * **મરિયમ**
+  * **રોમીઓ**
+  * **યૂસફ**
+  * **નાઝાર**
+  * **બેથલેહેમ**
+  * **દાઉદ**
+===== ભાષાંતર નોંધ: =====
 
-
-===== Translation Notes: =====
-
-  * **When the time was near for Mary to give birth** - That is, "When it was near the end of Mary's pregnancy."
-  * **Roman government** - Rome had conquered and ruled over Israel at this time.
-  * **for a census** - That is, "to be counted for the government record" or, "so that the government could write their names on a list" or, "to be counted by the government." This census was probably made for the purpose of taxing the people.
-
-
+  * **જયારે મરિયમનો બાળકને જન્મ આપવાનો સમય નજીક આવ્યો**  – તે છે, “જયારે મરિયમની ગર્ભ અવસ્થાનો સમય પૂરો થવા આવ્યો.”
+  * **રોમન સરકાર **– રોમે તે સમયે ઇસ્રાએલને જીતી લીધું હતું અને તેની ઉપર રાજ કરતુ હતું.
+  * **વસ્તી ગણતરી માટે**  – તે છે, “સરકારના યાદી માટે ગણતરી થવી” અથવા, “જેથી સરકાર તેઓના નામ તેમની યાદીમાં લખી શકે” અથવા, “સરકાર દ્વારા ગણતરી થવી.” આ વસ્તી ગણતરી નો હેતુ લોકો પાસેથી કર ઉઘરાવવા માટેનો હતો.
 **[[:gu:obs:notes:frames:23-03|<<]] | [[:gu:obs:notes:23|Up]] | [[:gu:obs:notes:frames:23-05|>>]]**
