@@ -1,20 +1,17 @@
-===== The Camel and the Needle [28-06] =====
+===== ઊંટ અને સોય [28-06] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-06.jpg?nolink&}}
 
-Then **Jesus** said to his **disciples**, “It is extremely hard for rich people to **enter into the kingdom of God**! Yes, it is easier for a **camel** to go through the **eye of a needle** than for a rich man to enter the kingdom of God.”
-===== Important Terms: =====
+પછી ઈસુએ તેના શિષ્યોને કહ્યું, “ધનવાન માણસનું દેવના રાજ્યમાં પ્રવેશ કરવું ખુબજ અઘરું છે! હા, ધનવાન માણસનું દેવના રાજ્યમાં પ્રવેશવું તેના કરતા ઊંટનું સોયના નાકામાંથી પસાર થવું સહેલું છે.”
 
-  * **[[:gu:obe:kt:jesus]]**
-  * **[[:gu:obe:kt:disciple]]**
-  * **[[:gu:obe:kt:kingdomofgod]]**
+===== મહત્વના શબ્દો: =====
 
+  * **ઈસુ**
+  * **શિષ્યો**
+  * **દેવનું રાજ્ય**
+===== ભાષાંતર નોંધ: =====
 
-===== Translation Notes: =====
-
-  * **enter the kingdom of God** - This can also be translated as, "become a citizen in God's kingdom."
-  * **camel** - Camels are very large animals that are often used to carry heavy loads. If camels are not known in your language area, a phrase such as, "very large animal" or, "beast of burden" could be used. If you choose to substitute the name of some other large animal, make sure that the animal would have been known by the people Jesus was talking to, such as, "ox" or, "donkey."
-  * **eye of a needle** - This refers to the tiny hole in the end of a sewing needle. The idea of something as large as a camel going through the eye of a needle is intended to represent something that is impossible.
-
-
+  * **દેવના રાજ્યમાં પ્રવેશ કરવો**  – આ રીતે પણ ભાષાંતર થાય, “દેવના રાજ્યનું નાગરિક બનવું.”
+  * **ઊંટ**  – ઊંટ ખુબજ મોટું પ્રાણી છે જેનો ઉપયોગ વજનદાર સામાન ઉપાડવા માટે થાય છે. જો ઊંટ તમારા પ્રદેશમાં જાણીતું ન હોય તો, “ખુબજ મોટું પ્રાણી” અથવા, “વજન ઉપાડનાર પ્રાણી” શબ્દનો પણ ઉપયોગ કરી શકો છો. જો તમે બીજા કોઈ મોટા પ્રાણી ના શબ્દનો ઉપયોગ કરવાના હોય તો, ધ્યાન રાખો કે ઈસુ જે પ્રાણી વિષે વાત કરે છે  તે પ્રાણીને લોકો ઓળખી શકે જેમ કે, “બળદ” અથવા, “ગધેડો.”
+  * **સોયનું નાકું –**  આ સીવવાની સોયની પાછળના ભાગને દર્શાવે છે. વિશાળ ઊંટનું સોયના નાકામાંથી પસાર થવું એવો વિચાર કંઈક અશક્ય બાબતને દર્શાવે છે.
 **[[:gu:obs:notes:frames:28-05|<<]] | [[:gu:obs:notes:28|Up]] | [[:gu:obs:notes:frames:28-07|>>]]**
