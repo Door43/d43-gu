@@ -1,17 +1,14 @@
-===== Peter Walked on the Water [31-06] =====
+===== પીતર પાણી પર ચાલ્યો [31-06] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-06.jpg?nolink&}}
 
-So, **Peter** got out of the boat and started walking to **Jesus** on the surface of the water. But after walking a short distance, he **turned his eyes away from** Jesus and began to look at the waves and to feel the strong wind.
-===== Important Terms: =====
+તેથી, પીતર હોડીમાંથી બહાર નિકળી અને ઈસુ તરફ પાણીની સપાટી પર ચાલવાનું શરૂ કર્યું. પરંતુ થોડા ડગલા પછી, તેણે તેની નજર ઈસુથી હટાવી અને ઉછળતા મોજા જોવા લાગ્યો અને મજબૂત પવન અનુભવવાનું શરૂ કર્યું.
 
-  * **[[:gu:obe:other:peter]]**
-  * **[[:gu:obe:kt:jesus]]**
+===== મહત્વપૂર્ણ શબ્દો: =====
 
+  * **પીતર**
+  * **ઈસુ**
+===== અનુવાદ નોંધો: =====
 
-===== Translation Notes: =====
-
-  * **turned his eyes away from** - This expression means, "looked away from." It could also be translated as, "stopped looking at."
-
-
+  * **ત્યાંથી તેની આંખો હટાવી **- આ અભિવ્યક્તિનો અર્થ થાય છે, "તેનાથી દૂર જોયું." આવી રીતે પણ, ભાષાંતર કરી શકાય છે "જોવાનું બંધ કર્યું."
 **[[:gu:obs:notes:frames:31-05|<<]] | [[:gu:obs:notes:31|Up]] | [[:gu:obs:notes:frames:31-07|>>]]**
