@@ -1,19 +1,16 @@
-===== God's Word Gives Life [25-03] =====
+===== દેવનું વચન જીવન આપે છે [25-03] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-03.jpg?nolink&}}
 
-**Jesus** replied, “It is written in **God’s word**, ‘People do not only need **bread** in order to live, **but they need every word that God speaks**!’”
-===== Important Terms: =====
+ઈસુએ ઉત્તર આપ્યો, “દેવના વચનમાં લખેલું છે, માણસ ફક્ત રોટલીથી નહિ જીવે, પણ દેવના કહેલા વચનોની તેઓ જીવશે.
 
-  * **[[:gu:obe:kt:jesus]]**
-  * **[[:gu:obe:kt:wordofgod]]**
-  * **[[:gu:obe:kt:god]]**
+===== મહત્વના શબ્દો: =====
 
+  * **ઈસુ**
+  * **દેવનું વચન**
+  * **દેવ**
+===== ભાષાંતર નોંધ: =====
 
-===== Translation Notes: =====
-
-  * **bread** - Make sure that you use the same word to translate "bread" here as you did in **[[:gu:obs:notes:frames:25-02|[25-02]]]**.
-  * **but they need every word that God speaks!** - Another way to translate this would be, "Rather, people need to listen to and obey everything God says" or, "Rather, people have real life by believing and obeying what God says."
-
-
+  * **રોટલી**  – જુઓ નોંધ:માળખું:[25-02]
+  * **દેવના કહેલા વચનોની તેઓ જીવશે!**  – બીજી રીતે કહીએ તો, “વાસ્તવમાં, લોકોએ દેવે કહેલી દરેક વાતો સંભાળવી અને તેને પાળવાની જરૂર છે” અથવા, “વાસ્તવમાં, દેવે કહેલી દરેક વાતો ઉપર વિશ્વાસ કરવાથી અને તેને પાળવાથી લોકોને સાચું જીવન મળશે.”
 **[[:gu:obs:notes:frames:25-02|<<]] | [[:gu:obs:notes:25|Up]] | [[:gu:obs:notes:frames:25-04|>>]]**
