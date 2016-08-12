@@ -1,23 +1,19 @@
-===== John the Prophet [24-01] =====
+===== યોહાન પ્રબોધક [24-01] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-01.jpg?nolink&}}
 
-**John**, the son of **Zechariah** and Elizabeth, grew up and became a **prophet**. He lived in the **wilderness**, ate **wild honey** and **locusts**, and wore **clothes made from camel hair**.
-===== Important Terms: =====
+યોહાન, ઝખાર્યા અને એલિસાબેતનો પુત્ર, મોટો થયો અને પ્રબોધક બન્યો. તે રણમાં રહેતો હતો, મધ અને તીડો ખાતો હતો, અને ઊંટના વાળ માંથી બનાવેલા કપડાં પહેરતો હતો.
 
+===== મહત્વના શબ્દો: =====
 
-  * **[[:gu:obe:other:johnthebaptist]]**
-  * **[[:gu:obe:other:zechariahnt]]**
-  * **[[:gu:obe:kt:prophet]]**
+  * **યોહાન**
+  * **ઝખાર્યા**
+  * **પ્રબોધક**
+===== ભાષાંતર નોંધ: =====
 
-
-===== Translation Notes: =====
-
-  * **wilderness** - That is, "the desert" or, "a remote, desert-like place." There were few people living out in this area.
-  * **wild honey** - This honey was the natural product of bees in the wilderness; it was not cultivated by people. If that is what people would understand by the word "honey," you may not need to call it "wild."
-  * **locusts** - These were large, hopping insects with wings, like very large grasshoppers. Some people who live in the desert eat them.
-  * **camel hair** - A camel is an animal that has very rough hair. People could make clothing out of it. This could be translated as "rough animal hair."
-  * **clothes made from camel hair** - That is, "coarse clothes made of camel hair." These clothes would not quickly wear out in the wilderness as other clothes would.
-
-
+  * **રણ**  – તે છે, “રણપ્રદેશ” અથવા, “ઉજ્જડ, રણ જેવી જગ્યા.” આવી જગ્યામાં ખુબજ થોડા લોકો રહેતા હતા.
+  * **મધ**  – આ મધ જંગલમાં મધમાખીઓ દ્વારા કુદરતી રીતે તૈયાર થતું હતું, તે લોકો દ્વારા બનાવવામાં નહોતું આવતું. જો લોકો “મધ” શબ્દ સમજી શકતા હોયતો તમારે તેને “જંગલનું” કહેવાની જરૂર નથી.
+  * **તીડો**  – આ મોટા, કુદકો મારનાર પાંખવાળા જંતુઓ હતા, જે મોટા તીતીઘોડા જેવા હતા. કેટલાક લોકો જે રણમાં રહે છે તેઓ તેને ખાય છે.
+  * **ઊંટના વાળ**  – ઊંટ એવું પરની છે જેણે ખુબજ વાળ હોય છે. લોકો તેમાંથી કપડાં બનાવે છે. આ રીતે ભાષાંતર કરી શકાય, “પ્રાણીઓની રૂંવાટી.”
+  * **ઊંટના વાળ માંથી કપડાં બનાવવા**  – તે છે, “ઊંટના વાળ માંથી સામાન્ય કપડાં બનાવવામાં આવતા હતા.” રણ પ્રદેશમાં આ કપડાં બીજા કપડાંઓની જેમ ઘસાય જતા ન હતા.
 **[[:gu:obs:notes:frames:23-10|<<]] | [[:gu:obs:notes:24|Up]] | [[:gu:obs:notes:frames:24-02|>>]]**
