@@ -1,19 +1,17 @@
-===== All Things Are Possible [28-08] =====
+===== બધુંજ શક્ય છે [28-08] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-08.jpg?nolink&}}
 
-**Jesus** looked at the **disciples** and said, “**With people this is impossible**, but **with God**, **all things are possible**.”
-===== Important Terms: =====
+ઈસુએ શિષ્યો તરફ જોયું અને કહ્યું, “,માણસોથી આ અશક્ય છે, પણ દેવથી, બધુંજ શક્ય છે.”
 
-  * **[[:gu:obe:kt:jesus]]**
-  * **[[:gu:obe:kt:disciple]]**
-  * **[[:gu:obe:kt:god]]**
+===== મહત્વના શબ્દો: =====
 
+  * **ઈસુ**
+  * **શિષ્યો**
+  * **દેવ**
+===== ભાષાંતર નોંધ: =====
 
-===== Translation Notes: =====
-
-  * **With people this is impossible** - That is, "It is not possible for people to do this" or, "Mere humans cannot save themselves."
-  * **with God, all things are possible** - This could also be translated as, "God is able to do anything, even save a rich person" or, "God is able to do impossible things, so he can save even a rich person."
-
+  * **માણસથી આ અશક્ય છે **– તે છે, “લોકો માટે આ કરવું શક્ય નથી” અથવા, “ફક્ત માણસ પોતાની જાતને નથી બચાવી શકતા.”
+  * **દેવથી, બધુંજ શક્ય છે**  – આ રીતે ભાષાંતર થાય, “દેવ બધુંજ કરી શકે છે, ધનવાન માણસને પણ બચાવી શકે છે” અથવા, “દેવ અશક્ય કામ કરવા સમર્થ છે, તેથી તે ધનવાન માણસને પણ બચાવી શકે છે.”
 
 **[[:gu:obs:notes:frames:28-07|<<]] | [[:gu:obs:notes:28|Up]] | [[:gu:obs:notes:frames:28-09|>>]]**
