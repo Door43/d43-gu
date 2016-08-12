@@ -1,17 +1,14 @@
-===== Five Loaves and Two Fish [30-05] =====
+===== પાંચ રોટલી અને બે માછલી [30-05] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-05.jpg?nolink&}}
 
-But **Jesus** said to the **disciples**, “You give them something to eat!” They responded, “**How can we do that**? We only have five loaves of bread and two small fish.”
-===== Important Terms: =====
+પરંતુ ઈસુએ શિષ્યોને કહ્યું , "તમે તેઓને કંઈક ખાવાનું આપો!" તેઓએ જવાબ આપ્યો, "અમે તે કેવી રીતે કરી શકીએ? અમારી પાસે માત્ર પાંચ રોટલીઓ અને બે માછલી છે. "
 
-  * **[[:gu:obe:kt:jesus]]**
-  * **[[:gu:obe:kt:disciple]]**
+===== મહત્વપૂર્ણ શબ્દો: =====
 
+  * **ઈસુ**
+  * **શિષ્યો**
+===== અનુવાદ નોંધો: =====
 
-===== Translation Notes: =====
-
-  * **How can we do that?** - This could be translated as, "We cannot do that!" or, "It is impossible to do that!" The disciples were not asking an actual question. Rather, they were strongly expressing that they did not think this was possible.
-
-
+  * **અમે તે કેવી રીતે કરી શકીએ? **– આ આવી રીતે અનુવાદ કરી શકાય છે! "અમે તે ન કરી શકીશું", અથવા, "તે કરવું અશક્ય છે!" શિષ્યો એક વાસ્તવિક પ્રશ્ન પૂછતા ન હતા. તેના બદલે, તેઓ ભારપૂર્વક વ્યક્ત કરતા હતા કે તેઓને નથી લાગતું કે આ શક્ય છે.
 **[[:gu:obs:notes:frames:30-04|<<]] | [[:gu:obs:notes:30|Up]] | [[:gu:obs:notes:frames:30-06|>>]]**
