@@ -1,26 +1,20 @@
-===== The Wise Men Visited Jesus [23-09] =====
+===== માગીઓએ ઈસુની મુલાકાત લીધી [23-09] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-09.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-09.jpg?nolink&}}
 
+થોડાક સમય પછી, પૂર્વના દૂરના દેશોમાં માગીઓએ આકાશમાં અસામાન્ય તારો જોયો. તેઓને ભાન થયું કે યહૂદાનો નવો રાજા જનમ્યો છે. તેથી, તેઓએ આ રાજાને જોવા માટે લાંબી મુસાફરી કરી. તેઓ બેથલેહેમ આવ્યા અને જ્યાં ઈસુ અને તેના માતા પિતા હતા તે ઘર શોધ્યું.
 
-**Sometime later**, **wise men** from countries far to the east saw an **unusual star** in the sky. T**hey realized** it meant a new **king of the Jews** had been born. So, they traveled a great distance to see this king. They came to **Bethlehem** and found **the house** where **Jesus** and his parents were staying.
+===== મહત્વના શબ્દો: =====
 
+  * **બુદ્ધિશાળી**
+  * **યહુદીઓ નો રાજા**
+  * **બેથલેહેમ**
+  * **ઈસુ**
+===== ભાષાંતર નોંધ: =====
 
-===== Important Terms: =====
-
-  * **[[:gu:obe:kt:wise]]**
-  * **[[:gu:obe:kt:kingofthejews]]**
-  * **[[:gu:obe:other:bethlehem]]**
-  * **[[:gu:obe:kt:jesus]]**
-
-
-===== Translation Notes: =====
-
-  * **Sometime later** - It is not clear how long it was after the birth of Jesus before the wise men saw the star, but it may have taken as long as two years for them to prepare for the trip and then travel to Bethlehem.
-  * **wise men** - The "wise men" were probably astrologers who studied the stars. They may also have had access to the Old Testament prophets' writings that predicted the birth of the Messiah.
-  * **unusual star** - The star that they noticed was not a normal star. It was something that appeared at the time of Jesus' birth.
-  * **They realized** - Some languages may add, "From their studies, these scholars realized."
-  * **the house** - They were no longer staying in the place for animals where he was born.
-
-
+  * **થોડાક સમય પછી **– તે સ્પષ્ટ નથી કે ઈસુના જન્મ થયાના કેટલા સમય પહેલા માગીઓએ તારો જોયો હતો, પણ તેઓ માટે યાત્રાની તૈયારી કરીને બેથલેહેમ પહોચવા માટે બે વર્ષનો સમય લાગ્યો હશે.
+  * **માગીઓ **– “માગીઓ” લગભગ જ્યોતિષીઓ હતા જે તારાઓનો અભ્યાસ કરતા હતા. તેઓએ લગભગ જુના કરારના પ્રબોધાકોના લખાણોનો પણ અભ્યાસ કર્યો હશે જેમાં મસીહાના જન્મ વિષે ભવિષ્યવાણી થઇ હતી.
+  * **અસામાન્ય તારો**  – એવો તારો જે સામાન્ય તારા જેવો નહોતો દેખાતો. તે કંઈક એવું હતું જે ઈસુના સમયે પ્રગટ થયું હતું.
+  * **તેઓને ભાન થયું **– કેટલીક ભાષાઓમાં ઉમેરવું જોઈએ, “તેઓના અભ્યાસ દ્વારા, આ વિદ્વાનોને ભાન થયું.”
+  * **ઘર **– તેઓ પ્રાણીઓ માટેની જગ્યામાં જ્યાં તેનો જન્મ થયો હતો ત્યાં વધારે વાર રોકાય ન હતા.
 **[[:gu:obs:notes:frames:23-08|<<]] | [[:gu:obs:notes:23|Up]] | [[:gu:obs:notes:frames:23-10|>>]]**
