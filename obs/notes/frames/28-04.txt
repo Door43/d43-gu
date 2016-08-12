@@ -1,21 +1,18 @@
-===== Sell Everything [28-04] =====
+===== બધું જ વેચવું [28-04] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-04.jpg?nolink&}}
 
-**Jesus** answered, “If **you** want to be **perfect**, then go and sell **everything you own** and give the money to the poor, and you will have **treasure in heaven**. Then come and follow me.”
-===== Important Terms: =====
+ઈસુએ ઉત્તર આપ્યો, “જો તું સંપૂર્ણ બનવા માંગતો હોય, તો જઈને તારી પાસે જે છે તે બધું જ વેચી દે અને તે પૈસા ગરીબોને આપીદે, અને તું સ્વર્ગમાં ખજાનો મેળવીશ. તો આવ અને મારી પાછળ ચાલ.”
 
-  * **[[:gu:obe:kt:jesus]]**
-  * **[[:gu:obe:kt:heaven]]**
+===== મહત્વના શબ્દો: =====
 
+  * **ઈસુ**
+  * **સ્વર્ગ**
+===== ભાષાંતર નોંધ: =====
 
-===== Translation Notes: =====
-
-  * **you** - If your language has different words for "you" depending on the number of people intended, use the singular form. Jesus was addressing this command to this one man.
-  * **perfect** - That is, "completely righteous."
-  * **everything you own** - That is, "all of your possessions."
-  * **treasure** - This could also be translated as, "riches" or, "great wealth."
-  * **in heaven** - This could also be translated as, "located in heaven when you arrive there." This treasure will exist "there and then," as opposed to the wealth that Jesus asked the young man to give up "here and now."
-
-
+  * **તું**  - ઈસુ આ આજ્ઞા આ એક માણસને આપી રહ્યા હતા.
+  * **સંપૂર્ણ**  – તે છે, “સંપૂર્ણ ધર્મી.”
+  * **તારી પાસે જે છે તે બધુંજ **– તે છે, “તારી માલિકીનું બધુંજ.”
+  * **ખજાનો **– આ રીતે ભાષાંતર થાય, “સંપતિ” અથવા, “વિપુલ જથ્થો.”
+  * **સ્વર્ગમાં **– આ રીતે પણ ભાષાંતર થાય, “તું જયારે સ્વર્ગમાં જય ત્યારે ત્યાં.” આ ખજાનો “ત્યાં અને પછી” હશે, જે ઈસુ તે જુવાન માણસને કહે છે “અહિયા અને અત્યરે” તેનાથી તદ્દન ઉલટું.
 **[[:gu:obs:notes:frames:28-03|<<]] | [[:gu:obs:notes:28|Up]] | [[:gu:obs:notes:frames:28-05|>>]]**
