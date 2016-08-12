@@ -1,28 +1,25 @@
-===== What Must I Do? [28-01] =====
+===== મારે શું કરવું જોઈએ? [28-01] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-01.jpg?nolink&}}
 
-**One day**, a **rich young ruler came up to Jesus** and asked him, “**Good teacher**, what must I do **to have eternal life?**” Jesus said to him, “**Why do you call me 'good'**? **There is only one who is good**, **and that is God**. But if you want to have eternal life, **obey God's laws**.”
-===== Important Terms: =====
+એક દિવસ, એક ધનવાન જુવાન શાસક ઈસુ પાસે આવ્યો અને તેમને પૂછ્યું, “ઉત્તમ ગુરુ, અનંત જીવન મેળવવા મારે શું કરવું જોઈએ?” ઈસુએ તેને ઉત્તર આપ્યો, “તું શા માટે મને ‘ઉત્તમ’ કહે છે? ફક્ત એક જ ઉત્તમ છે, અને તે દેવ છે. પણ જો તું અનંત જીવન મેળવવા માંગે છે, તો દેવના વચનનું પાલન કર.”
 
-  * **[[:gu:obe:kt:jesus]]**
-  * **[[:gu:obe:kt:good]]**
-  * **[[:gu:obe:kt:teacher]]**
-  * **[[:gu:obe:kt:eternity]]**
-  * **[[:gu:obe:kt:god]]**
-  * **[[:gu:obe:other:obey]]**
-  * **[[:gu:obe:kt:lawofmoses]]**
+===== મહત્વના શબ્દો: =====
 
+  * **ઈસુ**
+  * **સારું**
+  * **ગુરુ**
+  * **અનંત જીવન**
+  * **દેવ**
+  * **આજ્ઞા પાળવી**
+  * **દેવનો નિયમ**
+===== ભાષાંતર નોંધ: =====
 
-===== Translation Notes: =====
-
-  * **One day** - This phrase introduces an event that happened in the past, but does not state the specific time. Many languages have a similar way to begin telling a true story.
-  * **rich young ruler** - This man was already a rich and powerful political official, even though he was still young.
-  * **came up to Jesus** - That is, "approached Jesus."
-  * **Good teacher** - That is, "righteous teacher." He was not saying that Jesus was simply a skilled teacher.
-  * **to have eternal life** - That is, "to receive eternal life" or, "to live with God forever." Also consider how "eternal life" was translated on **[[:gu:obs:notes:frames:27-01|[27-01]]]** and see the note about that there.
-  * **Why do you call me 'good'** - Jesus is not denying that he is God. Rather, he is asking if the ruler understands that Jesus is God.
-  * **There is only one who is good, and that is God** - Another way to say this would be, "The only one who is truly good is God" or, "God is the only one who is truly good."
-
-
+  * **એક દિવસ**  – આ વાક્ય ભૂતકાળમાં થયેલી ઘટનાનું વર્ણન કરે છે, પણ કોઈ ચોક્ક્સ સમય નથી દર્શાવતું. ઘણી ભાષાઓમાં સત્ય વાર્તા કહેવાનો સરખો જ રસ્તો છે.
+  * **ધનવાન જુવાન શાસક**  – આ માણસ જુવાન હોવા છતાં, પહેલેથી જ ધનવાન અને રાજનૈતિક રીતે શક્તિશાળી હતો.
+  * **ઈસુ પાસે આવ્યો **– તે છે, “ઈસુ પાસે પહોચ્યો.”
+  * **ઉત્તમ ગુરુ **– તે છે, “ધર્મી ગુરુ.” તે ઈસુ ફક્ત સામાન્ય ગુરુ છે તેમ નહોતો કહેતો.
+  * **અનંત જીવન મેળવવા **– તે છે, “અનંત જીવન પ્રાપ્ત કરવા” અથવા, “દેવ સાથે હંમેશા માટે જીવવા.” જુઓ નોંધ:માળખું:[27-01]
+  * **તું શાં માટે મને ‘ઉત્તમ’ કહે છે**  – ઈસુ નકારતા નહોતા કે તે દેવ છે. પણ, તે પૂછતાં હતા કે શાસક ઈસુ દેવ છે તે સમજે છે કે નહી.
+  * **ફક્ત એક જ ઉત્તમ છે, અને તે દેવ છે**  – બીજી આ રીતે કહી શકાય, “ફક્ત દેવ જ ઉત્તમ છે” અથવા, “ફક્ત દેવ જ હકીકતમાં ઉત્તમ છે.”
 **[[:gu:obs:notes:frames:27-11|<<]] | [[:gu:obs:notes:28|Up]] | [[:gu:obs:notes:frames:28-02|>>]]**
