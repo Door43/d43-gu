@@ -1,29 +1,22 @@
-===== Resurrection of the Messiah [21-14] =====
+===== મસીહાનું પુનરૂત્થાન [21-14] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-21-14.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-21-14.jpg?nolink}}
+પ્રબોધાકોએ ભવિષ્યવાણી કરી હતી કે મસીહા મૃત્યુ પામશે અને દેવ ફરીથી તેને મૃત્યુ માંથી સજીવન કરશે. મસીહાના મૃત્યુ અને પુનરુથ્થાન થવા દ્વારા, દેવ પાપીઓને બચાવવાની અને નવી વાચા શરુ કરવાની યોજનાને પૂરી કરશે.
 
-The **prophets** foretold that the **Messiah** would **die** and that **God** would also **raise him from the dead**. **Through the Messiah’s death and resurrection**, **God would** accomplish his plan to **save sinners** and **start the New Covenant**.
-===== Important Terms: =====
+===== મહત્વના શબ્દો: =====
 
+  * **પ્રબોધકો**
+  * **મસીહા**
+  * **મરણ પામવું**
+  * **દેવ**
+  * **ઉઠવું**
+  * **સજીવન થવું**
+  * **બચાવવું**
+  * **પાપીઓ**
+  * **નવી વાચા**
+===== ભાષાંતર નોંધ: =====
 
-  * **[[:gu:obe:kt:prophet]]**
-  * **[[:gu:obe:kt:christ]]**
-  * **[[:gu:obe:kt:death]]**
-  * **[[:gu:obe:kt:god]]**
-  * **[[:gu:obe:kt:raise]]**
-  * **[[:gu:obe:kt:resurrection]]**
-  * **[[:gu:obe:kt:save]]**
-  * **[[:gu:obe:kt:sin]]**
-  * **[[:gu:obe:kt:newcovenant]]**
-
-
-==== Translation Notes: ====
-
-
-  * **raise him from the dead** - That is, "cause him to be alive again."
-  * **Through the Messiah's death and resurrection, God would** - This could also be translated as, "God would use the Messiah's death and resurrection to" or "The Messiah's death and resurrection would be the way that God would."
-  * **start the New Covenant** – That is, "put the New Covenant into effect."
-
-
+  * **તેને મૃત્યુ માંથી ઉભો કર્યો**  – તે છે, “તેને ફરીથી સજીવન કર્યો.”
+  * **મસીહાના મૃત્યુ અને પુનરુથ્થાન થવા દ્વારા, દેવ કરશે**  – આ રીતે ભાષાંતર થાય, “દેવ મસીહાના મૃત્યુ અને પુનરુથ્થાન નો ઉપયોગ કરશે” અથવા “દેવ દ્વારા મસીહાનું મૃત્યુ અને પુનરુથ્થાન રસ્તો બનશે.” નવી વાચાની શરૂઆત, તે છે, “નવી વાચાને પ્રભાવમાં લાવવી.”
 **[[:gu:obs:notes:frames:21-13|<<]] | [[:gu:obs:notes:21|Up]] | [[:gu:obs:notes:frames:21-15|>>]]**
