@@ -1,19 +1,18 @@
-===== To Prison [29-06] =====
+===== જેલ [29-06] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-06.jpg?nolink&}}
 
-“The **fellow servant fell on his knees** and said, ‘Please be patient with me, and I will pay the full amount that I owe you.’ But instead, the servant **threw his fellow servant into prison** until he could pay the debt.”
-===== Important Terms: =====
+“સાથીદાર સેવક તેના ઘુંટણે પડ્યો અને કહ્યું, મહેરબાની કરીને ધીરજ રાખો, અને હું તમારી પાસેથી લીધેલી પૂરી રકમ ચૂકવી દઈશ. પણ, સેવકે તેના સાથીદાર સેવકને જ્યાં સુધી દેવું ન ચૂકવે ત્યાં સુધી જેલમાં ફેંકી દીધો.”
 
-  * **[[:gu:obe:other:servant]]**
+===== મહત્વના શબ્દો: =====
 
+સેવક
 
-===== Translation Notes: =====
+===== ભાષાંતર નોંધ: =====
 
-  * (Jesus continues the story.)
-  * **fellow servant** - Translate this phrase in the same way as in **[[:gu:obs:notes:frames:29-05|[29-05]]]**.
-  * **fell on his knees** - This phrase has the same meaning as in **[[:gu:obs:notes:frames:29-04|[29-04]]]**.
-  * **threw his fellow servant into prison** - This could also be translated as, "had the man put into prison." The word "threw" is figurative and means it was done in a forceful way.
-
+  * **(ઈસુએ વાર્તા કહેવાનું ચાલું રાખ્યું.)**
+  * **સાથીદાર વિદ્યાલય **– જુઓ નોંધ:માળખું:[29-05]
+  * **તેના ઘુંટણે પડ્યો **– જુઓ નોંધ:માળખું:[29-04]
+  * **તેના સાથીદાર સેવકને જેલમાં ફેંક્યો**  – આ રીતે પણ ભાષાંતર થાય, “માણસને જેલમાં પુર્યો.” “ફેંક્યું” શબ્દ નો અર્થ જબરજસ્તીથી થશે.
 
 **[[:gu:obs:notes:frames:29-05|<<]] | [[:gu:obs:notes:29|Up]] | [[:gu:obs:notes:frames:29-07|>>]]**
