@@ -1,19 +1,18 @@
-===== Jesus Prayed Alone [31-01] =====
+===== ઈસુએ એકલા પ્રાર્થના કરી [31-01] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-01.jpg?nolink&}}
 
-Then **Jesus** told the **disciples** to get into the boat and sail to the other side of the lake while **he dismissed the crowd**. After Jesus had sent the crowd away, he went up on a **mountainside** to **pray**. Jesus was there all alone, and he prayed until late at night.
-===== Important Terms: =====
+પછી ઈસુએ શિષ્યોને હોડીમાં ચડી જવા જણાવ્યું અને તળાવની બીજી બાજુ હંકારવા કહ્યું અને  તેમણે ભીડ ફગાવી દીધી. પછી ઈસુએ ભીડને દૂર મોકલી દિધી, અને તે એક પહાડ પર પ્રાર્થના માટે જતાં રહ્યાં. ઈસુ ત્યાં ફક્ત એકલા હતા, અને તેમણે મોડી રાત સુધી પ્રાર્થના કરી.
 
-  * **[[:gu:obe:kt:jesus]]**
-  * **[[:gu:obe:kt:disciple]]**
-  * **[[:gu:obe:other:pray]]**
+===== મહત્વપૂર્ણ શબ્દો: =====
 
+  * **ઈસુ**
+  * **શિષ્યો**
+  * **પ્રાર્થના**
+===== અનુવાદ નોંધો: =====
 
-===== Translation Notes: =====
-
-  * **he dismissed the crowd** - This is another way of saying, "he sent the crowd on their way" or, "he told the crowd of people to go back to their homes."
-  * **mountainside** - That is, "the side of a mountain."
-
+  * **તેમણે ભીડ બરતરફ કરી**  - આ કહેવાનો અન્ય માર્ગ છે, "તેમણે ભીડને તેમના રસ્તે મોકલી દિધી" અથવા, "તેમણે લોકોની ભીડને તેમના ઘરે પાછા જવા કહ્યું."
+  * **પહાડપાસે**
+ - એટલે કે "એક પર્વતની પાસે.",
 
 **[[:gu:obs:notes:frames:30-09|<<]] | [[:gu:obs:notes:31|Up]] | [[:gu:obs:notes:frames:31-02|>>]]**
