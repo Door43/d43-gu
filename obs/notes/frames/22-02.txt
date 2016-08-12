@@ -1,23 +1,19 @@
-===== You Will Have a Son [22-02] =====
+===== તારે એક પુત્ર થશે [22-02] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-22-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-22-02.jpg?nolink&}}
 
-The **angel** said to **Zechariah**, “Your wife will have a son. You will name him **John**. He will be **filled with the Holy Spirit**, and will **prepare the people for the Messiah**!” Zechariah responded, “My wife and I are too old to have children! How will I know this will happen?”
-===== Important Terms: =====
+સ્વર્ગ્દૂતે ઝખાર્યા ને કહ્યું, “તારી પત્ની ને એક પુત્ર થશે. તું તેનું નામ યોહન રાખશે. તે પવિત્ર આત્મા થી ભરેલો હશે, અને તે મસીહા માટે લોકોને તૈયાર કરશે!” ઝાખાર્યાએ ઉત્તર આપ્યો, “મારી પત્ની અને હું પુત્ર જાણવા માટે હવે ઘરડા થઈ ગયા છીએ! હું કેવી રીતે જાણું કે આ થશે?”
 
+===== મહત્વના શબ્દો: =====
 
-  * **[[:gu:obe:kt:angel]]**
-  * **[[:gu:obe:other:zechariahnt]]**
-  * **[[:gu:obe:other:johnthebaptist]]**
-  * **[[:gu:obe:kt:holyspirit]]**
-  * **[[:gu:obe:kt:christ]]**
+  * **સ્વર્ગદૂત**
+  * **ઝખાર્યા**
+  * **યોહન**
+  * **પવિત્ર આત્મા**
+  * **મસીહા**
+===== ભાષાંતર નોંધ: =====
 
-
-===== Translation Notes: =====
-
-  * **The angel** - This refers to the angel that came to Zechariah in **[[:gu:obs:notes:frames:22-01|[22-01]]]**.
-  * **filled with the Holy Spirit** - That is, "controlled by the Holy Spirit" or, "given wisdom and power by the Holy Spirit."
-  * **How will I know this will happen?** - Another way to translate this would be, "How can I be sure that this will truly happen?"
-
-
+  * **સ્વર્ગદૂત **– આ સ્વર્ગ્દૂતને દર્શાવે છે જે ઝખાર્યા પાસે આવ્યો. જુઓ નોંધ:માળખું:[22-01]
+  * **પવિત્ર આત્માથી ભરેલો**  – તે છે, “પવિત્ર આત્મા દ્વારા નિયંત્રિત” અથવા, “પવિત્ર આત્મા દ્વારા બુદ્ધિ અને સામર્થ પામેલો.”
+  * **કેવી રીતે જાણું કે આ થશે?**  – બીજી આ રીતે ભાષાંતર થશે, “હું કેવી રીતે ખાતરી કરું કે સાચેજ આ થશે?”
 **[[:gu:obs:notes:frames:22-01|<<]] | [[:gu:obs:notes:22|Up]] | [[:gu:obs:notes:frames:22-03|>>]]**
