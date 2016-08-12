@@ -1,28 +1,21 @@
-===== The Temple Was Rebuilt [20-13] =====
+===== મંદિર ફરીથી બનાવવામાં આવ્યું [20-13] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-13.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-13.jpg?nolink}}
+જયારે લોકો યરુશાલેમમાં પાછા ગયા, તેઓએ મંદિર અને શહેરની ફરતેની દિવાલ ફરીથી બનાવી. બીજા લોકો દ્વારા તેઓ ઉપર શાસન ચાલતું હોવા છતાં, ફરીથી એક વાર તેઓ વાચાનાં દેશમાં રહેવા લાગ્યા અને મંદિરમાં આરાધના કરવા લાગ્યા.
 
+===== મહત્વના શબ્દો: =====
 
-When the people arrived in **Jerusalem**, they rebuilt the **Temple** and **the wall** around the city. Although they were still **ruled by other people**, **once again** they lived in the **Promised Land** and **worshiped at the Temple**.
-===== Important Terms: =====
+  * **યરુશલેમ**
+  * **મંદિર**
+  * **વાચાનો દેશ**
+  * **આરાધના કરી**
+===== ભાષાંતર નોંધ: =====
 
-
-  * **[[:gu:obe:other:jerusalem]]**
-  * **[[:gu:obe:kt:temple]]**
-  * **[[:gu:obe:kt:promisedland]]**
-  * **[[:gu:obe:kt:worship]]**
-
-
-==== Translation Notes: ====
-
-
-  * **the people** - That is, the Israelites, the descendants of Jacob, who were now called the Jews.
-  * **the wall** - This wall was very thick (2.5 meters) and was built to protect the city from attackers.
-  * **ruled by other people** - That is, another nation controlled them. The Jews were ruled by the Persians at this time, and later by other nations.
-  * **once again** - In some languages this might need to be translated as, "now" or, "as their ancestors had done" or, "just as before the Exile."
-  * **worshiped at the Temple** - They worshiped Yahweh, the One True God, at the Temple they rebuilt.
-  * //A Bible story from// - These references may be slightly different in some Bible translations.
-
-
+  * **લોકો**  – તે છે, ઇસ્રાએલીઓ, યાકૂબના વંશજો, જેઓ હવે યહૂદીઓ થી ઓળખાય છે.
+  * **દિવાલ **– આ દિવાલ ખૂબજ જાડી હતી(૨.૫ મીટર) અને આક્રમણ કરનારાઓ થી શહેરનું રક્ષણ કરવા માટે તેને બનાવવામાં આવી હતી.
+  * **બીજા લોકો દ્વારા તેમના ઉપર શાસન થતું હતું **– તે છે, બીજો દેશ તેઓનું નિયંત્રણ કરતો હતો. આ સમય દરમ્યાન યહૂદીઓ ઉપર ઈરાનનું શાસન હતું, અને ત્યાર બાદ બીજા દેશોનું.
+  * **ફરી એકવાર**  – કેટલીક ભાષાઓમાં આ રીતે ભાષાંતર કરવાની જરૂર છે, “હવે” અથવા, “જેમ તેઓના પૂર્વજોએ કર્યું હતું.” અથવા, “નિર્વાસિત સમયના પહેલા.”
+  * **મંદિરમાં આરાધના કરતા હતા**  – તેઓ યહોવા, એક સાચા દેવની, તેઓએ ફરીથી બનાવેલા મંદિરમાં આરાધના કરતા હતા.
+  * **માંથી એક બાઈબલ વાર્તા**  – આ સંદર્ભ કેટલાક બાઈબલ ભાષાંતર માં થોડોક અલગ હોઈ શકર છે.
 **[[:gu:obs:notes:frames:20-12|<<]] | [[:gu:obs:notes:20|Up]] | [[:gu:obs:notes:frames:21-01|>>]]**
