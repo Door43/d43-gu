@@ -1,20 +1,16 @@
-===== Jesus Blessed the Food [30-07] =====
+===== ઈસુ જમણને આશિષિત કરે છે [30-07] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-07.jpg?nolink&}}
 
-Then **Jesus** took the five loaves of bread and the two fish, looked up to **heaven**, and thanked **God** for the food.
+પછી ઈસુએ, પાંચ રોટલીઓ અને બે માછલી લીધી, સ્વર્ગ તરફ ઉંચે જોયું, અને ખોરાક માટે દેવનો આભાર માન્યો.
 
+===== મહત્વપૂર્ણ શબ્દો: =====
 
-===== Important Terms: =====
+  * **ઈસુ**
+  * **સ્વર્ગ**
+  * **દેવ**
+===== અનુવાદ નોંધો: =====
 
-  * **[[:gu:obe:kt:jesus]]**
-  * **[[:gu:obe:kt:heaven]]**
-  * **[[:gu:obe:kt:god]]**
-
-
-===== Translation Notes: =====
-
-  * //(There are no notes for this frame.)// 
-
+//(////આ//  //ચોકઠાં//  //માટે//  //કોઈ//  //નોંધો//  //નથી////.)//
 
 **[[:gu:obs:notes:frames:30-06|<<]] | [[:gu:obs:notes:30|Up]] | [[:gu:obs:notes:frames:30-08|>>]]**
