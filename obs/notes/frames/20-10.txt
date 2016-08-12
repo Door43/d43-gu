@@ -1,27 +1,22 @@
-===== God Remembered His Promise [20-10] =====
+===== દેવને પોતાનો વાયદો યાદ હતો [20-10] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-10.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-10.jpg?nolink}}
+દેવે પોતાના લોકોને તેના પાપની સજાના રૂપમાં તેઓને નિર્વાસિત કરવા દ્વારા પણ તે તેમને ભૂલ્યા ન હતા અથવા પોતાનો વાયદો ભૂલ્યા ન હતા. દેવ નિરંતર પોતાના લોકો ઉપર નજર રાખતા હતા અને પોતાના પ્રબોધકો દ્વારા તેમની સાથે વાત કરતા હતા. તેમણે વાયદો કર્યો હતો કે, સિતેર વર્ષો પછી, તેઓ ફરીથી વાચાનાં દેશમાં પાછા ફરશે.
 
-Even though **God punished** his people for their **sin** by taking them away into **exile**, he **did not forget** them or his **promises**. God continued to **watch over** his people and **speak to them through his prophets**. He promised that, after seventy years, they would return to the **Promised Land** again.
-===== Important Terms: =====
+===== મહત્વના શબ્દો: =====
 
+  * **દેવ**
+  * **સજા કરી**
+  * **પાપ**
+  * **વાયદાઓ**
+  * **પ્રબોધકો**
+  * **વાચાનો દેશ**
+===== ભાષાંતર નોંધ: =====
 
-  * **[[:gu:obe:kt:god]]**
-  * **[[:gu:obe:other:punish]]**
-  * **[[:gu:obe:kt:sin]]**
-  * **[[:gu:obe:kt:promise]]**
-  * **[[:gu:obe:kt:prophet]]**
-  * **[[:gu:obe:kt:promisedland]]**
-
-
-==== Translation Notes: ====
-
-
-  * **exile** - See how you translated this term in **[[:gu:obs:notes:frames:20-09|[20-09]]]**.
-  * **did not forget** - This could be translated as, "did not ignore" or, "did not neglect." Or the whole phrase could be translated as, "continued to honor his commitment to his people and his promises."
-  * **watch over** - That is, "take care of."
-  * **speak to them through his prophets** - This could be translated as, "tell his prophets messages that he wanted them to tell his people."
-
+  * નિર્વાસિત – જુઓ આ રીતે ભાષાંતર થાય [[:gu:obs:notes:frames:20-09|[20-09]]].
+  * ભૂલ્યા ન હતા – અ રીતે ભાષાંતર થાય, અથવા આખું વાક્ય આ રીતે ભાષાંતર થઇ શકે, “પોતાના લોકો અને પોતાના વાયદાને સમ્માન આપ્યું.”
+  * નજર રાખવી – તે છે, “સંભાળ રાખવી”
+  * પોતાના પ્રબોધકો દ્વારા તેમની સાથે વાત કરી – આ રીતે ભાષાંતર કરી શક્ય, “તે પોતાના લોકો સાથે જે વાત કરવા માંગતા હોય તે પોતાના પ્રબોધકોને કહેતા.”
 
 **[[:gu:obs:notes:frames:20-09|<<]] | [[:gu:obs:notes:20|Up]] | [[:gu:obs:notes:frames:20-11|>>]]**
