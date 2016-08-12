@@ -1,19 +1,17 @@
-===== The Attempt to Kill Jesus [26-07] =====
+===== ઈસુને મારવાનો પ્રયાસ [26-07] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-07.jpg?nolink&}}
 
-The people of **Nazareth** dragged **Jesus** out of the **place of worship** and brought him to the edge of a cliff to throw him off of it in order to kill him. **But Jesus walked through the crowd** and left the town of Nazareth.
-===== Important Terms: =====
+નાઝરેથના લોકો ઈસુને ખેંચીને આરાધનાલયની બહાર લાવ્યા અને તેને ધક્કો દઈને મારી નાંખવા એક પહાડના કિનારે લઈને આવ્યા. પણ ઈસુ ટોળામાંથી ચાલ્યા ગયા અને નાઝારેથનું નગર છોડી દીધું.
 
-  * **[[:gu:obe:other:nazareth]]**
-  * **[[:gu:obe:kt:jesus]]**
-  * **[[:gu:obe:kt:worship]]**
+===== મહત્વના શબ્દો: =====
 
+  * નાઝાર
+  * ઈસુ
+  * આરાધના
 
-===== Translation Notes: =====
+===== ભાષાંતર નોંધ: =====
 
-  * **place of worship** - That is, "the building where the Jewish people gathered to worship God." This can also be translated as "worship building." See how you translated it in **[[:gu:obs:notes:frames:26-02|[26-02]]]**.
-  * **But Jesus walked through the crowd** - "But" could be translated with a strong contrast word or phrase such as "But instead" or, "However" to show that the people were not able to do to Jesus what they had planned to do.
-
-
+  * **આરાધનાલય**  – તે છે, “ઈમારત જ્યાં યહૂદીઓ દેવની આરાધના કરવા માટે ભેગા થતા હતા.” આ રીતે પણ ભાષાંતર થઈ શકે,- “આરાધના કરવાની ઈમારત.” જુઓ નોંધ:માળખું:[26-02]
+  * **પણ ઈસુ ટોળા માંથી ચાલ્યા ગયા**  – “પણ” શબ્દ નું ભાષાંતર “પણ તેના બદલામાં” અતવા, “તેમ છતાં” થવું જોઈએ જેથી એવું લાગે કે લોકોએ ઈસુ માટે જે યોજના બનાવી હતી તે પૂરી ન થઈ.
 **[[:gu:obs:notes:frames:26-06|<<]] | [[:gu:obs:notes:26|Up]] | [[:gu:obs:notes:frames:26-08|>>]]**
