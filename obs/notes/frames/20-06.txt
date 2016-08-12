@@ -1,28 +1,23 @@
-===== Judah Served Babylon [20-06] =====
+===== યહૂદાએ બાબિલની સેવા કરી [20-06] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-06.jpg?nolink&}}
 
-About 100 years after the **Assyrians** destroyed the **kingdom of Israel**, God sent **Nebuchadnezzar**, **king** of the **Babylonians**, to attack the **kingdom of Judah**. **Babylon** was a powerful **empire**. The king of Judah agreed **to be Nebuchadnezzar’s servant** and pay him a lot of money every year.
-===== Important Terms: =====
+આશૂરના લોકોએ ઇસ્રાએલના રાજ્યનો નાશ કર્યો તેના ૧૦૦ વર્ષો પછી, દેવે બાબિલીઓના રાજા, નબૂખાદનેસ્સારને યહૂદા ઉપર આક્રમણ કરવા માટે મોકલ્યો. બાબિલ એક શક્તિશાળી રાજ્ય હતું. યહૂદાનો રાજા નબૂખાદનેસ્સારનો સેવક બનવા માટે તૈયાર થઈ ગયો અને દર વર્ષે તેને અઢળક પૈસા ચૂકવવા લાગ્યો.
 
+===== મહત્વના શબ્દો: =====
 
-  * **[[:gu:obe:other:assyria]]**
-  * **[[:gu:obe:other:kingdomofisrael]]**
-  * **[[:gu:obe:kt:god]]**
-  * **[[:gu:obe:other:nebuchadnezzar]]**
-  * **[[:gu:obe:other:king]]**
-  * **[[:gu:obe:other:babylon]]**
-  * **[[:gu:obe:other:kingdomofjudah]]**
-  * **[[:gu:obe:other:babylon]]**
-  * **[[:gu:obe:other:servant]]**
+  * **આશુરી**
+  * **ઇસ્રાએલનું રાજ્ય**
+  * **દેવ**
+  * **નબૂખાદનેસ્સાર**
+  * **રાજા**
+  * **બાબિલીઓ**
+  * **યહૂદાનું રાજ્ય**
+  * **બાબિલ**
+  * **સેવક**
+===== ભાષાંતર નોંધ: =====
 
-
-==== Translation Notes: ====
-
-
-  * **empire** - See how you translated this in **[[:gu:obs:notes:frames:20-02|[20-02]]]**.
-  * **agreed to be** – The king of Judah was forced to either serve the Babylonian king or be destroyed.
-  * **to be Nebuchadnezzar's servant** - This could be translated as, "to govern Judah under Nebuchadnezzar's command."
-
-
+  * **રાજ્ય**  - નોંધ:માળખું:20-02
+  * **બનવા માટે તૈયાર થયો - ** યહૂદાના રાજાને બાબિલાના રાજાની સેવા કરવા અથવા તો પોતાનો નાશ થશે તેવું દબાણ કરવામાં આવ્યું.
+  * **નબૂખદનેસ્સારનો સેવક બનવું**  – આ રીતે ભાષાંતર થશે, “નબૂખદનેસ્સારના આદેશ હેઠળ યહૂદાનું શાસન કરવું.”
 **[[:gu:obs:notes:frames:20-05|<<]] | [[:gu:obs:notes:20|Up]] | [[:gu:obs:notes:frames:20-07|>>]]**
