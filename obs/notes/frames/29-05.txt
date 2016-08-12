@@ -1,17 +1,15 @@
-===== The Small Debt [29-05] =====
+===== ઓછું દેવું [29-05] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-05.jpg?nolink&}}
 
-“But when the **servant** went out from the king, he found a **fellow servant** who owed him a debt worth four months’ wages. The servant grabbed his fellow servant and said, ‘Pay me the money that you owe me!’”
-===== Important Terms: =====
+“પણ જયારે સેવક રાજા પાસેથી ગયો, ત્યારે તેણે તેનો એક સાથીદાર સેવક મળ્યો જેણે તેની પાસેથી પૈસા લીધા હતા જેનું મૂલ્ય ચાર મહિનાના વેતન જેટલું હતું. સેવકે તેના સાથીદાર સેવકને દબોચી લીધો અને કહ્યું, તે મારી પાસેથી જે પૈસા લીધા છે તે પાછા આપ”
 
-  * **[[:gu:obe:other:servant]]**
+===== મહત્વના શબ્દો: =====
 
+  * **સેવક**
+===== ભાષાંતર નોંધ: =====
 
-===== Translation Notes: =====
-
-  * (Jesus continues the story.)
-  * **fellow servant** - This refers to another man who was also a servant of the king.
-
+  * **(ઈસુએ વાર્તા કહેવાનું ચાલુ રાખ્યું.)**
+  * **સાથીદાર સેવક **– આ બીજા માણસને દર્શાવે છે જે પણ રાજાનો સેવક હતો.
 
 **[[:gu:obs:notes:frames:29-04|<<]] | [[:gu:obs:notes:29|Up]] | [[:gu:obs:notes:frames:29-06|>>]]**
