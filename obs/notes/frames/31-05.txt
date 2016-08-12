@@ -1,19 +1,17 @@
-===== Jesus Called Peter [31-05] =====
+===== ઈસુએ પીતરને બોલાવ્યા [31-05] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-05.jpg?nolink&}}
 
-Then **Peter** said to **Jesus**, “**Master**, **if it is you**, command me to come to you on the water.” Jesus told Peter, “**Come**!”
-===== Important Terms: =====
+પછી પીતરે ઈસુને કહ્યું, "પ્રભુ, જો તે તમે છો તો, મને પાણી પર તમારી પાસે આવવા આદેશ આપો. " ઈસુએ પિતરને કહ્યું, "આવ!"
 
-  * **[[:gu:obe:other:peter]]**
-  * **[[:gu:obe:kt:jesus]]**
-  * **[[:gu:obe:kt:lord]]**
+===== મહત્વપૂર્ણ શબ્દો: =====
 
+  * **પીતર**
+  * **ઈસુ**
+  * **સ્વામી**
+===== અનુવાદ નોંધો: =====
 
-===== Translation Notes: =====
-
-  * **if it is you** - That is, "if it is really you, and not a ghost."
-  * **Come!** - That is, "Come here" or, "Come to me" or, "Come, walk to me."
-
-
+  * **જો તે તમે છો**
+ - એટલે કે, "જો તે ખરેખર તમે જ છે, અને ભૂત નહિ."
+  * **આવો! **- એટલે કે "અહીં આવ," અથવા "મારી પાસે આવ" અથવા, "આવ, મારી તરફ ચાલ."
 **[[:gu:obs:notes:frames:31-04|<<]] | [[:gu:obs:notes:31|Up]] | [[:gu:obs:notes:frames:31-06|>>]]**
