@@ -1,31 +1,25 @@
-===== The Perfect High Priest [21-07] =====
+===== સંપૂર્ણ મહા યાજક [21-07] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-21-07.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-21-07.jpg?nolink}}
+ઇસ્રાએલી યાજક લોકોના બદલે તેમના પાપોની સજાના રૂપમાં દેવને બલિદાન ચડાવતો હતો. યાજક લોકો માટે દેવને પ્રાર્થના પણ કરતો હતો. મસીહા સંપૂર્ણ મહા યાજક થશે જે પોતાની જાતને સંપૂર્ણ બલિદાનના રૂપમાં દેવને ચડાવશે.
 
-**Israelite priests** made **sacrifices** to **God on behalf of** the people **as a substitute for the punishment for their sins**. Priests also **prayed** to God for the people. The **Messiah** would be the **perfect high priest** who would **offer himself** as a **perfect sacrifice** to God
-===== Important Terms: =====
+===== મહત્વના શબ્દો: =====
 
+  * **ઇસ્રાએલીઓ**
+  * **યાજકો**
+  * **બલિદાનો**
+  * **દેવ**
+  * **સજા**
+  * **પાપો**
+  * **પ્રાર્થના કરી**
+  * **મસીહા**
+  * **મહા યાજક**
+===== ભાષાંતર નોંધ: =====
 
-  * **[[:gu:obe:other:israel]]**
-  * **[[:gu:obe:kt:priest]]**
-  * **[[:gu:obe:other:sacrifice]]**
-  * **[[:gu:obe:kt:god]]**
-  * **[[:gu:obe:other:punish]]**
-  * **[[:gu:obe:kt:sin]]**
-  * **[[:gu:obe:other:pray]]**
-  * **[[:gu:obe:kt:christ]]**
-  * **[[:gu:obe:kt:highpriest]]**
-
-
-==== Translation Notes: ====
-
-
-  * **on behalf of** - This may be translated as, "for the benefit of" or, "in the place of."
-  * **as a substitute for the punishment for their sins** - God allowed people to bring animals to sacrifice for their sin as a reminder of the punishment that they deserved and their dependence on God to remove their sin. God accepted these sacrifices as a temporary covering for sin and did not punish the people for it.
-  * **perfect high priest** - Unlike the other high priests, the Messiah would never sin, and he would permanently take away all the sins of the people.
-  * **offer himself** – That is, "allow himself to be killed."
-  * **perfect sacrifice** - That is, "a sacrifice that has no fault or imperfection."
-
+  * **તેના બદલામાં **– આ રીતે ભાષાંતર થશે, “તેના ભલા માટે” અથવા, “તેની જગ્યાએ”
+  * **તેઓના પાપની સજાના રૂપમાં**  – દેવે લોકોને તેમના પાપની સજા માટે પશુઓના બલિદાનની અનુમતિ આપી હતી જેથી તેઓને યાદ રહે કે તેઓ સજાને યોગ્ય હતા અને તેમના પાપની નાબૂદી માટે તેઓ દેવ ઉપર આધારિત છે. દેવ તેઓના પાપને ઢાંકવા માટે આ બલિદાનને અસ્થાયી રૂપમાં સ્વિકારતા હતા અને લોકોને સજા કરતા ન હતા.
+  * **સંપૂર્ણ મહા યાજક**  – બીજા મહા યાજકોની જેમ, મસીહા ક્યારેય પાપ નહિ કરે, અને તે હંમેશા માટે લોકોના પાપોને લઇ લેશે. પોતાની જાતને અર્પણ કરશે, તે છે, “પોતાની જાતને મરવા માટે અર્પણ કરશે.”
+  * **સંપૂર્ણ બલિદાન **– તે છે, “એવું બલિદાન જેમાં કોઈ ખોડ ખાંપણ કે અયોગ્યતા નથી.”
 
 **[[:gu:obs:notes:frames:21-06|<<]] | [[:gu:obs:notes:21|Up]] | [[:gu:obs:notes:frames:21-08|>>]]**
