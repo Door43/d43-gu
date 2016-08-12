@@ -1,22 +1,19 @@
-===== The First and the Last [28-10] =====
+===== પહેલું અને છેલ્લું [28-10] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-10.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-10.jpg?nolink&}}
 
-**Jesus** answered, “Everyone who **has left** houses, brothers, sisters, father, mother, children, or property **for my sake**, will receive **100 times more** and will also receive **eternal life**. But **many who are first will be last**, and **many who are last will be first**.”
-===== Important Terms: =====
+ઈસુએ ઉત્તર આપ્યો, “દરેક લોકોએ જેણે મારા માટે ઘરો, ભાઈઓ, બહેનો, માં, બાળકો, કે સંપતિ છોડી છે, તેઓ ૧૦૦ ગણું પ્રાપ્ત કરશે અને અનંત જીવન પણ મેળવશે. પણ ઘણા જેઓ પહેલા છે તેઓ છેલ્લાં કરાશે, અને ઘણા જેઓ છેલ્લાં છે તેઓ પહેલાં કરાશે.”
 
-  * **[[:gu:obe:kt:jesus]]**
-  * **[[:gu:obe:kt:eternity]]**
+===== મહત્વના શબ્દો: =====
 
+  * **ઈસુ**
+  * **અનંત જીવન**
+===== ભાષાંતર નોંધ: =====
 
-===== Translation Notes: =====
-
-  * **has left** - That is, "has left behind" or, "has given up" or, "has counted as less important than God."
-  * **for my sake** - This may also be translated as, "because of me" or, "on my account."
-  * **100 times more** - That is, "very much more than he had before."
-  * **many who are first will be last** - That is, "many people who are important now, will not be important then."
-  * **many who are last will be first** - That is, "many people who are considered to not be very important on earth will be considered very important in heaven" or, "Many people who are considered now to be of little value on earth will be highly valued in heaven."
-  * //A Bible story from//  - These references may be slightly different in some Bible translations.
-
-
+  * **છોડ્યું છે –**  તે છે, “પાછળ છોડી દીધું છે” અથવા, “જેણે દેવ કરતાં તેને ઓછું મહત્વપૂર્ણ ગણ્યું છે.”
+  * **મારા માટે **– આ રીતે ભાષાંતર થાય, “મારા માટે” અથવા, “મારા લીધે.”
+  * **૧૦૦ ગણું **– તે છે, “તેની પાસે પહેલાં હતું તેના કરતાં ઘણું વધારે.”
+  * **ઘણા જેઓ પહેલા છે તેઓ છેલ્લાં કરાશે**  – તે છે, “ઘણા લોકો જે અત્યારે મહત્વના છે, તેઓ પછી મહત્વના રહેશે નહિ.”
+  * **ઘણા જેઓ છેલ્લાં છે તેઓ પહેલાં કરાશે**  – તે છે, “ઘણા લોકો જેઓને પૃથ્વી ઉપર મહત્વના નથી ગણવામાં આવતા તેઓને સ્વર્ગમાં ઘણા મહત્વપૂર્ણ ગણવામાં આવશે” અથવા, “ઘણા લોકો ને અત્યારે પૃથ્વી ઉપર ઓછા મૂલ્યના ગણવામાં આવે છે તેઓને સ્વર્ગમ ઉંચી મુલ્યનાં ગણવામાં આવશે.”
+  * **બાઈબલની વાર્તા **- આ સંદર્ભ કેટલાક કેટલાક બાઈબલ ભાષાંતરોમાં અલગ હોઈ શકે છે.
 **[[:gu:obs:notes:frames:28-09|<<]] | [[:gu:obs:notes:28|Up]] | [[:gu:obs:notes:frames:29-01|>>]]**
