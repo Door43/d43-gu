@@ -1,23 +1,20 @@
-===== The Ministry of Elisha [26-06] =====
+===== એલીશાની સેવા [26-06] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-06.jpg?nolink&}}
 
-**Jesus** continued saying, “And during the time of the **prophet Elisha**, there were many people in **Israel** with skin diseases. But Elisha did not **heal** any of them. He only healed the skin disease of **Naaman**, **a commander** of Israel’s enemies.” The people who were listening to Jesus were **Jews**. So when they heard him say this, **they were furious at him**.
-===== Important Terms: =====
+ઈસુએ બોલવાનું ચાલુ રાખ્યું, “અને એલીશા પ્રબોધાકાના સમયમાં,ઇસ્રાએલમાં ઘણા લોકો હતા જેઓને ચામડીના રોગની સમસ્યા હતી. પણ એલીશાએ તેમના કોઈને પણ સાજા ન કાર્ય. તેને ફક્ત નામાનને ચામડીના રોગથી સાજો કર્યો, જે ઇસ્રાએલના દુશ્મનોનો સેનાપતિ હતો.” જે લોકો ઈસુને સાંભળી રહ્યા હતા તેઓ યહૂદી હતા. તેથી તેઓએ તેને આમ કહેતો સંભાળ્યો, ત્યારે તેઓ તેની તરફ ક્રોધિત થયા.
 
-  * **[[:gu:obe:kt:jesus]]**
-  * **[[:gu:obe:kt:prophet]]**
-  * **[[:gu:obe:other:israel]]**
-  * **[[:gu:obe:other:heal]]**
-  * **[[:gu:obe:other:naaman]]**
-  * **[[:gu:obe:other:jew]]**
+===== મહત્વના શબ્દો: =====
 
+  * **ઈસુ**
+  * **પ્રબોધક**
+  * **ઇસ્રાએલ**
+  * **સાજપણું**
+  * **નામાન**
+  * **યહૂદી**
+===== ભાષાંતર નોંધ: =====
 
-===== Translation Notes: =====
-
-  * **Elisha** - Elisha was God's prophet who came after Elijah. Like Elijah, Elisha confronted Israelite kings who were sinning against God and he did miracles that God gave him power to do.
-  * **a commander** - That is, "a military leader."
-  * **they were furious at him** - The Jews did not want to hear that God had blessed any people group besides themselves, so they were very angry at what Jesus said.
-
-
+  * **એલીશા**  – એલીશા દેવનો પ્રબોધક હતો જે એલિયા પછી આવ્યો હતો. એલિયાની જેમ, એલીશાએ ઇસ્રાએલી રાજાઓનો સામનો કર્યો જે દેવની વિરુદ્ધ પાપ કરતા હતા અને દેવે તેને આપેલા સામર્થ વડે તે ચમત્કાર કરતો હતો.
+  * **સેનાપતિ **– તે છે, “સૈન્યનો આગેવાન.”
+  * **તેઓ તેના પર ક્રોધિત થયા**  – યહૂદીઓ સંભાળવા નહોતા માંગતા કરે દેવે તેઓ સિવાય બીજા લોકોને આશીર્વાદિત કાર્ય છે, તેથી ઈસુએ જે કહ્યું તેના લીધે તેઓ ખુબ ક્રોધિત થયા.
 **[[:gu:obs:notes:frames:26-05|<<]] | [[:gu:obs:notes:26|Up]] | [[:gu:obs:notes:frames:26-07|>>]]**
