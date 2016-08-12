@@ -1,18 +1,14 @@
-===== Preparation for the Meal [30-06] =====
+===== ભોજન માટે તૈયારી [30-06] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-06.jpg?nolink&}}
 
+ઈસુએ તેના શિષ્યોને જણાવ્યું, કે ભીડના લોકોને જણાવે, પચાસ પચાસ લોકોનું જૂથ બનાવી ઘાસ પર નીચે બેસી જાય.
 
-**Jesus** told his **disciples** to tell the people in the crowd to sit down on the grass, in groups of fifty people each.
-===== Important Terms: =====
+===== મહત્વપૂર્ણ શબ્દો: =====
 
-  * **[[:gu:obe:kt:jesus]]**
-  * **[[:gu:obe:kt:disciple]]**
+  * **ઈસુ**
+  * **શિષ્યો**
+===== અનુવાદ નોંધો: =====
 
-
-===== Translation Notes: =====
-
-  * //(There are no notes for this frame.)// 
-
-
+  * //(////આ////ચોકઠાં////માટે////કોઈ////નોંધો////નથી////.)//
 **[[:gu:obs:notes:frames:30-05|<<]] | [[:gu:obs:notes:30|Up]] | [[:gu:obs:notes:frames:30-07|>>]]**
