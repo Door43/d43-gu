@@ -1,24 +1,26 @@
-===== The Son of God [31-08] =====
+===== દેવ પુત્ર [31-08] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-08.jpg?nolink&}}
 
-**When Peter and Jesus got into the boat**, **the wind** immediately stopped blowing and the water became calm. The **disciples** were amazed. They **worshiped** Jesus, saying to him, “**Truly, you are the Son of God**.”
-===== Important Terms: =====
+પીતર અને ઈસુ હોડીમાં બેઠા, ત્યારે તરત જ પવન  ફૂંકાતા બંધ થયું અને પાણી શાંત બની ગયું.
 
-  * **[[:gu:obe:other:peter]]**
-  * **[[:gu:obe:kt:jesus]]**
-  * **[[:gu:obe:kt:disciple]]**
-  * **[[:gu:obe:kt:worship]]**
-  * **[[:gu:obe:kt:true]]**
-  * **[[:gu:obe:kt:sonofgod]]**
+આ શિષ્યો નવાઇ પામ્યા.
 
+તેઓએ ઈસુની સ્તુતિ કરતા કરતા, તેને કહ્યું, "હું જાણું છું, તું દેવનો દીકરો છે."
 
-===== Translation Notes: =====
+===== મહત્વપૂર્ણ શબ્દો: =====
 
-  * **When Peter and Jesus got into the boat, the wind** - It may be better to say, "Peter and Jesus got into the boat, and then the wind."
-  * **worshiped Jesus** - This could be translated as, "bowed down and worshiped Jesus." This word has the idea of physically bowing down in front of someone out of respect and reverence.
-  * **Truly you are the Son of God** - Other ways to say this would be, "You really are the Son of God" or, "It really is true that you are the Son of God."
-  * //A Bible story from//  - These references may be slightly different in some Bible translations.
+  * **પીતર**
+  * **ઈસુ**
+  * **શિષ્યો**
+  * **પૂજા**
+  * **સાચું**
+  * **દેવનો****દીકરો**
+===== અનુવાદ નોંધો: =====
 
-
+  * જ્યારે પિતર અને ઈસુ હોડીમાં બેઠા, પવન – આવી રીતે કહેવું એ સારું હોઈ શકે છે "પીતર અને ઈસુ હોડીમાં બેઠાં અને પછી પવન."
+  * ઈસુની સ્તુતિ કરી – આ આવી રીતે ભાષાંતર કરી શકય છે, જેમ કે "નીચે વાળીને અને ઈસુની પૂજા કરી." આ શબ્દ સન્માન અને આદર અર્થે કોઈની સામે શારીરિક રીતે નમવું એવો વિચાર ધરાવે છે,.
+  * ખરેખર તું દેવનો દીકરો છે - અન્ય રીતે કહિએ તો આવું હશે, "તું ખરેખર દેવનો દીકરો હોય" અથવા, "તે ખરેખર સાચું છે કે તું દેવનો દીકરો છે."
+  * //એક////માંથી////એક////બાઇબલ////વાર્તા////
+  - ////આ////સંદર્ભો////બાઇબલના////કેટલાક////અનુવાદમાં////સહેજ////અલગ////હોઈ////શકે////છે////.//
 **[[:gu:obs:notes:frames:31-07|<<]] | [[:gu:obs:notes:31|Up]] | [[:gu:obs:notes:frames:32-01|>>]]**
