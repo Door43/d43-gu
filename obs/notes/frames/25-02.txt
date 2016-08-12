@@ -1,21 +1,17 @@
-===== The First Temptation [25-02] =====
+===== પહેલું પરીક્ષણ [25-02] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-02.jpg?nolink&}}
 
-**Satan tempted Jesus** by saying, “If you are the **Son of God**, **turn these rocks into bread** so you can eat!”
-===== Important Terms: =====
+આમ કહેવા દ્વારા શેતાને ઈસુનું પરીક્ષણ કર્યું, “જો તું દેવનો પુત્ર હોય તો, આ પથ્થરને રોટલીમાં બદલીનાખ જેથી તું ખાઈ શકે!”
 
+===== મહત્વના શબ્દો: =====
 
-  * **[[:gu:obe:kt:satan]]**
-  * **[[:gu:obe:kt:tempt]]**
-  * **[[:gu:obe:kt:jesus]]**
-  * **[[:gu:obe:kt:sonofgod]]**
+  * **શેતાન**
+  * **પ્રલોભીત કર્યો**
+  * **ઈસુ**
+  * **દેવનો દીકરો**
+===== ભાષાંતર નોંધ: =====
 
-
-===== Translation Notes: =====
-
-  * **turn these rocks into bread** - This may also be translated as, "make these rocks become bread" or, "supernaturally change these rocks into bread."
-  * **bread** - This could be translated as, "food" for languages where bread is not a common food. In the Jews' culture, bread was the main food.
-
-
+  * **આ પથ્થરોને રોટલીમાં બદલી નાંખ**  – આ રીતે પણ ભાષાંતર થશે, “આ પથ્થરોને રોટલી બનાવી નાંખ” અથવા, “ચમત્કારથી આ પથ્થરોને રોટલીમાં બદલી નાંખ.”
+  * **રોટલી **– આ રીતે પણ ભાષાંતર થશે, “ખોરાક” શબ્દ એવી ભાષાઓ માટે જેમાં રોટલી શબ્દ સામાન્ય નથી. યહૂદી સંસ્કૃતિમાં, રોટલી મુખ્ય ખોરાક હતો.
 **[[:gu:obs:notes:frames:25-01|<<]] | [[:gu:obs:notes:25|Up]] | [[:gu:obs:notes:frames:25-03|>>]]**
