@@ -1,22 +1,19 @@
-===== Do Not Test God [25-05] =====
+===== દેવની પરીક્ષા ન કર [25-05] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-05.jpg?nolink&}}
 
-But **Jesus** replied to **Satan** by quoting from the **scriptures**. He said, “**In God's word**, **he commands his people**, ‘**Do not test the Lord your God**.’”
-===== Important Terms: =====
+પણ ઈસુએ વચનમાંથી શેતાનને ઉત્તર આપ્યો. તેણે કહ્યું, “દેવના વચનમાં, તેણે તેના લોકોને આજ્ઞા કરી છે કે, તારા પ્રભુ તારા દેવનું પરીક્ષણ ન કર.”
 
-  * **[[:gu:obe:kt:jesus]]**
-  * **[[:gu:obe:kt:satan]]**
-  * **[[:gu:obe:kt:wordofgod]]**
-  * **[[:gu:obe:kt:lord]]**
-  * **[[:gu:obe:kt:god]]**
+===== મહત્વના શબ્દો: =====
 
+  * **ઈસુ**
+  * **શેતાન**
+  * **દેવનું વચન**
+  * **પ્રભુ**
+  * **દેવ**
+===== ભાષાંતર નોંધ: =====
 
-===== Translation Notes: =====
-
-  * **In God's word, he commands his people, 'Do not test the Lord, your God.'"** - This could be translated as an indirect quote: "God commands us in his word that we should not test the Lord our God."
-  * **Do not test the Lord your God** - This could be translated as, "Do not make the Lord your God prove himself to you" or, "Do not make the Lord your God prove that he is good."
-  * **Lord your God** - That is, "Yahweh, your God" or, "Yahweh, who is God and has authority over you."
-
-
+  * **દેવના વચનમાં, તેણે તેના લોકોને આજ્ઞા કરી છે કે, તારા પ્રભુ તારા દેવની પરીક્ષા ન કર **– આ પરોક્ષ રીતે પણ ભાષાંતર કરી શક્ય છે: “દેવે તેમના વચનમાં આજ્ઞા કરી છે કે આપણે આપણા પ્રભુ આપણા દેવની પરીક્ષા ન કરવું.”
+  * **તારા પ્રભુ તારા દેવની પરીક્ષા ન કર **– તે આ રીતે ભાષાંતર કરી શકાય, “તારા દેવને પોતાને સાબિત કરવા પડે તેવું ન કર.”
+  * **પ્રભુ તારા દેવ **– તે છે, “યહોવા, તારા દેવ” અથવા, “યહોવા, જે દેવ છે અને દરેક વ્યક્તિ ઉપર તેમનો અધિકાર છે,”
 **[[:gu:obs:notes:frames:25-04|<<]] | [[:gu:obs:notes:25|Up]] | [[:gu:obs:notes:frames:25-06|>>]]**
