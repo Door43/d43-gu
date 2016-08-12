@@ -1,24 +1,21 @@
-===== Jesus Is the Lamb of God [24-06] =====
+===== ઈસુ દેવનું હલવાન છે. [24-06] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-06.jpg?nolink&}}
 
-The next day, **Jesus** came to be **baptized** by **John**. When John saw him, he said, “Look! **There is** the **Lamb of God** who **will take away** the **sin of the world**.”
-===== Important Terms: =====
+પછીના દિવસે, ઈસુ યોહન પાસે બપ્તિસમા લેવા માટે આવ્યા. જયારે યોહને તેને જોયો, તેણે કહ્યું, “જુઓ! ત્યાં દેવનું હલવાન છે જે જગતના પાપો લઈ લેશે.”
 
-  * **[[:gu:obe:kt:jesus]]**
-  * **[[:gu:obe:kt:baptize]]**
-  * **[[:gu:obe:other:johnthebaptist]]**
-  * **[[:gu:obe:kt:lamb]]**
-  * **[[:gu:obe:kt:god]]**
-  * **[[:gu:obe:kt:sin]]**
+===== મહત્વના શબ્દો: =====
 
+  * **ઈસુ**
+  * **બપ્તિસમા પામેલું**
+  * **યોહન**
+  * **હલવાન**
+  * **દેવ**
+  * **પાપ**
+===== ભાષાંતર નોંધ: =====
 
-===== Translation Notes: =====
-
-  * **There is** - For some languages this would be, "Here is" or, "That man is."
-  * **Lamb of God** - This could also be translated as, "the Lamb from God" or, "the sacrifice Lamb that God has provided." Jesus was the perfect sacrifice for sin that God promised to provide. He fulfills the image that was presented by the sacrifice of lambs in the Old Testament.
-  * **will take away** - The sacrifice of Jesus causes God to look at our sin as if it never existed.
-  * **sin of the world** - That is, "the sin of the people in the world."
-
-
+  * **ત્યાં છે**  – કેટલીક ભાષાઓમાં આમ થશે, “અહિયા છે” અથવા, “તે માણસ છે.”
+  * **દેવનું હલવાન**  – આ રીતે ભાષાંતર થશે, “દેવ તરફથી હલવાન” અથવા, “બલિદાનનું હલવાન જે દેવે પૂરું પાડ્યું. ઈસુ પાપ માટે દેવ તરફથી પૂરું પાડેલું સંપૂર્ણ બલિદાન હતા. તેણે જુના નિયમમાં દર્શાવવામાં આવેલી બલિદાન માટેની છાપને પૂરી કરી.
+  * **લઈ લેશે **– ઈસુના બલિદાનને લીધે દેવ આપના પાપ લઇ લેશે જેમ કે તે ક્યારેય નહોતા.
+  * **જગતના પાપ**  – તે છે, “જગતના લોકોના પાપ.”
 **[[:gu:obs:notes:frames:24-05|<<]] | [[:gu:obs:notes:24|Up]] | [[:gu:obs:notes:frames:24-07|>>]]**
