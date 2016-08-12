@@ -1,20 +1,17 @@
-===== Worship for the Baby [23-10] =====
+===== બાળક માટે આરાધના કરી [23-10] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-10.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-10.jpg?nolink&}}
 
-When the** wise men** saw Jesus with his mother, they **bowed down** and **worshiped** him. They gave Jesus **expensive** gifts. Then they returned home.
-===== Important Terms: =====
+જયારે માગીઓએ ઈસુને તેની માતા સાથે જોયો, તેઓ તેની સન્મુખ નમ્યા અને તેની આરાધના કરી. તોએ ઈસુને કિમતી ભેંટો આપી. પછી તેઓ ઘરે પાછા ગયા.
 
-  * **[[:gu:obe:kt:jesus]]**
-  * **[[:gu:obe:kt:worship]]**
+===== મહત્વના શબ્દો: =====
 
+  * **ઈસુ**
+  * **આરાધના કરી**
+===== ભાષાંતર નોંધ: =====
 
-===== Translation Notes: =====
-
-  * **wise men** - See how you translated this term in **[[:gu:obs:notes:frames:23-09|[23-09]]]**.
-  * **bowed down** - That is, "bowed low to the ground." At that time, this was the customary way of showing great respect or reverence.
-  * **expensive** - That is, "very valuable."
-  * //A Bible story from//  - These references may be slightly different in some Bible translations.
-
-
+  * **માગીઓ**  – જુઓ નોંધ:માળખું:[23-09]
+  * **નમવું –**  તે છે, “જમીન તરફ જુકવું.” તે સમયે, આદર કે પૂજ્યભાવ બતાવવાનો એક રીવાજ હતો.
+  * **કિમતી **– તે છે, “ખુબજ મૂલ્યવાન.”
+  * **બાઈબલની વાર્તા **– આ સંદર્ભ કેટલાક કેટલાક બાઈબલ ભાષાંતરોમાં અલગ હોઈ શકે છે.
 **[[:gu:obs:notes:frames:23-09|<<]] | [[:gu:obs:notes:23|Up]] | [[:gu:obs:notes:frames:24-01|>>]]**
