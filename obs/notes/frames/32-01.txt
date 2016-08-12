@@ -1,18 +1,17 @@
-===== The Country of the Gerasenes [32-01] =====
+===== ગેરસાનીનો દેશ [32-01] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-01.jpg?nolink&}}
 
-**One day**, **Jesus** and his **disciples** went in a boat across the lake to the region where **the Gerasene people** lived.
-===== Important Terms: =====
+એક દિવસ, ઈસુ   અને તેના   શિષ્યો   પ્રદેશ જ્યાં તળાવ તરફ હોડી ગયા ગેરસાની લોકો   રહેતા હતા.
 
-  * **[[:gu:obe:kt:jesus]]**
-  * **[[:gu:obe:kt:disciple]]**
+===== મહત્વપૂર્ણ શબ્દો: =====
 
+  * **ઈસુ**
+  * **શિષ્યો**
+===== અનુવાદ નોંધો: =====
 
-===== Translation Notes: =====
-
-  * **One day** - This phrase introduces an event that happened in the past, but does not state the specific time. Many languages have a similar way to begin telling a true story.
-  * **the Gerasene people** - The Gerasenes lived in an area along the eastern shore of the Sea of Galilee. They are descendants of the Jews, but we know few details about them.
-
+  * **એક દિવસ **- આ શબ્દસમૂહ એક ઘટના છે કે ભૂતકાળમાં થયું પરિચય આપે છે, પરંતુ ચોક્કસ સમય દર્શાવતું નથી. ઘણી ભાષાઓ એ જ રીતે એક સાચી વાર્તા કહેવી શરૂ કરતી હોય છે.
+  * **ગેરસાની લોકો**
+ - ગેરસાની લોકો ગાલીલના સમુદ્ર પૂર્વીય કિનારા સાથે એક વિસ્તારમાં રહેતા હતા. તેઓ યહૂદીઓના વંશજો છે, પરંતુ અમે તેમને વિશે થોડી જ વિગતો જાણીએ છીએ.
 
 **[[:gu:obs:notes:frames:31-08|<<]] | [[:gu:obs:notes:32|Up]] | [[:gu:obs:notes:frames:32-02|>>]]**
