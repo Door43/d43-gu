@@ -1,23 +1,20 @@
-===== Forgive Your Brother [29-09] =====
+===== તારા ભાઈને માફ કર [29-09] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-09.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-09.jpg?nolink&}}
 
-**Then Jesus said**, “**This** is what **my heavenly Father** will do to every one of you if you do not **forgive your brother from your heart**.”
-===== Important Terms: =====
+પછી ઈસુએ કહ્યું, “આવું મારા સ્વર્ગીય પિતા તમારી દરેકની સાથે કરશે જો તમે તમારા ભાઈને હૃદયથી માફ નહી કરો.
 
-  * **[[:gu:obe:kt:jesus]] said**
-  * **[[:gu:obe:kt:godthefather]]**
-  * **[[:gu:obe:kt:forgive]]**
+===== મહત્વના શબ્દો: =====
 
+  * **ઈસુએ કહ્યું**
+  * **સ્વર્ગીય પિતા**
+  * **માફ કરવું**
+===== ભાષાંતર નોંધ: =====
 
-===== Translation Notes: =====
-
-  * **Then Jesus said** - Some languages may add, "to his disciples."
-  * **This** - "This" refers back to the way the king punished the unforgiving servant in **[[:gu:obs:notes:frames:29-08|[29-08]]]**.
-  * **my heavenly Father** - That is, "my Father in heaven." Jesus is expressing his unique, personal relationship to God the Father.
-  * **your brother** - See how you translated this in **[[:gu:obs:notes:frames:29-01|[29-01]]]**.
-  * **from your heart** - That is, "with sincerity" or, "truly" or, "genuinely" or, "honestly."
-  * //A Bible story from//  - These references may be slightly different in some Bible translations.
-
-
+  * **પછી ઈસુએ કહ્યું**  – કેટલીક ભાષાઓમાં “તેના શિષ્યોને” એવું ઉમેરવું જરૂરી છે.
+  * **આ **– “આ” રાજાએ માફ ન કરનાર સેવકને કરેલી સાજાને દર્શાવે છે. જુઓ નોંધ:માળખું:[29-08]
+  * **મારા સ્વર્ગીય પિતા **– તે છે, “મારા પિતા જે સ્વર્ગમાં છે.” ઈસુ તેમનો દેવ પિતા સાથેનો અલગ, વ્યક્તિગત સંબંધ વ્યક્ત કરે છે.
+  * **તારો ભાઈ –**  જુઓ નોંધ:માળખું:[29-01]
+  * **તારા હૃદયથી**  – તે છે, “નિખાલસતાથી” અથવા, “સાચી રીતે” અથવા, “પ્રમાણીકતાથી.”
+  * **બાઈબલની વાર્તા **- આ સંદર્ભ કેટલાક કેટલાક બાઈબલ ભાષાંતરોમાં અલગ હોઈ શકે છે.
 **[[:gu:obs:notes:frames:29-08|<<]] | [[:gu:obs:notes:29|Up]] | [[:gu:obs:notes:frames:30-01|>>]]**
