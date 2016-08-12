@@ -1,31 +1,25 @@
-====== Judah also Worshiped Idols [20-05] ======
+====== યહૂદા પણ મૂર્તિઓની આરાધના કરતુ હતું [20-05] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-05.jpg?nolink&}}
 
-The people in the **kingdom of Judah** saw how **God** had **punished** the people of the **kingdom of Israel for not believing and obeying him**. But they still **worshiped idols**, including the **gods** of the **Canaanites**. God sent **prophets** to **warn them**, but **they refused to listen**.
+દેવે તેમના ઉપર વિશ્વાસ ન રાખવા બદલ અને તેમની આજ્ઞા ન પાળવા બદલ ઇસ્રાએલના રાજ્યને સજા કરી તે યહૂદા રાજ્યના લોકોએ જોયું. પણ તેઓએ હજી મૂર્તિઓની આરાધના કરવાનું ચાલુ રાખ્યું, તેમાં કાનાનીઓના દેવતાઓ નો પણ સમાવેશ થાય છે. દેવે તેઓને ચેતવણી આપવા પ્રબોધાકોને મોકલ્યા, પણ તેઓએ તેમની આજ્ઞા પાળવાની ના પાડી દીધી.
 
+===== મહત્વના શબ્દો: =====
 
-====== Important Terms: ======
+  * **યહૂદાનું રાજ્ય**
+  * **દેવ**
+  * **સજા કરી**
+  * **ઇસ્રાએલનું રાજ્ય**
+  * **વિશ્વાસ કરવો**
+  * **આજ્ઞા પાળવી**
+  * **આરાધના કરી**
+  * **મૂર્તિઓ**
+  * **દેવતાઓ**
+  * **કનાનીઓ**
+  * **પ્રબોધકો**
+===== ભાષાંતર નોંધ: =====
 
-  * **[[:gu:obe:other:kingdomofjudah]]**
-  * **[[:gu:obe:kt:god]]**
-  * **[[:gu:obe:other:punish]]**
-  * **[[:gu:obe:other:kingdomofisrael]]**
-  * **[[:gu:obe:kt:believe]]**
-  * **[[:gu:obe:other:obey]]**
-  * **[[:gu:obe:kt:worship]]**
-  * **[[:gu:obe:other:idol]]**
-  * **[[:gu:obe:kt:falsegod]]**
-  * **[[:gu:obe:other:canaan]]**
-  * **[[:gu:obe:kt:prophet]]**
-
-
-===== Translation Notes: =====
-
-
-  * **for not believing and obeying him** – Another way to translate this would be, "because they did not believe or obey him." 
-  * **warn them** – That is, "tell them to stop sinning or terrible things would happen to them."
-  * **they refused to listen** - That is, "they refused to obey" or "they refused to stop their evil behavior." 
-  
-
+  * **તેમની ઉપર વિશ્વાસ ન રાખ્યો**  - અને તેમની આજ્ઞા ન પાળી, બીજી આ રીતે ભાષાંતર કરી શકાય, “તેઓએ તેના ઉપર વિશ્વાસ ન કર્યો અને તેમની આજ્ઞા ન પાળી તેના કારણે.”
+  * **તેઓને ચેતવ્યા **– તે છે, “તેઓને કહ્યું કે તેઓ પાપ કરવાનું બંધ કરે, નહિ તો તેઓ સાથે ભયાનક ઘટના ઘટશે.”
+  * **તેઓએ સંભાળવાની નાં પાળી દીધી **– તે છે, “તેઓએ આજ્ઞા પાળવાની ના પાડી” અથવા “તેઓએ પોતાના દુષ્ટ કર્યો બંધ કરવાની ના પાળી.”
 **[[:gu:obs:notes:frames:20-04|<<]] | [[:gu:obs:notes:20|Up]] | [[:gu:obs:notes:frames:20-06|>>]]**
