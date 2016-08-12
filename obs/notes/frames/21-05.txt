@@ -1,33 +1,28 @@
-===== The New Covenant [21-05] =====
+===== નવી વાચા [21-05] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-21-05.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-21-05.jpg?nolink}}
+યર્મિયા પ્રબોધક દ્વારા, દેવે વાયદો કર્યો હતો કે તે નવી વાચા બંધાશે, પણ સિનાઈ ઉપર ઇસ્રાએલીઓ સાથે બાંધી હતી તેવી નહિ. નવી વાચામાં, દેવ પોતાના નિયમો લોકોના હૃદય ઉપર લખશે, લોકો દેવને વ્યક્તિગત રીતે ઓળખશે, તેઓ તેના લોકો બનશે, અને દેવ તેઓના પાપ માફ કરશે. મસીહા નવી વાચાની શરૂઆત કરશે.
 
-Through the **prophet Jeremiah**, **God promised** that he would make a **New Covenant**, **but not like** the **covenant** God made with **Israel** at **Sinai**. In the New Covenant, God would **write his law on the people’s hearts**, the people would **know God** personally, they would **be his people**, and God would **forgive** their **sins**. The **Messiah** would **start the New Covenant**.
-===== Important Terms: =====
+===== મહત્વના શબ્દો: =====
 
+  * **પ્રબોધક**
+  * **યર્મિયા**
+  * **દેવ**
+  * **વાયદો કર્યો**
+  * **નવી વાચા**
+  * **વાચા**
+  * **ઇસ્રાએલ**
+  * **સિનાઈ**
+  * **માફ કરવું**
+  * **પાપો**
+  * **મસીહા**
+===== ભાષાંતર નોંધ: =====
 
-  * **[[:gu:obe:kt:prophet]]**
-  * **[[:gu:obe:other:jeremiah]]**
-  * **[[:gu:obe:kt:god]]**
-  * **[[:gu:obe:kt:promise]]**
-  * **[[:gu:obe:kt:newcovenant]]**
-  * **[[:gu:obe:kt:covenant]]**
-  * **[[:gu:obe:other:israel]]**
-  * **[[:gu:obe:other:sinai]]**
-  * **[[:gu:obe:kt:forgive]]**
-  * **[[:gu:obe:kt:sin]]**
-  * **[[:gu:obe:kt:christ]]**
-
-
-==== Translation Notes: ====
-
-
-  * **Through the prophet Jeremiah God promised** – This could be translated as, "Through the messages that God gave to Jeremiah, God promised" or, "The prophet Jeremiah told the people God's promise."
-  * **but not like** - The New Covenant would be truly effective. People really would know God, they would truly live as his people, and He would forgive their sins completely, based on the Messiah's sacrifice of himself one time for all who believe in him.
-  * **write his law on the people's hearts** - This is a metaphor meaning, "help his people to understand his laws and to earnestly desire to obey them." If possible, keep the image of writing on their hearts, since this is in contrast with the way God had written his law on stone tablets for the Israelites. If that is not possible, you could just translate the meaning.
-  * **be his people** - This could be translated as, "be his special people" or, "be his favored people."
-  * **start the New Covenant** - That is, "be the one to cause the New Covenant to take effect" or, "bring the New Covenant to his people."
-
+  * **યર્મિયા પ્રબોધક દ્વારા દેવે વાયદો કર્યો**-આ રીતે ભાષાંતર કરી શકાય, “દેવે યાર્મિયાને જે સંદેશો આપ્યો તે દ્વારા, દેવે વાયદો કર્યો” અથવા, “યર્મિયા પ્રબોધાકે લોકોને દેવનો વાયદો કહ્યો.”
+  * **પણ તેના જેવું નહિ**  – નવી વાચા ખરેખર અસરકારક હશે. મસીહાના પોતાના દરેક લોકો માટે એકવારના બલિદાન પર વિશ્વાસના આધારે લોકો ખરેખર દેવને ઓળખશે, તેઓ ખરેખર તેમના લોકો તરીકે જીવશે, અને તે તેમના પાપોને સંપૂર્ણ રીતે માફ કરશે.
+  * **પોતાના નિયમો લોકોના હૃદય ઉપર લખશે **– આ એક અલંકારીક અર્થ છે, “તેના લોકોને નિયમો સમજવામાં અને હૃદયથી તેને પાળવામાં તેઓની મદદ કરશે.” જો શક્ય હોય તો, લખાણની છબી તેઓના હૃદયમાં રાખશે, દેવે ઇસ્રાએલી લોકો માટે તેના નિયમો પથ્થરની પાટી પર લખ્યા હતા તેનાથી તદન અલગ છે. જો તે શક્ય ના હોયતો તમે ફક્ત અર્થનું ભાષાંતર કરો.
+  * **તેમના લોકો બનશે**  – આ રીતે ભાષાંતર કરી શકાય, “તેના ખાસ લોકો બનશે” અથવા, “તેની કૃપા પામેલા લોકો.”
+  * નવી વાચાની શરૂઆત – તે છે, “નવી વાચાનો પ્રભાવ પડે તે માટે તામ્ર આગળ આવો” અથવા, “તેમના લોકો પાસે નવી વાચા લાવો.”
 
 **[[:gu:obs:notes:frames:21-04|<<]] | [[:gu:obs:notes:21|Up]] | [[:gu:obs:notes:frames:21-06|>>]]**
