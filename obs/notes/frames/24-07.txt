@@ -1,21 +1,17 @@
-===== John Baptized Jesus [24-07] =====
+===== યોહને ઈસુને બપ્તિસમા આપ્યું [24-07] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-07.jpg?nolink&}}
 
-**John** said to **Jesus**, “**I am not worthy to baptize you**. You should baptize me instead.” But Jesus said, “You should baptize me, because **it is the right thing to do**.” So John baptized him, even though Jesus had never **sinned**.
-===== Important Terms: =====
+યોહને ઈસુને કહ્યું, “હું તને બપ્તિસમા આપવાને યોગ્ય નથી. તેના બદલે તારે મને બપ્તિસમા આપવું જોઈએ.” પણ ઈસુએ ઉત્તર આપ્યો, “તારે મને બપ્તિસમા આપવું જોઈએ, કારણકે તેમ કરવું સારું છે.” તેથી યોહને તેને બપ્તિસમા આપ્યું, ઈસુએ ક્યારેય પાપ નહોતું કર્યું તેમ છતાં.
 
+===== મહત્વના શબ્દો: =====
 
-  * **[[:gu:obe:other:johnthebaptist]]**
-  * **[[:gu:obe:kt:jesus]]**
-  * **[[:gu:obe:kt:baptize]]**
-  * **[[:gu:obe:kt:sin]]**
+  * **યોહાન**
+  * **ઈસુ**
+  * **બપ્તિસમા આપવું**
+  * **પાપ કર્યું**
+===== ભાષાંતર નોંધ: =====
 
-
-===== Translation Notes: =====
-
-  * **I am not worthy to baptize you** - This could be translated as, "I am not good enough to baptize you" or, "I am sinful, so I should not baptize you."
-  * **it is the right thing to do** - This might also be translated as, "it is the proper thing to do" or, "this is what God wants me to do."
-
-
+  * **હું તને બપ્તિસમા આપવાને યોગ્ય નથી **– આ રીતે ભાષાંતર થઇ શકે, “હું તને બપ્તિસમા આપવા જેટલો સારો નથી” અથવા, “હું પાપી છું, તેથી હું તને બપ્તિસમા ન આપી શકું.”
+  * **તે કરવું સારું છે**  – આ રીતે પણ ભાષાંતર થઇ શકે, “આ એક ઉચિત કાર્ય છે કરવા માટે” અથવા, “આ તે છે જે દેવ ચાહે છે કે હું કરું.”
 **[[:gu:obs:notes:frames:24-06|<<]] | [[:gu:obs:notes:24|Up]] | [[:gu:obs:notes:frames:24-08|>>]]**
