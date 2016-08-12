@@ -1,21 +1,18 @@
-===== The Shepherds Visited Jesus [23-08] =====
+===== ઘેંટાપાળાકોએ ઈસુની મુલાકાત લીધી [23-08] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-08.jpg?nolink&}}
 
-The **shepherds** soon arrived at the place where **Jesus** was and they found him lying in a feeding trough, just as the **angel** had told them. They were very excited. **Mary** was very happy, too. The shepherds returned to the fields where their sheep were, **praising God** for **all they had heard and seen**.
-===== Important Terms: =====
+થોડીજ વારમાં ઘેંટાપાળકો ત્યાં આવ્યા જ્યાં ઈસુ હતા અને તેઓએ તેમને ગભાણમાં જોયા, જેવી રીતે સ્વર્ગદૂતે તેઓને કહ્યું હતું. તેઓ ખૂબજ ઉત્તેજિત હતા. મરિયમ પણ ખુશ હતી. ઘેંટાપાળકો પાછા જ્યાં તેઓના પ્રાણીઓનું ટોળું હતું ત્યાં આવ્યા, તેઓએ જે જોયું અને સાંભળ્યું તેના માટે તેઓ ઈશ્વરી સ્તુતિ કરવા લાગ્યા.
 
-  * **[[:gu:obe:other:shepherd]]**
-  * **[[:gu:obe:kt:jesus]]**
-  * **[[:gu:obe:kt:angel]]**
-  * **[[:gu:obe:other:mary]]**
-  * **[[:gu:obe:other:praise]]**
-  * **[[:gu:obe:kt:god]]**
+===== મહત્વના શબ્દો: =====
 
+  * **ઘેંટા પાળક**
+  * **ઈસુ**
+  * **સ્વર્ગદૂત**
+  * **મરિયમ**
+  * **સ્તુતિ કરવી**
+  * **દેવ**
+===== ભાષાંતર નોંધ: =====
 
-===== Translation Notes: =====
-
-  * **all they had heard and seen** - That is, "for everything they had heard and seen." This included the glorious angels and their amazing message, as well as seeing the newborn Messiah himself.
-
-
+  * **તેઓએ જે સાંભળ્યું અને જોયું હતું **– તે છે, “તેઓએ જે બધું સાંભળ્યું હતું અને જોયું હતું.” આમાં સ્વર્ગદૂતો અને તેઓના મહિમાયુક્ત સંદેશાઓનો સમાવેશ થાય છે, સાથે સાથે નવા જન્મેલા મસીહાને જોવાનો પણ સમાવેશ થાય છે.
 **[[:gu:obs:notes:frames:23-07|<<]] | [[:gu:obs:notes:23|Up]] | [[:gu:obs:notes:frames:23-09|>>]]**
