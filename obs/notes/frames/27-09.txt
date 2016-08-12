@@ -1,19 +1,16 @@
-===== Help for the Victim [27-09] =====
+===== અકસ્માતનો ભોગ બનેલ વ્યક્તિની મદદ કરવી [27-09] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-09.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-09.jpg?nolink&}}
 
-“The **Samaritan** then lifted the man onto **his own donkey** and took him to a **roadside inn where he took care of him**.”
-===== Important Terms: =====
+“પછી સમરુની વ્યક્તિએ તે માણસને પોતાના ગધેડાં ઉપર બેસાડી લીધો અને ઉતારાની જગ્યા પર લઇ ગયો જ્યાં તે તેની કાળજી લઇ શકે.”
 
-  * **[[:gu:obe:other:samaria]]**
+===== મહત્વના શબ્દો: =====
 
+  * **સમરુની**
+===== ભાષાંતર નોંધ: =====
 
-===== Translation Notes: =====
-
-  * (Jesus continues to tell the story.)
-  * **his own donkey** - Make sure it is clear that "his" refers to the Samaritan.
-  * **roadside inn** - That is, "a lodging place." This is a place where travelers could get food and stay overnight.
-  * **where he took care of him** - This could also be translated as, "where he continued to take care of him."
-
-
+  * **(ઈસુએ વાર્તા કહેવાનું ચાલુ રાખ્યું.)**
+  * **તેનો પોતાનો ગધેડો **– ધ્યાન રાખો કે “તેનું” શબ્દ સમરુની વ્યક્તિને દર્શાવે.
+  * **ઉતારાની જગ્યા **– તે છે, “ઉતારા માટેની જગ્યા.” આ તે જગ્યા છે જ્યાં યાત્રાળુઓને ભોજન મળે છે અને રાત્રે રોકાઈ શકે છે.
+  * **જ્યાં તે તેની કાળજી લઇ શકે **– આ રીતે પણ ભાષાંતર થાય, “જ્યાં તે તેની નિરંતર કાળજી લઈ શકે.”
 **[[:gu:obs:notes:frames:27-08|<<]] | [[:gu:obs:notes:27|Up]] | [[:gu:obs:notes:frames:27-10|>>]]**
