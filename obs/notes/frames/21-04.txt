@@ -1,23 +1,18 @@
-===== A Descendant of David [21-04] =====
+===== દાઉદના વંશજો [21-04] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-21-04.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-21-04.jpg?nolink}}
+દેવે દાઉદ રાજાને વાયદો કર્યો હતો કે તેનો પોતાનો વંશજ હંમેશા માટે દેવના લોકો ઉપર રાજ કરશે. તેવીજ રીતે મસીહા જે દાઉદનો પોતાનો વંશજ હશે.
 
-**God promised King David** that one of his own **descendants** would rule as **king** over God’s people forever. That meant that the **Messiah** would be one of **David’s own descendants**.
-===== Important Terms: =====
+===== મહત્વના શબ્દો: =====
 
+  * **દેવ**
+  * **વાયદો કર્યો**
+  * **રાજા દાઉદ**
+  * **મસીહા**
+  * **વંશજો**
+===== ભાષાંતર નોંધ: =====
 
-  * **[[:gu:obe:kt:god]]**
-  * **[[:gu:obe:kt:promise]]**
-  * **[[:gu:obe:other:david]]**
-  * **[[:gu:obe:kt:christ]]**
-  * **[[:gu:obe:other:descendant]]**
-
-
-==== Translation Notes: ====
-
-
-  * **David's own descendants** - Another way to say this would be, "a direct descendant of David himself."
-
+  * **દાઉદનો પોતાનો વંશજ **– આ શબ્દને બીજી આ રીતે કહી શકાય, “દાઉદનો પોતાનો સીધો વંશજ.”
 
 **[[:gu:obs:notes:frames:21-03|<<]] | [[:gu:obs:notes:21|Up]] | [[:gu:obs:notes:frames:21-05|>>]]**
