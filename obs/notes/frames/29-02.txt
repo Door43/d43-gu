@@ -1,20 +1,17 @@
-===== The Huge Debt [29-02] =====
+===== મોટુ દેવું [29-02] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-02.jpg?nolink&}}
 
-Jesus said, “**The kingdom of God is like a king who** wanted to **settle accounts with his servants**. One of his servants owed a huge debt worth 200,000 years’ wages.”
-===== Important Terms: =====
+ઈસુએ કહ્યું, “દેવનું રાજ્ય એવા રાજા જેવું છે જે પોતાના સેવકો સાથે હિસાબ કરવા ચાહે છે. તેમાંના એક સેવકનું દેવું વર્ષના ૨૦૦,૦૦૦ વેતનના જેટલું હતું.
 
-  * **[[:gu:obe:kt:kingdomofgod]]**
-  * **[[:gu:obe:other:king]]**
-  * **[[:gu:obe:other:servant]]**
+===== મહત્વના શબ્દો: =====
 
+  * **દેવનું રાજ્ય**
+  * **રાજા**
+  * **સેવકો**
+===== ભાષાંતર નોંધ: =====
 
-===== Translation Notes: =====
-
-  * **The kingdom of God is like** - Another way to say this would be, "God's rule over people is like" or, "The way God rules people can be compared to."
-  * **is like a king who** - This could be translated as, "is like the kingdom of a king who" or, "can be compared with the rule of a king who."
-  * **settle accounts with his servants** - That is, "collect the debts his servants owed him" or, "collect the money his servants had borrowed from him."
-
-
+  * **દેવનું રાજ્ય તેના જેવું છે –**  બીજી રીતે કહીએ તો, “લોકો ઉપર દેવનું શાસન તેના જેવું છે” અથવા, “જેવી રીતે દેવ તેના લોકો ઉપર શાસન કરે છે તેની તુલના.”
+  * **રાજાના જેવું છે જે **– આ રીતે ભાષાંતર થાય, “રાજાના રાજ્ય જેવું છે જે” અથવા, “રાજાના શાસન સાથે સરખાવી શકાય જે.”
+  * **તેના સેવકો સાથે હિસાબ કરવો **– તે છે, “તેના સેવકો પરનું દેવું વસુલવું” અથવા, “તેની પાસેથી તેના સેવકોએ ઉછીના લીધેલા પૈસા વસુલવા.”
 **[[:gu:obs:notes:frames:29-01|<<]] | [[:gu:obs:notes:29|Up]] | [[:gu:obs:notes:frames:29-03|>>]]**
