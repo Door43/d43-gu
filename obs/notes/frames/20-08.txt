@@ -1,29 +1,20 @@
-===== The Kind of Judah Was Punished [20-08] =====
+===== યહૂદાના રાજાને સજા કરવામાં આવી [20-08] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-08.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-08.jpg?nolink}}
+બળવો કરવા બદલ યહૂદાના રાજાને સજા કરવા માટે, નબૂખાદનેસ્સારના સૈનિકોને રાજાના દીકરાને તેની સામે મારી નાખ્યો અને પછી તેને આંધળો કરી નાખ્યો. તે પછી, તેઓએ રાજા ન મારે તે માટે તેને બાબિલની જેલમાં રાખ્યો.
 
+===== મહત્વના શબ્દો: =====
 
-To **punish** the **king** of **Judah** for rebelling, **Nebuchadnezzar's** soldiers killed the king’s **sons in front of him** and then **made him blind**. After that, they took the king away to die in prison in **Babylon**.
+  * **સજા**
+  * **રાજા**
+  * **યહૂદા**
+  * **નબૂખાદનેસ્સારનું**
+  * **દીકરાઓ**
+  * **બાબિલ**
+===== ભાષાંતર નોંધ: =====
 
-
-===== Important Terms: =====
-
-
-  * **[[:gu:obe:other:punish]]**
-  * **[[:gu:obe:other:king]]**
-  * **[[:gu:obe:other:kingdomofjudah]]**
-  * **[[:gu:obe:other:nebuchadnezzar]]**
-  * **[[:gu:obe:kt:son]]**
-  * **[[:gu:obe:other:babylon]]**
-
-
-==== Translation Notes: ====
-
-
-  * **To punish** - Nebuchadnezzar punished the king of Judah by telling his soldiers to do these things.
-  * **in front of him** - This may be translated as, "where he could see," or "so that he could see it," or "before his eyes."
-  * **made him blind** - This may also be translated as, "destroyed his eyes."
-
-
+  * **સજા કરવી**  – નબૂખાદનેસ્સારે પોતાના સૈનિકોને આ વસ્તુઓ કરવાનું કહેવા દ્વારા યહૂદાના સજા કરી.
+  * **તેની સામે**  – આ રીતે ભાષાંતર થઇ શકે, “જ્યાં તે જોઈ શકે” અથવા “જેથી તે જોઈ શકે”, અથવા “તેની આંખોની સામે.”
+  * **તેને આંધળો કરી દીધો**  – આ પણ આ રીતે ભાષાંતર કરી શકાય, “તેની આંખોનો નાશ કર્યો.”
 **[[:gu:obs:notes:frames:20-07|<<]] | [[:gu:obs:notes:20|Up]] | [[:gu:obs:notes:frames:20-09|>>]]**
