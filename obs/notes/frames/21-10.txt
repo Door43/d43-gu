@@ -1,27 +1,19 @@
-===== Messiah Will Heal [21-10] =====
+===== મસીહા સાજપણું આપશે [21-10] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-21-10.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-21-10.jpg?nolink}}
+યશાયા પ્રબોધાકે કહ્યું હતું કે મસીહા ગલિલમાં રહેશે, ટૂટેલા હૃદયોને આશ્વાસન આપશે, અને ગુલામો માટે સ્વતંત્રતા બોલશે અને બંદીવાનોને છોડાવશે. તેણે એવી ભવિષ્યવાણી પણ કરી હતી કે મસીહા માંદા લોકોને અને જે જોઈ નથી શકતા, બોલી નથી શકતા, કે ચાલી નથી શકતા તેઓને સજા કરશે.
 
+===== મહત્વના શબ્દો: =====
 
-The **prophet Isaiah** said the Messiah would live in **Galilee**, comfort **broken-hearted people**, and **proclaim freedom to captives** and **release to prisoners**. He also predicted that the **Messiah** would **heal** sick people and those who **could not hear**, **see**, **speak**, **or walk**.
-===== Important Terms: =====
+  * **પ્રબોધક**
+  * **યશાયા**
+  * **ગાલીલ**
+  * **મસીહા**
+  * **સાજપણું**
+===== ભાષાંતર નોંધ: =====
 
-
-  * **[[:gu:obe:kt:prophet]]**
-  * **[[:gu:obe:other:isaiah]]**
-  * **[[:gu:obe:other:galilee]]**
-  * **[[:gu:obe:kt:christ]]**
-  * **[[:gu:obe:other:heal]]**
-
-
-==== Translation Notes: ====
-
-
-  * **broken-hearted people** - This expression refers to people who are experiencing extreme sadness.
-  * **proclaim freedom to captives** - That is, "tell slaves they could be free." This could also refer to freeing people from slavery to sin.
-  * **release to prisoners** - That is, "he will set free those who have unjustly been put into prison." This could also refer to setting people free from the bondage of sin.
-  * **could not hear, see, speak, or walk** – It may be better to say, "could not hear, could not see, could not speak, or could not walk." Some languages have special words for these conditions, such as "deaf" and "blind."
-
-
+  * **ટૂટેલા હૃદય વાળા લોકો **– આ અભિવ્યકિ એવા લોકોને દર્શાવે છે જેઓ એ અત્યંત દુ:ખનો અનુભવ કર્યો છે.
+  * **ગુલામો માટે સ્વતંત્રતાની ઘોષના**  – તે છે, “ગુલામોને કહેવું કે તેઓ સ્વતંત્ર થશે.” આ પાપની ગુલામી માંથી સ્વતંત્રતા આપવાને પણ દર્શાવે છે.
+  * **બંદીવાનોને મુક્ત કરવા **– તે છે, “તે તેવા લોકોને છોડાવશે જેઓને અન્યાયથી જેલમાં નાખવામાં આવ્યા છે.” આ પાપના બંધનો માંથી છોડાવવાને પણ દર્શાવે છે. જે જોઈ નથી શકતા, બોલી નથી શકતા, કે ચાલી નથી શકતા, તે કહેવું વધારે સારું છે કે, “સાંભળી નહોતા શકતા, જોઈ નહોતા શકતા, બોલી નહોતા શકતા, કે ચાલી નહોતા શકતા.” કેટલીક ભાષાઓમાં આવી પરિસ્થિતિ માટે ખાસ શબ્દો છે, જેમ કે “બહેરા” અને “આંધળા.”
 **[[:gu:obs:notes:frames:21-09|<<]] | [[:gu:obs:notes:21|Up]] | [[:gu:obs:notes:frames:21-11|>>]]**
