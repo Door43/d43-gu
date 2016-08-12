@@ -1,26 +1,20 @@
-===== The Angel and the Shepherds [23-06] =====
+===== સ્વર્ગદૂત અને ઘેટાંપાળકો [23-06] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-06.jpg?nolink&}}
 
-That night, there were some **shepherds** in a nearby field **guarding their flocks**. Suddenly, **a shining angel** appeared to them, and **they were terrified**. The angel said, “**Do not be afraid**, because I have some good news for you. The **Messiah**, the **Master**, has been born in **Bethlehem**!”
+તે રાત્રીએ, ત્યાં કેટલાક ઘેટાંપાળકો ત્યાં નજીકમા તેઓના જાનવરોનું ધ્યાન રાખતા હતા. તરતજ, એક પ્રકાશિત સ્વર્ગદૂત તેઓની સામે પ્રગટ થયો, અને તેઓ ડરવા લાગ્યા. સ્વર્ગદૂતે કહ્યું, “ડરો નહિ, કારણકે મારી પાસે તમારી માટે શુભ સંદેશ છે. મસીહાએ, ગુરુએ, બેથલેહેમમાં જન્મ લીધો હતો!”
 
+===== મહત્વના શબ્દો: =====
 
-===== Important Terms: =====
+  * **ઘેંટા પાળક**
+  * **સ્વર્ગદૂત**
+  * **મસીહા**
+  * **ગુરુ**
+  * **બેથલેહેમ**
+===== ભાષાંતર નોંધ: =====
 
-
-  * **[[:gu:obe:other:shepherd]]**
-  * **[[:gu:obe:kt:angel]]**
-  * **[[:gu:obe:kt:christ]]**
-  * **[[:gu:obe:kt:lord]]**
-  * **[[:gu:obe:other:bethlehem]]**
-
-
-===== Translation Notes: =====
-
-  * **guarding their flocks** - A "flock" is a group of sheep. The shepherds were caring for their sheep, and protecting them from harm or theft.
-  * **a shining angel** - This could also be translated as, "an angel surrounded by a bright light." The shining light would have seemed even brighter in contrast to the darkness of the night.
-  * **they were terrified** - The appearance of the supernatural angel was extremely frightening.
-  * **Do not be afraid** - This often means, "stop being afraid." The shepherds were very afraid when they saw the angel so he was telling them they did not need to be afraid.
-
-
+  * **તેઓના જાનવરોનું ધ્યાન રાખતા હતા **– “જાનવરોનું સમૂહ” એ ઘેંટાઓનું સમૂહ છે. ઘેંટાપાળકોને તેમના ઘેંટા વિષે ચિંતા હતી, અને નુક્શાન કે ચોરીથી તેઓનું રક્ષણ કરતા હતા.
+  * **પ્રકાશિત સ્વર્ગદૂત **– આ રીતે પણ ભાષાંતર કરી શકાય, “સ્વર્ગદૂત જે ઉજળા પ્રકાશતી ઘેરાયેલો હતો.” રાત્રીના અંધકારના લીધે તે પ્રકાશ વધારે પ્રકાશિત લાગતો હતો.
+  * **તેઓ ડરી ગયા**  – અલૌકિક સ્વર્ગદૂતનું પ્રગટ થવું તે ખુબજ બિહામણું હતું.
+  * **ડરો નહિ **– તેનો અર્થ છે, “ડરવાનું બંધ કરો.” જયારે ઘેંટાપાળકોએ સ્વર્ગદૂતને જોયો ત્યારે તેઓ ખુબજ ડરી ગયા તેથી તેણે તેઓને કહ્યું કે તેઓએ ડરવાની જરૂર નથી.
 **[[:gu:obs:notes:frames:23-05|<<]] | [[:gu:obs:notes:23|Up]] | [[:gu:obs:notes:frames:23-07|>>]]**
