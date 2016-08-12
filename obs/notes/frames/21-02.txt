@@ -1,28 +1,20 @@
-===== A Promise for the Whole World [21-02] =====
+===== આખા જગત માટે વાયદો [21-02] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-21-02.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-21-02.jpg?nolink}}
+દેવે ઈબ્રાહિમને વાયદો કર્યો કે તેના દ્વારા સંસારની દરેક જાતિઓ આશીર્વાદિત થશે. જયારે મસીહા ભવિષ્યમાં આવશે ત્યારે આશીર્વાદ પૂરો થશે. તે જગતની દરેક જાતિ માટે બચવાનો રસ્તો પૂરો પાડશે.
 
+===== મહત્વના શબ્દો: =====
 
-**God** promised **Abraham** that **through him** all **people groups** of the world would receive a **blessing**. This blessing would be **fulfilled** when the **Messiah** would come sometime in the future. He would make it possible for people from every people groups in the world to be **saved**.
+  * **દેવ**
+  * **ઇબ્રાહિમ**
+  * **લોકોનું ટોળું**
+  * **આશીર્વાદ**
+  * **પૂરું થયું**
+  * **મસીહા**
+  * **બચી ગયા**
+===== ભાષાંતર નોંધ: =====
 
-
-===== Important Terms: =====
-
-
-  * **[[:gu:obe:kt:god]]**
-  * **[[:gu:obe:other:abraham]]**
-  * **[[:gu:obe:other:peoplegroup]]**
-  * **[[:gu:obe:kt:bless]]**
-  * **[[:gu:obe:kt:fulfill]]**
-  * **[[:gu:obe:kt:christ]]**
-  * **[[:gu:obe:kt:save]]**
-
-
-==== Translation Notes: ====
-
-
-  * **through him** – That is, "because of one of his descendants."
-
+તેના દ્વારા – તે છે, “તેના વંશજોમાના એક ના કારણે”
 
 **[[:gu:obs:notes:frames:21-01|<<]] | [[:gu:obs:notes:21|Up]] | [[:gu:obs:notes:frames:21-03|>>]]**
