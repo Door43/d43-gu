@@ -1,22 +1,18 @@
-===== A Baptism of Repentance [24-03] =====
+===== પસ્તાવાનું બપ્તિસમાં [24-03] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-03.jpg?nolink&}}
 
-When people heard **John's** message, many of them **repented from their sins**, and John **baptized** them. Many **religious leaders** also came to be baptized by John, but they **did not repent** or **confess their sins**.
-===== Important Terms: =====
+જયારે લોકોએ યોહાનનો સંદેશો સાંભળ્યો, તેમાના ઘણા લોકોએ પોતાના પાપોથી પસ્તાવો કર્યો અને યોહને તેઓને બાપ્તિસમા આપ્યું. ઘણા ધાર્મિક આગેવાનો પણ યોહન દ્વારા બપ્તિસમા લેવા આવ્યા, પણ તેઓએ પસ્તાવો કે તેઓના પાપોની કબુલાત કરી ન હતી.
 
-  * **[[:gu:obe:other:johnthebaptist]]**
-  * **[[:gu:obe:kt:repent]]**
-  * **[[:gu:obe:kt:sin]]**
-  * **[[:gu:obe:kt:baptize]]**
-  * **[[:gu:obe:other:jewishleaders]]**
+===== મહત્વના શબ્દો: =====
 
+  * **યોહાનનું**
+  * **પસ્તાવો કર્યો**
+  * **પાપો**
+  * **બપ્તિસ્મા પામેલું**
+  * **ધાર્મિક આગેવાન**
+===== ભાષાંતર નોંધ: =====
 
-===== Translation Notes: =====
-
-  * **repented from their sins** - This could also be translated as, "repented concerning their sins" or, "changed their minds about their sins" or, "turned away from their sins."
-  * **did not repent** - That is, "did not turn away from their sins."
-  * **confess their sins** - To confess is to acknowledge that something is true. These leaders did not want to acknowledge that they had sinned. This may be translated as, "confess that they had sinned."
-
-
+  * **તેઓએ તેમના પાપોથી પસ્તાવો કર્યો**  – આ રીતે પણ ભાષાંતર કરી શકાય, “તેઓના પાપોને લાગતો પસ્તાવો કર્યો” અથવા, “તેઓના પાપો પ્રત્યે તેઓનું વલણ બદલાયું” અથવા, “તેઓના પાપોથી તેઓ પાછા ફર્યા.”
+  * **પસ્તાવો કર્યો નહિ**  – તે છે, “તેઓ તેઓના પાપોથી પાછા ન ફર્યા.” તેઓના પાપોની કબુલાત કરી – કબુલાત કરવી એટલે સ્વીકારવું કે કંઈક સાચું છે. આ આગેવાનો સ્વીકારવા નહોતા માંગતા કે તેઓએ પાપ કર્યું છે. આ રીતે ભાષાંતર થશે, “કબુલાત કરી કે તેઓએ પાપ કર્યું છે.”
 **[[:gu:obs:notes:frames:24-02|<<]] | [[:gu:obs:notes:24|Up]] | [[:gu:obs:notes:frames:24-04|>>]]**
