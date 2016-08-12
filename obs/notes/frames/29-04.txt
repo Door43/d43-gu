@@ -1,21 +1,18 @@
-===== The Debt Is Canceled [29-04] =====
+===== દેવું નાબૂદ થયું [29-04] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-04.jpg?nolink&}}
 
-“The **servant fell on his knees before the king** and said, ‘Please be patient with me, and I will pay the full amount that I owe you.’ The king **felt pity** for the servant, so he **canceled all of his debt** and let him go.”
-===== Important Terms: =====
+“સેવક રાજાની સામે ઘુંટણે પડ્યો અને કહ્યું, મહેરબાની કરીને ધીરજ રાખો, અને હું તમારી પાસેથી લીધેલી પૂરી રકમ ચૂકવી દઈશ. રાજાને સેવક ઉપર દયા આવી, તેથી તેણે તેનું બધું દેવું નાબૂદ કર્યું અને તેને જવા દીધો.”
 
-  * **[[:gu:obe:other:servant]]**
-  * **[[:gu:obe:other:king]]**
+===== મહત્વના શબ્દો: =====
 
+  * **સેવક**
+  * **રાજા**
+===== ભાષાંતર નોંધ: =====
 
-===== Translation Notes: =====
-
-  * (Jesus continues the story.)
-  * **fell on his knees** - That is, "quickly knelt down on the ground." This was a way to show his humility and his desire for the king to help him. Make sure it doesn't sound like he fell down accidentally.
-  * **before the king** - This means, "in front of the king."
-  * **felt pity** - That is, "felt compassion for" or, "felt sorry for." The king knew that the servant and his family would suffer greatly if they were sold into slavery.
-  * **canceled all of his debt** - This can be translated as, "said that the servant did not need to pay back any of the money that he owed the king."
-
-
+  * **(ઈસુએ વાર્તા કહેવાનું ચાલુ રાખ્યું.)**
+  * **તેના ઘુંટણે પડ્યો**  – તે છે, “તરત જ જમીન ઉપર ઘુંટણે પડ્યો.” આ તેની માણસાય અને રાજા તરફથી મદદની આશા દર્શાવે છે. ધ્યાન રાખો કે આનો અર્થ એવો ન થાય કે તે આકસ્મિક રીતે પડી ગયો.
+  * **રાજાની સામે **– આનો અર્થ છે, “રાજાની સામે.”
+  * **દયા આવવી **– તે છે, “દયા અનુભવવી” અથવા, “દિલગીરી અનુભવવી.” રાજા જાણતો હતો કે જો તેઓ ગુલામ તરીકે વેચાય જશે તો ખુબ જ દુ:ખ વેઠવું પડશે.
+  * **તેનું બધું જ દેવું નાબૂદ કર્યું **– આ રીતે ભાષાંતર થાય, “તેણે રાજા પાસેથી લીધેલાં પૈસા હવે સેવકને ચુકવવાની જરૂર ન હતી.”
 **[[:gu:obs:notes:frames:29-03|<<]] | [[:gu:obs:notes:29|Up]] | [[:gu:obs:notes:frames:29-05|>>]]**
