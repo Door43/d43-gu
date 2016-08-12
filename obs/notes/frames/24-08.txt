@@ -1,21 +1,18 @@
-===== You Are My Beloved Son [24-08] =====
+===== તું મારો પ્રિય પુત્ર છે [24-08] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-08.jpg?nolink&}}
 
-When **Jesus** came up out of the water after being **baptized**, the **Spirit of God appeared in the form of a dove** and came down and rested on him. At the same time, God's voice spoke from **heaven**, saying, “You are **my Son whom I love**, and I am very pleased with you.”
-===== Important Terms: =====
+જયારે ઈસુ બાપ્તિસમા પછી પાણીની બહાર આવ્યા, ત્યારે દેવનો આત્મા કબૂતરના રૂપમાં પ્રગટ થયો અને તેમની ઉપર આવીને બેઠો. તે જ સમયે, સ્વર્ગમાંથી દેવનો અવાજ આવ્યો, કહ્યું, તું મારો પુત્ર છે જેની ઉપર હું પ્રેમ રાખું છું, અને હું તારાથી ખુબજ પ્રસન્ન છું.”
 
-  * **[[:gu:obe:kt:jesus]]**
-  * **[[:gu:obe:kt:baptize]]**
-  * **[[:gu:obe:kt:holyspirit]]**
-  * **[[:gu:obe:kt:heaven]]**
-  * **[[:gu:obe:kt:sonofgod]]**
-  * **[[:gu:obe:kt:love]]**
+===== મહત્વના શબ્દો: =====
 
+  * **ઈસુ**
+  * **બપ્તિસમા પામેલું**
+  * **દેવનો આત્મા**
+  * **સ્વર્ગ**
+  * **દીકરો**
+  * **પ્રેમ**
+===== ભાષાંતર નોંધ: =====
 
-===== Translation Notes: =====
-
-  * **my Son whom I love** - Make sure the translation of this does not sound like there was another son. It may be necessary to say, "You are my Son. I love you very much and am very pleased with you."
-
-
+  * **મારો પુત્ર જેને હું પ્રેમ કરું છું**  – ધ્યાન રાખો કે આ ભાષાંતર નો અર્થ તેવો ન થાય કે ત્યાં બીજો પણ પુત્ર હતો. તેમ કહેવું જરૂરી છે, “તું મારો પુત્ર છે. હું તને ખુબજ પ્રેમ કરું છું અને હું તારાથી ખુબજ પ્રસન્ન છું,”
 **[[:gu:obs:notes:frames:24-07|<<]] | [[:gu:obs:notes:24|Up]] | [[:gu:obs:notes:frames:24-09|>>]]**
