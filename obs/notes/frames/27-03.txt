@@ -1,17 +1,14 @@
-===== Who Is My Neighbor? [27-03] =====
+===== મારો પાડોશી કોણ છે? [27-03] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-03.jpg?nolink&}}
 
-But the **law expert** wanted to prove that he was **righteous**, so he asked, “**Who is my neighbor**?”
-===== Important Terms: =====
+પણ કાયદાનો નિપુણ એવું સાબિત કરવા માંગતો હતો કે તે ધર્મી છે, તેથી તેણે પૂછ્યું, “મારો પાડોશી કોણ છે?”
 
-  * **[[:gu:obe:kt:righteous]]**
+===== મહત્વના શબ્દો: =====
 
+  * **ધર્મી**
+===== ભાષાંતર નોંધ: =====
 
-===== Translation Notes: =====
-
-  * **law expert** - That is, "an expert in the Jewish law." See how you translated this term in **[[:gu:obs:notes:frames:27-01|[27-01]]]**.
-  * **Who is my neighbor?** - This could also be translated as, "What do you mean by 'neighbor'?" or, "Which people are my neighbors?" He knew that he did not love everyone, and was asking which people he needed to love.
-
-
+  * **કાયદાનો નિપુણ **– તે છે, “યહૂદી કાયદામાં નિપુણ.” જુઓ નોંધ:માળખું:[27-01]
+  * **મારો પાડોશી કોણ છે? **– આ રીતે પણ ભાષાંતર થાય, “’પાડોશી’ એટલે તમારો શો અર્થ છે?” અથવા, “ક્યા લોકો મારા પાડોશી છે?” તે જાણતો હતો કે તે દરેક લોકોને પ્રેમ નહોતો કરતો, અને પૂછતો હતો કે તેને ક્યા લોકોને પ્રેમ કરવાની જરૂર છે.
 **[[:gu:obs:notes:frames:27-02|<<]] | [[:gu:obs:notes:27|Up]] | [[:gu:obs:notes:frames:27-04|>>]]**
