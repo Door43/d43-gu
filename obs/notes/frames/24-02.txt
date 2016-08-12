@@ -1,21 +1,18 @@
-===== A Call to Repent [24-02] =====
+===== પસ્તાવો કરવા માટે બોલાવવું [24-02] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-02.jpg?nolink&}}
 
-Many people came out to the **wilderness** to listen to **John**. He **preached** to them, saying, “**Repent**, for **the kingdom of God is near**!”
-===== Important Terms: =====
+રણમાં ઘણા લોકો યોહાનાને સંભાળવા માટે બહાર આવ્યા. તે પ્રવચન આપવા લગ્યો, કહેવા લાગ્યો, “પસ્તાવો કરો, કેમકે દેવનું રાજ્ય નજીક છે.”
 
-  * **[[:gu:obe:other:johnthebaptist]]**
-  * **[[:gu:obe:other:preach]]**
-  * **[[:gu:obe:kt:repent]]**
-  * **[[:gu:obe:kt:kingdomofgod]]**
+===== મહત્વના શબ્દો: =====
 
+  * **યોહાન**
+  * **પ્રચાર કર્યો**
+  * **પસ્તાવો**
+  * **દેવનું રાજ્ય**
+===== ભાષાંતર નોંધ: =====
 
-===== Translation Notes: =====
-
-  * **wilderness** - See how you translated this word in **[[:gu:obs:notes:frames:24-01|[24-01]]]**.
-  * **Repent** - It might be better to say, "Repent from your sins."
-  * **the kingdom of God is near** - That is, "the kingdom of God is ready to appear" or, "the kingdom of God will arrive soon." This refers to God's ruling over people. This can also be translated as, "God's reign is about to begin" or, "God will soon rule over us as king."
-
-
+  * **રણ**  – જુઓ નોંધ:માળખું:[24-01]
+  * **પસ્તાવો**  – આ કહેવું વધારે સારું રહેશે, “તમારાં પાપનો પસ્તાવો.”
+  * **દેવનું રાજ્ય નજીક છે**  – તે છે, ખરેખર દેવનું રાજ્ય પ્રગટ થવાનું છે” અથવા, “ખુબજ જલ્દી દેવનું રાજ્ય આવશે.” આ લોકો ઉપર દેવના શાસનને દર્શાવે છે. આ રીતે પણ ભાષાંતર થઈ શકે, “દેવનું શાશન આવવાની તૈયારીમાં છે” અથવા, “ખુબજ જલ્દી દેવ એક રાજાની જેમ આપણી ઉપર શાશન કરશે.”
 **[[:gu:obs:notes:frames:24-01|<<]] | [[:gu:obs:notes:24|Up]] | [[:gu:obs:notes:frames:24-03|>>]]**
