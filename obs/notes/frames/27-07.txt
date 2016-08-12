@@ -1,21 +1,18 @@
-===== The Levite [27-07] =====
+===== લેવીઓ [27-07] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-07.jpg?nolink&}}
 
-“Not long after that, a Levite **came down the road**. (**Levites were a tribe of Jews** who helped the **priests** at the Temple.) The Levite also crossed over to the other side of the road and **ignored** the man who had been robbed and beaten.”
-===== Important Terms: =====
+“ત્યાર પછી તરત, એક લેવી રસ્તા પરથી પસાર થયો. (લેવીઓ યહૂદીઓનું કુળ હતું જે મંદિરમાં યાજકોની મદદ કરતા હતા.) લેવી પણ રસ્તાની બીજી બાજુએ જતો રહ્યો અને લુંટાએલા અને માર ખાધેલા વ્યક્તિની અવજ્ઞા કરી.
 
-  * **[[:gu:obe:other:jew]]**
-  * **[[:gu:obe:kt:priest]]**
-  * **[[:gu:obe:kt:temple]]**
+===== મહત્વના શબ્દો: =====
 
+  * **યહૂદી**
+  * **યાજકો**
+  * **મંદિર**
+===== ભાષાંતર નોંધ: =====
 
-===== Translation Notes: =====
-
-  * (Jesus continues to tell the story.)
-  * **came down the road** - That is, "was traveling down that same road."
-  * **Levites were a tribe of Jews** - That is, "Levites were from the Israelite tribe of Levi" or, "Levites were from the Israelite clan of Levi."
-  * **ignored** - That is, "did not help."
-
-
+  * **(ઈસુએ વાર્તા કહેવાનું ચાલુ રાખ્યું.)**
+  * **રસ્તા પરથી પસાર થવું –**  તે છે, “તેજ રસ્તા પરથી યાત્રા કરી રહ્યો હતો.”
+  * **લેવીઓ યહૂદીઓનું એક કુળ હતા **– તે છે, “લેવીઓ ઇસ્રાએલના લેવી કુળના હતા” અથવા, “લેવીઓ ઇસ્રાએલની લેવી જાતિના હતા.”
+  * **અવજ્ઞા કરવી –**  તે છે, “મદદ ન કરવી.”
 **[[:gu:obs:notes:frames:27-06|<<]] | [[:gu:obs:notes:27|Up]] | [[:gu:obs:notes:frames:27-08|>>]]**
