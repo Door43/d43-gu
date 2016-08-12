@@ -1,24 +1,21 @@
-===== The Wicked Servant [29-08] =====
+===== દુષ્ટ સેવક [29-08] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-08.jpg?nolink&}}
 
-“The **king called the servant** and said, ‘You wicked servant! I **forgave** your debt because you **begged me**. **You should have done the same**.’ The king was so angry that he **threw** the **wicked** servant into prison until he could pay back all of his debt.”
-===== Important Terms: =====
+“રાજાએ સેવકને બોલાવ્યો અને કહ્યું, દુષ્ટ સેવક! મેં તારું દેવું માફ કર્યું કારણકે તે આજીજી કરી હતી. તારે તેવુંજ કરવાની જરૂર હતી. રાજા ખૂબજ ગુસ્સે થયો અને દુષ્ટ સેવકને જ્યાં સુધી તે પોતાનું દેવું પાછું ન ચૂકવે ત્યાં સુધી જેલમાં ફેંકી દીધો.”
 
-  * **[[:gu:obe:other:king]]**
-  * **[[:gu:obe:other:servant]]**
-  * **[[:gu:obe:kt:forgive]]**
-  * **[[:gu:obe:other:beg]]**
-  * **[[:gu:obe:kt:evil]]**
+===== મહત્વના શબ્દો: =====
 
+  * **રાજા**
+  * **સેવક**
+  * **માફ કર્યું**
+  * **ભીખ મંગાવી**
+  * **દુષ્ટ**
+===== ભાષાંતર નોંધ: =====
 
-===== Translation Notes: =====
-
-  * (Jesus continues the story.)
-  * **called the servant** - That is, "commanded the servant to come to him" or, "ordered his guards to bring the servant to him."
-  * **begged me** - This could be translated as, "pleaded with me" or, "urgently asked me to be merciful."
-  * **You should have done the same** - That is, "You should have forgiven the man who owed you, just as I forgave you."
-  * **threw** - That is, "commanded his guards to put." Consider how "threw" was translated in frame **[[:gu:obs:notes:frames:29-06|[29-06]]]**.
-
-
+  * **(ઈસુએ વાર્તા કહેવાનું ચાલુ રાખ્યું.)**
+  * **સેવકને બોલાવ્યો **– તે છે, “સેવકને આજ્ઞા કરી કે તે તેની પાસે આવે” અથવા, “તેના રક્ષકોને અજ્ઞા આપી કે તે સેવકને તેની પાસે લાવે.”
+  * **આજીજી કરી **– આ રીતે ભાષાંતર થાય, “મારી સામે આજીજી કરી” અથવા, “મને દયાળું બનવાની આજીજી કરી.”
+  * **તારે તેવુંજ કરવાની જરૂર હતી **– તે છે, “જે વ્યક્તિએ તારી પાસેથી પૈસા લીધા હતા તેન તારે માફ કરવાની જરૂર હતી, જેવી રીતે મે તને માફ કર્યો હતો.”
+  * **ફેંકવું –**  તે છે, “તેના રક્ષકોને પુરવાની આજ્ઞા આપી.” જુઓ નોંધ:માળખું:[29-06]
 **[[:gu:obs:notes:frames:29-07|<<]] | [[:gu:obs:notes:29|Up]] | [[:gu:obs:notes:frames:29-09|>>]]**
