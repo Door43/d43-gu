@@ -1,23 +1,20 @@
-===== God Spoke to Zechariah [22-01] =====
+===== દેવે ઝખાર્યા સાથે વાત કરી [22-01] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-22-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-22-01.jpg?nolink&}}
 
-In the past, **God** had spoken to **his people** through his **angels** and **prophets**. But then **400 years went by when he did not speak to them**. Suddenly an angel came with a message from God to an old **priest** named **Zechariah**. Zechariah and his wife, Elizabeth, were **godly people**, but she had not been able to have any children.
-===== Important Terms: =====
+ભૂતકાળમાં, દેવે સ્વર્ગદૂત અને પ્રબોધકો દ્વારા પોતાના લોકો સાથે વાત કરી હતી. પણ પછી ૪૦૦ વર્ષો સુધી તેમણે કોઈ સાથે વાત નહોતી કરી. અચાનકજ એક સ્વર્ગદૂત દેવનો સંદેશો લઈને ઝખાર્યા નામના યાજક પાસે આવ્યો. ઝખાર્યા અને તેની પત્ની, એલિસાબેત, દેવના લોકો હતા, પણ તેઓને કોઈ સંતાન ન હતું.
 
-  * **[[:gu:obe:kt:god]]**
-  * **[[:gu:obe:kt:angel]]**
-  * **[[:gu:obe:kt:prophet]]**
-  * **[[:gu:obe:kt:priest]]**
-  * **[[:gu:obe:other:zechariahnt]]**
+===== મહત્વના શબ્દો: =====
 
+  * **દેવ**
+  * **સ્વર્ગદૂત**
+  * **પ્રબોધકો**
+  * **યાજક**
+  * **ઝખાર્યા**
+===== ભાષાંતર નોંધ: =====
 
-===== Translation Notes: =====
-
-  * **his people** - This could be translated as, "his people, the Israelites" or "his people, the Jews." But only include the added information if it is not clearly understood who these people were.
-  * **400 years went by** - Another way to say this would be, "400 years passed" or "there were 400 years." 400 years had passed since the last Old Testament prophet, Malachi.
-  * **when he did not speak to them** - That is, "during which God did not give any messages to the prophets for his people."
-  * **godly people** - That is, "people who obeyed God."
-
-
+  * **તેના લોકો**  – આ રીતે ભાષાંતર થાય, “તેના લોકો, ઇસ્રાએલીઓ” અથવા “તેના લોકો, યહૂદીઓ.” પણ જો તેઓ કોણ છે તે ન સમજાય તો થોડીક માહિતી ઉમેરવી.
+  * **૪૦૦ વર્ષ વીતી ગયા**  – બીજી રીતે કહીએ તો, “૪૦૦ વર્ષ વીતી ગયા” અથવા “ત્યાં ૪૦૦ વર્ષો હતા.” જુના કરારના છેલ્લા પ્રબોધક માલાખી પછીના ૪૦૦ વર્ષ.
+  * **જયારે તેણે કોઈની સાથે વાત ન કરી**  – તે છે, “જે દરમ્યાન દેવે તેના લોકો માટે પ્રબોધાકને કોઈ સંદેશ નહોતો આપ્યો.”
+  * **દેવના લોકો**  – તે છે, “લોકો જે દેવની આજ્ઞાનું પાલન કરતા હતા.”
 **[[:gu:obs:notes:frames:21-15|<<]] | [[:gu:obs:notes:22|Up]] | [[:gu:obs:notes:frames:22-02|>>]]**
