@@ -1,24 +1,21 @@
-===== Jesus in Nazareth [26-02] =====
+===== ઈસુ નાઝરેથમાં [26-02] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-02.jpg?nolink&}}
 
-**Jesus** went to the town of **Nazareth** where he had lived during his childhood. On the **Sabbath**, he went to the **place of worship**. They handed him the **scroll of the prophet Isaiah** so that he would read from it. Jesus **opened up the scroll** and read part of it to the people.
-===== Important Terms: =====
+ઈસુ નાઝરેથના નગરમાં ગયા જ્યાં બાળપણના સમયમાં તે રહેતા હતા. સાબ્બાથના દિવસે, તે આરાધનાલયમાં ગયા. તેઓએ તેમને યશાયા પ્રબોધાકનું ઓળિયું આપ્યું જેથી તે તેમાંથી વાંચી શકે. ઈસુએ ઓળિયું ખોલ્યું અને લોકો સામે તેનો એક ભાગ વાંચ્યો.
 
-  * **[[:gu:obe:kt:jesus]]**
-  * **[[:gu:obe:other:nazareth]]**
-  * **[[:gu:obe:kt:sabbath]]**
-  * **[[:gu:obe:kt:worship]]**
-  * **[[:gu:obe:kt:prophet]]**
-  * **[[:gu:obe:other:isaiah]]**
+===== મહત્વના શબ્દો: =====
 
+  * **ઈસુ**
+  * **નાઝાર**
+  * **સાબ્બાથ**
+  * **આરાધના**
+  * **પ્રબોધક**
+  * **યશાયા**
+===== ભાષાંતર નોંધ: =====
 
-===== Translation Notes: =====
-
-  * **place of worship** - That is, "the building where the Jews gathered to worship God." This can also be translated as, "worship building."
-  * **scroll** - A scroll was a long sheet of paper or leather that was rolled up and had writing on it.
-  * **the scroll of the prophet Isaiah** - That is, "the scroll that had the words that the prophet Isaiah had written." Isaiah had written on a scroll hundreds of years before. This was a copy of that scroll.
-  * **opened up the scroll** - This could be translated as, "rolled open the scroll" or, "unrolled the scroll."
-
-
+  * **આરાધનાલય**  – તે છે, “ઈમારત જ્યાં યહૂદીઓ દેવની આરાધના કરવા માટે ભેગા થતા હતા.” આ રીતે પણ ભાષાંતર થઈ શકે, “આરાધના કરવાની ઈમારત.”
+  * **ઓળિયું**  – ઓળિયું એ કાગળ અથવા ચામડાનો લાંબો પટ્ટો હોય છે જેની ઉપર લખવામાં આવે છે અને તેને વાળીને રાખવામાં આવે છે.
+  * **યશાયા પ્રબોધાકાનું ઓળિયું**  – તે છે, “ઓળિયામાં તે શબ્દો હતા જે યશાયા પ્રબોધાકે લખ્યા હતા.” યશાયાએ સેંકડો વર્ષો પહેલા ઓળિયા ઉપર લખ્યું હતું. આ તે ઓળિયાની નકલ હતી.
+  * **ઓળિયાને ખોલ્યું**  – આ રીતે ભાષાંતર થશે, “ઓળિયાના ભૂંગળાને ખોલવું” અથવા, “ઓળિયાને ખોલવું.”
 **[[:gu:obs:notes:frames:26-01|<<]] | [[:gu:obs:notes:26|Up]] | [[:gu:obs:notes:frames:26-03|>>]]**
