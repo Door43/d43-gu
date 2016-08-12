@@ -1,21 +1,19 @@
-===== Jesus Taught and Healed People [30-03] =====
+===== ઈસુએ ઉપદેશ આપ્યો અને લોકોને સાજા કર્યાં [30-03] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-03.jpg?nolink&}}
 
-The crowd had over 5,000 men in it, **not counting the women and children**. **Jesus** felt great compassion towards the people. **To Jesus**, these people were **like sheep without a shepherd**. So he taught them and **healed** the people among them who were sick.
-===== Important Terms: =====
+ભીડ તો ૫૦૦૦ થી વધુ માણસોની હતા, સ્ત્રીઓ અને બાળકોને ગણ્યાં વગર. ઈસુને લોકો માટે ખુબ જ કરુણા ઉપજી. ઈસુ માટે, આ લોકો ઘેટાં પાળક વગરનાં હતા. તેથી, તેઓને ઉપદેશ આપ્યો અને તેમની વચ્ચે જે લોકો બીમાર હતા તેમને સાજા કાર્યા .
 
-  * **[[:gu:obe:kt:jesus]]**
-  * **[[:gu:obe:other:sheep]]**
-  * **[[:gu:obe:other:shepherd]]**
-  * **[[:gu:obe:other:heal]]**
+===== મહત્વપૂર્ણ શબ્દો: =====
 
+  * **ઈસુ**
+  * **ઘેટાં**
+  * **ભરવાડ**
+  * **સાજો****કરવો**
+===== અનુવાદ નોંધો: =====
 
-===== Translation Notes: =====
-
-  * **not counting the women and children** - That is, "not counting the women and children who were with them" or, "and there were also women and children in addition to the men." Another way to translate this could also be, "in addition, there were many women and children."
-  * **To Jesus** - That is, "Jesus knew that" or, "Jesus understood that."
-  * **like sheep without a shepherd** - This could be translated as, "vulnerable and lost, just like sheep are when they have no shepherd to take care of them."
-
-
+  * **સ્ત્રીઓ અને બાળકોની ગણતરી વગર**
+ - એટલે કે, "સ્ત્રીઓ અને બાળકો જે તેઓની સાથે હતા એમની ગણતરી કરી નથી" અથવા, "અને ત્યાં પણ સ્ત્રીઓ અને પુરૂષો ઉપરાંત બાળકો હતા." બીજી રીતનું ભાષાંતર આ પણ હોઈ શકે છે, "વધુમાં, ઘણી સ્ત્રીઓ અને બાળકો હતા."
+  * **ઈસુ માટે **- એટલે કે, "ઈસુ જાણતા હતા" અથવા, "ઈસુ તે સમજતા હતા."
+  * **ઘેટાં પાળક વગરનાં જેવા** - આ, આવી રીતે અનુવાદ કરી શકાય "નિર્બળ અને ભટકી ગયેલા ઘેટાંની જેમ, જાણે કે તેઓની કાળજી લેવા માટે કોઈ ભરવાડ જ ન હોય."
 **[[:gu:obs:notes:frames:30-02|<<]] | [[:gu:obs:notes:30|Up]] | [[:gu:obs:notes:frames:30-04|>>]]**
