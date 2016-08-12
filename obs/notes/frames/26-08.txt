@@ -1,18 +1,17 @@
-===== Jesus Healed the Sick [26-08] =====
+===== ઈસુએ માંદાઓને સાજા કર્યા [26-08] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-08.jpg?nolink&}}
 
-Then **Jesus went throughout the region of Galilee**, and large crowds came to him. They brought many people who were sick or handicapped, including those who could not see, walk, hear, or speak, and Jesus **healed** them.
-===== Important Terms: =====
+T
 
-  * **[[:gu:obe:kt:jesus]]**
-  * **[[:gu:obe:other:galilee]]**
-  * **[[:gu:obe:other:heal]]**
+પછી ઈસુ ગાલીલના પ્રદેશમાં થઈને ગયો, અને મોટું ટોળું તેની પાસે આવ્યું. તેઓ ઘણા લોકોને લઈને આવ્યા જે બીમાર હત કે અપંગ હતા, જેમાં જોઈ નહોતા શકતા, ચાલી નહોતા શકતા, સાંભળી નહોતા શકતા, કે બોલી નહોતા શકતા તેવા લોકો સમાવેશ થાય છે, અને ઈસુએ તેઓને સાજા કર્યા.
 
+===== મહત્વના શબ્દો: =====
 
-===== Translation Notes: =====
+  * **ઈસુ**
+  * **ગાલીલ**
+  * **સાજપણું મળ્યું**
+===== ભાષાંતર નોંધ: =====
 
-  * **went throughout the region of Galilee** - That is, "all around in Galilee" or, "from place to place in Galilee."
-
-
+  * **ગાલીલના પ્રદેશમાંથી ગયો**  – તે છે, “ગાલીલની ફરતે” થવા, “ગાલીલની જગ્યાએ જગ્યાએ.”
 **[[:gu:obs:notes:frames:26-07|<<]] | [[:gu:obs:notes:26|Up]] | [[:gu:obs:notes:frames:26-09|>>]]**
