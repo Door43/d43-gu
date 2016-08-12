@@ -1,27 +1,24 @@
-===== Preparing the Way [24-04] =====
+===== રસ્તો તૈયાર કર્યો [24-04] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-04.jpg?nolink&}}
 
-**John** said to the **religious leaders**, “**You poisonous snakes**! **Repent** and change your behavior. **Every tree that does not bear good fruit will be cut down and thrown into the fire**.” **John fulfilled** what the **prophets** said, “**See**, I send **my messenger ahead of you**, who will **prepare your way**.”
-===== Important Terms: =====
+યોહને ધાર્મિક આગેવાનોને કહ્યું, “હે ઝેરી સર્પો! પસ્તાવો કરો અને તમારો સ્વભાવ બદલો. દરેક વૃક્ષ જે સારા ફાળો નથી આપતા તેને કાપી નાખવામાં આવશે અને અગ્નિમાં ફેંકી દેવામાં આવશે. પ્રબોધાકોએ જે કહ્યું હતું તે યોહને પૂરું કર્યું, “જુઓ, હું તારી આગળ મારા સંદેશાવાહાકને મોકલીશ, જે તારો રસ્તો તૈયાર કરશે.”
 
-  * **[[:gu:obe:other:johnthebaptist]]**
-  * **[[:gu:obe:other:jewishleaders]]**
-  * **[[:gu:obe:kt:repent]]**
-  * **[[:gu:obe:kt:fulfill]]**
-  * **[[:gu:obe:kt:prophet]]**
+===== મહત્વના શબ્દો: =====
 
+  * **યોહન**
+  * **ધાર્મિક આગેવાન**
+  * **પસ્તાવો**
+  * **પૂરું થયું**
+  * **પ્રબોધક**
+===== ભાષાંતર નોંધ: =====
 
-===== Translation Notes: =====
-
-  * **You poisonous snakes** - This could be translated as, "You are like lying poisonous snakes!" John was calling them poisonous snakes because they were dangerous and deceptive.
-  * **Every tree that does not bear good fruit** - John is not really talking about trees. This is an expression that compares good fruit to good actions and attitudes that come from God.
-  * **will be cut down and thrown into the fire** - This means, "will be judged and punished by God."
-  * **John fulfilled** - That is, "John was doing" what the prophet said God's messenger would do.
-  * **See** - This could be translated as "Look and see" or, "Pay attention!"
-  * **my messenger** - That is, "I, Yahweh, will send my messenger." In some languages it would be more natural to use an indirect quote for this sentence, such as: "what the prophet Isaiah predicted when he said that God would send his messenger."
-  * **ahead of you** - In this phrase, the word "you" refers to the Messiah.
-  * **prepare your way** - God's messenger will prepare the people to listen to the Messiah.
-
-
+  * **હે ઝેરી સર્પો **– આ રીતે પણ ભાષાંતર થાય, “તમે જુઠ્ઠા ઝેરી સર્પો છો!” યોહને તેઓને ઝેરી સર્પો કહ્યા કારણકે તેઓ ખતરનાક અને છેતરપીંડી કરનારા હતા.
+  * **દરેક વૃક્ષ જે સારા ફાળો નથી આપતું**  – યોહન ખરેખર વૃક્ષ વિષે વાત નહોતો કરતો. આ એક ભાવ છે જેમાં સારા ફળોની સરખામણી દેવ તરફથી આવતા સારા વલણ સાથે થાય છે.
+  * **તેને કાપી નાખવામાં આવશે અને અગ્નિમાં ફેંકી દેવામાં આવશે**  – તેનો અર્થ છે, “તેનો ન્યાય થશે અને દેવ તરફથી સજા પામશે.”
+  * **યોહને પૂરું કર્યું **– તે છે, પ્રબોધાકોએ જે દેવના સંદેશામાં કહ્યું હતું તે “યોહન કરતો હતો.”
+  * **જુઓ **– આ રીતે ભાષાંતર થશે “નજર કરો અને જુઓ” અથવા “ધ્યાન આપો!”
+  * **મારો સંદેશાવાહક **– તે છે, “હું, યહોવા, મારા સંદેશાવાહકને મોકલીશ.” કેટલીક ભાષાઓમાં આ વાક્ય માટે પરોક્ષ રીત વાપરવી વધારે અનુકુળ રહેશે, જેમ કે: “યશાયા પ્રબોધાકે ભવિષ્યવાણી કરી હતી જયારે તેને કહ્યું હતું કે દેવ તેનો સંદેશાવાહક મોકલાશે.”
+  * **તારી આગળ**  – આ વાક્યમાં “તારી” શબ્દ મસીહાને દર્શાવે છે.
+  * **તારો રસ્તો તૈયાર કરશે **– દેવનો સંદેશાવાહક મસીહાને સંભાળવા માટે લોકોને તૈયાર કરશે.
 **[[:gu:obs:notes:frames:24-03|<<]] | [[:gu:obs:notes:24|Up]] | [[:gu:obs:notes:frames:24-05|>>]]**
