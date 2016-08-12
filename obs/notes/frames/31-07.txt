@@ -1,24 +1,20 @@
-====== Peter Sank [31-07] ======
+====== પીતર ડુબ્યો [31-07] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-07.jpg?nolink&}}
 
-Then **Peter** became afraid and began to sink in the water. He cried out, “**Master**, **save** me!” **Jesus** reached out right away and grabbed him. Then he said to Peter, “**You man of little faith**, **why did you doubt**?”
+પછી પીતર ભયભીત બની ગયો અને પાણીમાં ડૂબવા લાગ્યો. તેમણે બુમ પાડી, "સ્વામી, મને બચાવ! " ઈસુ અધિકાર સહિત એની પાસે પહોંચી અને તેને પકડી લીધો. પછી તેણે પિતરને કહ્યું, "તું અલ્પવિશ્વાસી માણસ છે, શા માટે તે શંકા કરી? "
 
+===== મહત્વપૂર્ણ શબ્દો: =====
 
-===== Important Terms: =====
+  * **પીતર**
+  * **સ્વામી**
+  * **બચાવ**
+  * **ઈસુ**
+  * **વિશ્વાસ**
+===== અનુવાદ નોંધો: =====
 
-  * **[[:gu:obe:other:peter]]**
-  * **[[:gu:obe:kt:lord]]**
-  * **[[:gu:obe:kt:save]]**
-  * **[[:gu:obe:kt:jesus]]**
-  * **[[:gu:obe:kt:faith]]**
-
-
-===== Translation Notes: =====
-
-  * **You man of little faith** - This may also be translated as, "You have so little faith in me!" or, "You do not trust me very much!"
-  * **why did you doubt?** - That is, "You should not have doubted me!" or, "You should have trusted me completely." This isn't a real question, but a way in this language to make a strong point. In many languages, it works better to express this as a statement.
-
-  
+  * **તું અલ્પવિશ્વાસી માણસ** – આવી રીતે પણ અનુવાદ કરી શકાય છે, "તને મારા ઉપર ખૂબ જ અલ્પ વિશ્વાસ છે!" અથવા, "તને મારા ઉપર વધારે વિશ્વાસ નથી!"
+  * **શા માટે શંકા કરી?**
+ - એટલે કે, "તને મારા ઉપર શંકા ન થવી જોઈતી હતી!" અથવા, "તને મારા ઉપર સંપૂર્ણપણે વિશ્વસ રાખવો જોઇતો હતો" આ એક વાસ્તવિક પ્રશ્ન નથી, પરંતુ આ ભાષામાં એક મજબૂત બિંદુ બનાવવા માટેનો એક માર્ગ છે. ઘણી ભાષાઓમાં, તે એક નિવેદન રુપે વ્યક્ત કરવા માટે વધુ સારી રીતે કામ કરે છે.
 
 **[[:gu:obs:notes:frames:31-06|<<]] | [[:gu:obs:notes:31|Up]] | [[:gu:obs:notes:frames:31-08|>>]]**
