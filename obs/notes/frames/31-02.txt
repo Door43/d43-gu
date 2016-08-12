@@ -1,20 +1,17 @@
-===== The Storm [31-02] =====
+===== તોફાન [31-02] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-02.jpg?nolink&}}
 
-**Meanwhile**, the **disciples** were **rowing their boat**, but by late in the night they had only traveled as far as the middle of the lake. They were rowing with **great difficulty** because the wind was blowing hard against them.
-===== Important Terms: =====
+દરમિયાન, શિષ્યો તેમની હોડી ચલાવી રહ્યા હતા, પરંતુ મોડી રાત્રે તેઓ તળાવ મધ્ય સુધી જ માત્ર પહોંચ્યા હતા. તેઓ મહામુશ્કેલી સાથે હલેસા મારી રહ્યા હતા કારણ કે તેમની સામે સખત પવન ફૂંકાતો હતો.
 
-  * **[[:gu:obe:kt:disciple]]**
-  * **[[:gu:obe:other:pray]]**
+===== મહત્વપૂર્ણ શબ્દો: =====
 
+  * **શિષ્યો**
+  * **પ્રાર્થના**
+===== અનુવાદ નોંધો: =====
 
-===== Translation Notes: =====
-
-  * **Meanwhile** - That is, "while Jesus was praying on the mountainside."
-  * **rowing their boat** - The boat had a sail, but it would not have worked when the wind was against them.
-  * **great difficulty** - That is, "much difficulty" or, "a lot of difficulty."
-
-
+  * **દરમિયાન**
+ - એટલે કે, "જ્યારે ઈસુ પહાડ પર પ્રાર્થના કરી રહ્યા હતા."
+  * **તેમના હોડીને હલેસા મારી રહ્યા હતા** – હોડી પર એક સઢ હતી, પરંતુ તે કામ ન કરતી હશે જ્યારે પવન તેમની સામેથી ફુંકાઈ રહ્યો હતો.
+  * **મહામુશ્કેલી ** - એટલે કે, "ખૂબ મુશ્કેલી" અથવા, "ઘણી મુશ્કેલી."
 **[[:gu:obs:notes:frames:31-01|<<]] | [[:gu:obs:notes:31|Up]] | [[:gu:obs:notes:frames:31-03|>>]]**
-
