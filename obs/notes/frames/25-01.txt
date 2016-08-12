@@ -1,25 +1,22 @@
-===== Satan Tempted Jesus [25-01] =====
+===== શેતાને ઈસુનું પરીક્ષણ કર્યું [25-01] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-01.jpg?nolink&}}
 
-Immediately after **Jesus** was **baptized**, **the Holy Spirit led him** out into **the wilderness**, where he **fasted** for **forty days and forty nights**. Then **Satan** came to Jesus and **tempted him to sin**.
-===== Important Terms: =====
+ઈસુના બપ્તિસમા લીધા પછી તરત, પવિત્ર આત્માએ રણ તરફ તેમની દોરવણી કરી, જ્યાં તેમણે ચાળીસ દિવસ અને ચાળીસ રાત સુધી ઉપવાસ કર્યો. પછી શેતાન ઈસુ પાસે આવ્યો અને તેને પાપ કરવા માટે તેનું પરીક્ષણ કર્યું.
 
-  * **[[:gu:obe:kt:jesus]]**
-  * **[[:gu:obe:kt:baptize]]**
-  * **[[:gu:obe:kt:holyspirit]]**
-  * **[[:gu:obe:other:fast]]**
-  * **[[:gu:obe:kt:satan]]**
-  * **[[:gu:obe:kt:tempt]]**
-  * **[[:gu:obe:kt:sin]]**
+===== મહત્વના શબ્દો: =====
 
+  * **ઈસુ**
+  * **બપ્તિસમા પામેલું**
+  * **પવિત્ર આત્મા**
+  * **ઉપવાસ કર્યો**
+  * **શેતાન**
+  * **પરીક્ષણ કર્યું**
+  * **પાપ**
+===== ભાષાંતર નોંધ: =====
 
-===== Translation Notes: =====
-
-  * **the Holy Spirit led him** - That is, "the Holy Spirit guided him" or, "the Holy Spirit prompted him to go."
-  * **the wilderness** - This could also be translated as, "the desert" or, "a remote, barren place with few people." This place probably had very few trees or other plants, so most people would not be able to live there.
-  * **forty days and forty nights** - This means "forty days, both during the day and during the night." Make sure the translation of this phrase does not sound like a period of eighty days.
-  * **tempted him to sin** - Since Jesus did not sin, make sure you use a word that does not imply that Satan succeeded in convincing Jesus to sin. This phrase could also be translated as, "tried to convince him to sin."
-
-
+  * **પવિત્ર આત્માએ તેમની દોરવણી કરી**  – તે છે, “પવિત્ર આત્માએ તેમની આગેવાની કરી” અથવા, “પવિત્ર આત્માએ તેમણે જવા માટે પ્રેરિત કર્યા.
+  * **રણપ્રદેશ**  – આ રીતે પણ ભાષાંતર થાય, “રણ” અથવા, “વેરાન, ઉજ્જડ જગ્યા જ્યાં થોડાક લોકો જ રહે છે.” આ જગ્યાએ લગભગ થોડાક જ વૃક્ષો અને છોડવાઓ હતા, તેથી ઘણા લોકો ત્યાં રહી શકે તેમ ન હતા.
+  * **ચાળીસ દિવસ અને ચાળીસ રાત**  – આનો અર્થ છે, “ચાળીસ દિવસો, દિવસ અને રાત બંને મળીને.” ધ્યાન રાખો કે આ વાક્યનું ભાષાંતર એશી દિવસનો સમય ગાળો એવું ન થાય.
+  * **પાપ કરવા માટે તેનું પરીક્ષણ કર્યું**  – ઈસુએ ક્યારેય પાપ નહોતું કર્યું, ધ્યાન રાખો કે તમે એવા શબ્દનો ઉપયોગ ન કરો કે શેતાન ઈસુને પાપ કરાવવામાં સફળ થયો. આ વાક્યનું આ રીતે પણ ભાષાંતર થાય, “તેને પાપ કરવા માટે મનાવવાની કોશીશ.”
 **[[:gu:obs:notes:frames:24-09|<<]] | [[:gu:obs:notes:25|Up]] | [[:gu:obs:notes:frames:25-02|>>]]**
