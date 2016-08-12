@@ -1,20 +1,16 @@
-===== The King Heard [29-07] =====
+===== રાજાએ સાંભળ્યું [29-07] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-07.jpg?nolink&}}
 
-“Some other **servants** saw **what had happened** and **were greatly disturbed**. They went to the **king** and told him **everything**.”
-===== Important Terms: =====
+“કેટલાક બીજા સેવકોએ જે થયું તે જોયું અને તેઓ ખુબજ ચિન્ત થઈ. તેઓ રાજા પાસે ગયા અને તેને બધુંજ કહ્યું.
 
-  * **[[:gu:obe:other:servant]]**
-  * **[[:gu:obe:other:king]]**
+===== મહત્વના શબ્દો: =====
 
+  * **સેવકો**
+  * **રાજા**
+===== ભાષાંતર નોંધ: =====
 
-===== Translation Notes: =====
-
-  * (Jesus continues the story.)
-  * **what had happened** - That is, "that the servant had refused to cancel the other servant's debt and had put him into prison."
-  * **were greatly disturbed** - That is, "deeply grieved" or, "very distressed."
-  * **everything**–That is, "they told the king what the servant had done to his fellow servant."
-
-
+  * **(ઈસુએ વાર્તા કહેવાનું ચાલું રાખ્યું.)**
+  * **જે થયું હતું **– તે છે, “કે સેવકે બીજા સેવકનું દેવું માફ કરવાની ના પાળી દીધી હતી અને તેને જેલમાં પૂર્યો હતો.”
+  * **ખુબજ ચિંતિત થયા **– તે છે, “ખુદાજ દુ:ખી થયા” અથવા, “ખુબજ પીડા થઈ.” બધુંજ, તે છે, “તેઓએ રાજાને કહ્યું કે સેવકે તેના સાથીદાર સેવક સાથે શું કર્યું હતું.”
 **[[:gu:obs:notes:frames:29-06|<<]] | [[:gu:obs:notes:29|Up]] | [[:gu:obs:notes:frames:29-08|>>]]**
