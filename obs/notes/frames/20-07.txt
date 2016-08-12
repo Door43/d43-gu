@@ -1,25 +1,19 @@
-===== Babylon Destroyed Judah [20-07] =====
+===== બાબિલે યહૂદાનો નાશ કર્યો [20-07] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-07.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-07.jpg?nolink}}
+પણ થોડાક વર્ષો પછી, યહૂદાના રાજાએ બાબિલ વિરુદ્ધ બળવો કર્યો. તેથી, બાબિલના લોકો પાછા આવ્યા અને યહૂદાના રાજ્ય ઉપર આક્રમણ કર્યું. તેઓએ યરુશલેમના શહેર ઉપર કબજો કર્યો, મંદિરનો નાશ કર્યો, અને શહેર અને મંદિરનો બધો ખજાનો લઇ ગયા.
 
-But after a few years, the king of **Judah rebelled** against **Babylon**. So, the Babylonians **came back** and attacked the kingdom of Judah. They **captured the city** of **Jerusalem**, destroyed the **Temple**, and **took away** all the treasures of the city and the Temple.
-===== Important Terms: =====
+===== મહત્વના શબ્દો: =====
 
+  * **યહૂદા**
+  * **બળવો કર્યો**
+  * **બાબિલ**
+  * **યરુશલેમ**
+  * **મંદિર**
+===== ભાષાંતર નોંધ: =====
 
-  * **[[:gu:obe:other:kingdomofjudah]]**
-  * **[[:gu:obe:other:rebel]]**
-  * **[[:gu:obe:other:babylon]]**
-  * **[[:gu:obe:other:jerusalem]]**
-  * **[[:gu:obe:kt:temple]]**
-
-
-==== Translation Notes: ====
-
-
-  * **came back** - This may also be translated as, "returned" or "came to Judah again."
-  * **captured the city** - That is, "took control of the city and the people there."
-  * **took away** - They carried the treasures with them back to Babylon.
-
-
+  * **પાછા આવ્યા**  – આ પણ આ રીતે ભાષાંતર થશે, “પાછું ફરવું” અથવા “યહૂદામાં પાછું ફરવું.”
+  * **શહેર ઉપર કબજો કર્યો**  – તે છે, “શહેર અને તેમાં રહેતા લોકો ઉપર નિયંત્રણ કરવું.”
+  * **લઇ લેવું**  – તેઓ પોતાની સાથે ખજાનો લઈને બાબિલમા પાછા ગયા.
 **[[:gu:obs:notes:frames:20-06|<<]] | [[:gu:obs:notes:20|Up]] | [[:gu:obs:notes:frames:20-08|>>]]**
