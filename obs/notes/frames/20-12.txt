@@ -1,27 +1,23 @@
 ===== Cyrus Sent Judah Home [20-12] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-12.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-12.jpg?nolink}}
+===== કોરેશે યહૂદાને ઘરે મોકલ્યું. =====
 
-The **Persian Empire** was strong but **merciful** to the people it conquered. Shortly after **Cyrus** became king of the Persians, he gave an order that any **Jew** who wanted to **return to Judah** could leave Persia and go back to Judah. He even gave them money to rebuild the **Temple**! So, after seventy years in **exile**, a small group of Jews **returned** to the city of **Jerusalem** in Judah.
-===== Important Terms: =====
+ઈરાનનું રાજ્ય સશક્ત હતું પણ તેને જીતેલા લોકો પ્રત્યર તે દયાળુ હતું. કોરેશ ઈરાનનો રાજા બન્યો તે પછીના ટૂંક સમયમાં, તેણે આદેશ આપ્યો કે જે યહૂદી યહૂદામાં પાછા જવા માંગતા હોય તે ઈરાનને છોડીને પાછો યહૂદા જઈ શકે છે. તેણે મંદિરને ફરીથી બનાવવા માટે પૈસા પણ આપ્યા. તેથી, નિર્વાસિતના સિતેર વર્ષો પછી, યહૂદીઓનું એક નાનું સમૂહ યહૂદાના યરુશલેમ શહેરમાં પાછુ આવ્યું.
 
+===== મહત્વના શબ્દો: =====
 
-  * **[[:gu:obe:kt:mercy]]**
-  * **[[:gu:obe:other:jew]]**
-  * **[[:gu:obe:kt:temple]]**
-  * **[[:gu:obe:other:jerusalem]]**
+  * **દયાળુ**
+  * **યહૂદી**
+  * **મંદિર**
+  * **યરુશલેમ**
+===== ભાષાંતર નોંધ: =====
 
-
-==== Translation Notes: ====
-
-
-  * **Persian Empire** - See how you translated this term in **[[:gu:obs:notes:frames:20-11|[20-11]]]**.
-  * **Cyrus** - See how you translated his name in **[[:gu:obs:notes:frames:20-11|[20-11]]]**.
-  * **Judah** - See the note about Judah in **[[:gu:obs:notes:frames:20-11|[20-11]]]**.
-  * **to return to Judah** - Since most of these Jews were the children and grandchildren of those who left Judah, they had never lived in Judah before. In some languages it might be better to say "to go to Judah."
-  * **exile** - See how you translated this term in **[[:gu:obs:notes:frames:20-09|[20-09]]]**.
-  * **returned** – That is, "went back." Some languages may prefer to say, "went" since most of these people had never been to Jerusalem.
-
-
+  * **ઈરાનનું રાજ્ય **- જુઓ ભાષાંતર નોંધ:માળખું:[20-11]
+  * **કોરેશ**  - જુઓ ભાષાંતર નોંધ:માળખું:[20-11]
+  * **યહૂદા**  - જુઓ ભાષાંતર નોંધ:માળખું:[20-11]
+  * **યહૂદામાં પાછા ફરવું **– આમાંના ઘણા બધા યહૂદીઓ જેમણે યહૂદા છોડી દીધું હતું તેઓના દીકરાઓ તથા પૌત્રો હતા, તેઓ પહેલા ક્યારેય યહૂદામા રહ્યા ન હતા. કેટલીક ભાષાઓ માં “યહૂદામા જવું” એમ કહેવું વધારે સારું રહેશે.
+  * **નિર્વાસિત**  - જુઓ ભાષાંતર નોંધ:માળખું:[20-09]
+  * **પાછા ફરવું**  - તે છે, “પાછા જવું”. કેટલીક ભાષામા આમ કહેવું વધારે સારું છે, “પાછા ગયા” જ્યાં સુધી આમાં થી કેટલાક લોકો ક્યારેય યરુશલેમ ગયા ન હતા.
 **[[:gu:obs:notes:frames:20-11|<<]] | [[:gu:obs:notes:20|Up]] | [[:gu:obs:notes:frames:20-13|>>]]**
