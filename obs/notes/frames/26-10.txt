@@ -1,18 +1,16 @@
-===== The Twelve Disciples [26-10] =====
+===== બાર શિષ્યો [26-10] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-10.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-10.jpg?nolink&}}
 
-Then **Jesus** chose twelve men **who were called his apostles**. The apostles traveled with Jesus and **learned from him**.
-===== Important Terms: =====
+પછી ઈસુએ બાર માણસોની પસંદગી કરી જે પ્રબોધકો કહેવાયા. શિષ્યોએ ઈસુની સાથે યાત્રા કરી અને તેની પાસેથી શીખ્યા.
 
-  * **[[:gu:obe:kt:jesus]]**
-  * **[[:gu:obe:kt:apostle]]**
+===== મહત્વના શબ્દો: =====
 
+  * **ઈસુ**
+  * **પ્રેરિતો**
+===== ભાષાંતર નોંધ: =====
 
-===== Translation Notes: =====
-
-  * **learned from him** - That is, "learned from what he taught them" or, "learned from everything he said and did."
-  * //A Bible story from//  - These references may be slightly different in some Bible translations.
-
+  * **તેની પાસેથી શીખ્યા**  – તે છે, “જે તેને તેઓને શીખવ્યું તેમાંથી શીખ્યા” અથવા, “જે તેણે કહ્યું અને કર્યું તે દરેક માંથી શીખ્યા.”
+  * **બાઈબલની વાર્તા**  - આ સંદર્ભ કેટલાક કેટલાક બાઈબલ ભાષાંતરોમાં અલગ હોઈ શકે છે.
 
 **[[:gu:obs:notes:frames:26-09|<<]] | [[:gu:obs:notes:26|Up]] | [[:gu:obs:notes:frames:27-01|>>]]**
