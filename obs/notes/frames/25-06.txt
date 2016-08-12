@@ -1,22 +1,20 @@
-===== The Third Temptation [25-06] =====
+===== ત્રીજું પરીક્ષણ [25-06] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-06.jpg?nolink&}}
 
-Then **Satan** showed **Jesus** all the **kingdoms of the world** and all **their glory** and said, “**I will give you all this** if you bow down and **worship** me.”
-===== Important Terms: =====
+પછી શેતાને ઈસુને જગતનું આખું રાજ્ય અને તેની મહિમા બતાવી અને કહ્યું, “જો તું મારી સામે જુકીને મારી આરાધના કરે તો આ બધું હું તને આપીશ.”
 
-  * **[[:gu:obe:kt:satan]]**
-  * **[[:gu:obe:kt:jesus]]**
-  * **[[:gu:obe:other:kingdom]]**
-  * **[[:gu:obe:kt:glory]]**
-  * **[[:gu:obe:kt:worship]]**
+===== મહત્વના શબ્દો: =====
 
+  * **શેતાન**
+  * **ઈસુ**
+  * **રાજ્ય**
+  * **મહિમા**
+  * **આરાધના**
+===== ભાષાંતર નોંધ: =====
 
-===== Translation Notes: =====
-
-  * **kingdoms of the world** - This refers to all the greatest cities, countries, and other territories of the world.
-  * **their glory** - That is, "their power and wealth."
-  * **I will give you all this** - This could be translated as, "I will give you all the wealth and power of these kingdoms" or, "I will make you the ruler over all these countries, cities and people."
-
+  * **જગતનું રાજ્ય –**  આ દરેક મહાન શહેરો, દેશો, અને દુનિયાના બીજા રાજ્યોને દર્શાવે છે.
+  * **તેઓની મહિમા **– તે છે, “તેનું સામર્થ અને સંપતિ”
+  * **હું તને આ બધું આપીશ**  – આ રીતે ભાષાંતર થાય, “હું તને આ રાજ્યની બધી સંપતિ અને સામર્થ આપીશ” અથવા, “હું તને આ દરેક દેશો, શહેરો અને લોકો ઉપર અધિપતિ બનાવીશ.”
 
 **[[:gu:obs:notes:frames:25-05|<<]] | [[:gu:obs:notes:25|Up]] | [[:gu:obs:notes:frames:25-07|>>]]**
