@@ -1,26 +1,23 @@
-===== The Lawyer's Question [27-01] =====
+===== વકીલનો પ્રશ્ન [27-01] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-01.jpg?nolink&}}
 
+એક દિવસ, યહૂદી કાયદાઓનો નિપુણ ઈસુની પરીક્ષા કરવા તેની પાસે આવ્યો, અને કહ્યું, “ગુરુ, અનંત જીવન મેળવવા માટે મારે શું કરવું?” ઈસુએ ઉત્તર આપ્યો, “દેવના વચનમાં શુ લખેલું છે?”
 
-**One day**, an **expert in the Jewish law** came to **Jesus to test him**, saying, “**Teacher**, what must I do **to inherit eternal life**?” Jesus answered, “**What is written in God's law**?”
-===== Important Terms: =====
+===== મહત્વના શબ્દો: =====
 
-  * **[[:gu:obe:kt:jesus]]**
-  * **[[:gu:obe:kt:teacher]]**
-  * **[[:gu:obe:kt:inherit]]**
-  * **[[:gu:obe:kt:eternity]]**
-  * **[[:gu:obe:kt:lawofmoses]]**
+  * **ઈસુ**
+  * **ગુરુ**
+  * **વરસો**
+  * **અનંત જીવન**
+  * **દેવનો નિયમ**
+===== ભાષાંતર નોંધ: =====
 
-
-===== Translation Notes: =====
-
-  * **One day** - This phrase introduces an event that happened in the past, but does not state the specific time. Many languages have a similar way to begin telling a true story.
-  * **expert in the Jewish law** - This man was someone who studied and taught the laws God had given the Israelites, as well as other Jewish laws.
-  * **to test him** - That is, "to see if Jesus would give a good answer."
-  * **to inherit eternal life** - That is, "to have life with God forever" or, "so that God will give me life with him forever" or, "to receive eternal life from God." The law expert was asking how he could be worthy to receive eternal life as an inheritance from God the Father.
-  * **eternal life** - This refers to life forever with God after the mortal body dies. See the key term page for eternal life.
-  * **What is written in God's law?** - That is, "What is written in God's law about this?" Jesus asked this question because he wanted the man to think about what God's law really teaches.
-
+  * **એક દિવસ **– આ વાક્ય ભૂતકાળમાં થયેલી ઘટનાનું વર્ણન કરે છે, પણ કોઈ ચોક્ક્સ સમય નથી દર્શાવતું. ઘણી ભાષાઓમાં સત્ય વાર્તા કહેવાનો સરખો જ રસ્તો છે.
+  * **યહૂદી કાયદાનો નિપૂણ **– આ માણસ તે છે જેણે ઇસ્રાએલીઓને આપેલા દેવના વચનનો અભ્યાસ કર્યો છે અને શીખવ્યું છે, સ્વાથે સાથે બીજા યહૂદી કાયદાઓ.
+  * **તેની પરીક્ષા કરવા **– તે છે, “જોવા માટે કે તે સારો જવાબ આપે છે.”
+  * **અનંત જીવન પામવા**  – તે છે, “દેવ સાથે હમેશાનું જીવન” અથવા, “જેથી દેવ મને તેમની સાથે હમેશાનું જીવન આપે” અથવા, “દેવ તરફથી અનંત જીવન પામવા.” કાયદાના નિપુણ વ્યક્તિએ પૂછ્યું કે હું દેવ પિતા પાસેથી અનંત જીવન કેવી રીતે મેળવી શકું.
+  * **અનંત જીવન **– આ મરણશીલ શરીરના મૃત્યુ પછી દેવ સાથેના હંમેશાના જીવનને દર્શાવે છે.
+  * **દેવના વચનમાં શુ લખેલું છે? **– તે છે, “આ વિશે જે દેવના વચનમાં શું લખેલું છે?” ઈસુએ આ પ્રશ્ન પૂછ્યો કારણકે તે ઈચ્છતા હતા કે આ માણસ વિચારે કે ખરેખર દેવનો કાયદો તે વિશે શુ શીખવે છે.
 
 **[[:gu:obs:notes:frames:26-10|<<]] | [[:gu:obs:notes:27|Up]] | [[:gu:obs:notes:frames:27-02|>>]]**
