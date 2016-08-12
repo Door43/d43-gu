@@ -1,19 +1,17 @@
-===== Everyone Ate [30-08] =====
+===== દરેક વ્યક્તિએ જમવા પામી [30-08] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-08.jpg?nolink&}}
 
-Then **Jesus broke the bread and the fish** into pieces. He gave the pieces to his **disciples** to give to the people. The disciples kept passing out the food, and **it never ran out**! All the people ate and were satisfied.
-===== Important Terms: =====
+પછી ઈસુએ રોટલી અને માછલી તોડી ટુકડા કર્યાં. તેમણે ટુકડા તેના શિષ્યોને આપ્યા જે લોકોને પહોંચાડે. શિષ્યો જમવાનું પસાર કરતા રહ્યાં, અને તે ક્યારેય ખુટ્યું નહિ! બધા લોકોએ ખાધુ અને તૃપ્ત થયા.
 
-  * **[[:gu:obe:kt:jesus]]**
-  * **[[:gu:obe:kt:disciple]]**
+===== મહત્વપૂર્ણ શબ્દો: =====
 
+  * **ઈસુ**
+  * **શિષ્યો**
+===== અનુવાદ નોંધો: =====
 
-===== Translation Notes: =====
-
-  * **broke the bread and the fish** - That is, "tore the bread and the fish."
-  * **it never ran out** - Another way to say this would be, "there was always more left."
-  * **were satisfied** - That is, "were no longer hungry" or, "were not hungry any more."
-
-
+  * **રોટલી અને માછલી તોડી **
+ - એટલે કે, "રોટલી અને માછલી ભાંગી."
+  * **તે જરાપણ ઓછી ન પડી**  - બીજી રીતે આમ કહી શકાય, "વધારે પ્રમાણમાં બચ્યું હતું."
+  * **સંતુષ્ટ હતા **- એટલે કે, "હવે ભૂખ્યા ન હતાં" અથવા, "કોઈ ભૂખ્યા ન હતા જરાપણ."
 **[[:gu:obs:notes:frames:30-07|<<]] | [[:gu:obs:notes:30|Up]] | [[:gu:obs:notes:frames:30-09|>>]]**
