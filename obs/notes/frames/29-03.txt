@@ -1,20 +1,17 @@
-===== Not Able to Repay [29-03] =====
+===== ચૂકવવા અસમર્થ હતો [29-03] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-03.jpg?nolink&}}
 
-“Since the **servant** could not **pay the debt**, the **king** said, ‘Sell this man and his family as **slaves to make payment on his debt**.’”
-===== Important Terms: =====
+“સેવકે દેવું ચુકવ્યું ન હતું તેથી, રાજાએ કહ્યું, આ માણસના દેવાંના બદલામાં તેને અને તેના પરિવારને ગુલામ તરીકે વેચી નાખો.”
 
-  * **[[:gu:obe:other:servant]]**
-  * **[[:gu:obe:other:king]]**
-  * **[[:gu:obe:other:servant]]**
+===== મહત્વના શબ્દો: =====
 
+  * **સેવક**
+  * **રાજા**
+  * **ગુલામો**
+===== ભાષાંતર નોંધ: =====
 
-===== Translation Notes: =====
-
-  * (Jesus continues the story.)
-  * **pay the debt** - That is, "pay back the money he owed to the king."
-  * **to make payment on his debt** - This could be translated as, "and use the money received from selling them to pay part of what he owes me."
-
-
+  * **(ઈસુએ વાર્તા કહેવાનું ચાલુ રાખ્યું.)**
+  * **દેવું ચુકવવું**  – તે છે, “રાજા પાસેથી લીધેલા પૈસા પાછા ચુકવવા.”
+  * **તેનું દેવું ચૂકવવા માટે**  – આ રીતે ભાષાંતર થાય, “તેઓને વેચીને પ્રાપ્ત થયેલા પૈસાથી મારી પારેથી ઉછીના લીધેલા પૈસાને ચૂકવો.”
 **[[:gu:obs:notes:frames:29-02|<<]] | [[:gu:obs:notes:29|Up]] | [[:gu:obs:notes:frames:29-04|>>]]**
