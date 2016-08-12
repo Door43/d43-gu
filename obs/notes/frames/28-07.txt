@@ -1,19 +1,16 @@
-===== Who Can Be Saved? [28-07] =====
+===== કોણ બચી શકશે? [28-07] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-07.jpg?nolink&}}
 
-When the **disciples** heard what Jesus said, they were **shocked** and said, “Then **who can be saved**?”
-===== Important Terms: =====
+જયારે ઈસુએ જે કહ્યું તે શિષ્યોએ સાંભળ્યું, ત્યારે તેઓ ચકિત થયા અને કહ્યું, “તો કોણ બચી શકશે?”
 
-  * **[[:gu:obe:kt:disciple]]**
-  * **[[:gu:obe:kt:save]]**
+===== મહત્વના શબ્દો: =====
 
+  * **શિષ્યો**
+  * **બચાવ્યું**
+===== ભાષાંતર નોંધ: =====
 
-===== Translation Notes: =====
-
-  * **shocked** - That is, "greatly astonished."
-  * **who can be saved** - This could also be translated as, "If even rich people cannot be saved, how can anyone else be saved?" Many people believed that being rich was a sign of God's favor.
-  * **saved** - Here it refers to being saved from God's judgment and condemnation for sin and being allowed to be a citizen in God's kingdom.
-
-
+  * **ચકિત થવું –**  તે છે, “ખુબજ આશ્ચર્યચકિત થવું.”
+  * **કોણ બચી શકશે**  – આ રીતે પણ ભાષાંતર થાય, “જો ધનવાન લોકો પણ ન બચી શકે, તો બીજા લોકો કેવી રીતે બચશે?” ઘણા લોકો એવું માને છે કે ધનવાન બનવું એ દેવની કૃપાની નિશાની છે.
+  * **બચવું **– અહીંયા તે ઇશ્વરનો ન્યાય અને પાપની સાજાથી બચવું અને દેવના રાજ્યના નાગરિક બનવાની યોગ્યતાને દર્શાવે છે.
 **[[:gu:obs:notes:frames:28-06|<<]] | [[:gu:obs:notes:28|Up]] | [[:gu:obs:notes:frames:28-08|>>]]**
