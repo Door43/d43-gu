@@ -1,19 +1,16 @@
-===== Not the Messiah [24-05] =====
+===== મસીહા નહિ [24-05] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-05.jpg?nolink&}}
 
-Some **Jews** asked **John** if he was the **Messiah**. John replied, “I am not the Messiah, but there is someone coming after me. **He is so great** that I am **not even worthy to untie his sandals**.”
-===== Important Terms: =====
+કેટલાક યહૂદીઓએ યોહાનાને પૂછ્યું કે શું તેજ મસીહા છે. યોહને ઉત્તર આપ્યો, “હું મસીહા નથી, પણ મારી પાછળ એક આવે છે. તે ઘણો મહાન છે કે હું તેના પગરખાંની વાધરી પણ ખોલવાને યોગ્ય નથી.”
 
-  * **[[:gu:obe:other:jew]]**
-  * **[[:gu:obe:other:johnthebaptist]]**
-  * **[[:gu:obe:kt:christ]]**
+===== મહત્વના શબ્દો: =====
 
+  * **યહૂદી**
+  * **યોહન**
+  * **મસીહા**
+===== ભાષાંતર નોંધ: =====
 
-===== Translation Notes: =====
-
-  * **He is so great** - This could be translated as, "He is so important."
-  * **not even worthy to untie his sandals** - In other words, "compared to him, I am not important enough to do even the most menial task for him." Untying sandals was a very low job, something a slave would do.
-
-
+  * **તે ઘણો મહાન છે **– આ રીતે ભાષાંતર થશે, “તે ખુબજ મહત્વનો છે.”
+  * **તેના પગરખાંની વાધરી પણ ખોલવાને યોગ્ય નથી**  – બીજા શબ્દોમાં, “તેની સરખામણીમાં, હું ખુબજ નાનું કામ કરવાને પણ યોગ્ય નથી.” પગરખાંની વાધરી ખોલવી ખુબજ નાનું કામ હતું, એવું કંઈક જે ગુલામો કરતા હતા.
 **[[:gu:obs:notes:frames:24-04|<<]] | [[:gu:obs:notes:24|Up]] | [[:gu:obs:notes:frames:24-06|>>]]**
