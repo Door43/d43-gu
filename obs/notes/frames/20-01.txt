@@ -1,29 +1,23 @@
-===== Israel Sinned [20-01] =====
+===== ઇસ્રાએલે પાપ કર્યું. [20-01] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-01.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-01.jpg?nolink}}
+ઇસ્રાએલના રાજ્યએ અને યહૂદાના રાજ્યએ દેવના વિરૃદ્ધમાં પાપ કર્યું. સિનાઈ પર્વત ઉપર દેવે તેઓની સાથે બાંધેલી વાચા ને તેઓએ તોડી નાખી. દેવે તેઓને પસ્તાવાની ચેતવણી આપવા અને ફરીથી તેમની આરાધના કરવા માટે પોતાના સેવકોને મોકલ્યા, પણ તેઓએ તેમની આજ્ઞા માનવાની ના પડી દીધી.
 
-The **kingdom of Israel** and the **kingdom of Judah** both **sinned** against **God**. They **broke the covenant** that God had made with them at **Sinai**. God sent his **prophets** to **warn them to repent** and **worship** him again, but they refused to **obey**.
-===== Important Terms: =====
+===== મહત્વના શબ્દો: =====
 
+  * **ઇસ્રાએલનું રાજ્ય**
+  * **યહૂદાનું રાજ્ય**
+  * **પાપ કર્યું**
+  * **દેવ**
+  * **વાચા**
+  * **સિનાઈ**
+  * **પ્રબોધક**
+  * **પસ્તાવો**
+  * **આરાધના કરવી**
+  * **આજ્ઞા પાળવી**
+===== ભાષાંતર નોંધ: =====
 
-  * **[[:gu:obe:other:kingdomofisrael]]**
-  * **[[:gu:obe:other:kingdomofjudah]]**
-  * **[[:gu:obe:kt:sin]]**
-  * **[[:gu:obe:kt:god]]**
-  * **[[:gu:obe:kt:covenant]]**
-  * **[[:gu:obe:other:sinai]]**
-  * **[[:gu:obe:kt:prophet]]**
-  * **[[:gu:obe:kt:repent]]**
-  * **[[:gu:obe:kt:worship]]**
-  * **[[:gu:obe:other:obey]]**
-
-
-==== Translation Notes: ====
-
-
-  * **broke the covenant** - That is, "disobeyed the commands God had given them in his covenant with them at Mount Sinai."
-  * **warn them to repent and worship him again** – Another way to translate this would be, "tell them to stop sinning and to worship Yahweh instead of other gods, or terrible things would happen to them."
-
-
+  * **વાચાને તોડી**  – તે છે, “સિનાઈ પર્વત ઉપર દેવે તેઓને આપેલી વાચાની આજ્ઞાને તેઓએ પાળી નહિ.”
+  * **તેઓને પસ્તાવો કરવાની**  અને ફરીથી તેમની આરાધના કરવાની ચેતવણી આપી.
 **[[:gu:obs:notes:frames:19-18|<<]] | [[:gu:obs:notes:20|Up]] | [[:gu:obs:notes:frames:20-02|>>]]**
