@@ -1,26 +1,20 @@
-===== Persia Defeated Babylon [20-11] =====
+===== ઈરાને બાબિલને હરાવ્યું [20-11] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-11.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-11.jpg?nolink}}
+લગભગ સિતેર વર્ષો પછી, ઈરાનના રાજા, કોરેશે, બાબિલને હરાવ્યું, તેથી બાબિલના રાજ્યની જગ્યાએ ઈરાનનું રાજ્ય આવે. હવે ઇસ્રાએલીઓ યહૂદી કહેવાયા અને તેમના ઘણા બધા લોકોએ પોતાનું આખું જીવન બાબિલમાં વિતાવ્યું. ફક્ત થોડાક જુના યહૂદીઓને યહૂદાની ભૂમિ યાદ હતી.
 
-About **seventy years later**, **Cyrus**, the **king** of the **Persians**, defeated **Babylon**, so the Persian Empire replaced the Babylonian Empire. **The Israelites were now called Jews** and most of them had lived their whole lives in Babylon. Only a few very old Jews even remembered **the land of Judah**.
-===== Important Terms: =====
+===== મહત્વના શબ્દો: =====
 
+  * **રાજા**
+  * **બાબિલ**
+  * **ઇસ્રાએલીઓ**
+  * **યહૂદીઓ**
+===== ભાષાંતર નોંધ: =====
 
-  * **[[:gu:obe:other:king]]**
-  * **[[:gu:obe:other:babylon]]**
-  * **[[:gu:obe:other:israel]]**
-  * **[[:gu:obe:other:jew]]**
-
-
-==== Translation Notes: ====
-
-
-  * **seventy years later** - This refers to the seventy years that had passed since the Babylonian army took the people of Jerusalem into exile.
-  * **Cyrus** - Cyrus was also called, "Cyrus the Great." The name "Cyrus" meant "like the sun" in the Persian language. However, since Cyrus was an important historical person, it might be best to transliterate his name, rather than translating the meaning.
-  * **Persians** - The Persian Empire grew to cover the area from central Asia to Egypt. Its home was located in the general area of modern-day Iran.
-  * **The Israelites were now called Jews** - This could also be translated as, "People now called the Israelites by the name 'Jews.'"
-  * **the land of Judah** - That is, the area where the kingdom of Judah was located before the Exile. Jerusalem was the capital city of Judah.
-
-
+  * **સિતેર વર્ષો પછી **– આ સિતેર વર્ષો જયારે બાબિલના લોકો યરુશલેમના લોકોને નિર્વાસિતમા લઇ ગયા અને ત્યાં સમય પસાર કર્યો તેને દર્શાવે છે.
+  * **કોરેશ**  – કોરેશ “મહાન કોરેશ” ના નામથી ઓઅન ઓળખાતો હતો. ઈરાનની ભાષામાં “કોરેશ” નો અર્થ “સૂર્ય જેવો” થાય છે. તેમ છતાં, કોરેશ ઈતિહાસ નો મહત્વનો વ્યક્તિ હતો, તેના નામના અર્થના  બદલે, તેના નામનું ભાષાંતર કરવું વધારે સારું રહેશે.
+  * **ઈરાની **– ઈરાનનું રાજ્ય મધ્ય એશિયા થી મિસ્ર સુધી ફેલાયેલું છે. તેનું ઘર અત્યારના ઈરાનના સામાન્ય સ્થળમાં આવેલું છે.
+  * **હવે ઇસ્રાએલીઓ યહૂદી કહેવાયા **– આ પણ આ રીતે ભાષાંતર થશે, “લોકો હવે ઇસ્રાએલીઓને ‘યહૂદીઓ’ નામથી બોલાવવા લાગ્યા.”
+  * **યહૂદાની ભૂમિ **– તે છે, નિર્વાસિત પહેલા યહૂદાનું રાજ્ય જે જગ્યા પર હતું તે. યરુશલેમ યહૂદાનું પાટનગર હતું.
 **[[:gu:obs:notes:frames:20-10|<<]] | [[:gu:obs:notes:20|Up]] | [[:gu:obs:notes:frames:20-12|>>]]**
