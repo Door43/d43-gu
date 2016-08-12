@@ -1,25 +1,21 @@
-===== Jesus Is the Son of God [24-09] =====
+===== ઈસુ દેવનો પુત્ર છે [24-09] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-09.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-09.jpg?nolink&}}
 
-**God had told John**, “**The Holy Spirit will come down and rest on** someone you **baptize**. That person is the **Son of God**.” There is only one God. But when John baptized Jesus, he heard **God the Father** speak, he saw God the Son, who is **Jesus**, and he saw God the Holy Spirit.
-===== Important Terms: =====
+દેવે યોહાનાને કહ્યું હતું, “પવિત્ર આત્મા નીચે આવશે અને તું જેને બપ્તિસમા આપીશ તેની ઉપર આવશે. તે વ્યક્તિ દેવનો પુત્ર છે. ફક્ત એકજ દેવ છે. પણ જયારે યોહાને ઈસુને બપ્તિસમા આપ્યું, તેણે દેવપિતાને બોલતા સાંભળ્યા, તેણે પુત્ર દેવને જોયો, જે ઈસુ છે, અને તેણે પવિત્ર આત્મા દેવને પણ જોયા.
 
+===== મહત્વના શબ્દો: =====
 
-  * **[[:gu:obe:kt:god]]**
-  * **[[:gu:obe:other:johnthebaptist]]**
-  * **[[:gu:obe:kt:holyspirit]]**
-  * **[[:gu:obe:kt:baptize]]**
-  * **[[:gu:obe:kt:sonofgod]]**
-  * **[[:gu:obe:kt:godthefather]]**
-  * **[[:gu:obe:kt:jesus]]**
-  * **[[:gu:obe:kt:sonofgod]]**
+  * **દેવ**
+  * **યોહન**
+  * **પવિત્ર આત્મા**
+  * **બપ્તિસમા આપવું**
+  * **દેવ નો પુત્ર**
+  * **પિતા પરમેશ્વર**
+  * **ઈસુ**
+  * **દીકરો**
+===== ભાષાંતર નોંધ: =====
 
-
-===== Translation Notes: =====
-
-  * **God had told John** - That is, "Before this, God had told John" or, "Before Jesus came to be baptized, God had told John."
-  * //A Bible story from//  - These references may be slightly different in some Bible translations.
-
-
+  * **દેવે યોહાનાને કહ્યું હતું**  – તે છે, “આ પહેલા, દેવે યોહાનાને કહ્યું હતું” અથવા, “ઈસુ બપ્તિસમા પામે તે પહેલા, દેવે યોહાનાને કહ્યું હતું.”
+  * **બાઈબલની વાર્તા**  - આ સંદર્ભ કેટલાક કેટલાક બાઈબલ ભાષાંતરોમાં અલગ હોઈ શકે છે.
 **[[:gu:obs:notes:frames:24-08|<<]] | [[:gu:obs:notes:24|Up]] | [[:gu:obs:notes:frames:25-01|>>]]**
