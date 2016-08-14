@@ -1,28 +1,28 @@
-===== God Raised Jesus [43-07] =====
+===== દેવે ઈસુને જીવતા ઊભા કર્યા [43-07] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-07.jpg?nolink&}}
 
-“Although **Jesus** died, **God raised** him from the **dead**. **This fulfills the prophecy which says**, ‘**You will not let your Holy One rot in the grave**.’ We are **witnesses** to the fact that God **raised Jesus to life again**.”
-===== Important Terms: =====
+"જોકે ઈસુ મૃત્યુ પામ્યા હતા, દેવે તેને મૃતકમાંથી જીવતા ઊભા કર્યા. આ ભવિષ્યવાણી જે કહે છે તે પરીપુર્ણ કર્યું , તમે કબરમાં તમારા પવિત્રને સડવા ન દેશો , અમે સાક્ષીઓ છીએ એ હકીકત માટે કે દેવે ઈસુને ફરીથી જીવન માટે ઊભા કર્યા. "
 
-  * **[[:gu:obe:kt:jesus]]**
-  * **[[:gu:obe:kt:god]]**
-  * **[[:gu:obe:kt:raise]]**
-  * **[[:gu:obe:kt:death]]**
-  * **[[:gu:obe:kt:fulfill]]**
-  * **[[:gu:obe:kt:prophet]]**
-  * **[[:gu:obe:kt:christ]]**
-  * **[[:gu:obe:kt:witness]]**
-  * **[[:gu:obe:kt:life]]**
+===== મહત્વપૂર્ણ શબ્દો: =====
 
+  * ઈસુ
+  * દેવ
+  * ઊભાકર્યા
+  * મૃત
+  * નિભાવે
+  * ભવિષ્યવાણી
+  * પવિત્ર જણ
+  * સાક્ષીઓ
+  * જીવન
 
-===== Translation Notes: =====
+===== અનુવાદ નોંધો: =====
 
-  * (Peter continues preaching to the crowd.)
-  * **This fulfills the prophecy which says** - Another way to translate this would be, "This caused to come true what one of the prophets said long ago."
-  * **You will not let your** - "You" and "your" refer to God the Father. To make that clear, this could be translated as, "You, God, will not let your." Some languages may have a special way of addressing someone, such as, "You, O God."
-  * **rot in the grave** - That is, "decay in the tomb" or, "decompose in the grave." This refers to the fact that Jesus did not remain in the tomb very long and is another way of saying that he did not stay dead, but rather came back to life again.
-  * **raised Jesus to life again** - That is, "made Jesus alive again."
-
+  * (પીતરનો ભીડ સમક્ષ પ્રચાર ચાલુ રહે છે.)
+  * ભવિષ્યવાણી જે કહે છે તે આ પરીપુર્ણ કરે છે - અનુવાદનો અન્ય માર્ગ આ હશે, "આ સાચું થવાનું કારણ છે જે પ્રબોધકોમાંના એકે લાંબા સમય પહેલા કહ્યું હતું "
+  * તમે નહીં જવા દો તમારા "તમે" અને "તમારા" ઈશ્વર, પિતા નો સંદર્ભ લે છે. સ્પષ્ટ બનાવવા માટે, આવી રીતે ભાષાંતર કરી શકાય છે "તમે, દેવ, નહિ જવા દેશે તમારા." કેટલીક ભાષાઓમાં, કોઈને સંબોધન એક ખાસ રીતે હોઈ શકે છે, "તું, હે દેવ."
+  * કબર માં સડવું - એટલે કે, "કબરમાં સડો" અથવા, "કબર માં સડવું."
+  * આ સંદર્ભ લે છે એ હકીકતનો કે ઇસુ કબરમાં લાંબો સમય રહ્યા ન હતા અને કહેવાનો અન્ય માર્ગ છે કે તેઓ મૃત રહ્યા ન હતા, પરંતુ તેના બદલે ફરીથી જીવતા થયા હતા.
+  * ફરીથી ઈસુને જીવતા ઊભા કર્યા - એટલે કે, "ઈસુને ફરીથી સજીવન કર્યા"
 
 **[[:gu:obs:notes:frames:43-06|<<]] | [[:gu:obs:notes:43|Up]] | [[:gu:obs:notes:frames:43-08|>>]]**
