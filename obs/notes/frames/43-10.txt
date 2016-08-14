@@ -1,18 +1,17 @@
-===== What Should We Do? [43-10] =====
+===== આમારે શું કરવું જોઈએ?   [43-10] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-10.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-10.jpg?nolink&}}
 
-The people listening to **Peter** were **deeply moved by** the things that he said. So they asked Peter and the **disciples**, “**Brothers**, what should we do?”
-===== Important Terms: =====
+લોકો પીતરનું સાંભળીને ઊંડેથી હલી ગયા હતા જે બાબતો વિશે તેણે જણાવ્યું હતું. તેથી તેઓએ કહ્યું પિતરને અને શિષ્યોને , " ભાઈઓ , અમારે શું કરવું જોઈએ?"
 
-  * **[[:gu:obe:other:peter]]**
-  * **[[:gu:obe:kt:disciple]]**
+===== મહત્વપૂર્ણ શબ્દો: =====
 
+  * પીતર
+  * શિષ્યો
 
-===== Translation Notes: =====
+===== અનુવાદ નોંધો: =====
 
-  * **deeply moved by** - That is, "very troubled by" or, "felt very sad when they heard." To be "moved" is to feel strong emotions.
-  * **Brothers** - This was a normal way for a Jew to address fellow Jews. It could also be translated as, "Friends."
-
+  * ઊંડેથી હલી ગયેલા - એટલે કે, "ખૂબ જ દુઃખમાં" અથવા તો "ખૂબ જ દુઃખ લાગ્યું જ્યારે તેઓએ સાંભળ્યું." મજબૂત લાગણીથી "હલી ગયેલા" લાગતા હતા.
+  * ભાઈઓ - આ એક યહૂદીએ, સાથી યહુદીઓને સંબોધવા માટેનો એક સામાન્ય તરીકો હતો. તે આ રીતે પણ ભાષાંતર કરી શકાય છે "મિત્રો."
 
 **[[:gu:obs:notes:frames:43-09|<<]] | [[:gu:obs:notes:43|Up]] | [[:gu:obs:notes:frames:43-11|>>]]**
