@@ -1,27 +1,26 @@
-===== You Killed the Messiah [45-03] =====
+===== તમે મસીહને મારી નાંખ્યા [45-03] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-03.jpg?nolink&}}
 
-The **high priest** asked Stephen, “**Are these things true**?” Stephen replied by reminding them of many of the great things **God** had done from the time of **Abraham** to the time of **Jesus**, and how God's people continually **disobeyed** him. Then he said, “You stubborn and **rebellious** people **always reject the Holy Spirit**, just as **your ancestors** always rejected God and killed his **prophets**. But you did something worse than they did! You killed the **Messiah**!”
-===== Important Terms: =====
+પ્રમુખ યાજકે સ્તેફનને પૂછ્યું, " આ બાબતો સાચી છે ?" સ્તેફને તેમને અબ્રાહમના સમયથી ઈસુના સમય સુધીની ઘણી મહાન બાબતો જે દેવે કરી હતી, અને કેવી રીતે દેવના લોકો તેમનો સતત અનાદર કરતા રહ્યાં એ યાદ કરાવીને જવાબ આપ્યો. પછી તેણે કહ્યું, "તમે હઠીલા અને બળવાખોર લોકો હંમેશા પવિત્ર આત્માનો અસ્વીકાર કરો છો, જેમ તમારા પૂર્વજોએ હંમેશા દેવને ફગાવી દીધા હતા અને તેમના પ્રબોધકોની હત્યા કરી હતી. પરંતુ તમે તેઓ કરતાં કેટલું વધું ખરાબ કર્યું! તમે મસીહની હત્યા કરી હતી ! "
 
-  * **[[:gu:obe:kt:highpriest]]**
-  * **[[:gu:obe:kt:true]]**
-  * **[[:gu:obe:kt:god]]**
-  * **[[:gu:obe:other:abraham]]**
-  * **[[:gu:obe:kt:jesus]]**
-  * **[[:gu:obe:other:disobey]]**
-  * **[[:gu:obe:other:rebel]]**
-  * **[[:gu:obe:kt:holyspirit]]**
-  * **[[:gu:obe:kt:prophet]]**
-  * **[[:gu:obe:kt:christ]]**
+===== મહત્વપૂર્ણ શબ્દો: =====
 
+  * પ્રમુખ યાજક
+  * સાચું
+  * દેવ
+  * અબ્રાહમ
+  * ઈસુ
+  * અનાદર
+  * બળવાખોર
+  * પવિત્ર આત્મા
+  * પ્રબોધકો
+  * મસીહ
 
-===== Translation Notes: =====
+===== અનુવાદ નોંધો: =====
 
-  * **Are these things true?** - That is, "Are these accusations against you true?" or, "Are the things these people are saying about you true?" or, "Is it true that you said evil things about Moses and God?"
-  * **always reject the Holy Spirit** - That is, "never obey the Holy Spirit" or, "always refuse to listen to the Holy Spirit."
-  * **your ancestors** - This could be translated as, "your ancestors, the Israelites."
-
+  * આ બાબતો સાચી છે? - એટલે કે, "તારી સામે આ આક્ષેપો સાચા છે?" અથવા, "તારા વિશે જે બાબતો આ લોકો કહે છે તે સાચું છે?" અથવા, "તેં સાચું છે કે તેં મૂસા અને ઈશ્વર વિશે દુષ્ટ બાબતો જણાવી હતી? "
+  * હંમેશા નકાર્યા પવિત્ર આત્મા - એટલે કે, "પવિત્ર આત્માનું ક્યારેય માન્યું નહિ" અથવા, "હંમેશા પવિત્ર આત્માનું સાંભળવાની ના પાડી દીધી."
+  * તમારા પૂર્વજો – આ રીતે ભાષાંતર કરી શકાય છે "તમારા પૂર્વજો, ઈસ્રાએલીઓ"
 
 **[[:gu:obs:notes:frames:45-02|<<]] | [[:gu:obs:notes:45|Up]] | [[:gu:obs:notes:frames:45-04|>>]]**
