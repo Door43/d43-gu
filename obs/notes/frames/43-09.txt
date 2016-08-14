@@ -1,21 +1,20 @@
-===== Jesus Is the Messiah [43-09] =====
+===== ઈસુ મસીહ છે [43-09] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-09.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-09.jpg?nolink&}}
 
-“You **crucified** this man, **Jesus**. **But know for certain that God** has caused Jesus to become both **Lord** and **Messiah**!”
-===== Important Terms: =====
+"તમે વધસ્તંભ પર ચડાવ્યો આ માણસ, ઈસુને. પરંતુ ચોક્કસ જાણો કે દેવે ઈસુને બંને બનાવી દિધા છે, દેવ અને મસીહ ! "
 
-  * **[[:gu:obe:kt:crucify]]**
-  * **[[:gu:obe:kt:jesus]]**
-  * **[[:gu:obe:kt:god]]**
-  * **[[:gu:obe:kt:lord]]**
-  * **[[:gu:obe:kt:christ]]**
+===== મહત્વપૂર્ણ શબ્દો: =====
 
+  * વધસ્તંભ પર ચડાવેલ
+  * ઈસુ
+  * દેવ
+  * માલિક
+  * મસીહ
 
-===== Translation Notes: =====
+===== અનુવાદ નોંધો: =====
 
-  * (Peter continues preaching to the crowd.)
-  * **But know for certain that** - This could also be translated as, "But you can know that it is true that" or, "But you can be sure that."
-
+  * (પીતર ભીડ સામે પ્રચાર ચાલુ રાખે છે.)
+  * પરંતુ જાણો કે ચોક્કસ છે કે - આ રીતે પણ ભાષાંતર કરી શકાય છે, "પરંતુ તમે જાણી શકો છો કે તે સાચું છે" અથવા, "પરંતુ તમે ખાતરી કરી શકો છો કે"
 
 **[[:gu:obs:notes:frames:43-08|<<]] | [[:gu:obs:notes:43|Up]] | [[:gu:obs:notes:frames:43-10|>>]]**
