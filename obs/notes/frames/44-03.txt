@@ -1,19 +1,18 @@
-===== The Crippled Man Was Healed [44-03] =====
+===== અપંગ માણસ સાજો થઈ ગયો [44-03] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-03.jpg?nolink&}}
 
-Immediately, **God healed** the lame man, and he began to walk and jump around, and to **praise** God. The people in the **courtyard of the Temple** were amazed.
-===== Important Terms: =====
+તરત જ, દેવે લંગડા માણસને સાજો કર્યો, અને તે ચાલવા લાગ્યો અને આસપાસ કુદવા લાગ્યો, અને દેવના વખાણ કરવા લાગ્યો. જે લોકો મંદિરના આંગણામાં હતા, તેઓ નવાઇ પામ્યા.
 
-  * **[[:gu:obe:kt:god]]**
-  * **[[:gu:obe:other:heal]]**
-  * **[[:gu:obe:other:praise]]**
-  * **[[:gu:obe:kt:temple]]**
+===== મહત્વપૂર્ણ શબ્દો: =====
 
+  * દેવ
+  * સાજો
+  * વખાણ
+  * મંદિર
 
-===== Translation Notes: =====
+===== અનુવાદ નોંધો: =====
 
-  * **courtyard of the Temple** - Only priests could enter the Temple, but ordinary Jews were allowed to come into this area that surrounded the Temple.
-
+  * મંદિરનું આંગણું - ફકત યાજકો જ મંદિરમાં દાખલ થઈ શકે છે, પરંતુ સામાન્ય યહૂદીઓ આ વિસ્તારમાં, જે મંદિરને ઘેરતો હતો, આવવાની મંજૂરી આપવામાં આવી હતી
 
 **[[:gu:obs:notes:frames:44-02|<<]] | [[:gu:obs:notes:44|Up]] | [[:gu:obs:notes:frames:44-04|>>]]**
