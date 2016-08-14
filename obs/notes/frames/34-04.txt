@@ -1,21 +1,20 @@
-===== The Treasure in the Field [34-04] =====
+===== ખેતરમાં ખજાનો [34-04] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-04.jpg?nolink&}}
 
-“The **kingdom of God** is also like **treasure** that someone hid in a field. Another man found the treasure and then **buried it again**. He was so **filled with joy** that he went and sold everything he had and used the money to **buy that field**.”
-===== Important Terms: =====
+"દેવનું રાજ્ય પણ એ ખજાના જેવું છે જેને કોઈ ખેતરમાં સંતાડે છે. બીજા કોઈ માણસને એ ખજાનો મળી ગયો અને પછી તે તેને ફરીથી એ ખેતરમાં દાટી દે છે. તે આનંદથી સભર થઈ ગયો તેણે જઈને તેનું સર્વસ્વ વેચી અને તેના નાણાં દ્વારા એ ખેતર ખરીદી લીધું."
 
-  * **[[:gu:obe:kt:kingdomofgod]]**
-  * **[[:gu:obe:kt:joy]]**
+===== મહત્વપૂર્ણ શબ્દો: =====
 
+  * દેવનું રાજ્ય
+  * આનંદ
 
-===== Translation Notes: =====
+===== અનુવાદ નોંધો: =====
 
-  * (Jesus told another story.)
-  * **treasure** - That is, "something that is very valuable."
-  * **buried it again** - It is also possible to add, "so that no one else would find it."
-  * **filled with joy** - Another way to say this is, "very happy" or, "excited."
-  * **buy that field** - Some people may want to add, "so that the treasure would be his."
-
+  * (ઈસુ બીજી વાર્તા કહે છે.)
+  * ખજાનો - એટલે કે, "એવું કંઈક કે જે ખૂબ જ મૂલ્યવાન હોય."
+  * તેને ફરીથી દાટી દે છે - આ પણ ઉમેરવા માટે શક્ય છે, "જેથી કોઈપણ તેને શોધી ન શકે છે."
+  * આનંદથી સભર થઈ જવું - આ કહેવાનો અન્ય માર્ગ છે, "ખૂબ જ ખુશ" અથવા, "ઉત્તેજિત."
+  * એ ખેતર ખરીદી લીધું - કેટલાક લોકો આવું ઉમેરવા ઈચ્છી શકે છે, "કે જેથી ખજાનો તેનો થઈ જાય."
 
 **[[:gu:obs:notes:frames:34-03|<<]] | [[:gu:obs:notes:34|Up]] | [[:gu:obs:notes:frames:34-05|>>]]**
