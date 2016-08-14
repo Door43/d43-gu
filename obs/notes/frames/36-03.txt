@@ -1,23 +1,21 @@
-===== Moses and Elijah [36-03] =====
+===== મૂસા અને એલિયા [36-03] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-36-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-36-03.jpg?nolink&}}
 
-Then **Moses** and the prophet **Elijah appeared**. These men had lived on the earth hundreds of years before this. They talked with **Jesus** about **his death**, **which would soon happen in Jerusalem**.
-===== Important Terms: =====
+પછી મૂસા અને પ્રબોધક એલિયા દેખાયા હતા. આ પુરૂષો સેંકડો વર્ષ પહેલાં આ પૃથ્વી પર રહેતા હતા. તેઓએ ઈસુ સાથે તેમના મૃત્યુ વિશે વાત કરી, જે ટૂંક સમયમાં યરૂશાલેમમાં થશે.
 
-  * **[[:gu:obe:other:moses]]**
-  * **[[:gu:obe:kt:prophet]]**
-  * **[[:gu:obe:other:elijah]]**
-  * **[[:gu:obe:kt:jesus]]**
-  * **[[:gu:obe:kt:death]]**
-  * **[[:gu:obe:other:jerusalem]]**
+===== મહત્વપૂર્ણ શબ્દો: =====
 
+  * **મૂસા**
+  * **પ્રબોધક**
+  * **એલિયા**
+  * **ઈસુ**
+  * **મૃત્યુ**
+  * **યરૂશાલેમમાં**
+===== અનુવાદ નોંધો: =====
 
-===== Translation Notes: =====
-
-  * **appeared** - It is also possible to say, "appeared out of nowhere." They suddenly were there.
-  * **his death, which would soon happen** - This could be translated as, "how he would soon die" or, "how he would soon be killed."
-  * **in Jerusalem** - Some languages may prefer to say, "in the city of Jerusalem."
-
+  * દેખાયા - તે પણ શક્ય છે કહેવું કે, "કશું પણ ન હતુ એમાંથી પ્રગટ્યાં."તેઓ અચાનક ત્યાં હતા.
+  * તેમનું મૃત્યુ, જે ટૂંક સમયમાં થશે - આ અનુવાદ આવી રીતે પણ કરી શકાય છે "કેવી રીતે ટૂંક સમયમાં તેમની હત્યા કરવામાં આવશે" અથવા, "કેવી રીતે તેઓ ટૂંક સમયમાં મૃત્યુ પામશે."
+  * યરૂશાલેમમાં - કેટલીક ભાષાઓ "યરૂશાલેમ શહેરમાં" કહેવું પસંદ કરી શકે છે,
 
 **[[:gu:obs:notes:frames:36-02|<<]] | [[:gu:obs:notes:36|Up]] | [[:gu:obs:notes:frames:36-04|>>]]**
