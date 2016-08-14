@@ -1,22 +1,20 @@
-===== Working for Nothing [35-12] =====
+===== વ્યર્થ કામ [35-12] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-12.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-12.jpg?nolink&}}
 
-“The older son said to his father, ‘All these years I have worked **faithfully** for you! I never **disobeyed** you, and still you did not even give me **one small goat** so I could celebrate with my friends. But when **this son of yours** who **consumed your money** in **sinful** behavior came home, you **killed the best calf** for him!’”
-===== Important Terms: =====
+"મોટા પુત્રએ તેના પિતાને કહ્યું કે, "આટલા વર્ષ મેં વફાદારીથી તમારા માટે કામ કર્યું છે! મેં ક્યારેય તમારો અનાદર ન કર્યો હતો, અને હજુ પણ તમે એક નાની બકરી પણ મને આપી નથી જેથી હું મારા મિત્રો સાથે ઉજવણી કરી શકું. પરંતુ જ્યારે તમારા આ પુત્રએ જેણે તમારા પૈસા પાપી કામોમાં વેડફી નાંખી ઘરે પાછો આવ્યો, ત્યારે તમે તેને માટે એક શ્રેષ્ઠ વાછરડું માર્યું ! "
 
-  * **[[:gu:obe:kt:faithful]]**
-  * **[[:gu:obe:other:disobey]]**
-  * **[[:gu:obe:kt:sin]]**
+===== મહત્વપૂર્ણ શબ્દો: =====
 
+  * **વિશ્વાસુ**
+  * **અનાદર**
+  * **પાપી**
+===== અનુવાદ નોંધો: =====
 
-===== Translation Notes: =====
-
-  * (Jesus continues the story.)
-  * **one small goat** - A small goat would have fed fewer people than the best calf, and would not be valued as much. The older brother is complaining that his father was treating the sinful younger son better than him.
-  * **this son of yours** - This expression shows that the older son was angry. It shows his rejection of his younger brother and his disapproval of his father for welcoming back this wayward son. Other languages may also have an indirect way of communicating these things.
-  * **consumed your money** - That is, "squandered the money that you gave him" or, "devoured your wealth." If possible, use an expression that shows the brother's anger.
-  * **killed the best calf** - That is, "killed the best calf to eat at a feast."
-
+  * (ઈસુ વાર્તા કહેવાનું ચાલુ રાખે છે.)
+  * એક નાની બકરી - એક નાની બકરીને શ્રેષ્ઠ વાંછરડા કરતાં ઓછા લોકો ખાઈ શકે, અને વધારે મૂલ્ય ન હોય. મોટા ભાઇની ફરિયાદ છે કે તેના પિતા તેના કરતાં પાપી નાના પુત્રની વધુ સારી સરભરા કરી રહ્યાં હતા.
+  * તમારો આ પુત્ર - આ અભિવ્યક્તિ દર્શાવે છે કે મોટા પુત્રને ગુસ્સો આવ્યો હતો. તે તેના નાના ભાઇ માટે તેનો અસ્વીકાર રજુ કરે છે અને આ મનમોજી પુત્રનું વળતું સ્વાગત કરવા માટે તેના પિતાને તેનો અસ્વીકાર બતાવે છે. અન્ય ભાષાઓમાં પણ આ વસ્તુઓ માટેની વાતચીત પરોક્ષ રીતે હોઈ શકે છે.
+  * તમારા પૈસા વેડફી નાંખી - એટલે કે, "જે પૈસા તમે તેને આપ્યા, એણે ઉડાવી માર્યા" અથવા, "તમારી સંપત્તિ ઉડાવી દિધી." જો શક્ય હોય તો, એ અભિવ્યક્તિ જે ભાઇનો ગુસ્સો બતાવે છે ઉપયોગ કરવો.
+  * શ્રેષ્ઠ વાંછરડાને કાપ્યો - એટલે કે, "શ્રેષ્ઠ વાંછરડાને ઉજવણીમાં જમણ માટે માર્યું હતું."
 
 **[[:gu:obs:notes:frames:35-11|<<]] | [[:gu:obs:notes:35|Up]] | [[:gu:obs:notes:frames:35-13|>>]]**
