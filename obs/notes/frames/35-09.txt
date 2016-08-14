@@ -1,22 +1,22 @@
-===== Prepare the Feast [35-09] =====
+===== પ્રીતીભોજની તૈયારી [35-09] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-09.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-09.jpg?nolink&}}
 
-“But his father told one of his **servants**, ‘Go quickly and bring the best clothes and put them on my **son**! Put a ring on his finger and put sandals on his feet. Then kill the **best calf** so we can have a feast and celebrate, because **my son was dead**, **but now he is alive**! **He was lost**, **but now he is found**!’”
-===== Important Terms: =====
+"પરંતુ તેના પિતાએ એક સેવકને જણાવ્યું, "ઝડપથી જા અને શ્રેષ્ઠ કપડાં લાવ અને તેને મારા પર પુત્ર મૂક!
 
-  * **[[:gu:obe:other:servant]]**
-  * **[[:gu:obe:kt:son]]**
-  * **[[:gu:obe:kt:death]]**
-  * **[[:gu:obe:kt:life]]**
+તેની આંગળી પર વીંટી મૂક અને તેના પગ પર પગરખાં મૂક. પછી શ્રેષ્ઠ વાછરડાંને કાપ જેથી જાણે એક તહેવાર હોય અને ઉજવણી કરો, કારણ કે મારો પુત્ર મૃત્યુ પામ્યો હતો, પરંતુ હવે તે જીવંત છે! તે ગુમાઈ ગયો હતો, પરંતુ હવે તે મળી ગયો છે! "
 
+===== મહત્વપૂર્ણ શબ્દો: =====
 
-===== Translation Notes: =====
+  * **સેવકો**
+  * **પુત્ર**
+  * **મૃત**
+  * **જીવંત**
+===== અનુવાદ નોંધો: =====
 
-  * (Jesus continues the story.)
-  * **the best calf** - This could also be translated as, "the fattest calf." This was the calf that had been fattened so that when cooked it would taste the best.
-  * **My son was dead, but now he is alive!** - That is, "This is like my son was dead and is alive again!" or, "I grieved as if my son had died, but now I rejoice because it is as if he has come back to life!" The father is using this expression to show how happy he is that his son has come home.
-  * **He was lost, but now he is is found!** - That is, "This is like I had lost him but now I have found him." This expression also shows how happy the father is about having his son at home again.
-
+  * (ઈસુ વાર્તા ચાલુ રાખે છે.)
+  * શ્રેષ્ઠ વાછરડું - આ પણ, આ રીતે પણ ભાષાંતર કરી શકાય છે "સૌથી જાડું વાછરડું." આ વાછરડું જે જાડું કરવામાં આવ્યું હતું જેથી જ્યારે રાંધવામાં આવે તો તે શ્રેષ્ઠ સ્વાદ કરશે.
+  * મારો પુત્ર મૃત્યુ પામ્યો હતો, પરંતુ હવે તે જીવે છે! - એટલે કે, "આ મારો પુત્ર મૃત જેવો હતો અને ફરીથી જીવંત છે!" અથવા, "હું ઉદાસ હતો મારો પુત્ર મૃત્યુ પામ્યો હતો, પરંતુ હવે મને આનંદ થયો છે કારણ કે તે જીવતો છે, જેમ કે તે જીવનમાં પાછો આવ્યો છે! " પિતા આ સમીકરણનો ઉપયોગ કરી રહ્યા છે એ બતાવવા માટે કે એ કેટલો સુખી છે કે તેમનો પુત્ર ઘરે આવ્યો છે.
+  * તે ગુમાઈ ગયો હતો, પરંતુ હવે તે મળી આવ્યો છે! - એટલે કે, "આ એવું છે કે મેં તેને ગુમાવી દિધો હતો પરંતુ હવે તે મને મળી ગયો છે." આ અભિવ્યક્તિ એ પણ બતાવે છે કે કેવી રીતે પિતા ખુશ છે કે પુત્ર ફરી તેમના ઘરે આવ્યો છે.
 
 **[[:gu:obs:notes:frames:35-08|<<]] | [[:gu:obs:notes:35|Up]] | [[:gu:obs:notes:frames:35-10|>>]]**
