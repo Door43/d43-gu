@@ -1,17 +1,16 @@
-===== Stephen Was Stoned [45-04] =====
+===== સ્તેફન પર પથ્થરમારો [45-04] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-04.jpg?nolink&}}
 
-When the **religious leaders** heard this, they were so angry that they **covered their ears** and **yelled loudly**. They dragged Stephen out of the city and threw stones at him in order to kill him.
-===== Important Terms: =====
+જ્યારે ધાર્મિક નેતાઓએ આ સાંભળ્યું ત્યારે, તેઓ ગુસ્સે થયા હતા કે તેઓએ તેમના કાન બંધ કરી દિધા હતા અને મોટેથી બુમો પાડવા લાગ્યા . તેઓ સ્તેફનને શહેરની બહાર ખેંચી ગયા અને તેને મારી નાંખવા તેના પર પથ્થરો ફેંક્યા.
 
-  * **[[:gu:obe:other:jewishleaders]]**
+===== મહત્વપૂર્ણ શબ્દો: =====
 
+  * ધાર્મિક નેતાઓ
 
-===== Translation Notes: =====
+===== અનુવાદ નોંધો: =====
 
-  * **covered their ears** - This could also be translated as, "They put their hands over their ears." This was to show that they did not want to hear what Stephen said.
-  * **yelled loudly** - They were yelling in anger. Translate this in a way that communicates that they were very upset.
-
+  * તેમના કાન બંધ કરી દિધા - આ રીતે પણ ભાષાંતર કરી શકાય છે, "તેઓએ તેમના કાન પર તેમના હાથ મૂકી દિધા." આ દર્શાવે છે કે તેઓ સ્તેફને જણાવ્યું હતું તે કશું પણ સાંભળવા ન ઈચ્છતા હતા.
+  * મોટેથી ચીસ પાડી - તેઓએ ગુસ્સામાં ચીસો પાડવા લાગ્યા હતા. આ અનુવાદ એવી રીતે અનુવાદ કરો જેથી એવુ લાગે કે તેઓ ખુબ જ નારાજ હતા.
 
 **[[:gu:obs:notes:frames:45-03|<<]] | [[:gu:obs:notes:45|Up]] | [[:gu:obs:notes:frames:45-05|>>]]**
