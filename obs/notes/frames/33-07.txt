@@ -1,22 +1,21 @@
-===== Persecution and Hardship [33-07] =====
+===== દમન અને હાડમારી [33-07] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-07.jpg?nolink&}}
 
-“The **rocky ground is a person** who hears **God’s word** and **accepts it with joy**. But when he experiences hardship or **persecution**, he **falls away**.”
-===== Important Terms: =====
+"ખડકાળ જમીન એ એક વ્યક્તિ છે જે દેવનો શબ્દ સાંભળે છે અને આનંદ સાથે સ્વીકારે છે. પરંતુ જ્યારે તેઓ હાડમારી અથવા દમન અનુભવે છે, તે ગબડી જાય છે (સ્થિર નથી રહી શક્તો). "
 
-  * **[[:gu:obe:kt:wordofgod]]**
-  * **[[:gu:obe:kt:joy]]**
-  * **[[:gu:obe:other:persecute]]**
+===== મહત્વપૂર્ણ શબ્દો: =====
 
+  * દેવનો શબ્દ
+  * આનંદ
+  * દમન
 
-===== Translation Notes: =====
+===== અનુવાદ નોંધો: =====
 
-  * (Jesus continues to explain the story.)
-  * **rocky ground** - See how you translated this term in **[[:gu:obs:notes:frames:33-03|[33-03]]]**.
-  * **is a person** - See how you translated this comparison in **[[:gu:obs:notes:frames:33-06|[33-06]]]**.
-  * **accepts it with joy** - That is, "believes it joyfully" or, "joyfully agrees that it is true."
-  * **falls away** - That is, "no longer follows God or obeys him" or, "stops following or obeying God."
-
+  * (ઈસુ વાર્તા સમજાવવાનું  ચાલુ રાખે છે.)
+  * ખડકાળ જમીન - જુઓ કે કેવી રીતે તમે આ શબ્દનો અનુવાદ __[____૮____} \ [____૩૩____-____૦૩____]__ {૯] {૧૦]માં કર્યો હતો.
+  * એક વ્યક્તિ છે - જુઓ કે કેવી રીતે તમે આ સરખામણીનો અનુવાદ __[____૮____} \ [____૩૩____-____૦૬____]__ {૯] {૧૦] માં કર્યો હતો.
+  * આનંદ સાથે સ્વીકારે છે - એટલે કે, "તે ખુશીથી માને છે" અથવા, "ખુશીથી સંમત છે કે તે સાચું છે."
+  * દૂર ધકેલાઈ જાય છે - એટલે કે, "હવે તે દેવનો શબ્દ માનતો નથી અથવા એનો અમલ કરતો નથી" અથવા "દેવનો શબ્દ માનવાનું અથવા અનુસરવાનુ બંધ કરી દે છે."
 
 **[[:gu:obs:notes:frames:33-06|<<]] | [[:gu:obs:notes:33|Up]] | [[:gu:obs:notes:frames:33-08|>>]]**
