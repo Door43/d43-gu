@@ -1,20 +1,19 @@
-===== The Yeast [34-03] =====
+===== ખમીર [34-03] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-03.jpg?nolink&}}
 
-**Jesus** told another **story**, “The **kingdom of God** is like **yeast** that a woman mixes into some **bread dough** until **it spreads throughout the dough**.”
-===== Important Terms: =====
+ઈસુએ બીજી વાર્તા કહી, "દેવનું રાજ્ય આથા જેવું છે, એક મહિલા રોટલીના કણકમાં થોડો આથો મેળવે છે જ્યાં સુધી તે સંપુર્ણ કણકમાં પ્રસરી ન જાય. "
 
-  * **[[:gu:obe:kt:jesus]]**
-  * **[[:gu:obe:kt:kingdomofgod]]**
+===== મહત્વપૂર્ણ શબ્દો: =====
 
+  * ઈસુ
+  * દેવનું રાજ્ય
 
-===== Translation Notes: =====
+===== અનુવાદ નોંધો: =====
 
-  * **story** - See how you translated this term in **[[:gu:obs:notes:frames:34-01|[34-01]]]**.
-  * **yeast** - This can also be translated as, "leaven" or, "the little bit of leaven." It is added to bread dough to make it rise. A little bit of yeast can be mixed into a large amount of dough and make the whole batch of dough rise.
-  * **bread dough** - This is a mixture of flour and liquid that can be shaped and baked into bread. If you do not have words for dough or flour, you can borrow a word for flour or call it "ground-up grain."
-  * **it spreads throughout the dough** - That is, "every part of the dough has yeast in it" or, "the yeast grows throughout all the dough."
-
+  * વાર્તા - જુઓ કે કેવી રીતે તમે આ શબ્દ અનુવાદ __[____૮____} \ [____૩૪____-____૦૧____]__ {૯] {૧૦]માં કર્યો હતો.
+  * આથો - આ રીતે પણ અનુવાદ કરી શકાય છે, "ખમીર" અથવા, "ચપટીભર ખમીર." તે રોટલીના કણક માટે ઉમેરવામાં આવે છે જેથી તે વધે. થોડોક આથો કણકના એક મોટા જથ્થામાં મિશ્ર કરી શકાય છે અને કણકના સમગ્ર જથ્થાને ફુલાવે છે.
+  * પાંઉનો કણક - આ લોટ અને પ્રવાહીનું મિશ્રણ છે જેને આકાર આપી શકાય અને પાંઉમાં ઢાળી શકાય છે. તમારી પાસે કણક અથવા લોટ માટે શબ્દો ન હોય તો, તમે લોટ માટે એક શબ્દ ઉધાર લઈ શકો છો અથવા તેને કહી શકો છો "દળાયેલું અનાજ."
+  * તે સમગ્ર કણકમાં ફેલાઈ જાય છે  - એટલે કે, "કણકનો દરેક ભાગ તે આથો છે" અથવા, "આથો બધા કણકમાં વધે છે."
 
 **[[:gu:obs:notes:frames:34-02|<<]] | [[:gu:obs:notes:34|Up]] | [[:gu:obs:notes:frames:34-04|>>]]**
