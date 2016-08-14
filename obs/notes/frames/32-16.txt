@@ -1,24 +1,22 @@
-===== Healed by Faith [32-16] =====
+===== વિશ્વાસ દ્વારા સાજી થઈ [32-16] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-16.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-16.jpg?nolink&}}
 
-The woman **fell on her knees before Jesus**, **shaking and very afraid**. Then she told him what she had done, and that she had been healed. Jesus said to her, “**Your faith has healed you**. Go in **peace**.”
-===== Important Terms: =====
+મહિલા ઈસુ સમક્ષ તેના ઘૂંટણ પર પડી, ધ્રુજી રહી હતી અને ખૂબ જ ભયભીત હતી. પછી તેણીએ તેને કહ્યું હતું કે તેણીએ શું કર્યું હતું, અને તે સાજી થઈ ગઈ હતી. ઈસુએ તેને કહ્યું, "તારા વિશ્વાસે તને સાજી કરી છે. શાંતિથી જા."
 
-  * **[[:gu:obe:kt:jesus]]**
-  * **[[:gu:obe:kt:faith]]**
-  * **[[:gu:obe:other:heal]]**
-  * **[[:gu:obe:other:peace]]**
+===== મહત્વપૂર્ણ શબ્દો: =====
 
+  * **ઈસુ**
+  * **વિશ્વાસ**
+  * **સાજો**
+  * **શાંતિ**
+===== અનુવાદ નોંધો: =====
 
-===== Translation Notes: =====
-
-  * **fell on her knees** - That is, "quickly knelt down."
-  * **before Jesus** - That is, "in front of Jesus."
-  * **shaking and very afraid** - That is, "shaking with fear" or, "trembling because she was afraid."
-  * **Your faith has healed you.** - This could also be translated as, "You have been healed because of your faith."
-  * **Go in peace.** - People spoke this traditional blessing when they left each other. Other languages may say something similar such as, "Go well", "Go with God" or, "Peace." Other ways of translating it could be, "May you have peace as you go" or, "Go and know that all is well between us."
-  * //A Bible story from//  - These references may be slightly different in some Bible translations.
-
-
+  * **તેના ઘૂંટણ પર પડી**
+ - એટલે કે, "ઝડપથી નીચે નમી."
+  * **ઈસુ સમક્ષ –**  એટલે કે "ઈસુ સામે."
+  * **ધ્રુજારી અને ખૂબ જ ભયભીત **- એટલે કે, "ભય સાથે ધ્રુજારી" અથવા, "ધ્રૂજતી હતી કારણ કે તે ડરી ગઈ હતી."
+  * **તારા વિશ્વાસે તને સાજી કરી છે. –**  આવી રીતે પણ અનુવાદ કરી શકાય, "તું તારા વિશ્વાસને કારણે સાજી થઈ ગઈ છે."
+  * **શાંતિથી જા -**  લોકો આ પરંપરાગત આશીર્વાદ આપે છે જ્યારે તેઓ એકબીજાથી છુટા પડે છે. અન્ય ભાષાઓ આના જેવું જ કંઈક કહી શકે છે, જેમ કે, "સારી રીતે જા", "દેવ સાથે જા" અથવા, "શાંતિ." અન્ય રીતે અનુવાદ આ હોઈ શકે છે, "જેવા તમે જશો તમને શાંતિ મળે" અથવા,"જાઓ અને જાણો આપણી વચ્ચે બધું ભલું છે."
+  * **//બાઇબલની////વાર્તા// **//  - ////આ////સંદર્ભો////બાઇબલના////કેટલાક////અનુવાદમાં////સહેજ////અલગ////હોઈ////શકે////છે////.//
 **[[:gu:obs:notes:frames:32-15|<<]] | [[:gu:obs:notes:32|Up]] | [[:gu:obs:notes:frames:33-01|>>]]**
