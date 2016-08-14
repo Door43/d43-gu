@@ -1,19 +1,17 @@
-===== The Disciples Slept [38-13] =====
+===== શિષ્યો ઉંઘતા હતા [38-13] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-13.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-13.jpg?nolink&}}
 
-**After each time of prayer**, **Jesus** came back to his **disciples**, but they were asleep. When he returned the third time, Jesus said, “Wake up! My **betrayer** is here.”
-===== Important Terms: =====
+પ્રાર્થનાના દરેક સમય પછી, ઈસુ તેમના શિષ્યો પાસે પાછા આવ્યા, પરંતુ તેઓ નિદ્રાધીન હતા. જ્યારે તેઓ ત્રીજી વખત પાછા આવ્યા, ઈસુએ કહ્યું, "જાગો! મારા વિશ્વાસઘાતી આવી પહોંચ્યા છે. "
 
-  * **[[:gu:obe:other:pray]]**
-  * **[[:gu:obe:kt:jesus]]**
-  * **[[:gu:obe:kt:disciple]]**
-  * **[[:gu:obe:kt:betray]]**
+===== મહત્વપૂર્ણ શબ્દો: =====
 
+  * **પ્રાર્થના**
+  * **ઈસુ**
+  * **શિષ્યો**
+  * **વિશ્વાસઘાતી**
+===== અનુવાદ નોંધો: =====
 
-===== Translation Notes: =====
-
-  * **After each time of prayer** - That is, "Every time Jesus prayed that prayer." This refers to the three times he prayed, as mentioned in **[[:gu:obs:notes:frames:38-12|[38-12]]]**.
-
-
+  * પ્રાર્થનાના દરેક સમય પછી - એટલે કે, "દર વખતે ઈસુએ એ પ્રાર્થના માટે પ્રાર્થના કરી."
+  * આ ત્રણ વખત તેમણે પ્રાર્થના કરી તેનો ઉલ્લેખ કરે છે, __\ [____૩૮____-____૧૨____]__ {૭] [૮}માં ઉલ્લેખ કર્યો છે.
 **[[:gu:obs:notes:frames:38-12|<<]] | [[:gu:obs:notes:38|Up]] | [[:gu:obs:notes:frames:38-14|>>]]**
