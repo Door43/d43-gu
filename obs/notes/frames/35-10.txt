@@ -1,14 +1,14 @@
-===== The Older Brother [35-10] =====
+===== મોટો ભાઇ [35-10] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-10.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-10.jpg?nolink&}}
 
-“So the people began to celebrate. **Before long**, the older son came home from working in the field. He heard the music and dancing and wondered what was happening.”
-===== Important Terms: =====
+"તેથી લોકોએ ઉજવણી કરવાનું શરૂ કર્યું હતું. ઘણો સમય વિતે એ પહેલાં, મોટો દીકરો ખેતરના કામ પરથી ઘરે આવ્યો. તેણે સંગીત અને નૃત્યનો અવાજ સાંભળ્યો અને આશ્ચર્ય થયું કે શું બની રહ્યું હતું. "
 
-===== Translation Notes: =====
+===== મહત્વપૂર્ણ શબ્દો: =====
 
-  * (Jesus continues the story.)
-  * **Before long** - This can also be translated as, "Soon" or, "After a little while."
+===== અનુવાદ નોંધો: =====
 
+  * (ઈસુ વાર્તા ચાલુ રાખે છે.)
+  * ઘણો સમય વિતે એ પહેલાં - આ પણ આવી રીતે અનુવાદ કરી શકાય છે, "ટૂંક સમયમાં" અથવા, "થોડી વાર પછી."
 
 **[[:gu:obs:notes:frames:35-09|<<]] | [[:gu:obs:notes:35|Up]] | [[:gu:obs:notes:frames:35-11|>>]]**
