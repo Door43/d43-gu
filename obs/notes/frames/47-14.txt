@@ -1,22 +1,23 @@
-===== Letters to the Churches [47-14] =====
+===== ચર્ચોને પત્રો [47-14] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-14.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-14.jpg?nolink&}}
 
-**Paul** and other **Christian** leaders traveled to many cities, **preaching** and teaching people the **good news** about **Jesus**. They also wrote **many letters** to encourage and teach the **believers** in the **churches**. Some of these letters became books of the Bible.
-===== Important Terms: =====
+પાઉલ અને અન્ય​ ​ખ્રિસ્તી નેતાઓએ ઘણા શહેરોમાં, ​​લોકો​ને ઈસુ વિશે સુસમાચાર, ઉપદેશ અને શિક્ષણ, દ્વારા પ્રચાર કરતા રહીને પ્રવાસ કર્યો . તેઓએ અનેક પત્રો પણ લખ્યા જે ચર્ચમાં શિષ્યોને પ્રોત્સાહન આપે અને શીખવે.
 
-  * **[[:gu:obe:other:paul]]**
-  * **[[:gu:obe:kt:christian]]**
-  * **[[:gu:obe:other:preach]]**
-  * **[[:gu:obe:kt:goodnews]]**
-  * **[[:gu:obe:kt:jesus]]**
-  * **[[:gu:obe:kt:believer]]**
-  * **[[:gu:obe:kt:church]]**
+આમાના કેટલાક પત્રો બાઇબલના પુસ્તકો બની ગયા છે.
 
+===== મહત્વપૂર્ણ શબ્દો: =====
 
-===== Translation Notes: =====
+  * પાઉલ
+  * ખ્રિસ્તી
+  * ઉપદેશ
+  * સારા સમાચાર
+  * ઈસુ
+  * શિષ્યો
+  * ચર્ચ
 
-  * //A Bible story from//  - These references may be slightly different in some Bible translations.
+===== અનુવાદ નોંધો: =====
 
+  * બાઇબલની વાર્તાઓ-. આ સંદર્ભો બાઇબલના કેટલાક અનુવાદમા સહેજ અલગ હોઈ શકે છે
 
 **[[:gu:obs:notes:frames:47-13|<<]] | [[:gu:obs:notes:47|Up]] | [[:gu:obs:notes:frames:48-01|>>]]**
