@@ -1,30 +1,27 @@
-===== Jesus Died and Rose Again [49-12] =====
+===== ઈસુના મરણ પામ્યાં અને ફરીથી જીવી ઉઠ્યાં [49-12] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-12.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-12.jpg?nolink&}}
 
-**Good works cannot save you**. There is nothing you can do to have a relationship with **God**. Only **Jesus** can **wash away your sins**. You must **believe** that Jesus is the **Son of God**, that he **died** on the **cross instead of you**, and that God **raised him to life again**.
+સારા કામ તમને બચાવી શકે તેમ નથી. તમે તમારી રીતે દેવ સાથે સંબંધ બની શકે એવું કશુંપણ ન કરી શકો. તમારા પાપો દૂર કરી તમને ધોવાનુ કાર્ય માત્ર ઈસુ જ કરી શકે છે. તમારે ઈસુને દેવનો દીકરો છે તે માનવું જ પડશે, એ કે તેઓ સુળી પર મૃત્યુ પામ્યા તમારા બદલે, અને એ કે દેવે તેમને જીવન માટે ફરીથી જીવતા ઊભા કર્યા.
 
+===== મહત્વપૂર્ણ શબ્દો: =====
 
-===== Important Terms: =====
+  * બચાવવું
+  * દેવ
+  * ઈસુ
+  * પાપો
+  * માનવું
+  * દેવનો દીકરો
+  * મૃત્યુ પામ્યા
+  * વધસ્તંભ
+  * ઊભા કર્યા
+  * જીવન
 
-  * **[[:gu:obe:kt:save]]**
-  * **[[:gu:obe:kt:god]]**
-  * **[[:gu:obe:kt:jesus]]**
-  * **[[:gu:obe:kt:sin]]**
-  * **[[:gu:obe:kt:believe]]**
-  * **[[:gu:obe:kt:sonofgod]]**
-  * **[[:gu:obe:kt:death]]**
-  * **[[:gu:obe:kt:cross]]**
-  * **[[:gu:obe:kt:raise]]**
-  * **[[:gu:obe:kt:life]]**
+===== અનુવાદ નોંધો: =====
 
-
-===== Translation Notes: =====
-
-  * **Good works cannot save you** - That is, "Doing good things cannot save you from your sins" or, "You cannot do anything good enough to save yourself from the penalty for your sins."
-  * **wash away your sins** - That is, "completely remove your sins" or, "take away your sins and make you clean." This is talking about God purifying people in their spirit by completely removing their sins. It does not mean physical washing.
-  * **instead of you** - That is, " in your place."
-  * **raised him to life again** - This could also be translated as, "made him alive again."
-
+  * સારા કામ કરે છે તે તમને બચાવી શકે તેમ નથી - એટલે કે, "સારી બાબતો કરવી એ તમારા પાપોથી તમને બચાવી શકે તેમ નથી" અથવા, "તમે કંઈપણ એટલું સારું ન કરી શકો જે તમને તમારા પાપોની સજામાંથી બચાવે શકે."
+  * તમારા પાપો ધોવા - એટલે કે, "સંપૂર્ણપણે તમારા પાપોને દૂર કરે છે" અથવા, "તમારા પાપો દૂર લઇ જઈ અને તમને પવિત્ર બનાવે છે." દેવ તેઓના પાપોને સંપુર્ણ રીતે દુર કરી લોકોના આત્માનું શુધ્ધિકરણ કરે છે એ વિશેની આ વાત કરે છે. તેનો અર્થ એ ભૌતિક ધુલાઈ નથી.
+  * તમારા બદલે - એટલે કે, "તમારી જગ્યાએ."
+  * તેમને જીવન માટે ફરીથી ઊભા કર્યા - આ રીતે પણ ભાષાંતર કરી શકાય છે, "તેમને ફરીથી જીવંત કર્યા"
 
 **[[:gu:obs:notes:frames:49-11|<<]] | [[:gu:obs:notes:49|Up]] | [[:gu:obs:notes:frames:49-13|>>]]**
