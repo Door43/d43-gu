@@ -1,19 +1,17 @@
-===== The House of the High Priest [39-01] =====
+===== ઉચ્ચ મહાયાજકનું ઘર [39-01] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-01.jpg?nolink&}}
 
-It was now **the middle of the night**. The soldiers led **Jesus** to the house of the **high priest** in order for the high priest **to question him**. **Peter** followed far behind them. When Jesus was taken into the house, Peter stayed outside and warmed himself by a fire.
-===== Important Terms: =====
+તે હવે રાત્રીનો મધ્ય સમય હતો. સૈનિકો ઈસુને દોરીને મંદિરમાં પ્રમુખ યાજક પાસે લઈ ગયા જેથી પ્રમુખ યાજક ઈસુને પ્રશ્ન પુછી શકે. પીતર અત્યાર સુધી તેમની પાછળ પાછળ ગયો. ઈસુને મંદિરમાં લઈ લેવામાં આવ્યો હતો, ત્યારે પીતર બહાર રહી ગયો અને આગ પાસે પોતાને ગરમાવી રહ્યો હતો.
 
-  * **[[:gu:obe:kt:jesus]]**
-  * **[[:gu:obe:kt:highpriest]]**
-  * **[[:gu:obe:other:peter]]**
+===== મહત્વપૂર્ણ શબ્દો: =====
 
+  * **ઈસુ**
+  * **પ્રમુખ****યાજક**
+  * **પીતર**
+===== અનુવાદ નોંધો: =====
 
-===== Translation Notes: =====
-
-  * **the middle of the night** - This expression means, "halfway through the night" or, "very late at night."
-  * **to question him** - That is, "to ask Jesus questions to try to find something they could accuse Jesus of doing wrong."
-
+  * રાત્રીના મધ્યમાં - આ અભિવ્યક્તિનો અર્થ થાય છે, " રાત્રીના અર્ધા રસ્તા મારફતે" અથવા, "રાત્રીના ખૂબ અંતમાં."
+  * તેને પ્રશ્ન કરે - એટલે કે, "ઈસુને પ્રશ્નો પૂછી તે કંઈક ખોટું કરી રહ્યાંનો ઈસુ પર દોષારોપણ કરી શકે એ શોધવા માટે પ્રયાસ કરે."
 
 **[[:gu:obs:notes:frames:38-15|<<]] | [[:gu:obs:notes:39|Up]] | [[:gu:obs:notes:frames:39-02|>>]]**
