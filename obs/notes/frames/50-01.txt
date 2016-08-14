@@ -1,21 +1,20 @@
-===== The Church Is Growing [50-01] =====
+===== મંડળી વધી રહ્યાં છે [50-01] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-01.jpg?nolink&}}
 
-For almost 2,000 years, more and more people around the world have been hearing the **good news** about **Jesus** the **Messiah**. **The Church has been growing**. Jesus **promised** he would return **at the end of the world**. Though he has not yet come back, he will keep his promise.
-===== Important Terms: =====
+લગભગ 2,000 વર્ષથી, સમગ્ર વિશ્વમાં વધુ અને વધુ લોકો ઈસુ​ ​મસીહ વિશે સારા સમાચાર સાંભળી રહ્યાં છે . ચર્ચ વધી રહ્યાં છે . ઈસુએ વચન આપ્યું છે કે જગતના અંત વખતે તેઓ પાછા આવશે. જોકે તેઓ હજુ સુધી પાછા નથી આવ્યા, તેઓ તેમનું વચન રાખશે.
 
-  * **[[:gu:obe:kt:goodnews]]**
-  * **[[:gu:obe:kt:jesus]]**
-  * **[[:gu:obe:kt:christ]]**
-  * **[[:gu:obe:kt:church]]**
-  * **[[:gu:obe:kt:promise]]**
+===== મહત્વપૂર્ણ શબ્દો: =====
 
+  * સારા સમાચાર
+  * ઈસુ
+  * મસીહ
+  * ચર્ચ
+  * વચન આપ્યું છે
 
-===== Translation Notes: =====
+===== અનુવાદ નોંધો: =====
 
-  * **The Church has been growing** - This could also be translated as, "The number of people in the Church around the world has been increasing" or, "The number of believers in Jesus has been increasing."
-  * **at the end of the world** - This phrase means, "right before the present world comes to an end" or, "in the final days of this world."
-
+  * ચર્ચ વધી રહ્યાં છે- આ રીતે પણ ભાષાંતર કરી શકો છો, "ચર્ચના લોકોની સંખ્યા વિશ્વમાં વધી રહી છે" અથવા, "ઈસુના અનુયાયીઓની સંખ્યા વધી રહી છે. "
+  * વિશ્વના અંત સમયે - આ શબ્દસમૂહનો અર્થ એ થાય કે, "હયાત વિશ્વનો અંત આવે એ પહેલા" "આ વિશ્વના અંતિમ દિવસોમાં"
 
 **[[:gu:obs:notes:frames:49-18|<<]] | [[:gu:obs:notes:50|Up]] | [[:gu:obs:notes:frames:50-02|>>]]**
