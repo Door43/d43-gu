@@ -1,23 +1,20 @@
-===== Judas Betrayed Jesus [38-14] =====
+===== યહુદા ઇસુને દગો કરે છે [38-14] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-14.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-14.jpg?nolink&}}
 
-**Judas** came with the **Jewish leaders**, soldiers, and a large crowd. They were carrying swords and clubs. Judas **came to Jesus** and said, “**Greetings**, **Teacher**,” and kissed him. This was **the sign** for the Jewish leaders to know whom to arrest. Then Jesus said, “Judas, **do you betray me with a kiss**?”
-===== Important Terms: =====
+યહુદા સાથે યહૂદી નેતાઓ, સૈનિકો, અને મોટી ભીડ આવી પહોંચી. તેઓ તલવારો અને લાકડીઓ લઈને આવ્યા હતા. યહુદા ઈસુ પાસે આવ્યો અને કહ્યું, "શુભેચ્છાઓ, ગુરૂ," અને તેને ચુંબન કર્યું. યહૂદી નેતાઓ માટે આ નિશાની હતી કે કોની ધરપકડ કરવાની હતી. પછી ઈસુએ કહ્યું, "યહૂદા, શું તું ચુંબન દ્વારા મને દગો કરે છે?"
 
-  * **[[:gu:obe:other:judasiscariot]]**
-  * **[[:gu:obe:other:jewishleaders]]**
-  * **[[:gu:obe:kt:jesus]]**
-  * **[[:gu:obe:kt:teacher]]**
-  * **[[:gu:obe:kt:betray]]**
+===== મહત્વપૂર્ણ શબ્દો: =====
 
+  * **યહુદા**
+  * **યહૂદી****નેતાઓ**
+  * **ઈસુ**
+  * **શિક્ષક**
+  * **વિશ્વાસઘાત**
+===== અનુવાદ નોંધો: =====
 
-===== Translation Notes: =====
-
-  * **came to** - Some languages may prefer to say, "went to."
-  * **Greetings** - This can also be translated as, "Hello" or, "Peace" or, "Good evening."
-  * **the sign** - That is, "the signal."
-  * **do you betray me with a kiss?** - That is, "are you really going to betray me with a kiss?" Jesus is not looking for an answer to this question. So some languages would translate it as a statement, such as, "you are betraying me by kissing me!" or, "you make your betrayal even worse by kissing me!"
-
+  * આવ્યા - કેટલીક ભાષાઓ એ કહેવું પસંદ કરી શકે છે, "ગયા હતા."
+  * શુભેચ્છાઓ - આ રીતે પણ ભાષાંતર કરી શકો છો, "હેલો" અથવા, "શાંતિ" અથવા, "શુભ સંધ્યા."
+  * નિશાની - એટલે કે "સંકેત છે.", તું મને એક ચુંબન દ્વારા દુશ્મનોને સોંપવા ઈચ્છે છે? - એટલે કે, "તું ખરેખર ચુંબન દ્વારા મને દગો કરે છે?" ઈસુને આ પ્રશ્નના જવાબની ઈચ્છા નથી. તેથી કેટલીક ભાષાઓ એક નિવેદનમાં તે ભાષાંતર કરશે, જેમ કે, "તું મને ચુંબન દ્વારા દગો કરે છે!" અથવા, "તું મને ચુંબન કરીને તારા વિશ્વાસઘાતને પણ ખરાબ બનાવે છે!"
 
 **[[:gu:obs:notes:frames:38-13|<<]] | [[:gu:obs:notes:38|Up]] | [[:gu:obs:notes:frames:38-15|>>]]**
