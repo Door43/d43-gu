@@ -1,28 +1,27 @@
-===== Philip on the Desert Road [45-07] =====
+===== ફિલિપ રણના માર્ગ પર [45-07] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-07.jpg?nolink&}}
 
-A **disciple** of **Jesus**' named Philip was one of the **believers** who fled from **Jerusalem** during the **persecution**. He went to **Samaria** where he **preached** about Jesus and many people were **saved**. Then **one day**, an **angel** from **God** told Philip to go to a certain road in the desert. As he walked along the road, Philip saw an important official from **Ethiopia** riding in his **chariot**. The **Holy Spirit** told Philip to go and talk to this man.
-===== Important Terms: =====
+ઈસુનો ​​ફિલિપ નામનો એક અનુયાયી હતો જે યરૂશાલેમમાંથી દમન દરમિયાન ભાગી ગયો હતો. તે સમરૂન ગયો જ્યાં તેણે ઈસુ વિશે ઉપદેશ આપ્યો અને ઘણા લોકોને બચાવી લીધા હતા . પછી એક દિવસ , એક દુત દેવ તરફથી રણમાં ચોક્કસ માર્ગ પર જવા માટે ફિલિપને જણાવ્યું હતું. જેવો તે માર્ગમાં જતો હતો ત્યારે ફિલિપે સાથે ચાલતા લોકોમાં એક મહત્વપૂર્ણ અધિકારીને જોયો, જે ઇથોપિયાથી તેના રથ ઉપર સવાર હતો. પવિત્ર આત્માએ ફિલિપને જણાવ્યું હતું જા અને આ માણસ સાથે વાત કર.
 
-  * **[[:gu:obe:kt:disciple]]**
-  * **[[:gu:obe:kt:jesus]]**
-  * **[[:gu:obe:kt:believer]]**
-  * **[[:gu:obe:other:jerusalem]]**
-  * **[[:gu:obe:other:persecute]]**
-  * **[[:gu:obe:other:samaria]]**
-  * **[[:gu:obe:other:preach]]**
-  * **[[:gu:obe:kt:save]]**
-  * **[[:gu:obe:kt:angel]]**
-  * **[[:gu:obe:kt:god]]**
-  * **[[:gu:obe:other:chariot]]**
-  * **[[:gu:obe:kt:holyspirit]]**
+===== મહત્વપૂર્ણ શબ્દો: =====
 
+  * શિષ્ય
+  * ઈસુના
+  * શિષ્યો
+  * યરૂશાલેમમાં
+  * દમન
+  * સમરૂન
+  * ઉપદેશ
+  * સાચવ્યા
+  * દેવદુત
+  * દેવ
+  * રથ
+  * પવિત્ર આત્મા
 
-===== Translation Notes: =====
+===== અનુવાદ નોંધો: =====
 
-  * **one day** - This phrase introduces an event that happened in the past, but does not state the specific time. Many languages have a similar way to begin telling a true story.
-  * **Ethiopia** - Ethiopia is a country in Eastern Africa.
-
+  * એક દિવસ - આ શબ્દસમૂહ એક ઘટના જે ભૂતકાળમાં ઘટી હતી તેનો પરિચય આપે છે, પરંતુ ચોક્કસ સમય દર્શાવતો નથી.ઘણી ભાષાઓ એ જ રીતે એક સાચી વાર્તા કહેવી શરૂ કરતી હોય છે.
+  * ઇથોપિયા - ઇથોપિયા પૂર્વ આફ્રિકામાં એક દેશ છે {૪.]
 
 **[[:gu:obs:notes:frames:45-06|<<]] | [[:gu:obs:notes:45|Up]] | [[:gu:obs:notes:frames:45-08|>>]]**
