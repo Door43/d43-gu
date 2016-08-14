@@ -1,20 +1,18 @@
-===== Speaking Other Languages [43-03] =====
+===== અન્ય ભાષા બોલતા [43-03] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-03.jpg?nolink&}}
 
+જ્યારે **શિષ્યો** ભેગા થયા હતા, અચાનક એ ઘર જ્યાં તેઓ સાથે હતા **મજબૂત** **પવન** **જેવા** **અવાજથી** ભરાઈ ગયું. પછી કંઈક જે આગની જ્વાળાઓ જેવું દેખાઈ દેતુ હતું એ બધા શિષ્યોના માથા પર દેખાયું. તેઓ બધા **પવિત્ર** **આત્માથી** **ભરપૂર થઈ ગયા** અને તેઓએ **અન્ય** **ભાષાઓમાં** બોલવાનું શરૂ કર્યું.
+===== મહત્વપૂર્ણ શબ્દો: =====
 
-While the **believers** were all together, suddenly the house where they were was filled with **a sound like a strong wind**. Then something that looked like flames of fire appeared over the heads of all the believers. They were all **filled with the Holy Spirit** and they began to speak **in other languages**.
-===== Important Terms: =====
+  * શિષ્યો
+  * પવિત્ર આત્મા
 
-  * **[[:gu:obe:kt:believer]]**
-  * **[[:gu:obe:kt:holyspirit]]**
+===== અનુવાદ નોંધો: =====
 
-
-===== Translation Notes: =====
-
-  * **a sound like a strong wind** - That is, "a noise that a strong wind makes" or, "the sound that the wind makes when it blows hard."
-  * **filled with the Holy Spirit** - That is, "given ability by the Holy Spirit" or, "given power by the Holy Spirit."
-  * **in other languages** - This could be translated as, "in languages other than their own language" or, "in foreign languages" or, "as people from other places speak." The believers did not know these languages until the Holy Spirit gave them the power to speak them. Make sure the word used to translate "languages" refers to languages people actually speak and understand.
-
+  * સખત પવન જેવો અવાજ - એટલે કે, "એક અવાજ જે સખત પવન કરે છે" અથવા, "ધ્વનિ જે પવન કરે છે જ્યારે તે સખત રીતે વાય છે"
+  * પવિત્ર આત્માથી ભરપૂર - એટલે કે, "પવિત્ર આત્મા દ્વારા ક્ષમતા આપવામાં આવી" અથવા, "પવિત્ર આત્મા દ્વારા અધિકાર આપવામાં આવી"
+  * અન્ય ભાષાઓમાં - આ રીતે અનુવાદત કરી શકાય છે, "તેમની પોતાની ભાષા કરતાં અન્ય ભાષાઓમાં" અથવા, "વિદેશી ભાષાઓમાં" અથવા," અન્ય સ્થળોની લોક બોલી." શિષ્યોને આ ભાષાઓ ખબર ન હતી જ્યાં સુધી પવિત્ર આત્માએ તેઓને તે બોલવા માટે શક્તિ આપી.
+  * ખાતરી કરો કે જે શબ્દ "ભાષાઓ" અનુવાદ કરવા માટે વાપર્યો હોય એ ઉલ્લેખ કરે એ ભાષાઓનો જે લોકો ખરેખર બોલે છે અને સમજે છે.
 
 **[[:gu:obs:notes:frames:43-02|<<]] | [[:gu:obs:notes:43|Up]] | [[:gu:obs:notes:frames:43-04|>>]]**
