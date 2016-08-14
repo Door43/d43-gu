@@ -2,19 +2,7 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-02.jpg?nolink&}}
 
-The soldiers brought **Jesus** to a place called “**the Skull**” and nailed his hands and feet to the **cross**. But Jesus said, “**Father**, **forgive them**, **because they do not know what they are doing**.” **Pilate** commanded that they write, “**King of the Jews**” on a sign and put it on the cross above Jesus’ head.
-===== Important Terms: =====
-
-  * **[[:gu:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
-  * **[[:gu:obe:kt:cross|cross]]**
-  * **[[:gu:obe:kt:godthefather|God the Father, Heavenly Father]]**
-  * **[[:gu:obe:kt:forgive|forgive, forgiveness]]**
-  * **[[:gu:obe:other:pilate|Pilate]]**
-  * **[[:gu:obe:kt:kingofthejews|King of the Jews]]**
-===== Translation Notes: =====
-
-  * **the Skull**  - A hill near Jerusalem with a white, rocky top that was shaped somewhat like the top of a skull.
-  * **forgive them, because they do not know what they are doing**  - That is, "they do not understand the meaning of what they are doing, so please forgive them." The soldiers thought Jesus was only a criminal who deserved to die. They did not understand that he was the Son of God.
+સૈનિકો **ઈસુને** એક સ્થળ પાસે લઈ આવ્યાં જે કહેવાય છે **" ****ખોપરી** " અને તેના હાથ અને પગમાં ખીલા ઠોકીને લટકાવવામાં આવ્યા **વધસ્તંભમાં** . પરંતુ ઈસુએ કહ્યું, **" ****પિતા** , **તેમને** **માફ** **કર** , **કારણ** **કે** **તેઓ** **શું** **કરી** **રહ્યા** **છે** **તેની** **તેઓને** **ખબર** **નથી****.** " **પિલાતેએ** આજ્ઞા આપી કે તેઓ લખે, **" ****યહૂદિઓનો** **રાજા** " એક ચિન્હ પત્ર પર અને ઈસુના માથા ઉપર વધસ્તંભ પર મૂકે.
 ===== મહત્વપૂર્ણ શબ્દો: =====
 
   * ઈસુ
@@ -24,6 +12,7 @@ The soldiers brought **Jesus** to a place called “**the Skull**” and nailed 
   * પિલાતે
   * યહૂદિઓનો રાજા
   *
+
 ===== અનુવાદ નોંધો: =====
 
   * ખોપરી - એક ટેકરી યરૂશાલેમ નજીક એક સફેદ, ખડકાળ ટોચ કે જે કંઈક અંશે એક ખોપરીની ટોચ જેવા આકારની હતી
