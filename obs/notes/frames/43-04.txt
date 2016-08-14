@@ -1,20 +1,17 @@
-===== The Crowd Gathered [43-04] =====
+===== ભીડ ભેગી થઈ [43-04] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-04.jpg?nolink&}}
 
+લોકોએ જ્યારે **યરૂશાલેમમાં** અવાજ સાંભળ્યો, ત્યારે એક **ભીડ ** જોવા માટે ભેગી થઈ કે શું થઈ રહ્યું હતું. જ્યારે લોકોએ **પરમેશ્વરનાં** **અદ્ભુત** **કાર્યો** **વિશે**** શિષ્યો** ની ઘોષણા સાંભળી જે તેઓ તેમના જ પોતાના મૂળ વતનની ભાષાઓમાં સાંભળી રહ્યા હતા, તેઓ નવાઇ પામ્યા.
+===== મહત્વપૂર્ણ શબ્દો: =====
 
-When the people in **Jerusalem** heard the noise, **a crowd** came to see what was happening. When the people heard the **believers** proclaiming **the wonderful works of God**, they were astonished that they were hearing these things in their own native languages.
-===== Important Terms: =====
+  * યરૂશાલેમમાં
+  * શિષ્યો
+  * દેવ
 
-  * **[[:gu:obe:other:jerusalem]]**
-  * **[[:gu:obe:kt:believer]]**
-  * **[[:gu:obe:kt:god]]**
+===== અનુવાદ નોંધો: =====
 
-
-===== Translation Notes: =====
-
-  * **a crowd** - This could be translated as, "a crowd of people" or, "a large group of people."
-  * **the wonderful works of God** - This could be translated as, "the amazing things that God had done."
-
+  * ભીડ - આ રીતે ભાષાંતર કરી શકાય છે, "લોકોની એક ભીડ" અથવા, "લોકોનું એક મોટું જૂથ."
+  * પરમેશ્વરનાં અદ્ભુત કાર્યો - આ રીતે ભાષાંતર કરી શકાય છે "અદભુત બાબતો જે દેવે કરી હતી"
 
 **[[:gu:obs:notes:frames:43-03|<<]] | [[:gu:obs:notes:43|Up]] | [[:gu:obs:notes:frames:43-05|>>]]**
