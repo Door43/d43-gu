@@ -1,25 +1,23 @@
-===== Your Will Be Done [38-12] =====
+===== તમારી ઈચ્છા પૂર્ણ થશે [38-12] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-12.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-12.jpg?nolink&}}
 
-**Jesus prayed** three times, “**My Father**, if it is possible, please let me not have to **drink this cup of suffering**. But if there is no other way for people’s **sins** to be **forgiven**, then **let your will be done**.” Jesus was very troubled and **his sweat was like drops of blood**. **God** sent an **angel** to strengthen him.
-===== Important Terms: =====
+ઈસુએ ત્રણ વખત પ્રાર્થના કરી, "ઓ મારા તાત, જો શક્ય હોય તો કૃપા કરીને વેદનાનો આ પ્યાલો મને પીવા ના દે. પરંતુ જો મનુશ્યોના પાપોની માફી માટે અન્ય કોઈ માર્ગ ના હોય, તો પછી તમારી ઈચ્છા પુરી થવા દો. " ઈસુ ખૂબ જ મુશ્કેલીમાં હતા અને તેમનો પરસેવો લોહીનાં ટીપાં જેવો હતો. તેમને હિંમત આપવા દેવે એક દેવદૂત મોકલ્યો.
 
-  * **[[:gu:obe:kt:jesus]]**
-  * **[[:gu:obe:other:pray]]**
-  * **[[:gu:obe:kt:godthefather]]**
-  * **[[:gu:obe:kt:suffer]]**
-  * **[[:gu:obe:kt:sin]]**
-  * **[[:gu:obe:kt:forgive]]**
-  * **[[:gu:obe:kt:blood]]**
-  * **[[:gu:obe:kt:god]]**
-  * **[[:gu:obe:kt:angel]]**
+===== મહત્વપૂર્ણ શબ્દો: =====
 
+  * **ઈસુ**
+  * **પ્રાર્થના**
+  * **મારા****પિતા**
+  * **પીડા**
+  * **પાપ**
+  * **માફ**
+  * **રક્ત**
+  * **દેવ**
+  * **દેવદૂત**
+===== અનુવાદ નોંધો: =====
 
-===== Translation Notes: =====
-
-  * **drink this cup of suffering** - That is, "go through this suffering" or, "suffer what is about to happen" or, "endure this suffering."
-  * **let your will be done** - This expression means, "do what you have planned" or, "do what needs to be done."
-
+  * દુઃખના આ પ્યાલામાંથી પીઓ - એટલે કે, "આ વેદનામાંથી પસાર થાઓ" અથવા, "ભોગવો જે હવે થવા વિશે છે" અથવા, "આ વેદના સહન કરો."
+  * તમારી ઈચ્છા પુરી કરવામાં આવશે - આ અભિવ્યક્તિનો અર્થ થાય છે, "તમારી યોજના મુજબ કરો" અથવા, "જે કરવાની જરૂર છે એ કરો"
 
 **[[:gu:obs:notes:frames:38-11|<<]] | [[:gu:obs:notes:38|Up]] | [[:gu:obs:notes:frames:38-13|>>]]**
