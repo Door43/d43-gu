@@ -1,25 +1,23 @@
-===== Jesus Died [40-07] =====
+===== ઈસુનું મરણ [40-07] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-07.jpg?nolink&}}
 
-Then **Jesus** cried out, “**It is finished**! **Father**, I give my **spirit into your hand**s.” Then he **bowed his head** and **gave up his spirit**. When he **died**, there was an earthquake and the **large curtain** that separated the people from the presence of **God** in the **Temple** was torn in two, from the top to the bottom.
-===== Important Terms: =====
+પછી **ઈસુએ** બૂમો પાડી, **" ****બધું** **પુર્ણ** **થયું** **છે** ! **પિતા** , હું તમને મારો પ્રાણ **તમારા** **હાથમાં** આપું છું. " પછી તેમણે **તેમનું** **માથું** **ઝુકાવ્યું** અને **તેમનો** **પ્રાણ** **આપ્યો****.** જ્યારે તે **મૃત્યુ** **પામ્યા** **હતા**, ત્યારે ધરતીકંપ થયો હતો અને **મોટો** **પડદો** જે લોકોને **દેવની** હાજરીથી અલગ કરતો હતો તે **મંદિરમાં** બે ભાગ થઈ ગયો હતો, ઉંચે પરથી નીચે સુધી.
+===== મહત્વપૂર્ણ શબ્દો: =====
 
-  * **[[:gu:obe:kt:jesus]]**
-  * **[[:gu:obe:kt:godthefather]]**
-  * **[[:gu:obe:kt:spirit]]**
-  * **[[:gu:obe:kt:death]]**
-  * **[[:gu:obe:kt:god]]**
-  * **[[:gu:obe:kt:temple]]**
+  * ઈસુ
+  * પિતા
+  * આત્મા
+  * મૃત્યુ પામ્યા
+  * દેવ
+  * મંદિર
 
+===== અનુવાદ નોંધો: =====
 
-===== Translation Notes: =====
-
-  * **It is finished!** - This could also be translated as, "It is completed" or, "I have finished it" or, "I have completed the work." This means that Jesus' work of salvation was complete.
-  * **into your hands** - That is, "into your care."
-  * **bowed his head** - That is, "lowered his head."
-  * **gave up his spirit** - That is, "gave up his spirit to God" or, "released his spirit to God and died."
-  * **large curtain** - This was a large, strong fabric hung in the temple. It was like a wall separating one room from another. It can also be translated as "thick curtain" or, "hanging fabric" or, "screen."
-
+  * તે સમાપ્ત થયું! - આ રીતે પણ ભાષાંતર કરી શકાય છે કે"તે પૂર્ણ છે" અથવા, "મેં તે સમાપ્ત કર્યું છે" અથવા, "મેં કામ પૂર્ણ કરી દિધું છે." આનો અર્થ એ થાય છે કે ઈસુનું મુક્તિનું કામ પૂર્ણ થઇ ગયુ હતું.
+  * તમારા હાથમાં - એટલે કે, "તમારી સંભાળ માં."
+  * તેમનું માથું ઝુકાવીને - એટલે કે, "તેમના માથાને લટકાવી દીધું હતું."
+  * તેમનો આત્મા સોંપી દીધો - એટલે કે, "દેવને તેમનો આત્મા આપ્યો" અથવા, "દેવ માટે તેમનો આત્મા આઝાદ કર્યો અને મૃત્યુ પામ્યા."
+  * મોટો પડદો - આ એક મોટો, મંદિરમાં લટકાવવામાં આવતું મજબૂત કપડું હતું. તે દિવાલ સમાન અન્ય એક કમરાને બીજા કમરાથી અલગ કરતો હતો. તે પણ આ તરીકે ભાષાંતર કરી શકાય "જાડો પડદો" અથવા, "લટકતું જાડું કપડું" અથવા, "પડદો."
 
 **[[:gu:obs:notes:frames:40-06|<<]] | [[:gu:obs:notes:40|Up]] | [[:gu:obs:notes:frames:40-08|>>]]**
