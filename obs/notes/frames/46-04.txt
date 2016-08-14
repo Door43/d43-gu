@@ -1,24 +1,23 @@
-===== God Sent Ananias to Saul [46-04] =====
+===== દેવે અનાન્યાને શાઉલ પાસે મોકલ્યો [46-04] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-46-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-46-04.jpg?nolink&}}
 
-There was a **disciple** in Damascus named Ananias. **God** said to him, “Go to the house where **Saul** is staying. Place your hands on him so that he can see again.” **But Ananias said**, “**Master**, I have heard how this man has **persecuted** the believers.” **God answered him**, “Go! I have chosen him **to declare my name** to the Jews and to people from other people groups. He will **suffer** many things **for my name**.”
-===== Important Terms: =====
+ત્યાં દમાસ્કસમાં અનાન્યા નામે એક શિષ્ય હતો. દેવે તેને કહ્યું, "એ ઘરમાં જા જ્યાં શાઉલ રહે છે. તેના પર તારો હાથ મૂક જેથી તે ફરીથી જોઈ શકે. "પરંતુ અનાન્યાએ જણાવ્યું કે , "પ્રભુ, મેં સાંભળ્યું છે કે આ માણસ અનુયાયીઓ પર કેવી રીતે અત્યાચાર ગુજારે છે." દેવ તેને જવાબ આપ્યો, "જા! મેં તેને મારું નામ યહૂદીઓ અને અન્ય લોકો જૂથોમાં જાહેર કરવા માટે પસંદ કરેલ છે. તે ઘણી બાબતોમાં મારા નામ માટે દુઃખ ભોગવશે."
 
-  * **[[:gu:obe:kt:disciple]]**
-  * **[[:gu:obe:kt:god]]**
-  * **[[:gu:obe:other:paul]]**
-  * **[[:gu:obe:kt:lord]]**
-  * **[[:gu:obe:other:persecute]]**
-  * **[[:gu:obe:kt:suffer]]**
+===== મહત્વપૂર્ણ શબ્દો: =====
 
+  * શિષ્ય
+  * દેવ
+  * શાઉલ
+  * માલિક
+  * અત્યાચાર ગુજાર્યો
+  * દુઃખ ભોગવશે
 
-===== Translation Notes: =====
+===== અનુવાદ નોંધો: =====
 
-  * **But Ananias said** - If it is not clear why the word "But" is used here, this could be translated as, "But Ananias was afraid, so he said."
-  * **God answered him** - This could be translated as, "To reassure Ananias, God said" to make clear why God said this.
-  * **to declare my name** - That is, "to teach about me" or, "to make me known."
-  * **for my name** - That is, "for me" or, "because of me" or, "because he serves me" or, "because he teaches others about me."
-
+  * પરંતુ અનાન્યાએ જણાવ્યું કે - જો તે સ્પષ્ટ ન હોય કે શા માટે શબ્દ "પરંતુ" અહીં ઉપયોગ થયો છે, તો આવી રીતે અનુવાદ કરી શકાય, "પરંતુ અનાન્યા ભયભીત હતો, તેથી તેણે જણાવ્યું હતું"
+  * દેવે તેને જવાબ આપ્યો - આ રીતે ભાષાંતર કરી શકે છે, "અનાન્યાની શંકા દૂર કરવા માટે, દેવે કહ્યું" એ સ્પષ્ટ કરવા માટે કે શા માટે દેવ આ કહ્યું હતું.
+  * મારું નામ જાહેર કરવા માટે- એટલે કે, "મારા વિશે શીખવવા માટે" અથવા, "મને પ્રખ્યાત કરવા માટે"
+  * મારા નામ માટે - એટલે કે, "મારા માટે" અથવા, "મારા કારણે" અથવા, "કારણ કે તે મારી સેવા કરે છે" અથવા, "કારણ કે તે મારા વિશે અન્યને શીખવે" છે,
 
 **[[:gu:obs:notes:frames:46-03|<<]] | [[:gu:obs:notes:46|Up]] | [[:gu:obs:notes:frames:46-05|>>]]**
