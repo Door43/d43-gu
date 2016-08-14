@@ -1,25 +1,24 @@
-===== The Fields Are Ripe [50-03] =====
+===== ખેતરો પાકેલા છે [50-03] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-03.jpg?nolink&}}
 
-Many **people groups** still have not heard about **Jesus**. Before he returned to **heaven**, Jesus told **Christians** to proclaim the **good news** to people who have never heard it. He said, “Go and **make disciples** of all people groups!” and, “**The fields are ripe for harvest**!”
-===== Important Terms: =====
+ઘણા લોકોના જૂથોએ હજુ પણ ઈસુ વિશે સાંભળ્યું ન હોય .તેઓ સ્વર્ગમાંથી પાછા ફરે એ પહેલાં ઈસુએ કહ્યું હતું કે ખ્રિસ્તીઓ જે લોકોએ સારા સમાચાર જે તેઓએ ક્યારેય સાંભળ્યા નહિ હોય એ વિશે ​​લોકોને ઢંઢેરો પીટશે. તેમણે જણાવ્યું હતું કે, "જાઓ અને તમામ લોકોના જૂથોને શિષ્યો બનાવો!" અને, "ખેતરો લણણી માટે તૈયાર છે!"
 
-  * **[[:gu:obe:other:peoplegroup]]**
-  * **[[:gu:obe:kt:jesus]]**
-  * **[[:gu:obe:kt:heaven]]**
-  * **[[:gu:obe:kt:christian]]**
-  * **[[:gu:obe:kt:goodnews]]**
-  * **[[:gu:obe:kt:disciple]]**
+===== મહત્વપૂર્ણ શબ્દો: =====
 
+  * લોકોના જૂથો
+  * ઈસુ
+  * સ્વર્ગ
+  * ખ્રિસ્તીઓ
+  * સારા સમાચાર
+  * શિષ્યો
 
-===== Translation Notes: =====
+===== અનુવાદ નોંધો: =====
 
-  * **make disciples** - This has the meaning, "help people to become my disciples."
-  * **The fields are ripe for harvest** - This could also be translated as, "They are ready to be brought to God like fields that are ripe for harvest" or, "They are ready to be gathered and brought to God like fields whose crops are ripe and ready to be gathered."
-  * **The fields** - In this expression, "The fields" represents the people in the world.
-  * **ripe** - "Ripe" here represents being ready to believe in Jesus.
-  * **harvest** - "Harvest" here represents the work of bringing people to God by teaching them about Jesus.
-
+  * શિષ્યો બનાવો - આનો અર્થ છે, "લોકોને મારા શિષ્યો બને એ માટે મદદ કરો"
+  * ખેતરો લણણી માટે તૈયાર છે - આ, આ રીતે પણ ભાષાંતર કરી શકાય છે અથવા, "તેઓ દેવ પાસે લઈ આવવા માટે તૈયાર છે જેવી રીતે ખેતરો લણણી માટે તૈયાર હોય છે" અથવા, "તેઓને ભેગા કરી દેવ પાસે લઈ આવવા માટે તૈયાર છે, જેવી રીતે ખેતરોનો પાક તૈયાર હોઈને લણણી કરી ભેગો કરવા માટે તૈયાર હોય છે."
+  * ખેતરો - આ અભિવ્યક્તિ, "ખેતરો" વિશ્વમાંના હયાત લોકોને રજૂ કરે છે {4.]
+  * પાકેલા - "તૈયાર" અહીં ઈસુને માની લેવા માટે તૈયાર છે દર્શાવે છે.
+  * લણણી - "લણણી" અહીં લોકોને ઇસુ વિશે શિક્ષણ આપી તેમને દેવ પાસે લઈ આવવાના કામને દર્શાવે છે.
 
 **[[:gu:obs:notes:frames:50-02|<<]] | [[:gu:obs:notes:50|Up]] | [[:gu:obs:notes:frames:50-04|>>]]**
