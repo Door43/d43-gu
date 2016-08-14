@@ -1,17 +1,15 @@
-===== The Son Repented [35-06] =====
+===== પુત્ર પસ્તાયો [35-06] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-06.jpg?nolink&}}
 
-“Finally, the younger son said to himself, ‘**What am I doing**? All my father’s **servants** have plenty to eat, and yet here I am starving. I will go back to my father and ask to be one of his servants.’”
-===== Important Terms: =====
+"છેલ્લે, નાના પુત્રએ પોતાને કહ્યું, "હું આ શું કરું છું? મારા પિતાના બધા સેવકોને ખાવા માટે પુષ્કળ હોય છે, અને અત્યાર સુધી અહીં હું ભૂખે મરું છું. હું મારા પિતા પાસે પાછો જઈશ અને તેમના એક સેવક બનાવવા પુછવાનો પ્રયત્ન કરીશ.
 
-  * **[[:gu:obe:other:servant]]**
+===== મહત્વપૂર્ણ શબ્દો: =====
 
+  * **સેવકો**
+===== અનુવાદ નોંધો: =====
 
-===== Translation Notes: =====
-
-  * (Jesus continues the story.)
-  * **What am I doing?** - That is, "Why am I living like this?" or, " I should not be living like this!" or, "It doesn't make sense for me to live like this." The son isn't really asking a question, so some languages will have to translate this as a statement.
-
+  * (ઈસુ વાર્તા ચાલુ રાખે છે.)
+  * હું શું કરી રહ્યો છું? - એટલે કે, "શા માટે હું આ્ના જેમ જીવી રહ્યો છું?" અથવા, "મારે આવી રીતે જીવવું ન જોઈએ!" અથવા, "મારે આના જેમ જીવવાનો કોઈ અર્થ નથી." પુત્ર ખરેખર એક પ્રશ્ન નથી પૂછતો, તેથી કેટલીક ભાષાઓએ એક નિવેદનમાં આ અનુવાદ કરવો પડશે.
 
 **[[:gu:obs:notes:frames:35-05|<<]] | [[:gu:obs:notes:35|Up]] | [[:gu:obs:notes:frames:35-07|>>]]**
