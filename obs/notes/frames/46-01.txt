@@ -1,24 +1,23 @@
-===== Saul Arrested the Believers [46-01] =====
+===== શાઉલે અનુયાયીઓની ધરપકડ કરી [46-01] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-46-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-46-01.jpg?nolink&}}
 
-**Saul** was the young man who **guarded the robes of the men who killed Stephen**. He did not **believe** in **Jesus**, and so he **persecuted** the **believers**. He went **from house to house** in **Jerusalem** to arrest both men and women and to put them in prison. The **high priest** gave Saul permission to go to the city of **Damascus** to arrest Christians there and to bring them back to Jerusalem.
-===== Important Terms: =====
+શાઉલ એ યુવાક હતો જેણે એ પુરુષના ઝભ્ભાની દેખભાળ કરી જેણે સ્તેફનની હત્યા કરી હતી . તે ઈસુમાં માનતો ન હતો, અને તેથી તેણે અનુયાયીઓ પર અત્યાચાર ગુજાર્યા હતા. તે યરૂશાલેમમાં ઘરે ઘરે ગયો જેથી પુરુષો અને મહિલાઓ બંનેની ધરપકડ કરી અને તેમને જેલમાં મુક્યાં અથવા બંધ કર્યા. પ્રમુખ યાજકે શાઉલને દમાસ્કસના શહેરમાં જવા માટે અને ત્યાંથી ખ્રિસ્તીઓની ધરપકડ કરી અને તેમને યરૂશાલેમમાં પાછા લાવવા માટે પરવાનગી આપી.
 
-  * **[[:gu:obe:other:paul]]**
-  * **[[:gu:obe:kt:believe]]**
-  * **[[:gu:obe:kt:jesus]]**
-  * **[[:gu:obe:other:persecute]]**
-  * **[[:gu:obe:kt:believer]]**
-  * **[[:gu:obe:other:jerusalem]]**
-  * **[[:gu:obe:kt:highpriest]]**
+===== મહત્વપૂર્ણ શબ્દો: =====
 
+  * શાઉલ
+  * માનવું
+  * ઈસુ
+  * અત્યાચાર ગુજાર્યા
+  * અનુયાયી
+  * યરૂશાલેમમાં
+  * પ્રમુખ યાજક
 
-===== Translation Notes: =====
+===== અનુવાદ નોંધો: =====
 
-  * **guarded the robes of the men who killed Stephen** - See **[[:gu:obs:notes:frames:45-06|[45-06]]]**.
-  * **from house to house** - That is, "into many houses."
-  * **Damascus** - Damascus is now the capital of the country of Syria. During Saul's time, it was a city belonging to the Roman Empire. Most of the people there were not Jewish, but there were some Jews and also some Christians living there.
-
+  * જે પુરુષે સ્તેફનને માર્યો હતો એના ઝભ્ભાની દેખભાળ રાખી હતી - જુઓ __​​[____૮____} \ [____૪૫____-____૦૬____]{__ ૯]{૧૦] .
+  * ઘર ઘરના - એટલે કે, "ઘણા ઘરો માં"
+  * દમાસ્કસ - દમાસ્કસ હવે સીરિયા દેશની રાજધાની છે. શાઉલના સમય દરમિયાન, તે રોમન સામ્રાજ્ય સાથે જોડાયેલું એક શહેર હતું. ત્યાં મોટા ભાગના લોકો યહૂદી ન હતા, પરંતુ કેટલાક યહૂદિઓ અને કેટલાક ખ્રિસ્તીઓ પણ ત્યાં રહેતા હતા.
 
 **[[:gu:obs:notes:frames:45-13|<<]] | [[:gu:obs:notes:46|Up]] | [[:gu:obs:notes:frames:46-02|>>]]**
