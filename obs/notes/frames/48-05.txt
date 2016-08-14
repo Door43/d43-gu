@@ -1,20 +1,19 @@
-===== A Way of Salvation [48-05] =====
+===== ઉધ્ધા્રર્નો એક માર્ગ [48-05] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-05.jpg?nolink&}}
 
-When **God** destroyed the whole earth by the flood, he provided the boat to **save** the people who **believed** in him. In the same way, everyone deserves to be **destroyed because of their sins**, but God provided **Jesus** to save everyone who believes in him.
-===== Important Terms: =====
+જ્યારે દેવે પૂર દ્વારા સમગ્ર પૃથ્વીનો નાશ કર્યો હતો, ત્યારે તેમણે એ લોકોને બચી જવા માટે હોડી પૂરી પાડી હતી જેઓએ તેમના પર વિશ્વાસ મુક્યો હતો. એ જ રીતે, દરેક તેમના પાપોના કારણે, નાશ કરી નાંખવાને પાત્ર છે, પરંતુ દેવે એ દરેકને જે તેમને માને છે બચી જવા માટે ઈસુ મસિહ આપી દિધા છે.
 
-  * **[[:gu:obe:kt:god]]**
-  * **[[:gu:obe:kt:save]]**
-  * **[[:gu:obe:kt:believe]]**
-  * **[[:gu:obe:kt:sin]]**
-  * **[[:gu:obe:kt:jesus]]**
+===== મહત્વપૂર્ણ શબ્દો: =====
 
+  * દેવ
+  * બચાવવું
+  * વિશ્વાસ મુક્યો
+  * પાપો
+  * ઈસુ
 
-===== Translation Notes: =====
+===== અનુવાદ નોંધો: =====
 
-  * **destroyed because of their sins** - This could also be translated as, "everyone should be punished eternally by God because they have sinned."
-
+  * તેમના પાપોને કારણે નાશ કર્યો - આ રીતે પણ ભાષાંતર કરી શકાય છે "દરેક દેવ દ્વારા સનાતન સજા ભોગવવાને પાત્ર છે, કારણ કે તેઓએ પાપ કર્યુ છે"
 
 **[[:gu:obs:notes:frames:48-04|<<]] | [[:gu:obs:notes:48|Up]] | [[:gu:obs:notes:frames:48-06|>>]]**
