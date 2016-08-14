@@ -1,22 +1,21 @@
-===== Saul Went to Jerusalem [46-08] =====
+===== શાઉલ યરૂશાલેમમાં ગયા [46-08] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-46-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-46-08.jpg?nolink&}}
 
-**Saul went to Jerusalem** to meet with the **disciples**, but they were afraid of him. Then a **believer** named **Barnabas** took Saul to the **apostles** and told them how Saul had **preached** boldly in Damascus. After that, the disciples **accepted Saul**.
-===== Important Terms: =====
+શાઉલ ​​શિષ્યોને મળવા માટે યરૂશાલેમમાં ગયો, પરંતુ તેઓ તેનાથી ડરતા હતા. પછી બાર્નાબાસ નામનો શિષ્ય શાઉલને લઈને પ્રેરિતો પાસે આવ્યો અને તેઓને જણાવ્યું કે કેવી રીતે શાઉલે દમાસ્કસમાં હિંમતભેર ઉપદેશ આપ્યા હતા. ત્યાર પછી, શિષ્યોએ શાઉલને સ્વીકાર્યો .
 
-  * **[[:gu:obe:other:paul]]**
-  * **[[:gu:obe:other:jerusalem]]**
-  * **[[:gu:obe:kt:disciple]]**
-  * **[[:gu:obe:kt:believer]]**
-  * **[[:gu:obe:other:barnabas]]**
-  * **[[:gu:obe:kt:apostle]]**
-  * **[[:gu:obe:other:preach]]**
+===== મહત્વપૂર્ણ શબ્દો: =====
 
+  * શાઉલ
+  * યરૂશાલેમમાં
+  * અનુયાયીઓ
+  * શિષ્ય
+  * બાર્નાબાસ
+  * પ્રેરિતો
+  * ઉપદેશ
 
-===== Translation Notes: =====
+===== અનુવાદ નોંધો: =====
 
-  * **accepted Saul** - That is, "believed that Saul also was a believer in Jesus."
-
+  * શાઉલને સ્વીકાર્યો - એટલે કે, "માન્યું કે શાઉલ પણ ઈસુમાં એક શિષ્ય હતો."
 
 **[[:gu:obs:notes:frames:46-07|<<]] | [[:gu:obs:notes:46|Up]] | [[:gu:obs:notes:frames:46-09|>>]]**
