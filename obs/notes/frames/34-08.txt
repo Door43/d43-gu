@@ -1,18 +1,16 @@
-===== I Am Good [34-08] =====
+===== હું સારો છું [34-08] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-08.jpg?nolink&}}
 
-“‘For example, I **fast** two times every week and I give you **ten percent** of all the money and goods that I receive.’”
-===== Important Terms: =====
+દાખલા તરીકે, હું દર અઠવાડિયે બે વખત ઉપવાસ કરું છું અને હું બધા પૈસા અને માલ જે હું કમાઉં છું એના દસ ટકા તમને આપું છું"
 
-  * **[[:gu:obe:other:fast]]**
+===== મહત્વપૂર્ણ શબ્દો: =====
 
+  * **ઉપવાસ**
+===== અનુવાદ નોંધો: =====
 
-===== Translation Notes: =====
-
-  * (Jesus continues to tell of the religious leader's prayer.)
-  * **I fast** - The religious ruler believed that doing this would earn favor with God.
-  * **ten percent** - That is, "one-tenth."
-
+  * (ઈસુ ધાર્મિક નેતાની પ્રાર્થના કહેવાનું ચાલું રાખે છે.)
+  * હું ઉપવાસ રાખું છું - ધાર્મિક શાસક માને છે કે આવું કરવાથી દેવ સાથે તરફેણની કમાઇ કમાશે.
+  * દસ ટકા - એટલે કે "એક દસમાંશ છે.",
 
 **[[:gu:obs:notes:frames:34-07|<<]] | [[:gu:obs:notes:34|Up]] | [[:gu:obs:notes:frames:34-09|>>]]**
