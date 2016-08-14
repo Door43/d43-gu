@@ -1,22 +1,21 @@
-===== 3000 Believe [43-12] =====
+===== ૩૦૦૦ લોકોએ અંગિકાર કર્યો [43-12] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-12.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-12.jpg?nolink&}}
 
-About 3,000 people **believed** what **Peter** said and became **disciples** of **Jesus**. They were **baptized** and became part of the **church** at **Jerusalem**.
-===== Important Terms: =====
+આશરે ૩,૦૦૦ લોકોએ અંગિકાર કર્યો જે પીતરે જણાવ્યું હતું અને ઈસુના શિષ્યો બની ગયા હતા ​​. તેઓ બાપ્તિસ્મા લીધેલા અને ​​યરૂશાલેમમાં ચર્ચના ભાગ બની ગયા .
 
-  * **[[:gu:obe:kt:believe]]**
-  * **[[:gu:obe:other:peter]]**
-  * **[[:gu:obe:kt:disciple]]**
-  * **[[:gu:obe:kt:jesus]]**
-  * **[[:gu:obe:kt:baptize]]**
-  * **[[:gu:obe:kt:church]]**
-  * **[[:gu:obe:other:jerusalem]]**
+===== મહત્વપૂર્ણ શબ્દો: =====
 
+  * અંગિકાર કરેલું
+  * પીતર
+  * શિષ્યો
+  * ઈસુ
+  * બાપ્તિસ્મા
+  * ચર્ચ
+  * યરૂશાલેમમાં
 
-===== Translation Notes: =====
+===== અનુવાદ નોંધો: =====
 
-  * //(There are no notes for this frame.)// 
-
+  * (આ ચોકઠાં માટે કોઈ નોંધો નથી.)
 
 **[[:gu:obs:notes:frames:43-11|<<]] | [[:gu:obs:notes:43|Up]] | [[:gu:obs:notes:frames:43-13|>>]]**
