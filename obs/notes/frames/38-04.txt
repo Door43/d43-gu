@@ -1,24 +1,22 @@
-===== This Is My Body [38-04] =====
+===== આ રોટલી મારું શરીર છે [38-04] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-04.jpg?nolink&}}
 
-In Jerusalem, **Jesus celebrated** the **Passover** with his **disciples**. During the Passover meal, Jesus **took some bread** and **broke it**. He said, “Take and eat this. This is my body, which is **given for you**. **Do this to remember me**.” In this way, Jesus said that his body would be **sacrificed** for them.
-===== Important Terms: =====
+યરૂશાલેમમાં, ઈસુએ પાસ્ખાં પર્વની ઉજવણી તેના શિષ્યો સાથે કરી. પાસ્ખાંના ભોજન દરમિયાન, ઈસુએ થોડી રોટલી લીધી અને તેને તોડી. તેમણે જણાવ્યું હતું કે, "આ રોટલી લો અને ખાવ. આ રોટલી મારું શરીર છે, કે જે તમારા માટે આપવામાં આવે છે. મને યાદ કરવા માટે આ કરો. " આ રીતે, ઈસુએ કહ્યું હતું કે તેમનું શરીરનું બલિદાન કરવામાં આવશે તેના માટે છે.
 
-  * **[[:gu:obe:other:jerusalem]]**
-  * **[[:gu:obe:kt:jesus]]**
-  * **[[:gu:obe:kt:passover]]**
-  * **[[:gu:obe:kt:disciple]]**
-  * **[[:gu:obe:other:sacrifice]]**
+===== મહત્વપૂર્ણ શબ્દો:  =====
 
+  * **યરૂશાલેમમાં**
+  * **ઈસુ**
+  * **પાસ્ખાં**
+  * **શિષ્યો**
+  * **ભોગ**
+===== અનુવાદ નોંધો: =====
 
-===== Translation Notes: =====
-
-  * **celebrated** - That is, "was celebrating."
-  * **took some bread** - This could be translated as, "picked up a piece of bread" or, "picked up a flat loaf of bread."
-  * **broke it** - Some languages should say, "tore it in pieces" or, "tore it in half" or, "tore off part of it."
-  * **given for you** - This can also be translated as, "which I give for you."
-  * **Do this to remember me** - That is, "Do this as a way to remind yourselves of what I am doing for you." Jesus was referring to his death, which would happen soon.
-
+  * ઉજવણી કરાયેલું - એટલે કે, "ઉજવણી કરવામાં આવી હતી."
+  * થોડી રોટલી લીધી - આ આવી રીતે ભાષાંતર કરી શકાય છે, "રોટલીનો એક ટુકડો લીધો" અથવા, "રોટલીનો એક સાદો ટુકડો લીધો."
+  * તેને તોડ્યો - કેટલીક ભાષાઓ એવું કહેવું જોઈએ કે, "તેના ટુકડા કર્યા" અથવા, "તેના બે અડધા ભાગ કર્યા" અથવા, "તેના ભાગના ટુકડા કરી નાંખ્યા."
+  * તમારા માટે આપવમાં આવ્યું છે - આ રીતે પણ, ભાષાંતર કરી શકો છો "જે હું તમારા માટે આપું છું."
+  * મને યાદ રાખવા આ કરવું જોઈએ - એટલે કે, "આ કરો, જે એક તરીકો છે જેથી તમે પોતાને મારી યાદ કરવી શકો કે હું તમારા ખાતર શું કરી રહ્યો છું,." ઈસુ તો તેના મરણનો ઉલ્લેખ કરીરહ્યા હતા, જે ટૂંક સમયમાં થવાનું હતુ.
 
 **[[:gu:obs:notes:frames:38-03|<<]] | [[:gu:obs:notes:38|Up]] | [[:gu:obs:notes:frames:38-05|>>]]**
