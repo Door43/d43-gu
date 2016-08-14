@@ -1,5 +1,8 @@
 ====== Open Bible Stories (gu) ======
 
-Welcome to Open Bible Stories! Please feel free to translate this page and the stories (including the titles) below. More information on how to get started translating Open Bible Stories is [[:en:obs:help|here]], and useful information may also be found at [[:en:get-started|"Getting Started"]] and [[:en:tips-tricks|"Tips & Tricks"]]. If you need help, [[:contact|just ask]]!
+ખુલ્લું બાઇબલ વાર્તાઓમાં (Open Bible Stories) આપનું સ્વાગત છે!  !
+કૃપા કરીને નીચે આપેલું  પાનું અને વાર્તાઓ (ટાઇટલ સહિત) અનુવાદ કરી શકો છો.
+ઓપન બાઇબલ વાર્તાઓનું અનુવાદ કઈ રીતે કરવું એ માટેનું વધુ માહિતી અહીં છે,
+અને ઉપયોગી માહિતી પણ "પ્રારંભિકરણ" અને "ટિપ્સ & યુક્તિઓ" ઉપર મળી શકે છે. કઈ મદદ ની જરૂરત હોય તો  માત્ર પૂછો!
 
 {{page>gu:obs:stories}}{{page>en:obs:active}}
