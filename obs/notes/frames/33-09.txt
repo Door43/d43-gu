@@ -1,22 +1,24 @@
-===== Spiritual Fruit [33-09] =====
+===== આધ્યાત્મિક ફળ [33-09] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-09.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-09.jpg?nolink&}}
 
-“But the **good soil is a person** who hears the **word of God**, **believes** it, and **produces fruit**.”
-===== Important Terms: =====
+“
 
-  * **[[:gu:obe:kt:good]]**
-  * **[[:gu:obe:kt:wordofgod]]**
-  * **[[:gu:obe:kt:believe]]**
+"પરંતુ સારી જમીન એ એક વ્યક્તિ છે જે દેવનો શબ્દ સાંભળે છે, તેને માને છે, અને ફળ ઉત્પન્ન કરે છે."
 
+===== મહત્વપૂર્ણ શબ્દો: =====
 
-===== Translation Notes: =====
+  * સારૂ
+  * દેવનો શબ્દ
+  * માને છે
 
-  * (Jesus continues to explain the story.)
-  * **good soil** - See how you translated this term in **[[:gu:obs:notes:frames:33-05|[33-05]]]**.
-  * **is a person** - See how you translated this comparison in **[[:gu:obs:notes:frames:33-06|[33-06]]]**.
-  * **produce fruit** - See how you translated this phrase in **[[:gu:obs:notes:frames:33-08|[33-08]]]**.
-  * //A Bible story from//  - These references may be slightly different in some Bible translations.
+===== અનુવાદ નોંધો: =====
 
+  * (ઈસુ વાર્તા સમજાવવાનું ચાલુ રાખે છે.)
+  * સારી જમીન - જુઓ કે કેવી રીતે તમે આ શબ્દ અનુવાદ __[____૮____} \ [____૩૩____-____૦૫____]__ {૯] {૧૦] માં કર્યો હતો.
+  * એક વ્યક્તિ છે - જુઓ કે કેવી રીતે તમે આ સરખામણીનો અનુવાદ __[____૮____} \ [____૩૩____-____૦૬____]__ {૯] {૧૦]માં કર્યો હતો.
+  * ફળ પેદા થવું- જુઓ કે કેવી રીતે તમે આ શબ્દસમૂહનો અનુવાદ  __[____૮____} \ [____૩૩____-____૦૮____]__ {૯] {૧૦] માં કર્યો હતો..
+  * //બાઇબલની////વાર્તા//
+ - આ સંદર્ભો બાઇબલના કેટલાક અનુવાદમાં સહેજ અલગ હોઈ શકે છે.
 
 **[[:gu:obs:notes:frames:33-08|<<]] | [[:gu:obs:notes:33|Up]] | [[:gu:obs:notes:frames:34-01|>>]]**
