@@ -1,26 +1,24 @@
-===== You Are Witnesses [42-08] =====
+===== તમે સાક્ષી છો [42-08] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-08.jpg?nolink&}}
 
-“It was also written in the **scriptures** that my **disciples** will **proclaim** that everyone should **repent** in order to **receive forgiveness** for their **sins**. T**hey will do this starting in Jerusalem**, and then go to all **people groups** everywhere. **You are witnesses of these things**.”
-===== Important Terms: =====
+"**ગ્રંથોમાં** તે પણ લખવામાં આવ્યું હતું કે મારા **શિષ્યો** ​​**ઢંઢેરો** **પીટશે** કે દરેક વ્યક્તિએ તેમના **પાપોથી પસ્તાવો** કરવો જોઈશે જેથી **માફી પ્રાપ્ત** **કરી** **શકે**. **તેઓ** **યરૂશાલેમમાંથી** **આ** **શરૂ** **કરશે** , અને પછી સર્વત્ર બધા **લોકોના** **જૂથોની** પાસે જશે. **તમે** **એ** **વાતના** **સાક્ષીઓ** **છે** . "
+===== મહત્વપૂર્ણ શબ્દો: =====
 
-  * **[[:gu:obe:kt:wordofgod]]**
-  * **[[:gu:obe:kt:disciple]]**
-  * **[[:gu:obe:kt:repent]]**
-  * **[[:gu:obe:kt:receive]]**
-  * **[[:gu:obe:kt:forgive]]**
-  * **[[:gu:obe:kt:sin]]**
-  * **[[:gu:obe:other:jerusalem]]**
-  * **[[:gu:obe:other:peoplegroup]]**
-  * **[[:gu:obe:kt:witness]]**
+  * ગ્રંથો
+  * શિષ્યો
+  * પસ્તાવો
+  * પ્રાપ્ત
+  * માફી
+  * પાપો
+  * યરૂશાલેમમાં
+  * લોકોના જૂથો
+  * સાક્ષીઓ
 
+===== અનુવાદ નોંધો: =====
 
-===== Translation Notes: =====
+  * ઢંઢેરો પીટવો - એટલે કે, "જાહેરાત કરવી" અથવા, "ઉપદેશ દેવો"
+  * તેઓ યરૂશાલેમમાંથી આ શરૂ કરશે - એટલે કે, "તેઓ યરૂશાલેમમાં આ બાબતોનો ઢંઢેરો પીટવો શરૂ કરશે" અથવા, "તેઓ યરૂશાલેમમાં આ શરૂ કરશે"
+  * તમે એ વાતના સાક્ષીઓ છો - એટલે કે, "તમે આ બાબતો થતા જોઈ છે" અથવા, "તમે અન્ય લોકોને આ બાબતો કહેશો જે તમને ઘટતી જોવા મળી હતી."
 
-  * **proclaim** - That is, "announce" or, "preach."
-  * **They will do this starting in Jerusalem** - That is, "They will begin doing this in Jerusalem" or, "They will begin to proclaim these things in Jerusalem."
-  * **You are witnesses of these things** - That is, "You have seen these things happen" or, "You will tell other people the things that you have seen happen."
-
-
-**[[:gu:obs:notes:frames:42-07|<<]] | [[:gu:obs:notes:42|Up]] | [[:gu:obs:notes:frames:42-09|>>]]**
+[[:gu:obs:notes:frames:42-07|<<]] | [[:gu:obs:notes:42|Up]] | [[:gu:obs:notes:frames:42-09|>>]]
