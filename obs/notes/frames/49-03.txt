@@ -1,19 +1,18 @@
-===== Jesus the Teacher [49-03] =====
+===== ઈસુ એક શિક્ષક [49-03] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-03.jpg?nolink&}}
 
-**Jesus** was also **a great teacher**, and he spoke with authority because he is the **Son of God**. He taught that you need to **love** other people **the same way** you love yourself.
-===== Important Terms: =====
+ઈસુ ​​એક મહાન શિક્ષક પણ હતા, અને તે અધિકાર સાથે વાત કરતા હતા, કારણ કે તેઓ ​​દેવના દીકરા છે. તેમણે શીખવ્યું કે તમને જરૂર છે કે  તમે અન્ય લોકોને પ્રેમ  કરો, જે રીતે તમે તમારી જાતને પ્રેમ કરો છો.
 
-  * **[[:gu:obe:kt:jesus]]**
-  * **[[:gu:obe:kt:sonofgod]]**
-  * **[[:gu:obe:kt:love]]**
+===== મહત્વપૂર્ણ શબ્દો: =====
 
+  * ઈસુ
+  * દેવનો દીકરો
+  * પ્રેમ
 
-===== Translation Notes: =====
+===== અનુવાદ નોંધો: =====
 
-  * **a great teacher** - That is, "a very important teacher" or, "an excellent teacher."
-  * **the same way ** - That is, "as much as" or, "the same amount that" or, "to the same degree that."
-
+  * એક મહાન શિક્ષક-  એટલે કે, "એક ખૂબ જ મહત્વપૂર્ણ શિક્ષક" અથવા, "એક ઉત્તમ શિક્ષક"
+  * એવી જ રીતે- એટલે કે, "વધુમાં વધુ" અથવા, "એ જ રકમ કે જે" અથવા, "એ જ વણાંકેથી કે."
 
 **[[:gu:obs:notes:frames:49-02|<<]] | [[:gu:obs:notes:49|Up]] | [[:gu:obs:notes:frames:49-04|>>]]**
