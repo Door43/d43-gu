@@ -1,23 +1,22 @@
-===== The Slave Girl [47-03] =====
+===== ગુલામ છોકરી [47-03] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-03.jpg?nolink&}}
 
-**Paul** and **Silas** often met with people at the place of **prayer**. Every day as they walked there, a **slave girl possessed by a demon** followed them. By means of this **demon** she predicted the future for people, so she made a lot of money for **her masters as a fortuneteller**.
-===== Important Terms: =====
+પાઉલ અને ​​સિલાસ ઘણી વખત લોકો સાથે એ સ્થળ પર મળ્યા જ્યા લોકો ​​પ્રાર્થના કરતા હતા. દરરોજ તેઓ ત્યાં ચાલતા જતા હતા, ત્યારે એક ગુલામ છોકરી જે એક અશુધ્ધ આત્માના કબજામાં હતી તેમને અનુસરી. આ અશુધ્ધ આત્માના માધ્યમ દ્વારા તેણી લોકો માટે ભવિષ્યની આગાહીઓ કરતી હતી, તેમાંથી તેના માલિકો માટે એક ભવિષ્યવક્તા તરીકે ઘણા નાણાંની કમાણી કરી લેતી હતી .
 
-  * **[[:gu:obe:other:paul]]**
-  * **[[:gu:obe:other:silas]]**
-  * **[[:gu:obe:other:pray]]**
-  * **[[:gu:obe:other:servant]]**
-  * **[[:gu:obe:kt:demonpossessed]]**
-  * **[[:gu:obe:kt:demon]]**
-  * **[[:gu:obe:kt:lord]]**
+===== મહત્વપૂર્ણ શબ્દો: =====
 
+  * પાઉલ
+  * સિલાસ
+  * પ્રાર્થના
+  * ગુલામ છોકરી
+  * એક અશુધ્ધ આત્માના કબજામાં
+  * અશુધ્ધ આત્મા
+  * માલિક
+  *
+===== અનુવાદ નોંધો: =====
 
-===== Translation Notes: =====
-
-  * **her masters** - In this case, this could also be translated as, "her owners."
-  * **as a fortuneteller** - That is, "as someone who told people what would happen to them in the future."
-
+  * તેના માલિકો - આ કિસ્સામાં, આ રીતે પણ ભાષાંતર કરી શકાય છે, "તેણીના માલિકો."
+  * એક ભવિષ્યવકતા તરીકે - એટલે કે, "એક વ્યક્તિ જે લોકોને ભવિષ્યમાં તેમને શું થશે તે જણાવતી હતી."
 
 **[[:gu:obs:notes:frames:47-02|<<]] | [[:gu:obs:notes:47|Up]] | [[:gu:obs:notes:frames:47-04|>>]]**
