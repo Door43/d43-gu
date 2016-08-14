@@ -1,18 +1,16 @@
-===== The Seed in Good Soil [33-05] =====
+===== સારી જમીનમાં બીજ [33-05] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-05.jpg?nolink&}}
 
-“Other seeds fell into **good soil**. These seeds grew up and produced 30, 60, or even 100 times as much grain as the seed that had been planted. **He who has ears, let him hear**!”
-===== Important Terms: =====
+"અન્ય બીજો સારી જમીનમાં વેરાયા. આ બીજનું ઉત્પાદન ૩૦, ૬૦ અથવા ૧૦૦ ગુણા વખત થયો હતો અને, જેટલા બીજનું વાવેતર કરવામાં આવ્યું હતું તેટલું જ અનાજ ઉત્પાદન થયુ હતું. જેને કાન છે, તેને સાંભળવા દો! "
 
-  * **[[:gu:obe:kt:good]]**
+===== મહત્વપૂર્ણ શબ્દો: =====
 
+  * **સારૂં**
+===== અનુવાદ નોંધો: =====
 
-===== Translation Notes: =====
-
-  * (Jesus continues the story.)
-  * **good soil** - That is, "fertile soil" or, "soil that was good for growing plants."
-  * **He who has ears, let him hear!** - This saying means, "Everyone who hears what I am saying should listen to me carefully" or, "If anyone hears what I have said, he should pay attention to what I mean." This can also be translated as a command. "Since you have ears to hear, listen carefully to what I am saying."
-
+  * (ઈસુ વાર્તા ચાલુ રાખે છે.)
+  * સારી જમીન - એટલે કે, "ફળદ્રુપ ભૂમિ" અથવા, "માટી જે વધતા છોડવા માટે સારી હતી."
+  * જેને કાન છે, તેમને સાંભળવા દો! - આ કહેવતનો અર્થ એ થાય, "પ્રત્યેક વ્યક્તિ જે સાંભળે છે, હું જે કહી રહ્યો છું એ મને કાળજીપૂર્વક સાંભળે" અથવા, " જે કોઈ હું જે કહું છું તે સાંભળે છે, એણે મારા અર્થ પ્રત્યે ધ્યાન દેવું જરૂરી છે." આ પણ એક આદેશ તરીકે ભાષાંતર કરી શકાય. "જ્યારે તમારી પાસે કાન છે, તો હું શું કહી રહ્યો છું એ કાળજીપૂર્વક સાંભળો."
 
 **[[:gu:obs:notes:frames:33-04|<<]] | [[:gu:obs:notes:33|Up]] | [[:gu:obs:notes:frames:33-06|>>]]**
