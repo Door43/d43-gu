@@ -1,16 +1,16 @@
-===== The Seed in the Thorns [33-04] =====
+===== કાંટામાં બીજ [33-04] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-04.jpg?nolink&}}
 
-“Still other seeds fell among thorn bushes. Those seeds began to grow, but **the thorns choked them out**. So the plants that grew from the seeds in the **thorny ground** did not produce any grain.”
-===== Important Terms: =====
+"હજુ પણ અન્ય બીજો કાંટાના છોડો વચ્ચે વેરાણા. તે બીજોએ વધવાનું શરૂ કર્યું, પરંતુ કાંટાએ તેને રૂંધી નાંખ્યા. એટલે જે છોડ કાંટાળી જમીનના બીજમાંથી ઉગ્યો હતો તે કોઈપણ અનાજ પેદા ન કારી શક્યો."
 
-===== Translation Notes: =====
+===== મહત્વપૂર્ણ શબ્દો: =====
 
-  * (Jesus continues the story.)
-  * **the thorns** - That is, "the thorn plants" or, "the thorn bushes."
-  * **choked them out** - This can also be translated as, "overshadowed them" or, "crowded them out."
-  * **thorny ground** - That is, "ground that was covered with thorny bushes."
+===== અનુવાદ નોંધો: =====
 
+  * (ઈસુ વાર્તા ચાલુ રાખે છે.)
+  * કાંટા - એટલે કે, "કાંટાળો છોડ" અથવા, "કાંટોનો છોડો.
+  * તેમને રૂંધી નાંખ્યા – આવી રીતે પણ અનુવાદ કરી શકાય છે, "તેમને ઢાંકી દિધા" અથવા, "તેને ઘેરી લીધા."
+  * કાંટાળી જમીન - એટલે કે, "જમીન જે કાંટાળા છોડથી ઘેરાઈ ગઈ હતી."
 
 **[[:gu:obs:notes:frames:33-03|<<]] | [[:gu:obs:notes:33|Up]] | [[:gu:obs:notes:frames:33-05|>>]]**
