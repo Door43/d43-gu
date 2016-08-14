@@ -1,23 +1,22 @@
-===== Stephen's Prayer [45-05] =====
+===== સ્તેફનની પ્રાર્થના [45-05] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-05.jpg?nolink&}}
 
-**As Stephen was dying**, he **cried out**, “**Jesus**, **receive** my **spirit**.” Then he fell to his knees and cried out again, “**Master**, **do not count this sin against them**.” Then he **died**.
-===== Important Terms: =====
+જેવો સ્તેફન મૃત્યુ ની નજીક જઈ રહ્યો હતો, તે જોરથી બોલી ઉઠ્યો , " ​​ઈસુ, મારો ​​આત્મા સ્વિકાર કર." પછી તેણે તેના ઘૂંટણ પર પડી અને ફરીથી બૂમ પાડી, " સ્વામિ , આ પાપ તેઓની સામે ન ગણતા." પછી તે મૃત્યુ પામ્યો .
 
-  * **[[:gu:obe:kt:jesus]]**
-  * **[[:gu:obe:kt:receive]]**
-  * **[[:gu:obe:kt:spirit]]**
-  * **[[:gu:obe:kt:lord]]**
-  * **[[:gu:obe:kt:sin]]**
-  * **[[:gu:obe:kt:death]]**
+===== મહત્વપૂર્ણ શબ્દો: =====
 
+  * ઈસુ
+  * પ્રાપ્ત
+  * આત્મા
+  * સ્વામી
+  * પાપ
+  * મૃત્યુ પામ્યો
 
-===== Translation Notes: =====
+===== અનુવાદ નોંધો: =====
 
-  * **As Stephen was dying** - That is, "Just before Stephen died."
-  * **cried out** - That is, "called out in a loud voice" or, "said very loudly."
-  * **do no count this sin against them** - That is, "do not consider them guilty of the sin of killing me."
-
+  * સ્તેફન મૃત્યુની નજીક જઈ રહ્યો હતો - એટલે કે, "સ્તેફન મૃત્યુ પામ્યા પહેલાં."
+  * ઉંચા અવાજે બોલ્યો - એટલે કે, "મોટા સાદે બૂમ પાડી," અથવા "ખૂબ મોટેથી બોલી ઉઠ્યો"
+  * આ પાપ તેમની સામે ન ગણશો - 'એટલે કે, "તેઓને મારી હત્યાના પાપના દોષિ ના ગણતા.
 
 **[[:gu:obs:notes:frames:45-04|<<]] | [[:gu:obs:notes:45|Up]] | [[:gu:obs:notes:frames:45-06|>>]]**
