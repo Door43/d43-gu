@@ -1,20 +1,19 @@
-===== Peter and John Were Arrested [44-06] =====
+===== પિતર અને યોહાન પકડાઈ ગયા [44-06] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-06.jpg?nolink&}}
 
-The leaders of the **Temple** were very upset by what **Peter** and **John** were saying. So they arrested them and put them into prison. But many of the people **believed Peter's message**, and the **number of men** who believed in Jesus grew to about 5,000.
-===== Important Terms: =====
+જે પીતર અને યોહાન કહેતા હતા એનાથી નેતાઓ મંદિરના ખૂબ અસ્વસ્થ થઈ ગયા હતા. તેથી તેમની ધરપકડ કરી અને તેમને જેલમાં મૂકવામાં આવ્યાં. પરંતુ ઘણા લોકો પીતરના સંદેશને માનવા લાગ્યા, અને પુરુષોની સંખ્યા જેમણે ઈસુમાં વિશ્વાસ મુક્યો હતો વધીને ૫,૦૦૦ થઈ હતી.
 
-  * **[[:gu:obe:kt:temple]]**
-  * **[[:gu:obe:other:peter]]**
-  * **[[:gu:obe:other:johntheapostle]]**
-  * **[[:gu:obe:kt:believe]]**
+===== મહત્વપૂર્ણ શબ્દો: =====
 
+  * મંદિર
+  * પીતર
+  * યોહાન
+  * વિશ્વાસ કર્યો
 
-===== Translation Notes: =====
+===== અનુવાદ નોંધો: =====
 
-  * **Peter's message** - That is, "the message that Peter had preached to them."
-  * **number of men** - This was in addition to the woman and children who believed.
-
+  * પીતરનો સંદેશ - એટલે કે, "સંદેશો જે પીતરે તેમને પ્રચાર કર્યો હતો"
+  * પુરુષોની સંખ્યા - આ મહિલા અને બાળકો જેઓ માનતા હતા તે ઉપરાંતની સંખ્યા હતી {૪.]
 
 **[[:gu:obs:notes:frames:44-05|<<]] | [[:gu:obs:notes:44|Up]] | [[:gu:obs:notes:frames:44-07|>>]]**
