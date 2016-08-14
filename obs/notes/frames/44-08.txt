@@ -1,28 +1,27 @@
-===== No Other Way but Jesus [44-08] =====
+===== કોઈ અન્ય માર્ગ નથી, ફક્ત ઈસુ [44-08] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-08.jpg?nolink&}}
 
-**Peter** answered them, “This man stands before you **healed** by the **power** of **Jesus** the **Messiah**. You **crucified** Jesus, but **God raised** him to life again! You **rejected him**, **but there is no other way to be saved except through the power of Jesus**!”
-===== Important Terms: =====
+પીતરે તેઓને કહ્યું, "આ માણસ તમારી સમક્ષ ઉભો છે તે ઈસુ ​​મસીહની શક્તિ દ્વારા ​​સાજો થયો છે. તમે ઈસુને વધસ્તંભ પર ચડાવ્યો હતો, પરંતુ દેવે ફરીથી તેમને જીવનમાં ફરીથી જીવતા ઊભા કર્યા! તમે તેને નકાર્યા , પરંતુ ત્યાં કોઈ અન્ય માર્ગ નથી જે ઈસુની શક્તિ સિવાય બચાવી શકે ! "
 
-  * **[[:gu:obe:other:peter]]**
-  * **[[:gu:obe:other:heal]]**
-  * **[[:gu:obe:kt:power]]**
-  * **[[:gu:obe:kt:jesus]]**
-  * **[[:gu:obe:kt:christ]]**
-  * **[[:gu:obe:kt:crucify]]**
-  * **[[:gu:obe:kt:god]]**
-  * **[[:gu:obe:kt:raise]]**
-  * **[[:gu:obe:kt:life]]**
-  * **[[:gu:obe:kt:save]]**
+===== મહત્વપૂર્ણ શબ્દો: =====
 
+  * પીતર
+  * સાજો
+  * શક્તિ
+  * ઈસુ
+  * મસીહ
+  * વધસ્તંભ પર ચડાવેલ
+  * દેવ
+  * ઊભા કર્યા
+  * જીવન
+  * બચાવ્યાં
 
-===== Translation Notes: =====
+===== અનુવાદ નોંધો: =====
 
-  * **healed** - That is, "well" or, "whole" or, "strong."
-  * **rejected him** - That is, "refused to accept him" or, "refused to believe in Jesus" or, "refused to believe that Jesus is the Savior."
-  * **but there is no other way to be saved except through the power of Jesus** - This could also be translated as, "but the only way to be saved is through the power of Jesus" or, "but only Jesus can save us, by his power."
-  * **to be saved** - This can also be translated as, "to be saved from our sins" or, "that we can be saved from our sins."
-
+  * સાજો - એટલે કે, "સારો" અથવા, "સંપુર્ણ" અથવા, "મજબૂત"
+  * તેને નકાર્યો - એટલે કે, "તેને સ્વીકારવાનો ઇનકાર કર્યો હતો" અથવા, "ઈસુમાં માનવાનો ઇનકાર કર્યો હતો" અથવા, " ઇનકાર કર્યો હતો કે ઈસુ તારણહાર છે."
+  * પરંતુ ત્યાં કોઈ અન્ય માર્ગ નથી જે ઈસુ શક્તિ સિવાય બચાવી શકાય - આ રીતે પણ ભાષાંતર કરી શકાય છે, "પરંતુ એક માત્ર રસ્તો છે જેનાથી બચી શકાય એ ઈસુની શક્તિ છે" અથવા " પરંતુ માત્ર ઇસુ અમને તેની શક્તિ દ્વારા બચાવી શકે છે."
+  * બચાવી શકાય - આ તરીકે પણ ભાષાંતર કરી શકાય, અથવા, "અમારા પાપોથી બચી શકાય" અથવા "અમે અમારા પાપોથી બચી શકીએ છીએ"
 
 **[[:gu:obs:notes:frames:44-07|<<]] | [[:gu:obs:notes:44|Up]] | [[:gu:obs:notes:frames:44-09|>>]]**
