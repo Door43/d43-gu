@@ -1,18 +1,17 @@
-===== Philip Baptized the Ethiopian [45-12] =====
+===== ફિલિપે ઇથિયોપીયા વાસીને બાપ્તિસ્મા આપ્યો [45-12] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-12.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-12.jpg?nolink&}}
 
-So they went down into the water, and Philip **baptized** the Ethiopian. After they came up out of the water, the **Holy Spirit** suddenly **carried Philip away** to another place where he continued telling people about **Jesus**.
-===== Important Terms: =====
+તેથી તેઓ પાણીમાં નીચે ગયા અને ફિલિપે ઇથિયોપીયનને બાપ્તિસ્મા આપ્યા. પછી તેઓ પાણીમાંથી બહાર આવ્યા, અને પવિત્ર આત્મા અચાનક ફિલિપને દૂર અન્ય જગ્યાએ લઈ ગયો જ્યાં તે લોકોને ઈસુ વિશે સુસમાચાર આપવાનું ચાલુ રાખે.
 
-  * **[[:gu:obe:kt:baptize]]**
-  * **[[:gu:obe:kt:holyspirit]]**
-  * **[[:gu:obe:kt:jesus]]**
+===== મહત્વપૂર્ણ શબ્દો: =====
 
+  * બાપ્તિસ્મા
+  * પવિત્ર આત્મા
+  * ઈસુ
 
-===== Translation Notes: =====
+===== અનુવાદ નોંધો: =====
 
-  * **carried Philip away** - That is, "took Philip away" or, "snatched Philip away."
-
+  * ફિલિપને દૂર લઈ ગયો - એટલે કે, " ફિલિપને દૂર લઈ ગયો " અથવા, "ફિલિપને દૂર આંચકી લીધો"
 
 **[[:gu:obs:notes:frames:45-11|<<]] | [[:gu:obs:notes:45|Up]] | [[:gu:obs:notes:frames:45-13|>>]]**
