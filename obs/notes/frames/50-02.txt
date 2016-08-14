@@ -1,22 +1,21 @@
-===== The Good News [50-02] =====
+===== સારા સમાચાર [50-02] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-02.jpg?nolink&}}
 
-As we wait for **Jesus** to return, **God** wants us to live in a way that is **holy** and that honors him. He also wants us to tell others about his **kingdom**. When Jesus was living on earth he said, “My **disciples** will **preach** the **good news** about the kingdom of God to people everywhere in the world, and then **the end will come**.”
-===== Important Terms: =====
+આપણે ઈસુના પાછા આવવાની રાહ જોઈએ છીએ, દેવ ઈચ્છે છે કે આપણે પવિત્ર રીતે જીવીએ અને જે રીતે તેમનું સન્માન વધે. તેઓ એ પણ ઈચ્છે છે કે આપણે તેમના રાજ્ય વિશે લોકોને કહેતા રહીએ. ઈસુ પૃથ્વી પર રહેતા હતા ત્યારે તેમણે જણાવ્યું હતું કે, "મારા શિષ્યો વિશ્વમાં દરેક જગ્યાએ લોકોને દેવના રાજ્યના ​​સારા સમાચારનો ઉપદેશ કરશે, અને લગભગ ત્યારબાદ જગતનો અંત આવશે . "
 
-  * **[[:gu:obe:kt:jesus]]**
-  * **[[:gu:obe:kt:god]]**
-  * **[[:gu:obe:kt:holy]]**
-  * **[[:gu:obe:kt:kingdomofgod]]**
-  * **[[:gu:obe:kt:disciple]]**
-  * **[[:gu:obe:other:preach]]**
-  * **[[:gu:obe:kt:goodnews]]**
+===== મહત્વપૂર્ણ શબ્દો: =====
 
+  * ઈસુ
+  * દેવ
+  * પવિત્ર
+  * રાજ્ય
+  * શિષ્યો
+  * ઉપદેશ આપવો
+  * સારા સમાચાર
 
-===== Translation Notes: =====
+===== અનુવાદ નોંધો: =====
 
-  * **the end will come** - This could be translated as, "the end of this world will come" or, "the end of this world will happen" or, "this present world will end."
-
+  * અંત આવશે - આ રીતે ભાષાંતર કરી શકો છો "આ જગતનો અંત આવશે" અથવા, "આ વિશ્વનો અંત થશે" અથવા, "આ હાજર વિશ્વનો અંત આવશે."
 
 **[[:gu:obs:notes:frames:50-01|<<]] | [[:gu:obs:notes:50|Up]] | [[:gu:obs:notes:frames:50-03|>>]]**
