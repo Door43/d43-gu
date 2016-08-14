@@ -1,21 +1,21 @@
-===== The Women [41-03] =====
+===== મહિલા [41-03] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-03.jpg?nolink&}}
 
-The day after **Jesus** was buried was a **Sabbath** day, and **the Jews were not permitted** to go to a **tomb** on that day. So very early on the morning after the Sabbath day, several women prepared to go to Jesus’ **tomb** to put more **burial spices** on his body.
-===== Important Terms: =====
+એક દિવસ બાદ **ઈસુ** દફનાવવામાં આવ્યો હતો એ એક સબા**થ** દિવસ હતો, અને તે દિવસે **યહૂદીઓને** **પરવાનગી** **ન** **હતી** ત્યાં જવા માટે જ્યાં હોય **કબર**.
 
-  * **[[:gu:obe:kt:jesus]]**
-  * **[[:gu:obe:kt:sabbath]]**
-  * **[[:gu:obe:other:jew]]**
-  * **[[:gu:obe:other:tomb]]**
- 
+તેથી સબાથના દિવસ પછી ખૂબ વહેલી સવારે, ઈસુની **કબર** પર વધુ **દફન** **મસાલો** તેમના શરીર પર લગાડવા અનેક મહિલાઓ જવા માટે તૈયાર થઈ.
+===== મહત્વપૂર્ણ શબ્દો: =====
 
+  * ઈસુ
+  * સબથ
+  * યહૂદીઓ
+  * કબર
+  * કબર
 
-===== Translation Notes: =====
+===== અનુવાદ નોંધો: =====
 
-  * **the Jews were not permitted** - The Sabbath day rules did not permit a Jew to walk very far or to do any other kind of work.
-  * **burial spices** - This refers to sweet-smelling spices that were placed on a dead body to cover the bad smell. This can also be translated as, "sweet-smelling spices" or, "sweet-smelling oils" or, "sweet-smelling plants."
-
+  * યહૂદીઓ માટે પરવાનગી ન હતી - સબાથ દિવસનો નિયમ યહૂદીઓને મંજૂરી નથી આપતો કે ખૂબ જ દૂર સુધી ચાલે અથવા અન્ય કોઇ પ્રકારનું કામ કરે .
+  * દફન મસાલા – આ મીઠી સુગંધ મસાલો છે જે એક મૃત શરીર પર મૂકવામાં/ચોપડવામાં આવે છે જેથી તે ખરાબ ગંધ આવરી લે છે. આ રીતે પણ ભાષાંતર કરી શકાય, "મીઠી સુગંધ મસાલા" અથવા, "મીઠી સુગંધ તેલ" અથવા, "મીઠી સુગંધ છોડ."
 
 **[[:gu:obs:notes:frames:41-02|<<]] | [[:gu:obs:notes:41|Up]] | [[:gu:obs:notes:frames:41-04|>>]]**
