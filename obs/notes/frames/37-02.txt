@@ -1,20 +1,18 @@
-===== Back to Judea [37-02] =====
+===== પાછા યહૂદિયામાં [37-02] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-02.jpg?nolink&}}
 
-After the two days had passed, **Jesus** said to his **disciples**, “Let’s go back to **Judea**.” “But **Teacher**,” the disciples answered, “Just a short time ago the people there wanted to kill you!” Jesus said, “Our friend **Lazarus has fallen asleep**, **and I must wake him**.”
-===== Important Terms: =====
+પછી બે દિવસ પસાર થઈ ગયો હતો, ઈસુએ તેમના શિષ્યોને કહ્યું , "ચાલો યહૂદિયા પાછા જઈએ.", "પરંતુ ગુરૂ," શિષ્યો જવાબ આપ્યો, "થોડા સમય પહેલા ત્યાંના લોકો તમને મારવા ઈચ્છતા હતા!" ઈસુએ કહ્યું, "આપણો મિત્ર લાજરસ ઊંઘે છે, અને મારે તેને જગાડવો જ જોઈએ."
 
-  * **[[:gu:obe:kt:jesus]]**
-  * **[[:gu:obe:kt:disciple]]**
-  * **[[:gu:obe:kt:teacher]]**
-  * **[[:gu:obe:other:lazarus]]**
+===== મહત્વપૂર્ણ શબ્દો: =====
 
+  * **ઈસુ**
+  * **શિષ્યો**
+  * **શિક્ષક**
+  * **લાજરસ**
+===== અનુવાદ નોંધો: =====
 
-===== Translation Notes: =====
-
-  * **Judea** - This refers to the southern section of Israel, which was settled by the tribe of Judah. Some languages will prefer to say, "the region of Judea."
-  * **has fallen asleep, and I must wake him.** - Translate this phrase with the normal words for "asleep" and "wake" in your language. Although Jesus was using these words with a different meaning, the disciples did not understand that yet.
-
+  * યહૂદિયા - આ ઇસ્રાએલનો દક્ષિણ વિભાગ છે, કે જ્યાં યહૂદાના કુળસમૂહના લોકો વસવાટ કરતા હતા એનો ઉલ્લેખ કરે છે. કેટલીક ભાષાઓ આ કહેવુ પસંદ કરશે, "યહુદાનો પ્રદેશ."
+  * ભર નિંદ્રામાં છે, અને મારે તેને જગાડવો જ જોઈએ - આ શબ્દસમૂહનો અનુવાદ તમારી ભાષામાં સામાન્ય શબ્દો "ભર નિંદ્રા" અને "જગાડવો" સાથે કરો. ઈસુ એક અલગ અર્થ સાથે આ શબ્દોનો ઉપયોગ કરી રહ્યા હતા, તેમ છતાં શિષ્યોને હજુ સુધી કોઈ સમજણ ન પડી હતી.
 
 **[[:gu:obs:notes:frames:37-01|<<]] | [[:gu:obs:notes:37|Up]] | [[:gu:obs:notes:frames:37-03|>>]]**
