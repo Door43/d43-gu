@@ -1,13 +1,13 @@
-====== translationQuestions ======
+====== અનુવાદ પ્રશ્નો (translationQuestions) ======
 
-Translators should use these questions during the level checking process this way:
+અનુવાદકો ચકાસણી પ્રક્રિયા દરમિયાન આ પ્રશ્નો વાપરવા જોઈએ:
 
-  - Translate the story.
-  - Read the story to some one that speaks your language and did not help with the translation.
-  - Ask them the questions on these pages.
-  - Did they answer the questions correctly? Then the translation is very accurate, natural and clear.
-  - Did they not answer some of the questions correctly? Then correct the translation.
+  - વાર્તા અનુવાદ કરો
+  - અનુવાદ નો અનુભવ ના હોય એવા કોઈ પણ વ્યક્તિ ને વાર્તા વાંચો અને સંભળાવો.
+  - તેમને આ પાના ઉપરના પ્રશ્નો પૂછો.
+  - શું તેઓ ખરા અને યોગ્ય રીતે જવાબ આપ્યા?  તો પછી એ ભાષાંતર ખૂબ જ સચોટ, કુદરતી અને સ્પષ્ટ છે.
+  - શું તેઓ યોગ્ય રીતે જવાબ ન આપી શક્ય? તો પછી ભાષાંતર સુધારો.
 
-The translation can be approved for level 2 when the questions have been answered correctly.
+ખરા અને યોગ્ય રીતે જવાબ આપ્યા પછી તે લેવેલ -2 ચેકિંગ માટે મંજૂરી કરી શકાય.
 
 <nspages en:obs:notes:questions -sortId -simpleList -title -exclude:home -textPages="translationQuestions for the Open Bible Stories:">
