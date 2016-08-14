@@ -1,23 +1,22 @@
-===== King of the Universe [48-14] =====
+===== બ્રહ્માંડનો રાજા [48-14] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-14.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-14.jpg?nolink&}}
 
-**David** was the **king** of **Israel**, but **Jesus** is **the king of the entire universe**! He will come again and rule his **kingdom** with **justice** and **peace**, forever.
-===== Important Terms: =====
+દાઉદ​​ ​ઇઝરાયેલના રાજા, પરંતુ ઈસુ ​​સમગ્ર બ્રહ્માંડના રાજા છે! તેઓ ફરીથી આવશે અને ન્યાય અને શાંતિ સાથે કાયમ, તેમના રાજ્યમાં શાસન કરશે.
 
-  * **[[:gu:obe:other:david]]**
-  * **[[:gu:obe:other:king]]**
-  * **[[:gu:obe:other:israel]]**
-  * **[[:gu:obe:kt:jesus]]**
-  * **[[:gu:obe:kt:kingdomofgod]]**
-  * **[[:gu:obe:kt:justice]]**
-  * **[[:gu:obe:other:peace]]**
+===== મહત્વપૂર્ણ શબ્દો: =====
 
+  * દાઉદ
+  * રાજા
+  * ઇઝરાયેલ
+  * ઈસુ
+  * રાજ્ય
+  * ન્યાય
+  * શાંતિ
 
-===== Translation Notes: =====
+===== અનુવાદ નોંધો: =====
 
-  * **the king of the entire universe** - That is, "the king over everyone and everything everywhere."
-  * //A Bible story from//  - These references may be slightly different in some Bible translations.
-
+  * સમગ્ર બ્રહ્માંડના રાજા- એટલે કે, "દરેક ઉપર અને દરેક જગ્યાએ/દિશાએ રાજા છે"
+  * બાઇબલની એક વાર્તા- આ સંદર્ભો બાઇબલના કેટલાક અનુવાદમાં સહેજ અલગ હોઈ શકે છે
 
 **[[:gu:obs:notes:frames:48-13|<<]] | [[:gu:obs:notes:48|Up]] | [[:gu:obs:notes:frames:49-01|>>]]**
