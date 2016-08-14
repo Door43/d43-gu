@@ -1,22 +1,20 @@
-===== The Soldier's Testimony [40-08] =====
+===== સૈનિકની જુબાની [40-08] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-08.jpg?nolink&}}
 
-**Through his death**, **Jesus opened a way** for people to **come to God**. When the soldier guarding Jesus saw everything that had happened, he said, “Certainly, this man was **innocent**. He was the **Son of God**.”
-===== Important Terms: =====
+**તેમના** **મૃત્યુ** **દ્વારા** , **ઈસુએ** **માર્ગ** **ખોલ્યો** જેથી લોકો **દેવની** **પાસે** **આવે** . ત્યારે જે સૈનિક ઈસુની દેખભાળ કરવા માટે રોકાયો હતો, તેણે બધું જોયું, જે થયું હતું, તેણે જણાવ્યું, "ખરેખર, આ માણસ **નિર્દોષ** **હતો** . તે જ **દેવનો** **દીકરો** હતો. "
+===== મહત્વપૂર્ણ શબ્દો: =====
 
-  * **[[:gu:obe:kt:death]]**
-  * **[[:gu:obe:kt:jesus]]**
-  * **[[:gu:obe:kt:god]]**
-  * **[[:gu:obe:kt:innocent]]**
-  * **[[:gu:obe:kt:sonofgod]]**
+  * મૃત્યુ
+  * ઈસુ
+  * દેવ
+  * નિર્દોષ
+  * દેવનો દીકરો
 
+===== અનુવાદ નોંધો: =====
 
-===== Translation Notes: =====
-
-  * **Through his death** - That is, "By means of his death" or, "By dying."
-  * **opened a way** - That is, "made it possible."
-  * **come to God** - That is, "come near to God" or, "go near to God" or, "approach God" or, "know God personally." The tearing of the curtain showed that the barrier between God and people had been removed.
-
+  * તેમના મૃત્યુ દ્વારા - એટલે કે, "તેમના મૃત્યુના માધ્યમ દ્વારા" અથવા, "મૃત્યુ દ્વારા"
+  * એક માર્ગ ખોલ્યો - એટલે કે, "તે શક્ય બનાવ્યું"
+  * દેવ પાસે આવવું - એટલે કે, "ઈશ્વર પાસે આવે" અથવા, "ઈશ્વર પાસે જાય" અથવા, "દેવની પાસે જાય" અથવા, "દેવને વ્યક્તિગત રીતે જાણે." પડદાનું ફાટવું એ દર્શાવે છે કે દેવ અને લોકો વચ્ચેનો અવરોધ દૂર કરવામાં આવ્યો હતો.
 
 **[[:gu:obs:notes:frames:40-07|<<]] | [[:gu:obs:notes:40|Up]] | [[:gu:obs:notes:frames:40-09|>>]]**
