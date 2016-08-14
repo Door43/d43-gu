@@ -1,25 +1,23 @@
-===== The Tax Collector's Prayer [34-09] =====
+===== જકાતદારની પ્રાર્થના [34-09] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-09.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-09.jpg?nolink&}}
 
-“But the **tax collector stood far away** from the **religious leader**, and **did not even look up to heaven**. Instead, **he pounded on his chest with his fist** and **prayed**, ‘**God**, please be **merciful** to me because I am a **sinner**.’”
-===== Important Terms: =====
+"પરંતુ જકાતદાર ધાર્મિક નેતાથી દુર ઉભો રહ્યો, અને સ્વર્ગ તરફ માથું પણ ન ઉઠાવ્યું. તેના બદલે, તેની છાતી પર મૂક્કો મારવા અને પ્રાર્થના કરવા લાગ્યો, હે દેવ, મારા પર દયા કર કારણ કે હું એક પાપી છું."
 
-  * **[[:gu:obe:other:taxcollector]]**
-  * **[[:gu:obe:other:jewishleaders]]**
-  * **[[:gu:obe:kt:heaven]]**
-  * **[[:gu:obe:other:pray]]**
-  * **[[:gu:obe:kt:god]]**
-  * **[[:gu:obe:kt:mercy]]**
-  * **[[:gu:obe:kt:sin]]**
+===== મહત્વપૂર્ણ શબ્દો: =====
 
+  * **જકાતદાર**
+  * **ધાર્મિક****નેતા**
+  * **સ્વર્ગ**
+  * **પ્રાર્થના**
+  * **દેવ**
+  * **દયાળુ**
+  * **પાપી**
+===== અનુવાદ નોંધો: =====
 
-===== Translation Notes: =====
-
-  * (Jesus continues the story.)
-  * **stood far away ** - This can also be translated as, "stood at a distance" or, "stayed separate."
-  * **did not even look up to heaven** - The word "even" indicates that people normally looked up to heaven when praying to God, but that this man did not because he was so ashamed of his sin.
-  * **he pounded on his chest with his fist** - This could also be translated as, "because of his grief, he hit his chest with his fist" or, "he pounded his chest in sorrow." If people would find this hard to understand because they beat their chest for other reasons, you could translate this as, "he showed his despair."
-
+  * (ઈસુ વાર્તા ચાલુ રાખે છે.)
+  * દૂર ઉભો રહ્યો - આ તરીકે પણ ભાષાંતર કરી શકાય, "અંતરે ઉભો રહ્યો" અથવા, "અલગ રહ્યો."
+  * સ્વર્ગ તરફ જોતો પણ ન હતો - શબ્દ "પણ" સૂચવે છે કે લોકો સામાન્ય રીતે ઊંચે આકાશમાં જોઈને ઈશ્વરને પ્રાર્થના કરતા હોય છે, પરંતુ આ માણસ એવુ ન કરતો હતો કારણ કે તેને તેના પાપને કારણે શરમ આવતી  હતી.
+  * તે તેની છાતી પર મૂક્કા મારી રહ્યો હતો – આ, આ રીતે પણ ભાષાંતર કરી શકાય છે, "તેના દુઃખના કારણે, તે તેની છાતીમાં મૂક્કા મારી રહ્યો હતો" અથવા, "તે દુ:ખમાં તેની છાતીને ટીપી રહ્યો હતો." જો લોકોને આ સમજવું અઘરું લાગતું હોય કારણ કે તેઓ અન્ય કારણો માટે તેમની છાતી કુટતા હોય છે, તમે આ રીતે અનુવાદ કરી શકો છો, "તેણે તેની નિરાશા દેખાડી."
 
 **[[:gu:obs:notes:frames:34-08|<<]] | [[:gu:obs:notes:34|Up]] | [[:gu:obs:notes:frames:34-10|>>]]**
