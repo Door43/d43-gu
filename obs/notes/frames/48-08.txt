@@ -1,27 +1,26 @@
-===== The Lamb of God [48-08] =====
+===== દેવનો હલવાન [48-08] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-08.jpg?nolink&}}
 
-When **God** told **Abraham** to offer his **son**, **Isaac**, as a **sacrifice**, God provided a **lamb** for the sacrifice **instead of his son**, **Isaac**. We all **deserve to die** for our **sins**! But God provided **Jesus**, the **Lamb of God**, as a sacrifice **to die in our place**.
-===== Important Terms: =====
+જ્યારે દેવે અબ્રાહમને તેમના પુત્ર, ઇસહાકને બલિદાન તરીકે પ્રદાન કરવા માટે જણાવ્યું હતું, ત્યારે દેવે તેમના પુત્ર ઇસહાકને બદલે  ઘેંટું બલિદાન માટે પૂરૂં પાડ્યું હતું. આપણે બધા આપણા પાપોને કારણે મૃત્યુ પામવાને લાયક છીએ ! પરંતુ દેવે ઈસુ આપ્યા છે, દેવનું ઘેંટું, બલિદાન રૂપે જે આપણી જગ્યાએ મૃત્યુ પામે.
 
-  * **[[:gu:obe:kt:god]]**
-  * **[[:gu:obe:other:abraham]]**
-  * **[[:gu:obe:kt:son]]**
-  * **[[:gu:obe:other:isaac]]**
-  * **[[:gu:obe:other:sacrifice]]**
-  * **[[:gu:obe:kt:lamb]]**
-  * **[[:gu:obe:kt:death]]**
-  * **[[:gu:obe:kt:sin]]**
-  * **[[:gu:obe:kt:jesus]]**
-  
+===== મહત્વપૂર્ણ શબ્દો: =====
 
+  * દેવ
+  * અબ્રાહમ
+  * પુત્ર
+  * ઈસહાક
+  * બલિદાન
+  * ઘેંટું
+  * મૃત્યુ પામે
+  * પાપો
+  * ઈસુ
+  * દેવનું ઘેંટું
 
-===== Translation Notes: =====
+===== અનુવાદ નોંધો:  =====
 
-  * **instead of his son, Isaac** - This can also be translated as, "in the place of his son, Isaac" or, "in his son Isaac's place" or, "so that he would not have to offer his son Isaac as a sacrifice."
-  * **deserve to die** - That is, "should die."
-  * **to die in our place** - This can also be translated as, "to die in the place of each of us" or, "so that he would not have to kill us."
-
+  * તેમના પુત્ર ઈસહાકના બદલે, - આવી રીતે પણ ભાષાંતર કરી શકાય, "તે જગ્યાએ જે એમના પુત્ર ઇસહાકની છે" અથવા "તેમના પુત્ર ઇસહાકની જગ્યાએ" અથવા, "જેથી તેઓ એક બલિ તરીકે તેમના પુત્ર ઇસહાકને અર્પણ નહીં કરશે"
+  * મૃત્યુ પામવાને લાયક - એટલે કે, "મરી જાય"
+  * અમારી જગ્યાએ મૃત્યુ પામે- આ તરીકે પણ ભાષાંતર કરી શકાય, "મરી જાય એ દરેકની જગ્યાએ" અથવા, "કે જેથી તેઓ અમને મારી ન શકે"
 
 **[[:gu:obs:notes:frames:48-07|<<]] | [[:gu:obs:notes:48|Up]] | [[:gu:obs:notes:frames:48-09|>>]]**
