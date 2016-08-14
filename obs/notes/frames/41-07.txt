@@ -1,18 +1,15 @@
-===== The Joyful News [41-07] =====
+===== આનંદના સમાચાર [41-07] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-07.jpg?nolink&}}
 
-The women were **full of fear and great joy**. They ran to tell the **disciples** the **good news**.
-===== Important Terms: =====
+મહિલાઓ **ભય** **પૂર્ણ** **અને** **મહા** **આનંદીત** **હતી** . તેઓ **શિષ્યોને** **શુભ** **સમાચાર** કહેવા દોડતી જતી હતી.
+===== મહત્વપૂર્ણ શબ્દો: =====
 
-  * **[[:gu:obe:kt:joy]]**
-  * **[[:gu:obe:kt:disciple]]**
+  * **આનંદ**
+  * **શિષ્યો**
+===== અનુવાદ નોંધો: =====
 
-
-===== Translation Notes: =====
-
-  * **full of fear and great joy** - That is, "experiencing emotions of fear and also great joy."
-  * **good news** - This can also be translated as, "the good news that Jesus was alive again." This good news refers to the fact that Jesus had risen from the dead.
-
+  * ભય અને મહાન આનંદ પૂર્ણ - એટલે કે, "ભયની લાગણીઓ અને મહાન આનંદ પણ અનુભવી રહિ હતી."
+  * સારા સમાચાર - આ રીતે પણ ભાષાંતર કરી શકો છો, "સારા સમાચાર એ છે કે ઈસુ ફરીથી જીવતો થયો છે." આ શુભ સમાચાર એ હકીકતનો ઉલ્લેખ કરે છે કે ઈસુ મરેલામાંથી સજીવન થયો હતો.
 
 **[[:gu:obs:notes:frames:41-06|<<]] | [[:gu:obs:notes:41|Up]] | [[:gu:obs:notes:frames:41-08|>>]]**
