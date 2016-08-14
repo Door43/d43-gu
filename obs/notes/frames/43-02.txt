@@ -1,22 +1,20 @@
-===== The Feast of Pentecost [43-02] =====
+===== પચાસમાના દિવસનું જમણ [43-02] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-02.jpg?nolink&}}
 
-Every year, 50 days after the **Passover**, the **Jews** celebrated an important day called **Pentecost**. Pentecost was a time when the Jews **celebrated the wheat harvest**. Jews came from all over the world to **Jerusalem** to celebrate Pentecost together. **This year**, the time for Pentecost came about a week after **Jesus** had gone back to **heaven**.
-===== Important Terms: =====
+દર વર્ષે, ૫૦ દિવસ પછી **પાસ્ખાપર્વ**, **યહૂદીઓ** એક મહત્વપૂર્ણ દિવસની ઉજવણી કરી જેને પચાસમાનો દિવસ કહેવાય છે. પચાસમો દિવસ(પેન્ટેકોસ્ટ) એક સમય હતો જ્યારે યહૂદિઓએ **લણણી** **ઉજવણી કરી ** હતી . યહૂદીઓ આખા વિશ્વમાંથી આવ્યા હતા જેથી **યરૂશાલેમમાં** પેન્તેકોસ્ત મળીને ઉજવે. **આ** **વર્ષે** , પેન્ટેકોસ્ટ સમય એક સપ્તાહ બાદ આવી રહ્યો છે **ઈસુ** **સ્વર્ગ** પાછો ગયો હતો.
+===== મહત્વપૂર્ણ શબ્દો: =====
 
-  * **[[:gu:obe:kt:passover]]**
-  * **[[:gu:obe:other:jew]]**
-  * **[[:gu:obe:other:jerusalem]]**
-  * **[[:gu:obe:kt:jesus]]**
-  * **[[:gu:obe:kt:heaven]]**
+  * પાસ્ખાં
+  * યહૂદીઓ
+  * યરૂશાલેમમાં
+  * ઈસુ
+  * સ્વર્ગ
 
+===== અનુવાદ નોંધો: =====
 
-===== Translation Notes: =====
-
-  * **Pentecost** - "Pentecost" means "fiftieth (day)." You could use the word "Pentecost" in your translation and let the text explain the meaning. Or you could use a term that means, "50th day."
-  * **celebrated the wheat harvest** - The Jews would thank God for the wheat harvest by bringing offerings and celebrate by having special meals. Wheat is a grain crop; if you have no word that means "wheat," you can use a more general word for grain. This happened in May; other crops were harvested at other times of the year.
-  * **This year** - That is, "In the year that Jesus died."
-
+  * પેન્ટેકોસ્ટ - "પેન્ટેકોસ્ટ" નો અર્થ "પચાસમો (દિવસ)." તમે તમારા ભાષાંતરમાં શબ્દ "પેન્ટેકોસ્ટ" નો ઉપયોગ કરી શકો છો અને લખાણને અર્થ સમજાવવા દો. અથવા તમે એક શબ્દ જેનો અર્થ થાય, "૫૦ મો દિવસ" ઉપયોગ કરી શકો છો
+  * લણણીની ઉજવણી કરી - યહૂદીઓ લણણી માટે દેવને માટે આભાર ભેંટ-ચડાવો લાવી અને ખાસ ભોજન કરવા દ્વારા ઉજવણી કરે છે.
+  * આ વર્ષે - એટલે કે, "એ વર્ષમાં જેમાં ઈસુ મૃત્યુ પામ્યો"
 
 **[[:gu:obs:notes:frames:43-01|<<]] | [[:gu:obs:notes:43|Up]] | [[:gu:obs:notes:frames:43-03|>>]]**
