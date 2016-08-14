@@ -1,25 +1,24 @@
-===== The Desire for Riches [33-08] =====
+===== ધન પ્રાપ્ત થવાની ઈચ્છા [33-08] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-08.jpg?nolink&}}
 
-“The **thorny ground is a person** who hears **God’s word**, but as time passes, the **cares**, **riches**, and **pleasures of life choke out** his **love** for **God**. As a result, the teaching he heard **does not produce fruit**.”
-===== Important Terms: =====
+"કાંટાળી જમીન એ એક વ્યક્તિ છે જે સાંભળે છે, પરંતુ જેવો સમય પસાર થાય છે, ધ્યાન, સંપત્તિ, જીવનનું સુખ તેનો દેવ પ્રત્યેના પ્રેમને અવરોધે છે. પરિણામે, ઉપદેશ તેણે સાંભળ્યો હતો એ ફળ પેદા કરતું નથી. "
 
-  * **[[:gu:obe:kt:wordofgod]]**
-  * **[[:gu:obe:kt:love]]**
-  * **[[:gu:obe:kt:god]]**
+===== મહત્વપૂર્ણ શબ્દો: =====
 
+  * **દેવનો****શબ્દ**
+  * **પ્રેમ**
+  * **દેવ**
+===== અનુવાદ નોંધો: =====
 
-===== Translation Notes: =====
-
-  * (Jesus continues to explain the story.)
-  * **thorny ground** - See how you translated this term in **[[:gu:obs:notes:frames:33-04|[33-04]]]**.
-  * **is a person** - See how you translated this comparison in **[[:gu:obs:notes:frames:33-06|[33-06]]]**.
-  * **cares** - That is, "concerns" or, "needs" or, "problems."
-  * **riches** - That is, "desire for wealth."
-  * **pleasures of life** - This could also be translated as, "doing things to get pleasure" or, "focusing on things that give pleasure."
-  * **choke out** - That is, "squelch" or, "destroy" or, "overcome." This phrase could also be translated as, "cause him to stop loving God."
-  * **does not produce fruit** - That is, "does not produce spiritual fruit" or "does not behave in a way that shows God's Spirit is working in him."
-
+  * (ઈસુ વાર્તા સમજાવવાનું ચાલુ રાખે છે.)
+  * કાંટાળી જમીન - જુઓ કે કેવી રીતે તમે આ શબ્દનો અનુવાદ __[____૮____} \ [____૩૩____-____૦૪____]__ {૯] {૧૦]માં કર્યો હતો.
+  * એક વ્યક્તિ છે - જુઓ કે કેવી રીતે તમે આ સરખામણીનો અનુવાદ __[____૮____} \ [____૩૩____-____૦૬____]__ {૯] {૧૦]માં કર્યો હતો.
+  * દેખભાળો - એટલે કે, "ચિંતા" અથવા, "જરૂર" અથવા, "સમસ્યાઓ."
+  * સંપત્તિ - એટલે કે, "સંપત્તિ માટે ઇચ્છા."
+  * જીવનનું સુખ - આ તરીકે પણ અનુવાદ કરી શકાય, "એ બાબતો કરે છે જેથી આનંદ મળે" અથવા "આનંદ આપનારી વસ્તુઓ પર ધ્યાન કેન્દ્રિત કરે."
+  * દુર ફેંકાઈ જવું - એટલે કે, "કચ-કચ કરે" અથવા, "નાશ" અથવા, "પર વિજય પામવો."
+  * આ શબ્દસમૂહ આ રીતે પણ અનુવાદ કરી શકાય, "તેને દેવને પ્રેમ કરતા રોકવાનું કારણ બને છે."
+  * ફળ પેદા નથી કરતો  - એટલે કે, "આધ્યાત્મિક ફળ પેદા નથી કરતો" અથવા "એવુ દર્શાવેછે કે ઈશ્વરનો આત્મા તેનામાં કામ નથી કરતો."
 
 **[[:gu:obs:notes:frames:33-07|<<]] | [[:gu:obs:notes:33|Up]] | [[:gu:obs:notes:frames:33-09|>>]]**
