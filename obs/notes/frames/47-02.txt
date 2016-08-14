@@ -1,23 +1,22 @@
-===== Lydia Was Baptized [47-02] =====
+===== લિડિયાના બાપ્તિસ્મા કર્યા [47-02] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-02.jpg?nolink&}}
 
-**God opened Lydia's heart** to **believe** the message about **Jesus**, and **she and her family were baptized**. She invited **Paul** and **Silas** to stay at her house, **so they stayed with her and her family**.
-===== Important Terms: =====
+દેવે લીડિયાના હૃદયને ખોલ્યું જેથી તેણી ​​ઈસુ વિશેનો સંદેશ માને અનેતેણી અને તેના કુટુંબીઓએ બાપ્તિસ્મા લીધા. તેણીએ પાઉલ અને સિલાસને તેના ઘરમાં રહેવા માટે આમંત્રિત કર્યા એટલે તેઓ, તેણી અને તેણીના પરિવાર સાથે રોકાયા.
 
-  * **[[:gu:obe:kt:god]]**
-  * **[[:gu:obe:kt:believe]]**
-  * **[[:gu:obe:kt:jesus]]**
-  * **[[:gu:obe:kt:baptize]]**
-  * **[[:gu:obe:other:paul]]**
-  * **[[:gu:obe:other:silas]]**
+===== મહત્વપૂર્ણ શબ્દો: =====
 
+  * દેવ
+  * માનવું
+  * ઈસુ
+  * બાપ્તિસ્મા
+  * પાઉલ
+  * સિલાસ
 
-===== Translation Notes: =====
+===== અનુવાદ નોંધો: =====
 
-  * **opened Lydia's heart** - That is, "enabled Lydia."
-  * **she and her family were baptized** - This can also be translated as, "they baptized Lydia and her family."
-  * **so they stayed with her and her family** - This was the normal custom of the day for people to provide hospitality to visitors in their homes. There were no immoral motives in this arrangement.
-
+  * લીડિયાનું હૃદય ખોલ્યું - એટલે કે,"લિડિયાને સક્રિય કરી"
+  * તેણીએ અને તેના કુટુંબે બાપ્તિસ્મા પામ્યા - આ રીતે પણ ભાષાંતર કરી શકાય, "તેઓએ લિડિયા અને તેના કુટુંબઓને બાપ્તિસ્મા આપ્યાં."
+  * જેથી તેઓ તેની અને તેના કુટુંબ સાથે રોકાયા - આ લોકો માટે દિવસનો એક સામાન્ય રીવાજ છે જેમા તેઓ તેમના ઘરોમાં મુલાકાતીઓ માટે આતિથ્ય પૂરી પાડે છે. આ વ્યવસ્થામાં કોઈ અનૈતિક હેતુઓ ન હતા.
 
 **[[:gu:obs:notes:frames:47-01|<<]] | [[:gu:obs:notes:47|Up]] | [[:gu:obs:notes:frames:47-03|>>]]**
