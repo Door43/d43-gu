@@ -1,27 +1,24 @@
-===== Make Disciples [42-10] =====
+===== શિષ્યો બનાવો [42-10] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-10.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-10.jpg?nolink&}}
 
-Jesus said to his **disciples**, “**All authority in heaven and on earth has been given to me**. So go, **make disciples of all people groups** by **baptizing** them **in the name of** the **Father**, the **Son**, and the **Holy Spirit**, and by teaching them to **obey** everything I have commanded you. Remember, I will be with you always.”
+ઈસુએ તેમના **શિષ્યોને** જણાવ્યું હતું, "**સ્વર્ગ** **અને** **પૃથ્વી** **પરનો** **સર્વ** **અધિકાર** **મને** **આપવામાં** **આવ્યો** **છે** . તેથી જાઓ, **બધા** **લોકોના** **જૂથોને** **​​****પિતા**, **પુત્ર**, અને **પવિત્ર** **આત્માના નામે બાપ્તિસ્મા** **આપીને** **​** તેમને** અનુયાયી** **બનાવો**, અને તેમને શિક્ષણ દ્વારા શિખવો કે **એ** બધું** માને** જેની મેં તમને આજ્ઞા કરી છે. યાદ રાખો, હું હંમેશા તમારી સાથે હોઈશે. "
+===== મહત્વપૂર્ણ શબ્દો: =====
 
-===== Important Terms: =====
+  * ઈસુ
+  * શિષ્યો
+  * સ્વર્ગ
+  * લોકોના જૂથો
+  * બાપ્તિસ્મા
+  * પિતા
+  * પુત્ર
+  * પવિત્ર આત્મા
+  * પાળે
 
-  * **[[:gu:obe:kt:jesus]]**
-  * **[[:gu:obe:kt:disciple]]**
-  * **[[:gu:obe:kt:heaven]]**
-  * **[[:gu:obe:other:peoplegroup]]**
-  * **[[:gu:obe:kt:baptize]]**
-  * **[[:gu:obe:kt:godthefather]]**
-  * **[[:gu:obe:kt:sonofgod]]**
-  * **[[:gu:obe:kt:holyspirit]]**
-  * **[[:gu:obe:other:obey]]**
+===== અનુવાદ નોંધો: =====
 
-
-===== Translation Notes: =====
-
-  * **All authority in heaven and on earth has been given to me** - This can also be translated as, "God has given me all authority in heaven and on earth" or, "God has given me complete authority over everyone in heaven and on earth" or, "I have all authority in heaven an on earth."
-  * **make disciples of all people groups** - That is, "help people from every people group become my disciples."
-  * **in the name of** - This phrase means both, "by the authority of" and, "under the authority of." Consider translating the word "name" literally if it will be understood in this way in your language. This phrase can also be repeated as in, "in the name of the Father, in the name of the Son, and in the name of the Holy Spirit."
-
+  * સ્વર્ગ અને પૃથ્વી પરનો સર્વ અધિકાર મને આપવામાં આવ્યો છે - આ રીતે પણ ભાષાંતર કરી શકાય છે "દેવ દ્વારા મને સ્વર્ગ અને પૃથ્વી પર સર્વ અધિકાર આપવામાં આવ્યો છે" અથવા, "દેવ દ્વારા મને સ્વર્ગ અને પૃથ્વી પર દરેક વ્યક્તિ પર સંપૂર્ણ સત્તા આપવામાં આવી છે "અથવા," મારી પાસે સ્વર્ગ અને પૃથ્વી પરની સંપુર્ણ સત્તા છે. "
+  * બધા લોકો્ના જૂથોને અનુયાયી બનાવો - એટલે કે, " લોકોને મદદ કરો જેથી તેઓ દરેક લોકોના જૂથમાંથી મારા શિષ્યો બનાવે"
+  * ના નામે - "આ શબ્દસમૂહનો બે અર્થ થાય છે, "સત્તા દ્વારા" અને, સત્તા હેઠળ." "નામ" શબ્દનો શાબ્દિક અનુવાદ ધ્યાનમાં રાખો, જો તે રીતે તમારી ભાષામાં આ રીતે સમજી શકાતો હોય તો. આ શબ્દસમૂહનો આ રીતે પણ વારંવાર ઉપયોગ કરી શકાય છે, "પિતાના નામે, પુત્રના નામે, અને પવિત્ર આત્માના નામે."
 
 **[[:gu:obs:notes:frames:42-09|<<]] | [[:gu:obs:notes:42|Up]] | [[:gu:obs:notes:frames:42-11|>>]]**
