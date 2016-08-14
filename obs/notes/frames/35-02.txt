@@ -1,18 +1,16 @@
-===== The Religious Leaders Grumbled [35-02] =====
+===== ધાર્મિક નેતાઓએ કુડકુડાટ કર્યો [35-02] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-02.jpg?nolink&}}
 
-Some **religious leaders** who were also there saw **Jesus** treating these **sinners** as friends, and they began to criticize him to each other. So Jesus told them this **story**.
-===== Important Terms: =====
+કેટલાક ધાર્મિક નેતાઓ જેઓ પણ ત્યાં હતા તેઓએ ત્યાં જોયું  કે ઈસુ આ પાપીઓની મિત્રોના જેમ સારવાર કરે છે, અને તેઓ એકબીજા વચ્ચે તેમની ટીકા કરવાનું શરૂ કર્યું. તેથી ઈસુએ તેઓને આ વાર્તા કહિ.
 
-  * **[[:gu:obe:other:jewishleaders]]**
-  * **[[:gu:obe:kt:jesus]]**
-  * **[[:gu:obe:kt:sin]]**
+===== મહત્વપૂર્ણ શબ્દો: =====
 
+  * **ધાર્મિક****નેતાઓ**
+  * **ઈસુ**
+  * **પાપીઓ**
+===== અનુવાદ નોંધો: =====
 
-===== Translation Notes: =====
-
-  * **story** - Jesus used this story to teach truths about God's kingdom. It is not clear if the events actually happened or not. If your language has a term that includes both fictional and real stories, you should use it here.
-
+  * વાર્તા - ઈસુએ દેવના રાજયનું સત્ય શીખવવા માટે આ વાર્તાનો ઉપયોગ કર્યો છે. તે સ્પષ્ટ નથી કે આ ઘટનાઓ ખરેખર ઘટી હતી અથવા નહિ. તમારી ભાષામાં જો એક શબ્દ હોય, જેમાં બંને, કાલ્પનિક અને વાસ્તવિક કથાઓનો સમાવેશ થાય છે, તો તમારે તેનો અહીં ઉપયોગ કરવો જોઈએ.
 
 **[[:gu:obs:notes:frames:35-01|<<]] | [[:gu:obs:notes:35|Up]] | [[:gu:obs:notes:frames:35-03|>>]]**
