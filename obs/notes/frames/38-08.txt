@@ -1,24 +1,22 @@
-===== You Will Be Scattered [38-08] =====
+===== તમે વેરવિખેર થશો[38-08] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-08.jpg?nolink&}}
 
-After the meal, **Jesus** and his **disciples** walked to the **Mount of Olives**. Jesus said, “You will all **abandon me** tonight. **It is written**, ‘**I will strike the shepherd and all the sheep will be scattered**.’”
-===== Important Terms: =====
+ભોજન કર્યા પછી, ઈસુ અને તેના શિષ્યો જૈતુન પહાડ તરફ ચાલતા જતા હતા. ઈસુએ કહ્યું, "આજની રાત તમે બધા મને છોડી દેશો. તે લખાયું છે, "હું ઘેટાંપાળકને મારીશ અને બધા ઘેટાં વિખરાઈ જશે."
 
-  * **[[:gu:obe:kt:jesus]]**
-  * **[[:gu:obe:kt:disciple]]**
-  * **[[:gu:obe:other:shepherd]]**
-  * **[[:gu:obe:other:sheep]]**
+===== મહત્વપૂર્ણ શબ્દો: =====
 
+  * **ઈસુ**
+  * **શિષ્યો**
+  * **ભરવાડ**
+  * **ઘેટાં**
+===== અનુવાદ નોંધો : =====
 
-===== Translation Notes: =====
-
-  * **Mount of Olives** - This is the name of a hill covered with olive trees, just outside the walls of the city of Jerusalem. It can also be translated as, "Olive Tree Hill."
-  * **abandon me** - That is, "desert me" or, "leave me."
-  * **It is written** - That is, "It is written in God's word" or, "It is written in the scriptures" or, "One of God's prophets wrote." It is also possible to say, "What is written will happen" or, "It will be like what is written." This prophecy refers to Jesus' death and his followers running away.
-  * **I will strike** - That is, "I will kill."
-  * **the shepherd and all the sheep** - Do not use Jesus' name in this quote because the prophet who first wrote it would not have known the shepherd's name. Also, do not refer to the sheep being the disciples. It is best to use words that mean "shepherd" and "sheep" in your translation.
-  * **will be scattered** - That is, "will go away in different directions."
-
+  * જૈતુન પહાડ - આ એક ટેકરીનુ નામ છે જે જૈતુનના વૃક્ષોથી છવાયેલું છે જે માત્ર યરૂશાલેમ શહેર દિવાલોની બહાર છે. તે આવી રીતે પણ ભાષાંતર કરી શકાય, "જૈતુન વૃક્ષોની ટેકરી."
+  * મને છોડી દેશો - એટલે કે, "મને તજો" અથવા, "મને છોડી દો."
+  * તે લખાયું છે - એટલે કે, "તે દેવના વચનોમાં લખાયું છે" અથવા, "તે શાસ્ત્રમાં લખાયું છે" અથવા, "એક પ્રબોધકોએ લખ્યું હતું." તે કહેવું પણ શક્ય છે, "જે લખાયું છે એ થશે" અથવા, "તે એવુ હશે જે લખાયેલું છે." આ ભવિષ્યવાણી ઈસુના મૃત્યુનો ઉલ્લેખ કરે છે અને તેમના અનુયાયીઓ દૂર નાસી ગયા હતા.
+  * હું પ્રહાર કરીશ - એટલે કે, "હું મારી નાખીશ."
+  * ભરવાડ અને બધા ઘેટાં - આ અવતરણમાં ઈસુના નામનો ઉપયોગ ન કરો કારણ કે જે પ્રબોધકે એ પ્રથમ વખત લખ્યું તે ભરવાડનું નામ જાણી શક્યો ન હશે. સાથે સાથે, ઘેટાં શિષ્યો હોવાનો સંદર્ભ પણ ન લેશો. તે શ્રેષ્ઠ છે કે જે શબ્દોનો અર્થ "ભરવાડ" અને "ઘેટાં" થતો હોય તેનો ઉપયોગ તમારા અનુવાદમાં કરવો જોઈએ.
+  * વેરવિખેર થઈ જશે - એટલે કે, "અલગ અલગ દિશામાં જતાં રહેશે."
 
 **[[:gu:obs:notes:frames:38-07|<<]] | [[:gu:obs:notes:38|Up]] | [[:gu:obs:notes:frames:38-09|>>]]**
