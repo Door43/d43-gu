@@ -1,25 +1,24 @@
-===== Repent and Be Baptized [43-11] =====
+===== પસ્તાવો કરો અને બાપ્તિસ્મા લો [43-11] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-11.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-11.jpg?nolink&}}
 
-**Peter** answered them, “Every one of you should **repent** and be **baptized in the name of Jesus Christ** so that **God** will **forgive** your **sins**. Then he will also give you the **gift of the Holy Spirit**.”
-===== Important Terms: =====
+પીતરે ઉત્તર આપ્યો, "તમે દરેક જણે ​​પસ્તાવો કરવો જોઈએ અને ​​ઈસુ ખ્રિસ્તના નામે બાપ્તિસ્મા લો જેથી દેવ ​​તમારા ​​પાપો માફ કરશે. પછી તે પણ તમને પવિત્ર આત્માનું દાન આપશે."
 
-  * **[[:gu:obe:other:peter]]**
-  * **[[:gu:obe:kt:repent]]**
-  * **[[:gu:obe:kt:baptize]]**
-  * **[[:gu:obe:kt:jesus]]**
-  * **[[:gu:obe:kt:god]]**
-  * **[[:gu:obe:kt:forgive]]**
-  * **[[:gu:obe:kt:sin]]**
-  * **[[:gu:obe:kt:holyspirit]]**
+===== મહત્વપૂર્ણ શબ્દો: =====
 
+  * પીતર
+  * પસ્તાવો
+  * બાપ્તિસ્મા
+  * ઈસુખ્રિસ્ત
+  * દેવ
+  * માફ કરો
+  * પાપો
+  * પવિત્ર આત્મા
 
-===== Translation Notes: =====
+===== અનુવાદ નોંધો: =====
 
-  * **in the name of** - This phrase means both, "by the authority of" and, "under the authority of." Consider translating the word "name" literally if it will be understood in this way in your language.
-  * **Christ** - This is the same meaning as "Messiah." It could be translated as "Anointed One" or, "Chosen One." Instead of translating the meaning, some translators may choose to keep the word "Christ" and spell it using the sounds in their own language.
-  * **Jesus Christ** - Since "Christ" is a title here, some translators may choose to change the order and say, "Christ Jesus." Both orders are used in the Bible.
-
+  * ના નામે - આ શબ્દસમૂહનો બંને અર્થ થાય છે, "સત્તા દ્વારા" અને, "સત્તા હેઠળ." આ શબ્દ "નામ" નો શાબ્દિક અનુવાદ તમારી ભાષામાં આ રીતે સમજી શકાય છે કે તે નક્કી કરો.
+  * ખ્રિસ્ત - આનો જ સમાન અર્થ છે "મસીહ." તે આ રીતે પણ અનુવાદ કરી શકાય છે, "અભિષિક્ત" અથવા "પસંદ કરાયેલો." અર્થનો અનુવાદ કરવાને બદલે, કેટલાક અનુવાદકો "ખ્રિસ્ત" શબ્દ રાખવા અને તેમની પોતાની ભાષામાં અવાજનો ઉપયોગ કરીને તેની જોડણી બનાવવાનું પસંદ કરે છે.
+  * ઈસુ ખ્રિસ્ત - કેમ કે "ખ્રિસ્ત" અહીં એક શીર્ષક છે, કેટલાક અનુવાદકો ક્રમ બદલશે અને કહેવાનુ પસંદ કરી શકે છે "ઈસુ ખ્રિસ્ત." બંને ક્રમો બાઇબલમાં ઉપયોગમાં લેવામાં આવે છે.
 
 **[[:gu:obs:notes:frames:43-10|<<]] | [[:gu:obs:notes:43|Up]] | [[:gu:obs:notes:frames:43-12|>>]]**
