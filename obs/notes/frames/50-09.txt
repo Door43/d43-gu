@@ -1,23 +1,22 @@
-===== The Enemy Is the Devil [50-09] =====
+===== શેતાન દુશ્મન છે [50-09] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-09.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-09.jpg?nolink&}}
 
-“The weeds represent the people **who belong to the evil one**. The enemy who planted the weeds represents **the devil**. The harvest **represents the end of the world**, and **the harvesters** represent **God's angels**.”
-===== Important Terms: =====
+"કડવા દાણા એ લોકોનું પ્રતિનિધિત્વ કરે છે જે દુષ્ટ સાથે સંબંધ ધરાવે છે. દુશ્મન જેણે નીંદણનું વાવેતર કર્યું હતું એ શેતાનને રજૂ કરે છે. લણણી વિશ્વના અંતને રજૂ કરે છે, અને કાપણીનો પ્રતિનિધિ દેવના દુતને."
 
-  * **[[:gu:obe:kt:evil]]**
-  * **[[:gu:obe:kt:satan]]**
-  * **[[:gu:obe:kt:god]]**
-  * **[[:gu:obe:kt:angel]]**
+===== મહત્વપૂર્ણ શબ્દો: =====
 
+  * દુષ્ટ
+  * શેતાન
+  * દેવ
+  * દેવદુત
 
-===== Translation Notes: =====
+===== અનુવાદ નોંધો: =====
 
-  * **who belong to the evil one** - That is, "who obey the evil one" or, "who are ruled by the evil one."
-  * **the evil one** - This is another title for Satan. It could be translated as, "Satan," but the title, "evil one" describes his character.
-  * **the devil** - This could also be translated as, "Satan."
-  * **represents the end of the world** - That is, "represents what will happen to people at the end of the world."
-  * **the harvesters** - This could also be translated as, "the men who harvest the ripe grain" or, "the workers who gather in the ripe grain."
-
+  * જે દુષ્ટ સાથે સંબંધ ધરાવે છે - "જે દુષ્ટની આજ્ઞાઓ પાળે છે" અથવા, "જે દુષ્ટના શાસનમાં છે",
+  * એક દુષ્ટ - આ શેતાન માટે બીજું શીર્ષક છે. તે આ રીતે અનુવાદ કરી શકાય "શેતાન" પરંતુ શીર્ષક, "શેતાની" તેના પાત્રને વર્ણવે છે.
+  * શેતાન - આ રીતે પણ ભાષાંતર કરી શકાય છે, "શેતાન."
+  * વિશ્વના અંતને રજૂ કરે છે - એટલે કે, "રજૂ કરે છે કે વિશ્વના અંતે લોકોનું શું થશે."
+  * કાપણી કરનાર- આ રીતે પણ ભાષાંતર કરી શકે છે, "જે પુરુષો પાકેલા અનાજ લણણી કરે છે" અથવા, "જે કામદારો પાકેલા અનાજ ભેગા કરે છે"
 
 **[[:gu:obs:notes:frames:50-08|<<]] | [[:gu:obs:notes:50|Up]] | [[:gu:obs:notes:frames:50-10|>>]]**
