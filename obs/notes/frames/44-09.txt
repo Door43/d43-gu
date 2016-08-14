@@ -1,27 +1,25 @@
-===== The Disciples Were Released [44-09] =====
+===== શિષ્યો આઝાદ થયા [44-09] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-09.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-09.jpg?nolink&}}
 
-The **leaders were shocked** that **Peter** and **John** spoke so boldly because they could see that these men were **ordinary** men **who were uneducated**. But **then they remembered** that these men **had been with Jesus**. **After they threatened** Peter and John, they **let them go**.
+નેતાઓને આઘાત લાગ્યો કે પીતર અને યોહાને હિંમતભેર વાત કરી હતી, કારણ કે તેઓ જોઈ શકતા હતા કે આ માણસો સામાન્ય પુરુષો હતા જે અભણ હતા . પરંતુ પછી તેઓને યાદ આવ્યું કે આ માણસો ઈસુની સાથે હતા. તેઓએ પછી પીતર અને યોહાનને ધમકી આપી, પછી તેઓએ તેમને જવા દીધાં. .
 
-===== Important Terms: =====
+===== મહત્વપૂર્ણ શબ્દો: =====
 
-  * **[[:gu:obe:other:jewishleaders]]**
-  * **[[:gu:obe:other:peter]]**
-  * **[[:gu:obe:other:johntheapostle]]**
-  * **[[:gu:obe:kt:jesus]]**
+  * નેતાઓ
+  * પીતર
+  * યોહાન
+  * ઈસુ
 
+===== અનુવાદ નોંધો: =====
 
-===== Translation Notes: =====
-
-  * **were shocked** - That is, "were very surprised" or, "were amazed."
-  * **ordinary** - That is, "common" or, "lower-class." Peter and John were simple fishermen.
-  * **who were uneducated** - That is, "who did not have a formal education." This could also be translated as, "who had not gone to religious school."
-  * **then they remembered** - This could also be translated as, "But then they thought about the fact that."
-  * **had been with Jesus** - This could also be translated as, "had spend time with Jesus" or, "had been taught by Jesus."
-  * **After they threatened** - The leaders said that they would punish Peter and John if they continued to teach people about Jesus.
-  * **let them go** - That is, "allowed them to leave."
-  * //A Bible story from//  - These references may be slightly different in some Bible translations.
-
+  * આશ્ચર્યચકિત હતા - એટલે કે, "ખૂબ જ આશ્ચર્ય થયું" અથવા, "દંગ હતા"
+  * સામાન્ય - એટલે કે, "સામાન્ય" અથવા, "નીચા વર્ગના." પિતર અને યોહાન સરળ માછીમારો હતા.
+  * જે અભણ હતા - એટલે કે, "તેઓ પાસે ઔપચારિક શિક્ષણ ન હતું." આવી રીતે પણ અનુવાદ કરી શકાય, "કોઈ ધાર્મિક શાળામાં ભણ્યા ન હતા."
+  * પછી તેઓને યાદ આવ્યું - આ રીતે પણ ભાષાંતર કરી શકાય છે, "પરંતુ પછી તેઓ તે હકીકત વિશે વિચાર્યું" ***
+  * ઈસુ સાથે હતા - આ રીતે પણ ભાષાંતર કરી શકાય છે, "ઈસુ સાથે સમય પસાર કર્યો હતો" અથવા, "ઈસુ દ્વારા શીખવવામાં આવ્યા હતા."
+  * પછી તેઓએ ધમકી આપી - નેતાઓએ જણાવ્યું કે તેઓ પિતર અને યોહાનને સજા કરશે જો તેઓ ઈસુ વિષે લોકોને શીખવવાનું ચાલુ રાખશે.
+  * તેમને જવા દેવા - "તેમને છોડી જવાની મંજૂરી આપી."
+  * બાઇબલની વાર્તાઓ -. આ સંદર્ભો બાઇબલના કેટલાક અનુવાદમા સહેજ અલગ હોઈ શકે છે
 
 **[[:gu:obs:notes:frames:44-08|<<]] | [[:gu:obs:notes:44|Up]] | [[:gu:obs:notes:frames:45-01|>>]]**
