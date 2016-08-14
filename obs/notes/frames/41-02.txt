@@ -1,18 +1,16 @@
-===== The Tomb Was Sealed [41-02] =====
+===== કબર મહોરબંધ હતી [41-02] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-02.jpg?nolink&}}
 
-**Pilate** said, “Take some soldiers and make the **tomb** as secure as you can.” So **they placed a seal on the stone** at the entrance of the tomb and put the soldiers there to make sure no one could steal the body.
-===== Important Terms: =====
+**પિલાતેએ** જણાવ્યું હતું કે, "કેટલાક સૈનિકો લઈ અને ખાતરી કરો કે **કબર** બની શકે એટલી સુરક્ષિત બને." તેથી **તેઓએ** કબરના પ્રવેશદ્વાર પાસે **પથ્થર** **પર** **મહોર** **મૂકી** અને સૈનિકોને ત્યાં મૂકી ખાતરી કરી કે કોઈ એમનું શરીર ચોરી કરી ન શકે.
+===== મહત્વપૂર્ણ શબ્દો: =====
 
-  * **[[:gu:obe:other:pilate]]**
-  * **[[:gu:obe:other:tomb]]**
+  * પિલાતે
+  * કબર
 
+===== અનુવાદ નોંધો: =====
 
-===== Translation Notes: =====
-
-  * **they placed** - That is, "the religious leaders and the soldiers placed."
-  * **a seal on the stone** - They put a soft material like clay or wax between the stone and the tomb and marked it with an official seal. If anyone moved the stone, the material would break and show that someone had entered the tomb. This could also be translated as, "a mark on the stone to forbid people from moving it."
-
+  * તેઓએ મૂક્યા - એટલે કે, "ધાર્મિક નેતાઓ અને સૈનિકોને મૂકવામાં"
+  * પથ્થર પર મહોર - તેઓએ માટી અથવા પથ્થર અને કબર વચ્ચે મીણ જેવી નરમ સામગ્રી મૂકી અને તેને એક અધિકારીએ મહોર સાથે ચિહ્નિત કરી. જો કોઈ પથ્થરને ખસેડે તો, મહોરની સામગ્રી તુટે અને દર્શાવે કે કોઈ કબરમાં દાખલ થયું હતું. આ રીતે પણ ભાષાંતર કરી શકાય છે, "પથ્થરને ખસેડવા પર લોકોને મનાઇનું નિશાન."
 
 **[[:gu:obs:notes:frames:41-01|<<]] | [[:gu:obs:notes:41|Up]] | [[:gu:obs:notes:frames:41-03|>>]]**
