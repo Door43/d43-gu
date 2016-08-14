@@ -1,21 +1,20 @@
-===== The Angel Appeared [41-04] =====
+===== દેવદૂત દેખાયા [41-04] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-04.jpg?nolink&}}
 
-Suddenly, there was a **great earthquake**. An **angel that shone as bright as lightning** appeared from **heaven**. He rolled away the stone that was covering the entrance to the **tomb** and sat on it. The soldiers guarding the tomb were terrified and **fell to the ground like dead men**.
-===== Important Terms: =====
+અચાનક, ત્યાં એક **મહા** **ભૂકંપ** આવ્યો. એક દેવદુત **વીજળીના** **જેમ** **તેજસ્વી** **રીતે** **ચમકતો** ઉતરતો દેખાયો જે **સ્વર્ગથી** હતો. તેણે પથ્થર દુર કર્યો જેનાથી **કબરનો** પ્રવેશદ્વાર બંધ કરવામાં આવ્યો હતો અને તેના પર બેસી ગયો.
 
-  * **[[:gu:obe:kt:angel]]**
-  * **[[:gu:obe:kt:heaven]]**
-  * **[[:gu:obe:other:tomb]]**
-  * **[[:gu:obe:kt:death]]**
+કબર રક્ષક સૈનિકો ભયગ્રસ્ત થઈ ડરી ગયા હતા અને **મૃત** **પુરુષોની** **જેમ** **જમીન** **પર** **પડી** **ગયા****.**
+===== મહત્વપૂર્ણ શબ્દો: =====
 
+  * **દેવદુત**
+  * **સ્વર્ગ**
+  * **કબર**
+  * **મૃત**
+===== અનુવાદ નોંધો: =====
 
-===== Translation Notes: =====
-
-  * **great earthquake** - This could also be translated as, "violent earthquake" or, "forceful shaking of the ground." Some languages may prefer to reword this as, "the ground began to shake violently."
-  * **that shone as bright as lightning** - That is, "whose appearance was as bright as lightning."
-  * **fell to the ground like dead men** - They were not dead, but they did not move, just like dead men do not move. They probably had fainted from fright. To make this clear, this could be translated as, "suddenly fell to the ground and did not move."
-
+  * મહાન ભૂકંપ - આ રીતે પણ ભાષાંતર કરી શકાય છે "હિંસક ભૂકંપ" અથવા, "જમીનને હલાવનાર બળવાન ધ્રુજારી." કેટલીક ભાષાઓ આવી રીતે પ્રતિશબ્દ, "જમીન હિંસક રીતે હલવા લાગી" પસંદ કરી શકે છે
+  * તેજસ્વી વીજળી જેમ ચમક્યો - એટલે કે, "જેનો દેખાવ વીજળી જેવો તેજસ્વી હતો."
+  * મૃત માણસની જેમ જમીન પર પડી ગયા - તેઓ મૃત ન હતા, પરંતુ તેઓ ખસી શકતા ન હતા, જેવી રીતે મૃતક વ્યક્તિ ખસી શકતો નથી. તેઓ કદાચ ફાળ પડવાથી અશક્ત જણાતા હતા. આ સ્પષ્ટ કરવા માટે, આવી રીતે અનુવાદ કરી શકાય, "અચાનક જમીન પર પડી ગયા અને હલ્યા નહિ."
 
 **[[:gu:obs:notes:frames:41-03|<<]] | [[:gu:obs:notes:41|Up]] | [[:gu:obs:notes:frames:41-05|>>]]**
