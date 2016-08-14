@@ -1,19 +1,17 @@
-===== The Mustard Seed [34-01] =====
+===== સરસવ બીજ [34-01] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-01.jpg?nolink&}}
 
-**Jesus** told many other **stories** about the **kingdom of God**. For example, he said, “The kingdom of God is like a **mustard seed** that someone planted in his field. You know that the mustard seed is **the smallest seed of all**.”
-===== Important Terms: =====
+ઈસુએ દેવના રાજ્ય વિશે ઘણી અન્ય કથાઓ કહી હતી. ઉદાહરણ તરીકે, તેમણે જણાવ્યું હતું કે, "દેવનું રાજ્ય રાઈના એક દાણા જેવું છે જેને કોઈ વ્યક્તિ પોતાના ખેતરમાં ઉગાડે છે. તમે જાણો છો કે રાઈના દાણા દરેક બીજોમાં સૌથી નાના બીજ છે."
 
-  * **[[:gu:obe:kt:jesus]]**
-  * **[[:gu:obe:kt:kingdomofgod]]**
+===== મહત્વપૂર્ણ શબ્દો:  =====
 
+  * **ઈસુ**
+  * **દેવનું****રાજ્ય**
+===== અનુવાદ નોંધો: =====
 
-===== Translation Notes: =====
-
-  * **stories** - Jesus used these stories to teach truths about God's kingdom. It is not clear if the events actually happened or not. If your language has a term that includes both fictional and real stories, you should use it here.
-  * **mustard seed** - This probably refers to the seed of the black mustard plant, which has tiny seeds that rapidly grow into very large plants. If there is a word for this plant in your language, you should use it. If not, you may need to substitute the name of another plant which has the same characteristics.
-  * **the smallest seed of all** - That is, "the smallest of all the seeds that people plant."
-
+  * કથાઓ - ઈસુ દેવના રાજ્યનું સત્ય શીખવવા માટે આ વાર્તાઓનો ઉપયોગ કર્યો હતો. તે સ્પષ્ટ નથી કે એ ઘટનાઓ ખરેખર ઘટી હતી કે નહી. જો તમારી ભાષામાં એક શબ્દ હોય, જેમાં બંને, કાલ્પનિક અને વાસ્તવિક કથાઓનો સમાવેશ થતો હોય, તો તમારે તેનો ઉપયોગ અહીં કરવો જોઈએ.
+  * રાઈના દાણા - કદાચ આ કાળી રાઈના છોડનો ઉલ્લેખ કરે છે, જેના બીજ ખુબ જ નાના હોય છે જે ઝડપથી ખૂબ જ મોટા વૃક્ષમાં વધવા લાગે છે. જો તમારી ભાષામાં આ છોડ માટે કોઈ શબ્દ હોય, તો તમારે તેનો ઉપયોગ કરવો જોઈએ. જો ન હોય તો, તમારે બીજો છોડ કે જે એ જ લાક્ષણિકતાઓ ધરાવતો હોય એના નામનો  ઉપયોગ કરવાની જરૂર પડી શકે છે.
+  * સૌથી નાનામાં નાનું બીજ - એટલે કે "બધા બીજોમાં સૌથી નાનું બીજ જે લોકો વાવે છે.",
 
 **[[:gu:obs:notes:frames:33-09|<<]] | [[:gu:obs:notes:34|Up]] | [[:gu:obs:notes:frames:34-02|>>]]**
