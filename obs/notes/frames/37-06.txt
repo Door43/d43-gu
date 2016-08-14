@@ -1,22 +1,20 @@
-===== Mary Met Jesus [37-06] =====
+===== મરિયમ અને ઈસુની ભેંટ [37-06] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-06.jpg?nolink&}}
 
-Then **Mary** arrived. She **fell at the feet of Jesus** and said, “**Master**, if only you had been here, **my brother would not have died**.” Jesus asked them, “Where have you put **Lazarus**?” They told him, “In the **tomb**. Come and see.” Then Jesus wept.
-===== Important Terms: =====
+પછી મરિયમ આવી પહોંચી. તેણી ઈસુના પગે પડી અને કહ્યું, "સ્વામી, માત્ર જો તમે અહીં હોત તો મારો ભાઈ મરત નહિ." ઈસુએ તેઓને પૂછયું, "તમે ક્યાં મૂક્યો છે લાજરસને?" તેઓએ કહ્યું, "કબરમાં. આવો અને જુઓ. " પછી ઈસુ રડી પડ્યા.
 
-  * **[[:gu:obe:kt:jesus]]**
-  * **[[:gu:obe:kt:lord]]**
-  * **[[:gu:obe:kt:death]]**
-  * **[[:gu:obe:other:lazarus]]**
-  * **[[:gu:obe:other:tomb]]**
+===== મહત્વપૂર્ણ શબ્દો: =====
 
+  * **ઈસુ**
+  * **સ્વામી**
+  * **મૃત્યુ****પામ્યા****હતા**
+  * **લાજરસ**
+  * **કબર**
+===== અનુવાદ નોંધો: =====
 
-===== Translation Notes: =====
-
-  * **Mary** - This was the same woman as in **[[:gu:obs:notes:frames:37-01|[37-01]]]**, not the mother of Jesus.
-  * **fell at the feet of Jesus** - That is, "knelt down at Jesus' feet" as a sign of respect.
-  * **my brother would not have died.** - That is, "you could have kept my brother from dying" or, "you could have prevented my brother's death" or, "my brother would still be alive."
-
+  * મરિયમ - આ એ જ સ્ત્રી હતી જે __[____૮____} \ [____૩૭____-____૦૧____]__ {૯] {1૦]માં છે, ઈસુની માતા નહીં.
+  * ઈસુના પગે પડી - એટલે કે, આદરના એક ચિહ્ન તરીકે "ઈસુના પગ પર નીચે નમી ગઈ".
+  * મારો ભાઈ મર્યો ન હોત - એટલે કે, "તમે મારા ભાઇનું મૃત્યુ અટકાવી શક્યા હોત" અથવા, "તમે મૃત્યુથી મારા ભાઇને અલગ રાખી શક્યા હોત" અથવા, "મારો ભાઇ હજુ પણ જીવંત હોત."
 
 **[[:gu:obs:notes:frames:37-05|<<]] | [[:gu:obs:notes:37|Up]] | [[:gu:obs:notes:frames:37-07|>>]]**
