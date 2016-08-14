@@ -1,22 +1,21 @@
-===== Our Crown [50-13] =====
+===== આપણો મુકુટ [50-13] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-13.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-13.jpg?nolink&}}
 
-**Jesus promised** to give a **crown** to everyone who **believes** in him. They will **live** and reign with **God** in **perfect peace** forever.
-===== Important Terms: =====
+ઈસુએ વચન આપ્યું હતું કે તે તેઓને તાજ આપશે જે દરેક તેને ​​માને છે.  તેઓ જીવશે અને દેવ સાથે સંપૂર્ણ શાંતિમાં કાયમ માટે રાજ કરશે.
 
-  * **[[:gu:obe:kt:jesus]]**
-  * **[[:gu:obe:kt:promise]]**
-  * **[[:gu:obe:kt:believe]]**
-  * **[[:gu:obe:kt:life]]**
-  * **[[:gu:obe:kt:god]]**
-  * **[[:gu:obe:other:peace]]**
+===== મહત્વપૂર્ણ શબ્દો: =====
 
+  * ઈસુ
+  * વચન
+  * માને છે
+  * જીવશે
+  * દેવ
+  * શાંતિ
 
-===== Translation Notes: =====
+===== અનુવાદ નોંધો: =====
 
-  * **crown** - This crown represents our reward for believing in Jesus and serving him in this life.
-  * **perfect** - That is, "complete" or, "total."
-
+  * તાજ- આ તાજ આપણું ઈનામ રજૂ કરે છે જે ઈસુમાં વિશ્વાસ રાખ્યો અને આ જીવન માં તેમની સેવા કરવા માટે.
+  * સંપૂર્ણ - એટલે કે, "પરીપૂર્ણ" અથવા, "કુલ"
 
 **[[:gu:obs:notes:frames:50-12|<<]] | [[:gu:obs:notes:50|Up]] | [[:gu:obs:notes:frames:50-14|>>]]**
