@@ -1,22 +1,21 @@
-===== This Is My Son [36-05] =====
+===== આ મારો પુત્ર છે [36-05] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-36-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-36-05.jpg?nolink&}}
 
-As **Peter** was talking, a bright cloud came down and surrounded them and **a voice from the cloud said**, “This is my **Son** whom I **love**. I am pleased with him. **Listen to him**.” The three **disciples** were **terrified** and **fell on the ground**.
-===== Important Terms: =====
+જ્યારે પીતર વાત કરી રહ્યો હતો ત્યારે, એક તેજસ્વી વાદળ નીચે આવ્યું અને તેમને ઘેરી લીધું અને વાદળમાંથી વાણી થઈ કે, "આ મારો છે પુત્ર જેને હું પ્રેમ કરું છું. હું તેનીથી ખુશ છું. તેને ધ્યાનથી સાંભળો. " ત્રણે શિષ્યો ડરી ગયા અને જમીન પર ઢળી ગયા.
 
-  * **[[:gu:obe:other:peter]]**
-  * **[[:gu:obe:kt:sonofgod]]**
-  * **[[:gu:obe:kt:love]]**
-  * **[[:gu:obe:kt:disciple]]**
+===== મહત્વપૂર્ણ શબ્દો: =====
 
+  * **પીતર**
+  * **પુત્ર**
+  * **પ્રેમ**
+  * **શિષ્યો**
+===== અનુવાદ નોંધો:  =====
 
-===== Translation Notes: =====
-
-  * **a voice from the cloud said** - This can also be translated as, "a voice spoke from the cloud saying" or, "God spoke from the cloud and said."
-  * **Listen to him** - This could be translated as, "He is the one you must listen to."
-  * **terrified**–That is, "extremely scared."
-  * **fell on the ground** - That is, "quickly bowed to the ground" or, "immediately got down on the ground." Make sure the translation of "fell" does not sound like an accident. They probably did this intentionally out of awe and fear.
-
+  * વાદળોમાંથી એક અવાજે કહ્યું કે - આ રીતે પણ અનુવાદ કરી શકાય છે, "એક અવાજ વાદળમાંથી વાત કરી રહ્યો હતો" અથવા, "દેવે વાદળોમાંથી વાત કરી અને જણાવ્યું."
+  * તેને ધ્યાનથી સાંભળો - આ તરીકે ભાષાંતર કરી શકાય છે "તે જ એક છે જેને તમે સાંભળવો જોઈએ છે."
+  * ભયભીત - એટલે કે, "અત્યંત ભયભીત."
+  * જમીન પર ઢળી ગયા - એટલે કે, "ઝડપથી જમીન પર ઝુકી ગયા" અથવા, "તરત જ જમીન પર નીચે વળ્યાં."
+  * ખાતરી કરો કે "ઢળી ગયા" નો અનુવાદ એ અકસ્માત જેવું ન લાગવું જોઈએ. તેઓ કદાચ ઈરાદાપૂર્વક ધાક અને ભયના કારણે આ કર્યું હોય.
 
 **[[:gu:obs:notes:frames:36-04|<<]] | [[:gu:obs:notes:36|Up]] | [[:gu:obs:notes:frames:36-06|>>]]**
