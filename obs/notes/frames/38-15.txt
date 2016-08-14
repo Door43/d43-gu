@@ -1,27 +1,25 @@
-===== Peter Fought for Jesus [38-15] =====
+===== પિતરે ઈસુને માટે લડાઈ કરી [38-15] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-15.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-15.jpg?nolink&}}
 
-**As the soldiers arrested Jesus**, **Peter pulled out his sword** and cut off the ear of a **servant** of the **high priest**. Jesus said, “Put the sword away! I could ask the **Father** for an army of **angels** to defend me. But I **must obey my Father**.” Then Jesus **healed** the man’s ear. After Jesus was arrested, all the **disciples** ran away.
-===== Important Terms: =====
+સૈનિકોએ ઈસુની ધરપકડ કરી, પીતરે પોતાની તલવાર બહાર ખેંચી અને પ્રમુખ યાજકના એક સેવકનો કાન કાપી નાંખ્યો. ઈસુએ કહ્યું, "તલવાર દૂર કર! હું મારી સુરક્ષા માટે ઈશ્વર પિતાને દેવદુતોના લશ્કર માટે  કહી શકું છું. પરંતુ મારે મારા પિતાનું માનવું જોઈએ. "પછી ઈસુએ એ માણસના કાનને સાજો કર્યા. ઈસુની ધરપકડ પછી, બધા શિષ્યો દૂર ભાગી ગયા.
 
-  * **[[:gu:obe:kt:jesus]]**
-  * **[[:gu:obe:other:peter]]**
-  * **[[:gu:obe:other:servant]]**
-  * **[[:gu:obe:kt:highpriest]]**
-  * **[[:gu:obe:kt:godthefather]]**
-  * **[[:gu:obe:kt:angel]]**
-  * **[[:gu:obe:other:obey]]**
-  * **[[:gu:obe:other:heal]]**
-  * **[[:gu:obe:kt:disciple]]**
+===== મહત્વપૂર્ણ શબ્દો: =====
 
+  * **ઈસુ**
+  * **પીતર**
+  * **નોકર**
+  * **પ્રમુખ****યાજક**
+  * **પિતા**
+  * **દેવદૂત**
+  * **માનવું**
+  * **સાજા****કરવું**
+  * **શિષ્યો**
+===== અનુવાદ નોંધો: =====
 
-===== Translation Notes: =====
-
-  * **As the soldiers arrested Jesus** - That is, "While the soldiers were arresting Jesus."
-  * **pulled out his sword** - That is, "pulled out his sword from the place where he was carrying it."
-  * **I must obey my Father** - That is, "I won't do that because I must obey my Father's will and allow myself to be arrested."
-  * //A Bible story from//  - These references may be slightly different in some Bible translations.
-
+  * જેવા સૈનિકો ઈસુની ધરપકડ કરે છે - એટલે કે, "જ્યારે સૈનિકો દ્વારા ઈસુની ધરપકડ કરવામાં આવી હતી."
+  * પોતાની તલવાર બહાર ખેંચી - એટલે કે, "એ જગ્યાએથી જ્યાં તે રાખવામાં આવી હતી ત્યાંથી તલવાર બહાર ખેંચી."
+  * મને મારા પિતાની આજ્ઞા પાળવી જ જોઈએ - એટલે કે, "હું તે નહિ કરું કારણ કે મને મારા પિતાની ઇચ્છા પાળવી જ જોઈએ અને મારી ધરપકડ કરવાની પરવાનગી આપવી જ જોઈએ."
+  * બાઇબલની વાર્તા  - આ સંદર્ભો બાઇબલના કેટલાક અનુવાદમાં સહેજ અલગ હોઈ શકે છે.   //    //
 
 **[[:gu:obs:notes:frames:38-14|<<]] | [[:gu:obs:notes:38|Up]] | [[:gu:obs:notes:frames:39-01|>>]]**
