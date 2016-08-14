@@ -1,18 +1,16 @@
-===== A Man with Evil Spirits [32-02] =====
+===== આત્માઓથી પીડિત એક માણસ [32-02] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-02.jpg?nolink&}}
 
-When they reached the other side of the lake, **a demon-possessed man came running up to Jesus**.
-===== Important Terms: =====
+તેઓ તળાવ બીજી બાજુ સુધી પહોંચી ગયા, ત્યાં એક શૈતાનના કબજામાં હોય એવો માણસ ઈસુ પાસે દોડી આવ્યો.
 
-  * **[[:gu:obe:kt:demonpossessed]]**
-  * **[[:gu:obe:kt:jesus]]**
+===== મહત્વપૂર્ણ શબ્દો: =====
 
+  * **શૈતાનના****કબજામાં****હોય**
+  * **ઈસુ**
+===== અનુવાદ નોંધો: =====
 
-===== Translation Notes: =====
-
-  * **a demon-possessed man** - That is, "a man who had demons in him" or, "a man who was controlled by evil spirits."
-  * **came running up to** - That is, "ran to" or, "ran and stopped in front of."
-
+  * એક શૈતાનના કબજામાં હોય એવો માણસ - એટલે કે, "એક માણસ છે, જેનામાં અશુધ્ધ આત્માઓ હતી" અથવા, "એક માણસ છે, જે અશુધ્ધ આત્માઓ દ્વારા નિયંત્રિત હતો."
+  * દોડી આવ્યો સુધી - એટલે કે, "દોડી આવ્યો" અથવા, "દોડ્યો અને એની સામે ઉભો રહ્યો."
 
 **[[:gu:obs:notes:frames:32-01|<<]] | [[:gu:obs:notes:32|Up]] | [[:gu:obs:notes:frames:32-03|>>]]**
