@@ -1,23 +1,37 @@
-===== You Crucified Jesus [43-06] =====
+===== તમે વધસ્તંભે ઈસુને જડ્યાં [43-06] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-06.jpg?nolink&}}
 
 “Men of **Israel**, **Jesus** was a man who did many mighty **signs and wonders** by the **power** of **God**, as you have seen and already know. But **you crucified him**!”
 ===== Important Terms: =====
 
-  * **[[:gu:obe:other:israel]]**
-  * **[[:gu:obe:kt:jesus]]**
-  * **[[:gu:obe:kt:miracle]]**
-  * **[[:gu:obe:kt:power]]**
-  * **[[:gu:obe:kt:god]]**
-  * **[[:gu:obe:kt:crucify]]**
-
-
+  * **[[:gu:obe:other:israel|Israel, Israelites, nation of Israel]]**
+  * **[[:gu:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
+  * **[[:gu:obe:kt:miracle|miracle, wonder, sign]]**
+  * **[[:gu:obe:kt:power|power]]**
+  * **[[:gu:obe:kt:god|God]]**
+  * **[[:gu:obe:kt:crucify|crucify]]**
 ===== Translation Notes: =====
 
   * (Peter continues preaching to the crowd.)
-  * **Men of Israel** - For some languages it is better to say, "People of Israel" for it to be clear that this included men and women. This could also be translated as, "My fellow people of Israel" or, "My fellow Jews" to make it clear that Peter was also a Jew and belonged to the "people of Israel."
-  * **you crucified him!** - This could also be translated as, "you caused him to be crucified" or, "because of you, he was crucified." The Jews did not actually nail Jesus to the cross. However, the Jewish leaders caused him to be condemned and many of the people in the crowd had shouted for him to be crucified.
+  * **Men of Israel**  - For some languages it is better to say, "People of Israel" for it to be clear that this included men and women. This could also be translated as, "My fellow people of Israel" or, "My fellow Jews" to make it clear that Peter was also a Jew and belonged to the "people of Israel."
+  * **you crucified him!**  - This could also be translated as, "you caused him to be crucified" or, "because of you, he was crucified." The Jews did not actually nail Jesus to the cross. However, the Jewish leaders caused him to be condemned and many of the people in the crowd had shouted for him to be crucified.
 
+"**ઇઝરાયેલના**  લોકો, **ઈસુ**  એક માણસ હતો, જેણે** દેવની****શક્તિ**  દ્વારા ઘણાં** ચમત્કારો****અને**** ​​****અદભૂત****કાર્યોના**  પરાક્રમી કામો કર્યા હતા, જે તમે જોયું છે અને પહેલાથી જ જાણો છો. પરંતુ **તમે****તેને****વધસ્તંભ****પર****મારી****નાંખ્યાં**  ! "
+
+===== મહત્વપૂર્ણ શબ્દો: =====
+
+  * ઇઝરાયેલ
+  * ઈસુ
+  * ચમત્કારો અને અદભૂત કાર્યો
+  * શક્તિ
+  * દેવ
+  * વધસ્તંભ પર ચડાવેલ
+  *
+===== અનુવાદ નોંધો: =====
+
+  * (પીતર ભીડ પર પ્રચાર ચાલુ રાખે છે.)
+  * ઇઝરાયેલના માણસો - કેટલીક ભાષાઓ માટે આવી રીતે વધુ સારી રીતે કહી શકાય, "ઇસ્રાએલના લોકો" વધુ સ્પષ્ટ કરવા માટે તેમાં પુરુષો અને સ્ત્રીઓનો સમાવેશ કરાયો છે. આ રીતે પણ ભાષાંતર કરી શકાય છે "ઇસ્રાએલના મારા સાથી લોકો" અથવા, "મારા સાથી યહુદીઓ" તે સ્પષ્ટ બનાવવા માટે કે પીતર પણ એક યહૂદી હતો અને"ઇસ્રાએલના લોકો" સાથે સંકળાયેલ હતો.
+  * તમે તેને વધસ્તંભ પર મારી નાખ્યો! - આવી રીતે પણ અનુવાદ કરી શકાય કારણ કે, "તમારા કારણે તેને વધસ્તંભ જડી દેવાયો" અથવા, "તમારા લોકોના કારણે, તેને વધસ્તંભ જડી દેવાયો હતો." યહૂદીઓએ ખરેખર ઈસુને વધસ્તંભ પર ખીલાથી જડ્યા ન હતા. જો કે, યહૂદી નેતાઓને કારણે લોકોએ તેની નિંદા કરી અને ભીડમાં લોકોએ તેને વધસ્તંભ પર ચડાવવા માટે ઘણા સૂત્રોચ્ચાર કર્યા હતા.
 
 **[[:gu:obs:notes:frames:43-05|<<]] | [[:gu:obs:notes:43|Up]] | [[:gu:obs:notes:frames:43-07|>>]]**
