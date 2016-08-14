@@ -1,22 +1,20 @@
-===== Lazarus Was Alive Again [37-10] =====
+===== લાજરસ ફરીથી જીવંત થયો હતો [37-10] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-10.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-10.jpg?nolink&}}
 
-So **Lazarus came out**! He was still wrapped in **grave clothes**. **Jesus** told them, “Help him take off those grave clothes and release him!” Many of the **Jews believed** in Jesus **because of this miracle**.
-===== Important Terms: =====
+તેથી લાજરસ બહાર આવ્યો! તે હજુ પણ શબના કપડાંથી આવરિત હતો. ઈસુએ તેઓને કહ્યું, "તેને શબના કપડાં ખોલવામાં અને મુક્ત થવામાં મદદ કરો!" આ ચમત્કારને કારણે ઘણા યહૂદીઓ ઈસુને માનવા લાગ્યા.
 
-  * **[[:gu:obe:other:lazarus]]**
-  * **[[:gu:obe:kt:jesus]]**
-  * **[[:gu:obe:other:jew]]**
-  * **[[:gu:obe:kt:believe]]**
-  * **[[:gu:obe:kt:miracle]]**
+===== મહત્વપૂર્ણ શબ્દો: =====
 
+  * **લાજરસ**
+  * **ઈસુ**
+  * **યહૂદીઓ**
+  * **માન્યું**
+  * **ચમત્કાર**
+===== અનુવાદ નોંધો: =====
 
-===== Translation Notes: =====
-
-  * **Lazarus came out!** - Some languages should say, "Lazarus came out of the tomb!"
-  * **grave clothes** - That is, "burial clothes." This can also be translated as, "burial bandages" or, "strips of cloth."
-  * **because of this miracle** - That is, "because God had done this amazing miracle" or, "because Jesus had made Lazarus come alive again."
-
+  * લાજરસ બહાર આવ્યો! - કેટલીક ભાષાઓ કહેશે, "લાજરસ કબરમાંથી બહાર આવ્યો!"
+  * શબના કપડાં - એટલે કે, "દફનના કપડાં." આ રીતે પણ અનુવાદ કરી શકાય છે, "દફન પટ્ટી" અથવા, "કપડાની પટ્ટીઓ."
+  * આ ચમત્કારને કારણે - એટલે કે, "કારણ કે દેવે આ અદભુત ચમત્કાર કર્યો હતો", અથવા "ઈસુએ લાજરસને ફરીથી જીવંત કર્યો હતો."
 
 **[[:gu:obs:notes:frames:37-09|<<]] | [[:gu:obs:notes:37|Up]] | [[:gu:obs:notes:frames:37-11|>>]]**
