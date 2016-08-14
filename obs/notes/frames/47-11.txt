@@ -1,25 +1,44 @@
-===== What Must I Do? [47-11] =====
+===== મારે શું કરવું જોઇએ?  [47-11] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-11.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-11.jpg?nolink&}}
 
 The jailer trembled as he came to **Paul** and **Silas** and asked, “What must I do **to be saved**?” **Paul** answered, “**Believe in Jesus**, **the Master**, and **you and your family will be saved**.” Then the jailer took Paul and Silas into his home and washed their wounds. Paul **preached** the **good news** about Jesus to everyone in his house.
 ===== Important Terms: =====
 
-  * **[[:gu:obe:other:paul]]**
-  * **[[:gu:obe:other:silas]]**
-  * **[[:gu:obe:kt:save]]**
-  * **[[:gu:obe:kt:believe]]**
-  * **[[:gu:obe:kt:jesus]]**
-  * **[[:gu:obe:kt:lord]]**
-  * **[[:gu:obe:other:preach]]**
-  * **[[:gu:obe:kt:goodnews]]**
-
-
+  * **[[:gu:obe:other:paul|Paul, Saul]]**
+  * **[[:gu:obe:other:silas|Silas, Silvanus]]**
+  * **[[:gu:obe:kt:save|save]]**
+  * **[[:gu:obe:kt:believe|believe, believe in, belief]]**
+  * **[[:gu:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
+  * **[[:gu:obe:kt:lord|lord, master, sir]]**
+  * **[[:gu:obe:other:preach|preach]]**
+  * **[[:gu:obe:kt:goodnews|good news, gospel]]**
 ===== Translation Notes: =====
 
-  * **to be saved** - This could also be translated as, "in order to be saved from my sins" or "so that God will save me from my sins." The question refers to salvation from being punished by the God who caused the earthquake.
-  * **Believe in Jesus, the Master** - This is addressed to both the jailer and his family, who all then believed and were baptized. Some languages may use a form to indicate that Paul is speaking to the group.
-  * **you and your family will be saved** - This can also be translated as, "God will save you and your family from eternal punishment for your sins." Make sure it is clear that the salvation referred to here is spiritual, not physical.
+  * **to be saved**  - This could also be translated as, "in order to be saved from my sins" or "so that God will save me from my sins." The question refers to salvation from being punished by the God who caused the earthquake.
+  * **Believe in Jesus, the Master**  - This is addressed to both the jailer and his family, who all then believed and were baptized. Some languages may use a form to indicate that Paul is speaking to the group.
+  * **you and your family will be saved**  - This can also be translated as, "God will save you and your family from eternal punishment for your sins." Make sure it is clear that the salvation referred to here is spiritual, not physical.
 
+જેલર ધ્રુજતો હતો જ્યારે તે પાઉલ અને સિલાસની પાસે આવ્યો અને પૂછ્યું, "શું હું કરૂં જેથી બચી જાઉં ?" પાઉલે ઉત્તર આપ્યો, "ઇસુ માલિકમાં, વિશ્વાસ કર, અને તું અને તારો પરિવાર બચી જશે." પછી જેલરે તેના ઘરમાં પાઉલ અને સિલાસને લઈ ગયો અને તેમના ઘા ધોયા. પાઉલે ​​તેના ઘરમાં દરેકને ઈસુ વિશે સારા સમાચારનો ઉપદેશ આપ્યો.
+
+===== મહત્વપૂર્ણ શબ્દો: =====
+
+  * પાઉલ
+  * સિલાસ
+  * બચાવ્યાં
+  * પાઉલ
+  * માનવું
+  * ઈસુ
+  * માલિક
+  * બચાવેલા
+  * ઉપદેશ કર્યો
+  * સારા સમાચાર
+  *
+===== અનુવાદ નોંધો: =====
+
+  * સાચવી શકાય - આ રીતે પણ ભાષાંતર કરી શકાય છે "મારા પાપોથી બચાવી શકાય એ માટે" અથવા, "કે જેથી દેવ મને મારા પાપો થી બચાવી લે." પ્રશ્ન જે સજામાંથી મુક્તિનો ઉલ્લેખ કરે છે જે દેવ દ્વારા ભૂકંપના રુપે કરવામાં આવી હતી.
+  * ઈસુ, પ્રભુને માનો - આ બંને, જેલર અને તેના કુટુંબ માટે સંબોધવામાં આવે છે, જે દરેક, પછી પ્રભુને માનવા લાગ્યા હતા અને બાપ્તિસ્મા લીધા હતા. કેટલીક ભાષાઓ કદાચ એક સ્વરૂપનો ઉપયોગ કરી શકે છે એ સૂચવવા માટે કે પાઉલ જૂથને કહેતો હોય.
+  * તમે અને તમારો પરિવાર બચાવી લેવામાં આવશે - આ રીતે પણ ભાષાંતર કરી શકાય "ઈશ્વર તમને અને તમારા પરિવારને તમારા પાપો માટેની શાશ્વત સજામાંથી બચાવે છે." -ખાતરી કરો કે તે સ્પષ્ટ થાય કે અહીં મુક્તિનો ઉલ્લેખ આધ્યાત્મિક છે, ભૌતિક નથી.
+  *
 
 **[[:gu:obs:notes:frames:47-10|<<]] | [[:gu:obs:notes:47|Up]] | [[:gu:obs:notes:frames:47-12|>>]]**
