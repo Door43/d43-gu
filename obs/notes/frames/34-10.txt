@@ -1,28 +1,26 @@
-===== The Proud Will Be Humbled [34-10] =====
+===== ગર્વ નીચો કરવામાં આવશે [34-10] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-10.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-10.jpg?nolink&}}
 
-Then **Jesus** said, “I tell you the **truth**, **God** heard the **tax collector's prayer** and **declared him to be righteous**. But he did not like the **religious leader's** prayer. God **will humble** everyone who is **proud**, and he will lift up whoever **humbles himself**.”
-===== Important Terms: =====
+પછી ઈસુએ કહ્યું, "હું તમને સત્ય કહું છું, દેવે જકાતદારની પ્રાર્થના સાંભળી અને તેને પ્રામાણિક (ધર્મી) હોવાનું જાહેર કર્યું. પરંતુ તેમને ધાર્મિક નેતાની પ્રાર્થના ન ગમી. દેવ એ દરેકને નમ્ર બનાવશે જે ગર્વ કરે છે, અને તે ઉત્થાન કરશે જે કોઈ પોતાને નીચો નમાવશે. "
 
-  * **[[:gu:obe:kt:jesus]]**
-  * **[[:gu:obe:kt:true]]**
-  * **[[:gu:obe:kt:god]]**
-  * **[[:gu:obe:other:taxcollector]]**
-  * **[[:gu:obe:other:pray]]**
-  * **[[:gu:obe:kt:righteous]]**
-  * **[[:gu:obe:other:jewishleaders]]**
-  * **[[:gu:obe:other:humble]]**
-  * **[[:gu:obe:other:proud]]**
+===== મહત્વપૂર્ણ શબ્દો: =====
 
+  * **ઈસુ**
+  * **સત્ય**
+  * **દેવ**
+  * **જકાતદારનું**
+  * **પ્રાર્થના**
+  * **ધાર્મિક**
+  * **ધાર્મિક****નેતા**
+  * **નમ્ર**
+  * **ગર્વ**
+===== અનુવાદ નોંધો: =====
 
-===== Translation Notes: =====
-
-  * **declared him to be righteous** - That is, "considered him to be a righteous person." Even though the tax collector was a sinner, God was merciful to him because of his humility and repentance.
-  * **will humble** - This could also be translated as, "will give a lower status to" or, "will cause to not be important." It could be translated figuratively as, "will bring down."
-  * **will lift up** - That is, "will give a higher position to" or, "will honor."
-  * **humbles himself** - That is, "chooses to behave in a humble way" or, "has a humble attitude about himself."
-  * //A Bible story from//  - These references may be slightly different in some Bible translations.
-
+  * તેને ધર્મી જાહેર કર્યો - એટલે કે, "તેને ધર્મી વ્યક્તિ ગણવામાં આવ્યો." જકાતદાર પાપી હતો તેમ છતાં પણ, તેની નમ્રતા અને પસ્તાવાના કારણે દેવ તેને પ્રત્યે દયાળુ હતો.
+  * નમ્ર બનાવશે - આ તરીકે પણ ભાષાંતર કરી શકાય છે, "એને નીચલી સ્થિતિ આપશે" અથવા "મહત્વપૂર્ણ ન બને એનું કારણ બનશે." તે અર્થાલંકારિક રીતે ભાષાંતર કરી શકાય છે, જેમ કે "નીચે લાવશે."
+  * ઉત્થાન કરશે - એટલે કે, "એક ઉચ્ચ પદ આપશે" અથવા, "સન્માન કરશે."
+  * પોતાને નીચો કરે  - એટલે કે, "નમ્ર રીતે વર્તવાનું પસંદ કરે" અથવા, "પોતાના વિશે નમ્ર વલણ ધરાવે છે."
+  * બાઇબલની વાર્તા - આ સંદર્ભો બાઇબલના કેટલાક અનુવાદમાં સહેજ અલગ હોઈ શકે છે.
 
 **[[:gu:obs:notes:frames:34-09|<<]] | [[:gu:obs:notes:34|Up]] | [[:gu:obs:notes:frames:35-01|>>]]**
