@@ -1,22 +1,21 @@
-===== Adam and Eve Sinned [48-02] =====
+===== આદમ અને હવાએ પાપ કર્યું [48-02] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-02.jpg?nolink&}}
 
-**Satan** spoke through the snake in **the garden** in order to **deceive Eve**. Then she and **Adam sinned** against **God**. Because they sinned, everyone on earth gets sick and everyone **dies**.
-===== Important Terms: =====
+શેતાને બગીચામાં હવાને છેતરવા માટે સાપની મારફતે વાત કરી હતી​. ત્યાર બાદ તેણી અને આદમે દેવ વિરુધ્ધ પાપ કર્યું. તેઓએ પાપ કર્યું એટલે, પૃથ્વી પર દરેક જણ બીમાર પડે છે અને દરેક મૃત્યુ પામે છે.
 
-  * **[[:gu:obe:kt:satan]]**
-  * **[[:gu:obe:other:eve]]**
-  * **[[:gu:obe:other:adam]]**
-  * **[[:gu:obe:kt:sin]]**
-  * **[[:gu:obe:kt:god]]**
-  * **[[:gu:obe:kt:death]]**
+===== મહત્વપૂર્ણ શબ્દો: =====
 
+  * શેતાન
+  * હવા
+  * આદમ
+  * પાપ કર્યુ
+  * દેવ
+  * મૃત્યુ પામે છે
 
-===== Translation Notes: =====
+===== અનુવાદ નોંધો:  =====
 
-  * **the garden** - This refers to the garden created by God where he placed the first man and woman.
-  * **deceive Eve** - That is, "lie to Eve." Satan lied by leading Eve to doubt what God had said. By doing this, he tricked her into disobeying God.
-
+  * બગીચામાં- આ દેવ દ્વારા બનાવાયેલો બગીચો જ્યાં તેમણે પ્રથમ પુરુષ અને સ્ત્રીને મૂક્યાં હતા એનો ઉલ્લેખ કરે છે.
+  * હવાને છેતરવા - એટલે કે, "હવાને ખોટું બોલ્યો." શેતાને ખોટું બોલીને દેવે જે કહ્યું હતું તે વિશે હવામાં શંકા ઉત્પન્ન કરી. આ કરીને, તેણે બનાવટ કરી તેણી દ્વારા ઈશ્વરની આજ્ઞા તોડાવી.
 
 **[[:gu:obs:notes:frames:48-01|<<]] | [[:gu:obs:notes:48|Up]] | [[:gu:obs:notes:frames:48-03|>>]]**
