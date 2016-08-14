@@ -1,25 +1,24 @@
-===== The Passover [48-09] =====
+===== પાસ્ખા [48-09] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-09.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-09.jpg?nolink&}}
 
-When **God sent the last plague on Egypt**, he told each **Israelite** family to kill **a perfect lamb** and spread **its blood** on the tops and sides of their **door frames**. When God saw the blood, he **passed over** their houses and did not kill their firstborn sons. This event is called the **Passover**.
-===== Important Terms: =====
+જ્યારે દેવે મિસરમાં છેલ્લો પ્લેગ મોકલ્યો, ત્યારે તેમણે દરેક ઈસ્રાએલી કુટુંબને એક સંપૂર્ણ ઘેંટું મારવા અને તેનું લોહી બારણાના ચોકઠાંના ટોચ પર અને તેની બાજુઓ પર લગાવવા કહ્યું હતું. જ્યારે દેવે રક્ત જોયું, ત્યારે તેઓ તેમના ઘરો પરથી પસાર થઈ ગયા અને તેમના પ્રથમ જન્મેલા દીકરાને માર્યો ન હતો. આ ઘટના કહેવામાં આવે છે પાસઓવર/પાસ્ખાં .
 
-  * **[[:gu:obe:kt:god]]**
-  * **[[:gu:obe:other:egypt]]**
-  * **[[:gu:obe:other:israel]]**
-  * **[[:gu:obe:kt:lamb]]**
-  * **[[:gu:obe:kt:blood]]**
-  * **[[:gu:obe:kt:passover]]**
+===== મહત્વપૂર્ણ શબ્દો: =====
 
+  * દેવ
+  * મિસર
+  * ઈસ્રાએલી
+  * ઘેંટું
+  * રક્ત
+  * પાસઓવર/પાસ્ખાં
 
-===== Translation Notes: =====
+===== અનુવાદ નોંધો: =====
 
-  * **sent the last plague on Egypt** - That is, "caused the final disaster to come on Egypt." This was the tenth plague when God caused the firstborn sons of the Egyptians to die.
-  * **a perfect lamb** - That is, "a lamb without any defect."
-  * **its blood** - That is, "the lamb's blood."
-  * **door frames** - If door frames are not known, this could be translated as, "doors."
-  * **passed over** - This could also be translated as, "passed by" or, "went by." You may want to connect how this is translated with how "Passover" is translated.
-
+  * મિસરમાં છેલ્લો પ્લેગ મોકલ્યો - એટલે કે, "મિસર પર અંતિમ આપત્તિ આવે એવું કરે છે." આ દસમો પ્લેગ હતો જ્યારે દેવને કારણે મિસરવાસીઓના પ્રથમજનિત પુત્રો મૃત્યુ પામે છે.
+  * એક સંપૂર્ણ ઘેંટું - એટલે કે, "કોઇપણ ખામી વગરનું એક હલવાન."
+  * તેનું લોહી- એટલે કે, "ઘેંટાનું લોહી."
+  * બારણાનું ચોકઠું- બારણાનું ચોકઠું જાણીતું ન હોય તો, આ રીતે ભાષાંતર કરી શકાય છે "દરવાજા."
+  * પરથી પસાર થવું - આ રીતે પણ અનુવાદ કરી શકાય, "પરથી પસાર થતો હોય" અથવા "પરથી ગયા." તમે કદાચ જોડવા ઈચ્છો કે આ અનુવાદ સાથે "પાસ્ખા" કેવું અનુવાદ થયું છે.
 
 **[[:gu:obs:notes:frames:48-08|<<]] | [[:gu:obs:notes:48|Up]] | [[:gu:obs:notes:frames:48-10|>>]]**
