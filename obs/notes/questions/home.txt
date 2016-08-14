@@ -9,6 +9,6 @@
   - શું તેઓ યોગ્ય રીતે જવાબ ન આપી શક્ય? તો પછી ભાષાંતર સુધારો.
 
 ખરા અને યોગ્ય રીતે જવાબ આપ્યા પછી તે લેવેલ -2 ચેકિંગ માટે મંજૂરી કરી શકાય.
-[[gu:obs:notes:questions:01|Story#1 The Creation]]
+[[gu:obs:notes:questions:01|Story#1 સર્જન]]
 
 <nspages en:obs:notes:questions -sortId -simpleList -title -exclude:home -textPages="translationQuestions for the Open Bible Stories:">
