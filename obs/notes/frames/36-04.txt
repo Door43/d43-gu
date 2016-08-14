@@ -1,22 +1,21 @@
-===== Peter's Comments [36-04] =====
+===== પીતરની ટિપ્પણીઓ [36-04] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-36-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-36-04.jpg?nolink&}}
 
-As **Moses** and **Elijah** were talking with **Jesus**, **Peter** said to Jesus, “It is **good** for us to be here. Let us make three **shelters**, one for you, one for Moses, and one for Elijah.” Peter **did not know what he was saying**.
+જ્યારે મૂસા અને એલિયા ઇસુ સાથે વાત કરી રહ્યાં હતા, પીતરે ઈસુને કહ્યું, "આપણે અહિંયા રહિએ તે સારું છે.
 
-===== Important Terms: =====
+અને ત્રણ આશ્રયસ્થાનો બનાવી, એક તારા માટે, એક મૂસા માટે અને એક એલિયા માટે. " પીતરને ખબર ન હતી તે શું બોલે છે.
 
-  * **[[:gu:obe:other:moses]]**
-  * **[[:gu:obe:other:elijah]]**
-  * **[[:gu:obe:kt:jesus]]**
-  * **[[:gu:obe:other:peter]]**
-  * **[[:gu:obe:kt:good]]**
+===== મહત્વપૂર્ણ શબ્દો: =====
 
+  * **મૂસા**
+  * **એલિયા**
+  * **ઈસુ**
+  * **પીતર**
+  * **સારૂ**
+===== અનુવાદ નોંધો: =====
 
-===== Translation Notes: =====
-
-  * **shelters** - This can also be translated as, "lean-tos" or, "garden huts" or, "tents." It refers to small, individual, temporary shelters, like the Jews made from tree branches during an annual Jewish holiday.
-  * **did not know what he was saying** - That is, "was speaking without understanding what was happening" or, "spoke without thinking clearly because he was so excited."
-
+  * આશ્રયસ્થાનો - આ રીતે પણ અનુવાદ કરી શકાય છે, "દુર્બળ સેવા સ્થળ" અથવા, "બગીચાની ઝુંપડી" અથવા, "તંબુ." યહૂદીઓ જેવી રીતે વાર્ષિક યહૂદી રજા દરમિયાન વૃક્ષની શાખાઓમાંથી બનાવેલ નાના, વ્યક્તિગત, કામચલાઉ આશ્રયસ્થાનો બનાવે છે, એનો ઉલ્લેખ કરે છે.
+  * ખબર ન હતી તે શું બોલે છે - એટલે કે જે, "શું બની રહ્યું હતું એ સમજ્યા વગર બોલી રહ્યો હતા" અથવા, "સ્પષ્ટ રીતે વિચાર કર્યા વગર વાત કરી રહ્યો હતો કારણ કે તે ઉત્સાહિત હતો."
 
 **[[:gu:obs:notes:frames:36-03|<<]] | [[:gu:obs:notes:36|Up]] | [[:gu:obs:notes:frames:36-05|>>]]**
