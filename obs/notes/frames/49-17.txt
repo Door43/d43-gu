@@ -1,28 +1,27 @@
-===== Follow Jesus' Teachings [49-17] =====
+===== ઈસુના શિક્ષણને અનુસરો [49-17] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-17.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-17.jpg?nolink&}}
 
-If you are a friend of **God** and a **servant** of **Jesus** the **Master**, you will want to **obey** what Jesus teaches you. Even though you are a **Christian**, you will still **be tempted to sin**. But God **is faithful** and says that if you **confess your sins**, he will **forgive** you. **He will give you strength to fight against sin**.
-===== Important Terms: =====
+જો તમે દેવના એક મિત્ર હો અને ઈસુ સ્વામીના દાસ હો તો તમારે ઈસુ જે શીખવે છે તે પળવુ જોઈએ. તમે એક ખ્રિસ્તી હો છતાં પણ, પાપ તમને હજુ પણ લલચાવી શકે છે. પરંતુ દેવ વફાદાર છે અને કહે છે કે જો તમે તમારા પાપોનો એકરાર કરો, તો તેઓ તમને માફ કરશે. તે તમને પાપ સામે લડવા માટે તાકાત આપશે .
 
-  * **[[:gu:obe:kt:god]]**
-  * **[[:gu:obe:other:servant]]**
-  * **[[:gu:obe:kt:jesus]]**
-  * **[[:gu:obe:kt:lord]]**
-  * **[[:gu:obe:other:obey]]**
-  * **[[:gu:obe:kt:christian]]**
-  * **[[:gu:obe:kt:tempt]]**
-  * **[[:gu:obe:kt:sin]]**
-  * **[[:gu:obe:kt:faithful]]**
-  * **[[:gu:obe:kt:forgive]]**
+===== મહત્વપૂર્ણ શબ્દો: =====
 
+  * દેવ
+  * સેવક
+  * ઈસુ
+  * સ્વામી
+  * માને
+  * ખ્રિસ્તી
+  * લલચાવેલું
+  * પાપ
+  * વફાદાર
+  * માફ કરાયેલા
 
-===== Translation Notes: =====
+===== અનુવાદ નોંધો: =====
 
-  * **be tempted to sin** - That is, ""be tempted to sin even though you know sin is wrong."
-  * **is faithful** - In this context this means that God, "keeps his promises."
-  * **confess your sins** - This could be translated as, "admit to God what you have done wrong."
-  * **He will give you strength to fight against sin** - That is, "He will give you spiritual strength to refuse to sin."
-
+  * પાપ દ્વારા લલચાવાયેલા - એટલે કે, " તમે જાણતા હો કે પાપ ખોટું છે છતાં પણ પાપ તમને લલચાવી શકે છે."
+  * વફાદાર છે - આ સંદર્ભનો એ અર્થ થાય કે ઈશ્વર "તેમના વચનો પાળે છે"
+  * તમારા પાપોનો એકરાર કરો - આ રીતે ભાષાંતર કરી શકાય, "દેવ સમક્ષ તમે જે ખોટું કર્યું સ્વીકાર કરો."
+  * તે તમને પાપ સામે લડવા માટે તાકાત આપશે - એટલે કે, "તે તમને પાપનો ઇન્કાર કરવા આત્મિક તાકાત આપશે"
 
 **[[:gu:obs:notes:frames:49-16|<<]] | [[:gu:obs:notes:49|Up]] | [[:gu:obs:notes:frames:49-18|>>]]**
