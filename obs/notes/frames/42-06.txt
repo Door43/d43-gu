@@ -1,22 +1,22 @@
-===== Jesus Appeared to the Disciples [42-06] =====
+===== ઈસુ શિષ્યોને દેખાયા [42-06] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-06.jpg?nolink&}}
 
-As the **disciples** were talking, **Jesus** suddenly appeared in the room with them and said, “**Peace to you**!” The **disciples** thought he was a ghost, but Jesus said, “Why are you afraid and **doubting**? Look at my hands and feet. Ghosts do not have bodies like I do.” **To prove** that he was not a ghost, he asked for something to eat. They gave him a piece of cooked fish, and he ate it.
-===== Important Terms: =====
+જેવા **શિષ્યો** વાત કરી રહ્યા હતા, **ઈસુ** અચાનક તેમની સાથે ઓરડામાં દેખાયા અને કહ્યું, " શાંતિ થાઓ તમને !" **શિષ્યોએ** વિચાર્યું કે એ ભૂત હતું, પરંતુ ઈસુએ કહ્યું, "તમે શા માટે ભયભીત થાવ છો અને **શંકા કરી રહ્યા છો** . મારા હાથ અને પગ જુઓ.
 
-  * **[[:gu:obe:kt:disciple]]**
-  * **[[:gu:obe:kt:jesus]]**
-  * **[[:gu:obe:other:peace]]**
-  * **[[:gu:obe:kt:disciple]]**
+ભૂતને શરીર ના હોય જેમ હું ધરાવું છું. " એ **સાબિત** **કરવા** **માટે** કે તે એક ભૂત નથી, તેમણે કંઈક ખાવા માટે પૂંછ્યું. તેઓએ તેને રાંધેલી માછલીનો ટુકડો આપ્યો, અને તેમણે ખાધું.
+===== મહત્વપૂર્ણ શબ્દો: =====
 
+  * શિષ્યો
+  * ઈસુ
+  * શાંતિ
+  * શિષ્યો
 
-===== Translation Notes: =====
+===== અનુવાદ નોંધો: =====
 
-  * **Peace to you** - This may also be translated as, "May you have peace" or, "Be at peace."
-  * **ghost** - This refers to the spirit of a dead person.
-  * **doubting** - That is, "doubting that I am alive and here with you."
-  * **To prove** - That is, "to demonstrate to them."
-
+  * તમને શાંતિ મળે – આ રીતે પણ ભાષાંતર કરી શકાય છે, "તમને શાંતિ થાઓ " અથવા, "શાંતિમાં રહો"
+  * ભુત - આ એક મૃત વ્યક્તિ ની આત્માનો ઉલ્લેખ કરે છે {૪.]
+  * શંકા કરવી - એટલે કે, "શંકા કરો કે હું જીવતો અને અહીં તમારી સાથે છું"
+  * સાબિત કરવા માટે - એટલે કે, " તેમને દર્શાવવા માટે"
 
 **[[:gu:obs:notes:frames:42-05|<<]] | [[:gu:obs:notes:42|Up]] | [[:gu:obs:notes:frames:42-07|>>]]**
