@@ -1,24 +1,23 @@
-===== The New Heaven and Earth [50-16] =====
+===== નવા સ્વર્ગ અને પૃથ્વી [50-16] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-16.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-16.jpg?nolink&}}
 
-Because **Adam** and **Eve disobeyed God** and **brought sin into** this world, God **cursed** it and decided to destroy it. But some day God will create **a new heaven** and **a new earth** that will be perfect.
-===== Important Terms: =====
+કારણ કે આદમ અને હવાએ ઈશ્વરની આજ્ઞા તોડી અને પાપ લઈ આવ્યાં આ વિશ્વમાં, દેવે તેને શ્રાપ આપ્યો અને તેનો નાશ કરવાનો નિર્ણય કર્યો હતો. પરંતુ ક્યારેક દેવ એક નવું આકાશ અને નવી પૃથ્વી જે સંપૂર્ણ હશે બનાવશે.
 
-  * **[[:gu:obe:other:adam]]**
-  * **[[:gu:obe:other:eve]]**
-  * **[[:gu:obe:other:disobey]]**
-  * **[[:gu:obe:kt:god]]**
-  * **[[:gu:obe:kt:sin]]**
-  * **[[:gu:obe:kt:curse]]**
-  * **[[:gu:obe:kt:heaven]]**
+===== મહત્વપૂર્ણ શબ્દો: =====
 
+  * આદમ
+  * હવા
+  * અનાદર કરવો
+  * દેવ
+  * પાપ
+  * શ્રાપિત
+  * સ્વર્ગ
 
-===== Translation Notes: =====
+===== અનુવાદ નોંધો: =====
 
-  * **brought sin into** - This could be translated as, "caused sin to enter."
-  * **a new heaven** - This could also be translated as, "a new sky" or, "a new universe". It refers to a new set of stars and everything else in the sky.
-  * **a new earth** - This current earth on which we live will be replaced by a new and improved one.
-
+  * પાપ લાવ્યા -  આ રીતે ભાષાંતર કરી શકો છો "ના કારણે પાપ દાખલ થયું"
+  * એક નવું આકાશ - આ તરીકે ભાષાંતર કરી શકો છો, "એક નવું આકાશ" અથવા, "એક નવું બ્રહ્માંડ"  તે તારાઓનો એક નવો સેટ અને આકાશમાં બીજું બધું, નો ઉલ્લેખ કરે છે.
+  * નવી પૃથ્વી - આ વર્તમાન પૃથ્વી જેના પર આપણે રહીએ છીએ એ એક નવી અને સુધારેલ પૃથ્વી દ્વારા બદલવામાં આવશે.
 
 **[[:gu:obs:notes:frames:50-15|<<]] | [[:gu:obs:notes:50|Up]] | [[:gu:obs:notes:frames:50-17|>>]]**
