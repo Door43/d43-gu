@@ -1,20 +1,18 @@
-===== I Have Sinned [35-08] =====
+===== મેં પાપ કર્યું છે [35-08] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-08.jpg?nolink&}}
 
-“The **son** said, ‘Father, I have **sinned against God and against you**. **I am not worthy** to be your son.’”
-===== Important Terms: =====
+"પુત્ર બોલી ઉઠ્યોં મે દેવ સામે અને તમારી સામે પાપ કર્યુ છે. હું તમારો બાળક હોવાને યોગ્ય નથી."
 
-  * **[[:gu:obe:kt:son]]**
-  * **[[:gu:obe:kt:sin]]**
-  * **[[:gu:obe:kt:god]]**
+===== મહત્વપૂર્ણ શબ્દો: =====
 
+  * **પુત્ર**
+  * **પાપ****કર્યુ**
+  * **દેવ**
+===== અનુવાદ નોંધો: =====
 
-===== Translation Notes: =====
-
-  * (Jesus continues the story.)
-  * **sinned against God and against you** - This could be translated as, "sinned against God, and I have also sinned against you."
-  * **I am not worthy** - It is also possible to say, "So I am not worthy" or, "As a result, I am not worthy."
-
+  * (ઈસુ વાર્તા ચાલુ રાખે છે.)
+  * દેવ અને તમારી સામે પાપ કર્યું - આ આવી રીતે પણ અનુવાદ કરી શકાય, "દેવ સામે પાપ કર્યુ છે, અને મેં તમારી સામે પણ પાપ કર્યુ છે."
+  * હું યોગ્ય નથી - તે પણ શક્ય છે એ કહેવું કે, "તેથી હું લાયક નથી" અથવા "પરિણામે, હું નાલાયક છું."
 
 **[[:gu:obs:notes:frames:35-07|<<]] | [[:gu:obs:notes:35|Up]] | [[:gu:obs:notes:frames:35-09|>>]]**
