@@ -1,24 +1,22 @@
-===== Martha Met Jesus [37-04] =====
+===== માર્થા ઈસુની ભેંટ [37-04] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-04.jpg?nolink&}}
 
-When **Jesus** arrived at **Lazarus**' hometown, Lazarus had already been **dead** for four days. **Martha went out to meet Jesus** and said, “**Master**, if only you had been here, **my brother would not have died**. But I **believe God will give you whatever you ask from him**.”
-===== Important Terms: =====
+જ્યારે ઈસુ લાજરસના વતનમાં પહોંચ્યા, ત્યારે લાજરસ ચાર દિવસ પહેલા જ મરણ પામી ચુક્યો હતો. માર્થા ઈસુને મળવા બહાર ગઈ અને કહ્યું, "સ્વામી, માત્ર જો તમે અહીં હોત તો મારો ભાઈ મરત નહિ. પરંતુ હું માનું છું કે દેવ તમને એ આપશે જે તમે માંગશો. "
 
-  * **[[:gu:obe:kt:jesus]]**
-  * **[[:gu:obe:other:lazarus]]**
-  * **[[:gu:obe:kt:death]]**
-  * **[[:gu:obe:kt:lord]]**
-  * **[[:gu:obe:kt:believe]]**
-  * **[[:gu:obe:kt:god]]**
+===== મહત્વપૂર્ણ શબ્દો: =====
 
+  * **ઈસુ**
+  * **લાજરસનું**
+  * **મૃત**
+  * **સ્વામી**
+  * **માનવું**
+  * **દેવ**
+===== અનુવાદ નોંધો: =====
 
-===== Translation Notes: =====
-
-  * **Martha** - Martha was the sister of Lazarus and Mary. See **[[:gu:obs:notes:frames:37-01|[37-01]]]**.
-  * **went out to meet Jesus** - That is, "went to meet Jesus as he was coming into the town."
-  * **my brother would not have died.** - That is, "you would have healed my brother and he would not have died" or, "you could have prevented my brother from dying."
-  * **will give you whatever you ask from him** - That is, "will do whatever you ask him to do."
-
+  * માર્થા - માર્થા લાજરસ અને મેરીની બહેન હતી. જુઓ __\ [____૩૭____-____૦૧____]__ {૭] [૮}.
+  * બહાર ગઈ ઈસુને મળવા - એટલે કે, "ઈસુને મળવા દોડી ગઈ જેવા તે નગરમાં આવી રહ્યા હતા."
+  * મારો ભાઈ મર્યો ન હોત - એટલે કે, "તમે મારા ભાઈને સાજો કર્યો હોત અને તે મૃત્યુ પામ્યો ન હોત" અથવા, "તમે મૃત્યુ થી મારા ભાઇને બચાવી શક્યા હોત."
+  * તમને એ આપશે જે તમે માંગશો - એટલે કે, "જે કંઈ તમે તેમને કરવા માટે કહેશો તેઓ કરશે."
 
 **[[:gu:obs:notes:frames:37-03|<<]] | [[:gu:obs:notes:37|Up]] | [[:gu:obs:notes:frames:37-05|>>]]**
