@@ -1,16 +1,15 @@
-===== Saul Became Blind [46-03] =====
+===== શાઉલ આંધળો બની ગયો [46-03] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-46-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-46-03.jpg?nolink&}}
 
-When **Saul** got up, he could not see. His friends had to lead him into Damascus. Saul did not eat or drink anything for three days.
-===== Important Terms: =====
+જ્યારે શાઉલ ઉભો થયો, તે જોઈ શકતો ન હતો. તેના મિત્રો તેને દમાસ્ક દોરી ગયા. શાઉલે ત્રણ દિવસ સુધી કંઈ ખાધું અથવા પીધું ન હતુ.
 
-  * **[[:gu:obe:other:paul]]**
+===== મહત્વપૂર્ણ શબ્દો: =====
 
+  * શાઉલ
 
-===== Translation Notes: =====
+===== અનુવાદ નોંધો: =====
 
-  * //(There are no notes for this frame.)// 
-
+  * (આ ચોકઠાં માટે કોઈ નોંધો નથી.)
 
 **[[:gu:obs:notes:frames:46-02|<<]] | [[:gu:obs:notes:46|Up]] | [[:gu:obs:notes:frames:46-04|>>]]**
