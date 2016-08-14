@@ -1,21 +1,20 @@
-===== Jesus and Pilate [39-09] =====
+===== ઈસુ અને પિલાતે [39-09] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-09.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-09.jpg?nolink&}}
 
-Early the next morning, the **Jewish leaders** brought **Jesus** to **Pilate**, the **Roman governor**. They hoped that Pilate would condemn Jesus as guilty and **sentence him to be killed**. Pilate asked Jesus, “Are you the **king of the Jews**?”
-===== Important Terms: =====
+બીજે દિવસે વહેલી સવારે, યહૂદી નેતાઓ ઈસુને પિલાતે રોમન ગવર્નર સમક્ષ લઈ આવ્યાં. તેઓ આશા રાખતા હતા કે પિલાતે ઈસુને દોષિત તરીકે તિરસ્કાર કરે અને તેને મ્રુત્યુની સજા કરે. પિલાતે ઈસુને પૂછયું કે, "તું યહૂદિઓનો રાજા છે?"
 
-  * **[[:gu:obe:other:jewishleaders]]**
-  * **[[:gu:obe:kt:jesus]]**
-  * **[[:gu:obe:other:pilate]]**
-  * **[[:gu:obe:other:rome]]**
-  * **[[:gu:obe:kt:kingofthejews]]**
+===== મહત્વપૂર્ણ શબ્દો: =====
 
+  * યહૂદી નેતાઓ
+  * ઈસુ
+  * પિલાતે
+  * રોમન
+  * યહૂદિઓનો રાજા
 
-===== Translation Notes: =====
+===== અનુવાદ નોંધો: =====
 
-  * **Roman governor** - That is, "Roman government official." The Roman government had appointed Pilate to govern the region of Judea in Israel.
-  * **sentence him to be killed** - As governor, Pilate had the authority to condemn Jesus to death and to give approval for his crucifixion, or to set him free. The Jewish religious leaders did not have the authority to have someone killed.
-
+  * રોમન ગવર્નર -એટલે કે "રોમન સરકારી અધિકારીએ." રોમન સરકારે ઇઝરાયેલના યહુદાના પ્રદેશ પર શાસન કરવા પિલાતેની નિમણૂક કરી હતી.
+  * તેને મ્રુત્યુની સજા કરી - રાજ્યપાલ તરીકે, ઈસુને મૃત્યુ માટે તિરસ્કાર અને તેના તીવ્ર દુઃખ માટે મંજૂરી આપવાની, અથવા તેમને મુક્ત કરવાની પિલાતે પાસે સત્તા હતી. યહુદી ધર્મગુરુઓ પાસે કોઈને મ્રુત્યુ આપવાની સત્તા ન હતી.
 
 **[[:gu:obs:notes:frames:39-08|<<]] | [[:gu:obs:notes:39|Up]] | [[:gu:obs:notes:frames:39-10|>>]]**
