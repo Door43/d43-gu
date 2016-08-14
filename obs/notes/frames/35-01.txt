@@ -1,19 +1,17 @@
-===== Jesus Taught Sinners [35-01] =====
+===== ઈસુએ પાપીઓને શીખવ્યું [35-01] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-01.jpg?nolink&}}
 
-**One day**, **Jesus** was teaching many **tax collectors** and other **sinners** who had gathered to hear him.
-===== Important Terms: =====
+એક દિવસ, ઈસુ, ઘણા જકાતદારો અને અન્ય પાપીઓ જે તેમને સાંભળવા ભેગા થયા હતા, તેઓને ઉપદેશ આપતા હતા.
 
-  * **[[:gu:obe:kt:jesus]]**
-  * **[[:gu:obe:other:taxcollector]]**
-  * **[[:gu:obe:kt:sin]]**
+===== મહત્વપૂર્ણ શબ્દો: =====
 
+  * **ઈસુ**
+  * **જકાતદારો**
+  * **પાપીઓ**
+===== અનુવાદ નોંધો: =====
 
-===== Translation Notes: =====
-
-  * **One day** - This phrase introduces an event that happened in the past, but does not state the specific time. Many languages have a similar way to begin telling a true story.
-  * **tax collectors** - Tax collectors were considered to be the worst of sinners because often they stole money from people by collecting a higher tax than the government required.
-
+  * એક દિવસ - આ શબ્દસમૂહ એક ઘટના છે જે ભૂતકાળમાં થઈ હતી એનો પરિચય આપે છે, પરંતુ ચોક્કસ સમય દર્શાવતો નથી. ઘણી ભાષાઓ એ જ રીતે એક સાચી વાર્તા કહેવી શરૂ કરવાનો માર્ગ ધરાવતી હોય છે.
+  * જકાતદારો - જકાતનાકાના કર ઉઘરાવનારાઓ સૌથી ખરાબ પાપીઓ ગણવામાં આવતા હતા કારણ કે ઘણી વખત તેઓ સરકારી જરૂર કરતાં ઉચા કર દ્વારા લોકો પાસેથી નાણાં એકત્ર કરી ચોરી કરતા હતા.
 
 **[[:gu:obs:notes:frames:34-10|<<]] | [[:gu:obs:notes:35|Up]] | [[:gu:obs:notes:frames:35-02|>>]]**
