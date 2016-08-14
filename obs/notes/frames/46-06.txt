@@ -1,23 +1,24 @@
-===== Saul Preached about Jesus [46-06] =====
+===== શાઉલનો ઈસુ વિશે ઉપદેશ [46-06] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-46-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-46-06.jpg?nolink&}}
 
-**Right away**, **Saul** began **preaching** to the **Jews** in Damascus, saying, “**Jesus** is the **Son of God**!” The Jews were amazed that the man who had tried to destroy the **believers** now also believed in Jesus! Saul **reasoned with the Jews**, proving that Jesus was the **Messiah**.
-===== Important Terms: =====
+તરત જ, ​​શાઉલે દમાસ્કસમાં યહૂદીઓને તે​​ કહિને ઉપદેશ આપવાનું શરૂ કર્યું, "​​ઈસુ ​​દેવનો દીકરો છે !" યહૂદીઓ નવાઇ પામ્યા કે એ માણસ જેણે અનુયાયીઓનો નાશ કરવાનો પ્રયાસ કર્યો હતો તે પણ હવે ઈસુમાં વિશ્વાસ કરવા લાગ્યો!
 
-  * **[[:gu:obe:other:paul]]**
-  * **[[:gu:obe:other:preach]]**
-  * **[[:gu:obe:other:jew]]**
-  * **[[:gu:obe:kt:jesus]]**
-  * **[[:gu:obe:kt:sonofgod]]**
-  * **[[:gu:obe:kt:believer]]**
-  * **[[:gu:obe:kt:christ]]**
+શાઉલ યહૂદીઓ સાથે ચર્ચા કરીને, સાબિત કરતો હતો કે ઈસુ મસીહ હતા.
 
+===== મહત્વપૂર્ણ શબ્દો: =====
 
-===== Translation Notes: =====
+  * શાઉલ
+  * ઉપદેશ
+  * યહૂદીઓ
+  * ઈસુ
+  * દેવનો દીકરો
+  * શિષ્યો
+  * મસીહ
 
-  * **Right away** - This can also be translated as, "Immediately" or, "Then."
-  * **reasoned with the Jews** - This could also be translated as, "gave the Jews good reasons for believing in Jesus" or, "spoke persuasively with the Jews."
+===== અનુવાદ નોંધો: =====
 
+  * તરત જ - આ રીતે પણ ભાષાંતર કરી શકાય છે, "તરત જ" અથવા, "ત્યાર બાદ."
+  * યહૂદીઓ સાથે ચર્ચા - આ રીતે પણ ભાષાંતર કરી શકાય છે "યહૂદીઓને ઈસુમાં વિશ્વાસ કરવા માટે સારા કારણો આપ્યો," અથવા "યહૂદીઓ સાથે સમજણપુર્વક વાત કરી હતી."
 
 **[[:gu:obs:notes:frames:46-05|<<]] | [[:gu:obs:notes:46|Up]] | [[:gu:obs:notes:frames:46-07|>>]]**
