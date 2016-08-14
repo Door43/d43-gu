@@ -1,17 +1,16 @@
-===== The Famine [35-05] =====
+===== દુકાળ [35-05] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-05.jpg?nolink&}}
 
-“After that, **a severe famine happened** in the land where the younger son was, and he had **no money to buy food**. So he took the only job he could find, **feeding pigs**. He was so miserable and hungry that he wanted to eat the pigs’ food.”
-===== Important Terms: =====
+"ત્યાર પછી, એ દેશમાં જ્યાં નાનો પુત્ર હતો, એક ગંભીર દુકાળ પડ્યો, અને તેની પાસે કોઈ ધન ન હતું કે ખોરાક ખરીદી શકે. તેથી તેણે, ભુંડોને ખવડાવવાનું એકમાત્ર કામ સ્વિકાર્યું જે તે શોધી શક્યો. તે એટલો તુચ્છ અને ભુખ્યો હતો કે તે ભુંડો જે ખાય એ ખાવા ઈચ્છતો હતો."
 
-===== Translation Notes: =====
+===== મહત્વપૂર્ણ શબ્દો: =====
 
-  * (Jesus continues the story.)
-  * **a severe famine happened** - That is, "there was very little food." In some languages this might be translated as, "there was a severe famine."
-  * **no money to buy food** - Because of the famine, food was very expensive, and he had already spent all of his money.
-  * **job** - This refers to work that he would do for someone else in exchange for money. If this is not clear, this sentence could start with, "So in order to earn some money, he took the only job."
-  * **feeding pigs** - That is, "giving food to pigs." This would have been considered as one of the lowest jobs in society at this time. If your language has a certain word for low status jobs, use that word.
+===== અનુવાદ નોંધો: =====
 
+  * (ઈસુ વાર્તા ચાલુ રાખે છે.)
+  * એક ગંભીર દુકાળ આવ્યો - એટલે કે, "ખૂબ જ ઓછું અનાજ હતું." કેટલીક ભાષાઓમાં આ, આવી રીતે પણ ભાષાંતર કરી શકાય છે, "ત્યા એક ગંભીર દુકાળ હતો. કોઈ પૈસા ન હતા ખોરાક ખરીદવા માટે - દુષ્કાળના કારણે, ખોરાક ખૂબ ખર્ચાળ હતો, અને તેણે પહેલેથી જ તેના તમામ નાણા ખર્ચ કરી નાંખ્યા હતા.
+  * નોકરી - આ એનો ઉલ્લેખ કરે છે કે એ પૈસાની બદલીમાં બીજા કોઈના પણ માટે કામ કરશે. જો એ સ્પષ્ટ ન હોય, તો આ વાક્ય સાથે શરૂ કરી શકાય છે, "તેથી કેટલાક પૈસા કમાઈ લેવા માટે, તેણે નોકરી લીધી માત્ર."
+  * ભૂંડને ચરાવવું - એટલે કે, "ભૂંડોને ચરાવે છે."એ સમયે સમાજમાં આ સૌથી હલકા પ્રકારની નોકરી ગણવામાં આવતી હતી. તમારી ભાષામાં હલકી સ્થિતિ કે નોકરી મટે ચોક્કસ શબ્દ હોય, તો  તે શબ્દનો ઉપયોગ કરો.
 
 **[[:gu:obs:notes:frames:35-04|<<]] | [[:gu:obs:notes:35|Up]] | [[:gu:obs:notes:frames:35-06|>>]]**
