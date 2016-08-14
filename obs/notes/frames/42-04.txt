@@ -1,17 +1,14 @@
-===== Breaking the Bread [42-04] =====
+===== રોટલી તોડવાનો સમય [42-04] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-04.jpg?nolink&}}
 
-The two men invited **Jesus** to stay with them, so he did. When they were ready to eat the evening meal, Jesus picked up a loaf of bread, thanked **God** for it, and then broke it. Suddenly, they recognized that he was Jesus. But at that moment, **he disappeared from their sight**.
-===== Important Terms: =====
+બે પુરુષોએ **ઈસુને** તેમની સાથે રહેવા આમંત્રિત કર્યા, તેથી તેમણે તે કર્યું. જ્યારે તેઓ સાંજે ભોજન ખાવા માટે તૈયાર હતા ત્યારે, ઈસુએ રોટલી લીધી, **દેવનો** તે રોટલી માટે આભાર માન્યો, અને પછી તેને ભાંગી. અચાનક, તેઓ ઓળખી ગયા કે તે ઈસુ હતો. પરંતુ તે જ ઘડીએ, **તે** **તેમની** **દૃષ્ટિમાંથી** **અદ્રશ્ય થઈ ગયા** .
+===== મહત્વપૂર્ણ શબ્દો: =====
 
-  * **[[:gu:obe:kt:jesus]]**
-  * **[[:gu:obe:kt:god]]**
+  * **ઈસુ**
+  * **દેવ**
+===== અનુવાદ નોંધો: =====
 
-
-===== Translation Notes: =====
-
-  * **he disappeared from their sight** - This could also be translated as, "he was gone" or, "he was no longer there."
-
+  * તે તેમની દૃષ્ટિમાંથી અદ્રશ્ય - આ રીતે પણ ભાષાંતર કરી શકાય છે "તે જતા રાહ્યા હતા" અથવા, "તે હવે ત્યાં ન હતા"
 
 **[[:gu:obs:notes:frames:42-03|<<]] | [[:gu:obs:notes:42|Up]] | [[:gu:obs:notes:frames:42-05|>>]]**
