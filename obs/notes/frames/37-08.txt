@@ -1,21 +1,31 @@
-===== Rolling the Stone Away [37-08] =====
+===== આ પથ્થરને દૂર હટાવો [37-08] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-08.jpg?nolink&}}
 
 **Jesus** responded, “**Did I not tell you** that you would **see God's glory** if you **believe** in me?” So **they rolled the stone away**.
 ===== Important Terms: =====
 
-  * **[[:gu:obe:kt:jesus]]**
-  * **[[:gu:obe:kt:god]]**
-  * **[[:gu:obe:kt:glory]]**
-  * **[[:gu:obe:kt:believe]]**
-
-
+  * **[[:gu:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
+  * **[[:gu:obe:kt:god|God]]**
+  * **[[:gu:obe:kt:glory|glory, glorious]]**
+  * **[[:gu:obe:kt:believe|believe, believe in, belief]]**
 ===== Translation Notes: =====
 
-  * **Did I not tell you?** - That is, "Remember that I told you." Jesus is not asking this question in order to get an answer, so some languages should translate this as a command.
-  * **see God's glory** - That is, "see the glory of God displayed" or, "see God show how great he is."
-  * **rolled the stone away** - Some languages should say, "rolled the stone away from the opening of the tomb."
-
-
+  * **Did I not tell you?**  - That is, "Remember that I told you." Jesus is not asking this question in order to get an answer, so some languages should translate this as a command.
+  * **see God's glory**  - That is, "see the glory of God displayed" or, "see God show how great he is."
+  * **rolled the stone away**  - Some languages should say, "rolled the stone away from the opening of the tomb."
 **[[:gu:obs:notes:frames:37-07|<<]] | [[:gu:obs:notes:37|Up]] | [[:gu:obs:notes:frames:37-09|>>]]**
+
+ઈસુએ જવાબ આપ્યો, "મેં તમને કહ્યું ન હતું કે તમે ઈશ્વરનો મહિમા જોવા પામશો જો તમે મારામાં વિશ્વાસ કરશો તો?" તેથી તેઓએ પથ્થર ગબડાવ્યો.
+
+===== મહત્વપૂર્ણ શબ્દો: =====
+
+  * **ઈસુ**
+  * **દેવ**
+  * **મહિમા**
+  * **માનવું**
+===== અનુવાદ નોંધો: =====
+
+  * મેં તમને કહ્યું ન હતું? - એટલે કે, "યાદ કરો કે મેં તમને જણાવ્યું હતું." ઈસુએ જવાબ મેળવવા માટે આ પ્રશ્ન પૂછ્યો નથી, તેથી કેટલીક ભાષાઓમાં એક આદેશ તરીકે આ અનુવાદ થવો જોઈએ.
+  * ઈશ્વરનો મહિમા જોશો - એટલે કે, "દેવનો મહિમા પ્રદર્શિત થતા જુઓ" અથવા, "જુઓ દેવ બતાવશે કે કેવી રીતે તે મહાન છે."
+  * પથ્થર ગબડાવ્યો - કેટલીક ભાષાઓએ કહેવું જોઈએ, "પ્રવેશદ્વારના મુખ પર ઢાંકેલા પથ્થરને દુર ધકેલ્યો."
