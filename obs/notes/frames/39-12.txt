@@ -1,29 +1,25 @@
-===== The King of the Jews [39-12] =====
+===== યહૂદીઓનો રાજા [39-12] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-12.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-12.jpg?nolink&}}
 
-**Pilate** became afraid that the crowd would begin to **riot**, so **he agreed to have** his soldiers **crucify Jesus**. The **Roman** soldiers whipped Jesus and put **a royal robe** and a **crown made of thorns** on him. Then they **mocked** him by saying, “**Look**, **the King of the Jews**!”
+પિલાતેને ડર હતો કે ભીડ તોફાન કરવાનું શરૂ કરશે, તેથી તે તેના સૈનિકો દ્વારા ઈસુને વધસ્તંભ પર જડી દેવા સંમત થયો હતો. રોમન સૈનિકોએ ઈસુને ચાબૂકથી માર્યો અને એક શાહી ઝભ્ભો મુક્યો અને કાંટાનો બનાવેલો મુકુટ તેના પર મુક્યો. પછી તેઓએ ઠેકડી ઉડાડી તેને કહ્યું, "જુઓ, યહૂદિઓનો રાજા!"
 
+===== મહત્વપૂર્ણ શબ્દો: =====
 
-===== Important Terms: =====
+  * પિલાતે
+  * વધસ્તંભે લટકાવવું
+  * ઈસુ
+  * રોમન
+  * ઠેકડી ઉડાડી
+  * યહૂદીઓના રાજા
 
-  * **[[:gu:obe:other:pilate]]**
-  * **[[:gu:obe:kt:crucify]]**
-  * **[[:gu:obe:kt:jesus]]**
-  * **[[:gu:obe:other:rome]]**
-  * **[[:gu:obe:other:mock]]**
-  * **[[:gu:obe:kt:kingofthejews]]**
+===== અનુવાદ નોંધો: =====
 
-
-===== Translation Notes: =====
-
-  * **riot** - That is, "start doing violent things in their anger."
-  * **he agreed to have** - Pilate did not want to kill Jesus because he believed that Jesus was innocent. But he was forced to tell his soldiers to crucify Jesus because of his fear of the crowd. If possible, translate this phrase in a way that shows his reluctance.
-  * **a royal robe** - That is, "a robe like a king's robe." This robe had a bright color, so it looked like the kind of robe that a king would wear.
-  * **crown made of thorns** - This means that they tied thorn branches into a circle to look like a crown. A crown is an ornament that a king wears on his head to show his authority. But the crown that they put on Jesus' head had sharp, dangerous thorns on it.
-  * **Look** - That is, "Look at" or, "Here is."
-  * **the King of the Jews** - Since the soldiers were mocking Jesus, this could be translated as, "the so-called King of the Jews."
-  * //A Bible story from//  - These references may be slightly different in some Bible translations.
-
+  * તોફાન - એટલે કે, "તેમનો ગુસ્સો હિંસક બાબતો કરવાનું શરૂ કરે."
+  * તે સંમત થયો હતો - પિલાતે ઈસુને મારી નાખવા ન ચાહતો હતો, કારણ કે તે માનતો હતો કે ઈસુ નિર્દોષ હતો. પરંતુ તેને ભીડના ભયના કારણે ઈસુને વધસ્તંભ પર જડવા માટે પોતાના સૈનિકોને કહેવાની ફરજ પડી હતી. જો શક્ય હોય તો, એક રીતે આ શબ્દસમૂહનો અનુવાદ તેની અનિચ્છા બતાવે એ રીતે અનુવાદ કરો.
+  * એક શાહી ઝભ્ભો - એટલે કે "એ ઝભ્ભો જે રાજાના ઝભ્ભા જેવો હોય." આ ઝભ્ભો એક તેજસ્વી રંગનો હતો, તેથી તે ઝભ્ભો એવા પ્રકારનો હતો કે જે રાજાના વસ્ત્રો  જેવો દેખાતો હતો.
+  * કાંટામાંથી બનેલ મુકુટ - આનો અર્થ એ થાય કે તે એક મુકુટ જેવો દેખાય એ માટે એક વર્તુળાકારમાં કાંટાની શાખાઓ બાંધી હતી. મુકુટ એક આભૂષણ જે રાજા તેના માથા પર પહેરે છે તેમની સત્તા બતાવવા માટે છે. પરંતુ મુકુટ જે તેઓએ ઈસુના માથા પર મૂક્યો હતો તેના પર તીક્ષ્ણ, ખતરનાક કાંટા હતા.
+  * જુઓ - એટલે કે "જુઓ" અથવા, "અહીંયા છે." યહૂદીઓના રાજા  - સૈનિકો દ્વારા ઈસુની મજાક કરવામાં આવી હતી તેથી, આ, આ રીતે પણ ભાષાંતર કરી શકાય છે, "યહૂદીઓનો કહેવાતો રાજા."
+  * બાઇબલની વાર્તા  - આ સંદર્ભો બાઇબલના કેટલાક અનુવાદમાં સહેજ અલગ હોઈ શકે છે.
 
 **[[:gu:obs:notes:frames:39-11|<<]] | [[:gu:obs:notes:39|Up]] | [[:gu:obs:notes:frames:40-01|>>]]**
