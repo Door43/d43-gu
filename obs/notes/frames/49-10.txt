@@ -1,26 +1,25 @@
-===== Jesus Died in Our Place [49-10] =====
+===== ઈસુ અમારા બદલે મૃત્યુ પામ્યાં [49-10] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-10.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-10.jpg?nolink&}}
 
-**Because of your sin**, you are **guilty** and deserve to **die**. **God should be angry** with you, but **he poured out his anger on Jesus** instead of on you. When Jesus died on the **cross**, he **received your punishment**.
-===== Important Terms: =====
+તમારા દુષ્કૃત્યોને લીધે, તમે​​ દોષિત અને ​​મૃત્યુ પામવાના લાયક છો.  દેવ તમારી સાથે ગુસ્સો કરવાનો પ્રયત્ન કરે છે, પરંતુ ​​તેમણે તેમનો ગુસ્સો તમારા બદલે ઈસુ પર રેડી દિધો. ઈસુ જ્યારે વધસ્તંભ પર મૃત્યુ પામ્યા હતા, ત્યારે તેમણે તમારી સજા પ્રાપ્ત કરી હતી.
 
-  * **[[:gu:obe:kt:sin]]**
-  * **[[:gu:obe:kt:guilt]]**
-  * **[[:gu:obe:kt:death]]**
-  * **[[:gu:obe:kt:god]]**
-  * **[[:gu:obe:kt:jesus]]**
-  * **[[:gu:obe:kt:cross]]**
-  * **[[:gu:obe:kt:receive]]**
-  * **[[:gu:obe:other:punish]]**
+===== મહત્વપૂર્ણ શબ્દો: =====
 
+  * પાપ
+  * દોષિત
+  * મૃત્યુ પામે
+  * દેવ
+  * ઈસુ
+  * વધસ્તંભ
+  * પ્રાપ્ત કર્યું
+  * સજા
 
-===== Translation Notes: =====
+===== અનુવાદ નોંધો: =====
 
-  * **Because of your sin** - This can also be translated as, "Because you have sinned." To make it clear that this is talking about all people, for some languages it may be more clear to translate this as, "Because all people have sinned, they are guilty. They deserve death."
-  * **God should be angry** - This can also be translated as, "It would be right for God to be angry."
-  * **poured out his anger on** - That is, "directed his anger at" or, "placed all of his anger upon" or, "was angry only with."
-  * **received your punishment** - This could also be translated as, "was punished instead of you" or, "was punished for your sin." To make it clear that this applies to everyone, it could also be translated as, "was punished for everyone's sin."
-
+  * તમારા દુષ્કૃત્યોને લીધે - આ પણ આવી રીતે અનુવાદ કરી શકાય છે, "કારણ કે તમે પાપ કર્યું છે." તે સ્પષ્ટ કરવા માટે કે આ બધા લોકો વિશે વાત છે, કેટલીક ભાષાઓ માટે આ અનુવાદ કરવો વધુ સ્પષ્ટ હોઈ શકે છે, "કારણ કે બધા લોકોએ પાપ કર્યુ છે, તેઓ દોષિત છે. તેઓ મૃત્યુને લાયક છે."
+  * દેવ ક્રોધિત થવા જોઈએ - આ તરીકે પણ ભાષાંતર કરી શકાય, "દેવ ગુસ્સો કરે તે યોગ્ય હશે"
+  * પર તેમના ગુસ્સો બહાર રેડી દિધો - એટલે કે, , અથવા "તેમના ગુસ્સાને વાળી દિધો", અથવા "પર તેમનો તમામ ગુસ્સો મૂકવામાં આવ્યો" અથવા, " ગુસ્સે હતા માત્ર સાથે."
+  * તમારી સજા ભોગવી - આ રીતે પણ ભાષાંતર કરી શકાય છે "તમારા બદલે તેને સજા કરવામાં આવી હતી" અથવા, "તમારા પાપ માટે સજા કરવામાં આવી હતી." તે સ્પષ્ટ છે કે આ દરેકને, તે પણ તરીકે ભાષાંતર કરી શકે છે, માટે લાગુ પડે છે કે નહીં તેની ખાતરી કરવા માટે "દરેક વ્યક્તિને પાપ માટે સજા કરવામાં આવી હતી."
 
 **[[:gu:obs:notes:frames:49-09|<<]] | [[:gu:obs:notes:49|Up]] | [[:gu:obs:notes:frames:49-11|>>]]**
