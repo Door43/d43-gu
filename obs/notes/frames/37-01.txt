@@ -1,25 +1,23 @@
-===== Lazarus Was Sick [37-01] =====
+===== લાજરસ બીમાર હતો [37-01] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-01.jpg?nolink&}}
 
-One day, **Jesus** received a message that **Lazarus** was very sick. Lazarus and his two sisters, **Mary** and Martha, were close friends of Jesus. When Jesus heard this news, he said, “**This sickness will not end in death**, but **it is for the glory of God**.” Jesus **loved** his friends, **but he waited where he was for two days**.
-===== Important Terms: =====
+એક દિવસ, ઈસુ એક સંદેશ પ્રાપ્ત કરે છે કે લાજરસ ખૂબ જ બીમાર હતો. લાજરસ અને તેની બે બહેનો, મેરી અને માર્થા, ઈસુના નજીકના મિત્રો હતા. ઈસુએ આ સમાચાર સાંભળ્યાં, ત્યારે તેણે કહ્યું, "આ માંદગીનો અંત મૃત્યુ નથી, પરંતુ તે દેવની મહિમા માટે છે." ઈસુ તેના મિત્રોને પ્રેમ કરતો હતો, પરંતુ તેણે બે દિવસ માટે રાહ જોઈ, જ્યાં તે હતો.
 
-  * **[[:gu:obe:kt:jesus]]**
-  * **[[:gu:obe:other:lazarus]]**
-  * **[[:gu:obe:kt:death]]**
-  * **[[:gu:obe:kt:glory]]**
-  * **[[:gu:obe:kt:god]]**
-  * **[[:gu:obe:kt:love]]**
+===== મહત્વપૂર્ણ શબ્દો: =====
 
+  * **ઈસુ**
+  * **લાજરસ**
+  * **મૃત્યુ**
+  * **મહિમા**
+  * **દેવ**
+  * **પ્રેમ**
+===== અનુવાદ નોંધો: =====
 
-===== Translation Notes: =====
-
-  * **One day** - This phrase introduces an event that happened in the past, but does not state the specific time. Many languages have a similar way to begin telling a true story.
-  * **Mary** - Jesus' mother was also named Mary. This was a different woman.
-  * **this sickness will not end in death** - This can also be translated as, "the final result of this sickness will not be death" or, "Lazarus is sick, but death is not the final result of this sickness." Jesus' disciples probably thought this meant that Lazarus would not die. But Jesus knew that, although Lazarus would die from his sickness, he would live in the end.
-  * **it is for the glory of God** - That is, "this will cause people to praise God for how great he is."
-  * **but he waited where he was for two days** - This could be translated as, "but he stayed where he was for two days, even though they wanted him to go and heal Lazarus."
-
+  * એક દિવસ - આ શબ્દસમૂહ એક ઘટના છે ભૂતકાળમાં જે થયું એનો પરિચય આપે છે, પરંતુ ચોક્કસ સમય નથી દર્શાવતો. ઘણી ભાષાઓ એ જ રીતે એક સાચી વાર્તા કહેવી શરૂ કરતી હોય છે.
+  * મેરી - ઈસુની માને પણ મેરી નામ આપવામાં આવ્યું હતું. આ એક અલગ મહિલા હતી.
+  * આ માંદગીનો અંત મૃત્યુમાં નહિ પરીણમશે - આ રીતે પણ અનુવાદ કરી શકાય છે, "આ માંદગીનું અંતિમ પરિણામ મૃત્યુ નહિં હશે" અથવા, "લાજરસ માંદો છે, પરંતુ મૃત્યુ આ માંદગીનું અંતિમ પરિણામ નથી." ઈસુના શિષ્યોએ કદાચ વિચાર્યું કે આનો અર્થ એ થાય કે લાજરસ મૃત્યુ નહિ પામશે. પરંતુ ઈસુ એ જાણતા હતા, તેમ છતાં લાજરસ તેની માંદગીમાં મૃત્યુ પામશે, પરંતુ અંતે તે જીવિત થશે.
+  * તે દેવની મહિમા માટે છે - એટલે કે, "આ લોકોને દેવની સ્તુતિ કરવા પ્રેરશે કે તે કેટલા મહાન છે."
+  * પરંતુ તેણે બે દિવસ માટે રાહ જોઈ, જ્યાં તેઓ હતા - આ તરીકે ભાષાંતર કરી શકાય છે, "પરંતુ તેઓ બે દિવસ માટે રોકાયા જ્યાં તેઓ હતા, તેઓ તેને ત્યાં જવા અને લાજરસને સાજો કરવા ઈચ્છતા હતા છતાં પણ."
 
 **[[:gu:obs:notes:frames:36-07|<<]] | [[:gu:obs:notes:37|Up]] | [[:gu:obs:notes:frames:37-02|>>]]**
