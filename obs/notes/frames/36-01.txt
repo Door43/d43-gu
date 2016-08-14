@@ -1,21 +1,19 @@
-===== To the Mountain [36-01] =====
+===== પહાડ ઉપર [36-01] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-36-01.jpg?nolink&}}
 
-One day, **Jesus** took three of his **disciples**, **Peter**, **James**, and **John**, with him. (The disciple named John was not the same person who **baptized** Jesus.) They went up on a high mountain by themselves to pray.
+એક દિવસ, ઈસુએ પોતાના ત્રણ શિષ્યો પીતર, યાકૂબ, અને યોહાનનને તેની સાથે લીધા. (શિષ્ય નામે યોહાનન આ એ જ વ્યક્તિ નથી જેણે ઈસુને બાપ્તિસ્મા આપ્યા હતા.) તેઓ પ્રાર્થના કરવા માટે એક ઊંચા પર્વત પર ગયા.
 
-===== Important Terms: =====
+===== મહત્વપૂર્ણ શબ્દો: =====
 
-  * **[[:gu:obe:kt:jesus]]**
-  * **[[:gu:obe:kt:disciple]]**
-  * **[[:gu:obe:other:peter]]**
-  * **[[:gu:obe:other:johntheapostle]]**
-  * **[[:gu:obe:kt:baptize]]**
+  * **ઈસુ**
+  * **શિષ્યો**
+  * **પીતર**
+  * **યોહાનન**
+  * **બાપ્તિસ્મા**
+===== અનુવાદ નોંધો: =====
 
-===== Translation Notes: =====
-
-  * **One day** - This phrase introduces an event that happened in the past, but does not state the specific time. Many languages have a similar way to begin telling a true story.
-  * **James** - This is a different James than the one who wrote the Book of James in the Bible. To make this clear, some languages may need to use two slightly different names or to spell them differently.
-
+  * એક દિવસ - આ શબ્દસમૂહ એક ઘટના છે જે ભૂતકાળમાં થયું એનો પરિચય આપે છે, પરંતુ ચોક્કસ સમય દર્શાવતું નથી. ઘણી ભાષાઓ એ જ રીતે એક સાચી વાર્તા કહેવી શરૂ કરતી હોય છે.
+  * યાકૂબ - આ બાઇબલનું એક પુસ્તક “યાકૂબનું પુસ્તક” લખ્યું હતું તેના કરતા અલગ યાકૂબ છે. આ સ્પષ્ટ કરવા માટે, કેટલીક ભાષાઓ બે સહેજ અલગ અલગ નામો વાપરવા માટે અથવા તેમની અલગ જોડણી કરવાની જરૂર પડી શકે.
 
 **[[:gu:obs:notes:frames:35-13|<<]] | [[:gu:obs:notes:36|Up]] | [[:gu:obs:notes:frames:36-02|>>]]**
