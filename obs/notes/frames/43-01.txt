@@ -1,22 +1,21 @@
-===== The Disciples in Jerusalem [43-01] =====
+===== યરૂશાલેમમાં શિષ્યો [43-01] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-01.jpg?nolink&}}
 
-After **Jesus returned to heaven**, the **disciples stayed in Jerusalem** as Jesus had commanded them to do. The **believers** there constantly gathered together to **pray**.
-===== Important Terms: =====
+પછી ઈસુ સ્વર્ગમાં પાછા ગયા, શિષ્યો યરૂશાલેમમાં રહ્યા ઈસુએ તેઓને આજ્ઞા આપી હતી કે શું કરવું. શિષ્યો ત્યાં સતત ભેગા મળી પ્રાર્થના કરવા લાગ્યા.
 
-  * **[[:gu:obe:kt:jesus]]**
-  * **[[:gu:obe:kt:heaven]]**
-  * **[[:gu:obe:kt:disciple]]**
-  * **[[:gu:obe:other:jerusalem]]**
-  * **[[:gu:obe:kt:believer]]**
-  * **[[:gu:obe:other:pray]]**
+===== મહત્વપૂર્ણ શબ્દો: =====
 
+  * ઈસુ
+  * સ્વર્ગ
+  * શિષ્યો
+  * યરૂશાલેમમાં
+  * શિષ્યો
+  * પ્રાર્થના
 
-===== Translation Notes: =====
+===== અનુવાદ નોંધો: =====
 
-  * **returned to heaven** - That is, "went back to heaven."
-  * **stayed in Jerusalem** - That is, "stayed in Jerusalem for awhile." They didn't stay there permanently.
-
+  * સ્વર્ગમાં ગયા - એટલે કે, "પાછા સ્વર્ગમાં ગયા"
+  * યરૂશાલેમમાં રહ્યા - એટલે કે, "યરૂશાલેમમાં ક્ષણભર માટે રોકાયા." તેઓ ત્યાં કાયમ રહ્યા ન હતા.
 
 **[[:gu:obs:notes:frames:42-11|<<]] | [[:gu:obs:notes:43|Up]] | [[:gu:obs:notes:frames:43-02|>>]]**
