@@ -1,25 +1,24 @@
-===== God Gave His Son [49-09] =====
+===== દેવે તેમના પુત્રને આપી દિધો [49-09] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-09.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-09.jpg?nolink&}}
 
-But **God loved** everyone in the world so much that he **gave his only Son** so that **whoever believes in Jesus will not be punished for his sins**, **but will live with God foreve**r.
-===== Important Terms: =====
+પરંતુ દેવે વિશ્વમાં દરેકને ખૂબ જ પ્રેમ કર્યો કે તેઓએ તેનો એકનો એક દીકરો આપી દિધો હતો જેથી જે કોઈ ઈસુમાં માને છે તેમના પાપો માટે સજા કરવામાં આવશે નહીં, પરંતુ દેવ હંમેશા તેઓ સાથે રહેશે.
 
-  * **[[:gu:obe:kt:god]]**
-  * **[[:gu:obe:kt:love]]**
-  * **[[:gu:obe:kt:sonofgod]]**
-  * **[[:gu:obe:kt:believe]]**
-  * **[[:gu:obe:kt:jesus]]**
-  * **[[:gu:obe:other:punish]]**
-  * **[[:gu:obe:kt:sin]]**
-  * **[[:gu:obe:kt:life]]**
+===== મહત્વપૂર્ણ શબ્દો: =====
 
+  * દેવ
+  * પ્રેમ
+  * પુત્ર
+  * માને છે
+  * ઈસુ
+  * સજા થયેલ
+  * પાપો
+  * રહેવું
 
-===== Translation Notes: =====
+===== અનુવાદ નોંધો: =====
 
-  * **gave his only Son** - This could also be translated as, "offered his only Son to the world as a sacrifice for sins" or, "gave us his only Son to be a sacrifice for our sins."
-  * **whoever believes** - This could also be translated as, "anyone who believes."
-  * **whoever believes in Jesus will not be punished for his sins, but will live with God forever** - This could also be translated as, "When anyone believes in Jesus, God will not punish that person for his sins, but will allow him to live with God forever."
-
+  * તેનો એકનો એક દીકરો આપી દિધો - આ રીતે પણ ભાષાંતર કરી શકાય છે, "પાપો માટે બલિદાન તરીકે વિશ્વમાં તેના એક માત્ર પુત્રને આપી દે છે" અથવા, "આપણા પાપો માટે બલિદાન રુપે તેમનો એકમાત્ર પુત્ર આપ્યો . "
+  * જે કોઈ માને-  આ રીતે પણ ભાષાંતર કરી શકાય છે "કોઈપણ કે જે માને"
+  * જે કોઈ પણ ઈસુમાં માને છે તેમના પાપો માટે સજા કરવામાં આવશે નહીં, પરંતુ દેવ સાથે કાયમ રહેશે - આ રીતે પણ ભાષાંતર કરી શકાય છે, "જ્યારે કોઈ વ્યક્તિ ઈસુમાં માને છે, દેવ તે વ્યક્તિને તેના પાપો માટે સજા નહીં કએ, પરંતુ દેવ તેને કાયમ તેમની સાથે રહેવા માટે પરવાનગી આપે છે."
 
 **[[:gu:obs:notes:frames:49-08|<<]] | [[:gu:obs:notes:49|Up]] | [[:gu:obs:notes:frames:49-10|>>]]**
