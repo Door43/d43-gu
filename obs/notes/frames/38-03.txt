@@ -1,21 +1,21 @@
-===== Thirty Pieces of Silver [38-03] =====
+===== ચાંદીના ત્રીસ ટુકડા [38-03] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-03.jpg?nolink&}}
 
-The **Jewish leaders**, led by the **high priest**, paid **Judas thirty silver coins** to **betray Jesus**. This happened just as the **prophets** had predicted. Judas agreed, took the money, and went away. He began looking for an opportunity to help them arrest Jesus.
-===== Important Terms: =====
+યહૂદી નેતાઓએ, પ્રમુખ યાજક્ના નેતૃત્વમાં, ઈસુને દગો કરવા માટે યહુદાને ત્રીસ ચાંદીના સિક્કાની ચૂકવણી કરી હતી. આ એ પ્રમાણે જ થયું જેની પ્રબોધકોએ આગાહી કરી હતી. યહુદા સંમત થયો, પૈસા લીધા અને ચાલ્યો ગયો.
 
-  * **[[:gu:obe:other:jewishleaders]]**
-  * **[[:gu:obe:kt:highpriest]]**
-  * **[[:gu:obe:other:judasiscariot]]**
-  * **[[:gu:obe:kt:betray]]**
-  * **[[:gu:obe:kt:jesus]]**
-  * **[[:gu:obe:kt:prophet]]**
+તેણે તક શોધતા રહી તેમને ઈસુને પકડવા મદદ કરવાનું શરૂ કર્યું.
 
+===== મહત્વપૂર્ણ શબ્દો: =====
 
-===== Translation Notes: =====
+  * **યહૂદી****નેતાઓ**
+  * **પ્રમુખ****યાજક**
+  * **યહુદા**
+  * **દગો****કરવો**
+  * **ઈસુ**
+  * **પ્રબોધકો**
+===== અનુવાદ નોંધો: =====
 
-  * **thirty silver coins** - Each of these coins were worth about four days' wages.
-
+  * ત્રીસ ચાંદીના સિક્કા - આ સિક્કાની દરેકની ચાર દિવસના વેતન જેટલી કિંમત હતી.
 
 **[[:gu:obs:notes:frames:38-02|<<]] | [[:gu:obs:notes:38|Up]] | [[:gu:obs:notes:frames:38-04|>>]]**
