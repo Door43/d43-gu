@@ -1,16 +1,14 @@
-===== The Seed on the Path [33-02] =====
+===== માર્ગ પર બીજ [33-02] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-02.jpg?nolink}}
-**
-Jesus** told this story. “A farmer went out to plant **some seed**. As he was **spreading the seeds by hand**, some seeds happened to fall on the path, and the birds came and ate all of those seeds.”
-===== Important Terms: =====
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-02.jpg?nolink&}}
 
-  * **[[:gu:obe:kt:jesus]]**
+ઈસુએ આ વાર્તા જણાવી. "એક ખેડૂત કેટલાક બીજ વાવવા ખેતરમાં ગયો. તેણે હાથ દ્વારા બીજ વેર્યા, કેટલાક બીજ માર્ગ પર પડ્યાં, અને પક્ષીઓ આવ્યા અને તે બધા બીજ ખાઈ ગયા. "
 
+===== મહત્વપૂર્ણ શબ્દો: =====
 
-===== Translation Notes: =====
+  * **ઈસુ**
+===== અનુવાદ નોંધો: =====
 
-  * **spreading the seeds by hand** - That is, "throwing the seeds on the soil" or, "covering all of his crop soil with seeds." This is the way that farmers in the ancient Middle East typically planted grain-bearing crops.
-
+  * હાથ દ્વારા બીજ વેર્યા - એટલે કે, "જમીન પર બીજ વેર્યા" અથવા, "બીજ દ્વારા તેના ખેતરની તમામ માટી આવરી લીધી." આ એ રીતે છે જે પ્રાચીન મધ્ય પૂર્વમાં ખેડૂતો ખાસ કરીને અનાજ ધરાવતા ખેતરોમાં પાક વાવવામાં ઉપયોગ કરતા હતા.
 
 **[[:gu:obs:notes:frames:33-01|<<]] | [[:gu:obs:notes:33|Up]] | [[:gu:obs:notes:frames:33-03|>>]]**
