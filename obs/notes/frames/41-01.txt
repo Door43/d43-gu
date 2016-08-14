@@ -2,23 +2,6 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-01.jpg?nolink&}}
 
-After the soldiers **crucified Jesus**, **the unbelieving Jewish leaders** said to **Pilate**, “**That liar**, **Jesus**, **said** he would **rise from the dead** after three days. Someone must guard the **tomb** to make sure that his **disciples** do not steal the body and then say he has risen from the dead.”
-===== Important Terms: =====
-
-  * **[[:gu:obe:kt:crucify|crucify]]**
-  * **[[:gu:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
-  * **[[:gu:obe:other:jewishleaders|Jewish leaders, religious leaders]]**
-  * **[[:gu:obe:other:pilate|Pilate]]**
-  * **[[:gu:obe:kt:raise|raise, rise, risen]]**
-  * **[[:gu:obe:kt:death|death, die, dead]]**
-  * **[[:gu:obe:other:tomb|tomb, grave, burial place]]**
-  * **[[:gu:obe:kt:disciple|disciple]]**
-===== Translation Notes: =====
-
-  * **the unbelieving Jewish leaders**  - That is, "the Jewish leaders who did not believe in Jesus."
-  * **That liar, Jesus, said**  - This could also be translated as, "That man, Jesus, lied and said." They refused to believe that Jesus told the truth about being the Son of God.
-  * **rise from the dead**  - That is, "come back to life" or, "become alive again."
-
 સૈનિકોએ ઈસુને વધસ્તંભ પર જડી લીધા પછી , અવિશ્વાસી યહૂદી નેતાઓએ પિલાતેને કહ્યું, "કે જુઠા, ઈસુએ, જણાવ્યું હતું કે તે મૃત્યુમાંથી જીવતા થઈ ઊઠશે ત્રણ દિવસમાં. કોઇએ કબરની રખેવાળી કરવી જોઈએ તેની ખાતરી કરવા માટે કે તેના શિષ્યો એનું શરીર ચોરી નથી લેતા અને પછી કહે કે તે મરણમાંથી સજીવન થયો છે."
 
 ===== મહત્વપૂર્ણ શબ્દો: =====
@@ -32,6 +15,7 @@ After the soldiers **crucified Jesus**, **the unbelieving Jewish leaders** said 
   * કબર
   * શિષ્યો
   *
+
 ===== અનુવાદ નોંધો: =====
 
   * અવિશ્વાસી યહૂદી નેતાઓ - એટલે કે, "યહૂદી નેતાઓ જે ઇસુમાં વિશ્વાસ ન કરતા હતા"
