@@ -1,18 +1,17 @@
-===== Go Home [32-11] =====
+===== ઘરે જા [32-11] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-11.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-11.jpg?nolink&}}
 
-But **Jesus** said to him, “No, I want you to go home and tell your friends and family about everything that **God** has done for you and **how he has had mercy on you**.”
-===== Important Terms: =====
+પરંતુ ઈસુએ તેને કહ્યું કે, "ના, હું ઈચ્છું છું કે તુ ઘરે જા અને એ દરેક વિશે તારા મિત્રો અને કુટુંબીઓને કહે કે દેવે તારા માટે શું કર્યું અને કેવી રીતે તારા પર દયા કરી. "
 
-  * **[[:gu:obe:kt:jesus]]**
-  * **[[:gu:obe:kt:god]]**
-  * **[[:gu:obe:kt:mercy]] on you**."
+===== મહત્વપૂર્ણ શબ્દો: =====
 
+  * ઈસુ
+  * દેવ
+  * તારા પર દયા
 
-===== Translation Notes: =====
+===== અનુવાદ નોંધો: =====
 
-  * **how he has had mercy on you** - This can be translated as, "how he has shown mercy to you" or, "that he has been merciful to you."
-
+  * કેવી રીતે તેણે તારા પર દયા કરી હતી – આવી રીતે અનુવાદ કરી શકાય છે, "કેવી રીતે તેણે તારા પર દયા દર્શાવી" અથવા, "તે તારા પર દયાળુ રહ્યો છે."
 
 **[[:gu:obs:notes:frames:32-10|<<]] | [[:gu:obs:notes:32|Up]] | [[:gu:obs:notes:frames:32-12|>>]]**
