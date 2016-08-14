@@ -1,20 +1,21 @@
-===== Saul Escaped Damascus [46-07] =====
+===== શાઉલ ભાગી દમાસ્કસ ગયો [46-07] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-46-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-46-07.jpg?nolink&}}
 
-After many days, the **Jews** made a plan to kill **Saul**. They sent people to watch for him at **the city gates** in order to kill him. But Saul heard about the plan, and his friends helped him escape. One night they **lowered him over the city wall in a basket**. After Saul escaped from Damascus, he continued to **preach** about **Jesus**.
-===== Important Terms: =====
+ઘણા દિવસો પછી, યહૂદીઓએ શાઉલને મારવા માટે એક યોજના બનાવી. તેઓએ લોકોને તેની જાસુસી કરવા માટે શહેરના દરવાજા મોકલ્યા પાસે જેથી તેને મારી નાંખે. પરંતુ શાઉલે યોજના વિશે સાંભળ્યું, અને તેના મિત્રોએ તેને ભાગી જવામાં મદદ કરી હતી. એક રાત્રે તેઓએ તેને એક મોટી ટોપલીમાં બેસાડી શહેરની દિવાલ પરથી નીચે ઉતારી દિધો.
 
-  * **[[:gu:obe:other:jew]]**
-  * **[[:gu:obe:other:paul]]**
-  * **[[:gu:obe:other:preach]]**
-  * **[[:gu:obe:kt:jesus]]**
+શાઉલ દમસ્કસમાંથી ભાગી ગયા પછી, ઈસુ વિશે ઉપદેશ આપવાનું ચાલુ રાખ્યું.
 
+===== મહત્વપૂર્ણ શબ્દો: =====
 
-===== Translation Notes: =====
+  * યહૂદીઓ
+  * શાઉલ
+  * ઉપદેશ
+  * ઈસુ
 
-  * **the city gates** - The gates were the only normal way into or out of the walled cities.
-  * **lowered him over the city wall in a basket** - Another way to say this would be, "helped him get into a large basket and lowered the basket with him in it over the city wall."
+===== અનુવાદ નોંધો: =====
 
+  * શહેરના દરવાજા - કોટવાળા શહેરોમાં દરવાજા સામાન્ય રીતે બહાર જવા અથવા અંદર આવવાનો એકમાત્ર માર્ગ હતો
+  * એક ટોપલીમાં બેસાડી શહેરની દિવાલ પરથી તેને નીચે ઉતાર્યો – બીજી રીતે કહેવું હોય તો આ હશે, "તેને એક મોટી ટોપલીમાં ઘુસાડી અને શહેરની દિવાલ પર નીચે ઉતરવામાં મદદ કરી."
 
 **[[:gu:obs:notes:frames:46-06|<<]] | [[:gu:obs:notes:46|Up]] | [[:gu:obs:notes:frames:46-08|>>]]**
