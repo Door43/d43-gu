@@ -1,24 +1,23 @@
-===== The Christians in Antioch [46-09] =====
+===== અંત્યોખમાં ખ્રિસ્તીઓ [46-09] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-46-09.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-46-09.jpg?nolink&}}
 
-Some believers who fled from the **persecution** in **Jerusalem** went far away to the **city of Antioch** and preached about **Jesus**. Most of the people in Antioch were not **Jews**, but for the first time, very many of them also became believers. **Barnabas** and **Saul** went there to teach these new believers more about Jesus and to **strengthen the church**. It was at Antioch that believers in Jesus were first called “**Christians**.”
-===== Important Terms: =====
+કેટલાક વિશ્વાસુઓ કે જેઓ ​​યરૂશાલેમમાં દમનથી ભાગી ગયા હતા અને ખુબ દુર ગયા અંત્યોખ શહેરમાં અને ઈસુ વિશે ઉપદેશ આપવા લાગ્યા. અંત્યોખમાં મોટા ભાગના લોકો યહૂદીઓ ન હતા, પરંતુ પ્રથમ વખત, તેમના ઘણા લોકો પણ અનુયાયીઓ બની ગયા. બાર્નાબાસ અને શાઉલ વધુ નવા અનુયાયીઓને ઈસુ વિષે શીખવવા માટે ત્યાં ગયા જેથી ચર્ચ મજબૂત બને . તેઓ અંત્યોખમાં હતા ત્યારે ઈસુના ચેલાઓ પ્રથમ વખત " ખ્રિસ્તીઓ" કહેવાણા હતા.
 
-  * **[[:gu:obe:other:persecute]]**
-  * **[[:gu:obe:other:jerusalem]]**
-  * **[[:gu:obe:kt:jesus]]**
-  * **[[:gu:obe:other:jew]]**
-  * **[[:gu:obe:other:barnabas]]**
-  * **[[:gu:obe:other:paul]]**
-  * **[[:gu:obe:kt:church]]**
-  * **[[:gu:obe:kt:christian]]**
+===== મહત્વપૂર્ણ શબ્દો: =====
 
+  * દમન
+  * યરૂશાલેમમાં
+  * ઈસુ
+  * યહૂદીઓ
+  * બાર્નાબાસ
+  * શાઉલ
+  * ચર્ચ
+  * ખ્રિસ્તીઓ
 
-===== Translation Notes: =====
+===== અનુવાદ નોંધો: =====
 
-  * **city of Antioch** - This was an ancient city located in what is now the southernmost tip of the modern country of Turkey, near its border with Syria and close to the Mediterranean Sea. It was about 450 miles northwest of Jerusalem.
-  * **strengthen the church** - This could also be translated as, "help the church to grow strong spiritually" or, "help the believers in Jesus to grow strong in their faith" or, "help the people to believe more firmly in Jesus."
-
+  * અંત્યોખ શહેરમાં - આ એક પ્રાચીન શહેર હતું જે હવે, આધુનિક દેશ તુર્કીના દક્ષિણી છેડે, તેની સરહદ નજીક સીરિયા સાથે અને ભૂમધ્ય સમુદ્રની નજીક સ્થિત છે. તે આશરે ૪૫૦ માઇલ યરૂશાલેમમાં ઉત્તરપશ્ચિમ હતું.
+  * ચર્ચને મજબૂતાઈ આપી - આ રીતે પણ ભાષાંતર કરી શકાય છે " આધ્યાત્મિક મજબૂતી વધારવા માટે ચર્ચને મદદ કરતો" અથવા, "ઈસુને માનવામાં તેમના વિશ્વાસને વધુ મજબૂત કરવા માટે લોકોને મદદ કરતો હતો" અથવા, "ઈસુને વધુ નિશ્ચિતપણે માનવામાં લોકોને મદદ કરતો હતો."
 
 **[[:gu:obs:notes:frames:46-08|<<]] | [[:gu:obs:notes:46|Up]] | [[:gu:obs:notes:frames:46-10|>>]]**
