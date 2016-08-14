@@ -1,22 +1,32 @@
-===== Jesus Was Nailed to the Cross [40-02] =====
+===== ઇસુને વધસ્તંભ પર ખીલા ઠોકીને લટકાવવામાં આવ્યા [40-02] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-02.jpg?nolink&}}
 
 The soldiers brought **Jesus** to a place called “**the Skull**” and nailed his hands and feet to the **cross**. But Jesus said, “**Father**, **forgive them**, **because they do not know what they are doing**.” **Pilate** commanded that they write, “**King of the Jews**” on a sign and put it on the cross above Jesus’ head.
 ===== Important Terms: =====
 
-  * **[[:gu:obe:kt:jesus]]**
-  * **[[:gu:obe:kt:cross]]**
-  * **[[:gu:obe:kt:godthefather]]**
-  * **[[:gu:obe:kt:forgive]]**
-  * **[[:gu:obe:other:pilate]]**
-  * **[[:gu:obe:kt:kingofthejews]]**
-
-
+  * **[[:gu:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
+  * **[[:gu:obe:kt:cross|cross]]**
+  * **[[:gu:obe:kt:godthefather|God the Father, Heavenly Father]]**
+  * **[[:gu:obe:kt:forgive|forgive, forgiveness]]**
+  * **[[:gu:obe:other:pilate|Pilate]]**
+  * **[[:gu:obe:kt:kingofthejews|King of the Jews]]**
 ===== Translation Notes: =====
 
-  * **the Skull** - A hill near Jerusalem with a white, rocky top that was shaped somewhat like the top of a skull.
-  * **forgive them, because they do not know what they are doing** - That is, "they do not understand the meaning of what they are doing, so please forgive them." The soldiers thought Jesus was only a criminal who deserved to die. They did not understand that he was the Son of God.
+  * **the Skull**  - A hill near Jerusalem with a white, rocky top that was shaped somewhat like the top of a skull.
+  * **forgive them, because they do not know what they are doing**  - That is, "they do not understand the meaning of what they are doing, so please forgive them." The soldiers thought Jesus was only a criminal who deserved to die. They did not understand that he was the Son of God.
+===== મહત્વપૂર્ણ શબ્દો: =====
 
+  * ઈસુ
+  * વધસ્તંભ
+  * પિતા
+  * માફ કરો
+  * પિલાતે
+  * યહૂદિઓનો રાજા
+  *
+===== અનુવાદ નોંધો: =====
+
+  * ખોપરી - એક ટેકરી યરૂશાલેમ નજીક એક સફેદ, ખડકાળ ટોચ કે જે કંઈક અંશે એક ખોપરીની ટોચ જેવા આકારની હતી
+  * તેમને માફ કર, કારણ કે તેઓ જાણતા નથી કે તેઓ શું કરી રહ્યા છે - એટલે કે, "તેઓ અર્થ સમજી શક્યા નથી કે તેઓ શું કરી રહ્યા છે, એટલે તેમને માફ કર." સૈનિકો ધારતા હતા કે ઈસુ માત્ર ગુનેગાર છે જે મૃત્યુ પામવાને લાયક છે. તેઓ સમજી શક્યા નહિ કે તે દેવનો દીકરો હતો.
 
 **[[:gu:obs:notes:frames:40-01|<<]] | [[:gu:obs:notes:40|Up]] | [[:gu:obs:notes:frames:40-03|>>]]**
