@@ -1,21 +1,21 @@
-===== Peter and the Servant Girl [39-06] =====
+===== પીતર અને નોકર છોકરી [39-06] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-06.jpg?nolink&}}
 
-As **Peter** was waiting outside the house, a **servant girl** saw him and said to him, “You also were with **Jesus**!” Peter **denied it**. Later, another girl said the same thing, and **Peter denied it again**. Finally, the people said, “We know that you were with Jesus because you both **are from Galilee**.”
-===== Important Terms: =====
+જ્યારે પીતર ઘરની બહાર રાહ જોઈ રહ્યો હતો, એક છોકરી જે નોકર હતી, તેને જોયો અને તેને કહ્યું, "તું પણ ઈસુ સાથે હતો!" પીતરે તે નકાર્યું. બાદમાં, અન્ય છોકરીએ એ જ બાબત જણાવી, અને પીતરે તેને ફરીથી નકારી કાઢી.
 
-  * **[[:gu:obe:other:peter]]**
-  * **[[:gu:obe:other:servant]]**
-  * **[[:gu:obe:kt:jesus]]**
-  * **[[:gu:obe:other:galilee]]**
+છેલ્લે, લોકોએ કહ્યું, "અમે જાણીએ છીએ કે તું ઈસુ સાથે હતો કારણ કે તમે બંને ગાલીલથી છો."
 
+===== મહત્વપૂર્ણ શબ્દો: =====
 
-===== Translation Notes: =====
+  * **પીતર**
+  * **નોકર****છોકરી**
+  * **ઈસુ**
+  * **ગાલીલના**
+===== અનુવાદ નોંધો: =====
 
-  * **denied it** - This can be translated as, "said that it was not true" or, "said that he was not with Jesus" or, "said, 'No. That is not true.'"
-  * **Peter denied it again** - This could be translated as, "Peter denied knowing Jesus a second time" or, "again Peter said he had not been with Jesus."
-  * **are from Galilee** - This could also be translated as, "are Galileans." The people could tell from the way Jesus and Peter talked that they came from the region of Galilee.
-
+  * તે નકારી - આ રીતે ભાષાંતર કરી શકાય છે, "જણાવ્યું કે તે સાચું ન હતું" અથવા, "જણાવ્યું કે તે ઈસુ સાથે ન હતો" અથવા, "જણાવ્યું, 'ના, તે સાચું નથી. "
+  * પીતરે તેને ફરીથી નકારી - આ રીતે પણ ભાષાંતર કરી શકાય છે, "પીતરે ઈસુને જાણતા હોવાનું બીજી વખત નકાર્યું" અથવા, "ફરીથી પિતરે કહ્યું, તે ઈસુ સાથે ન હતો."
+  * ગાલીલથી છે - આ રીતે પણ ભાષાંતર કરી શકાય છે "ગાલીલના છે." લોકો ઈસુ અને પિતર જે રીતે વાત કરતા હતા તે પરથી કહી શકતા હતા કે તેઓ ગાલીલના પ્રદેશમાં માંથી આવ્યા હતા.
 
 **[[:gu:obs:notes:frames:39-05|<<]] | [[:gu:obs:notes:39|Up]] | [[:gu:obs:notes:frames:39-07|>>]]**
