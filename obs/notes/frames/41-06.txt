@@ -1,21 +1,19 @@
-===== Tell the Disciples [41-06] =====
+===== શિષ્યોને કહો [41-06] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-06.jpg?nolink&}}
 
-Then the **angel** told the women, “Go and tell the **disciples**, '**Jesus** has **risen** from the dead and **he will go to Galilee ahead of you**.'”
-===== Important Terms: =====
+પછી દેવદુત જેણે મહિલાઓને જણાવ્યું કે, "જાઓ અને **શિષ્યોને** કહો, **ઈસુ** મૃતકોમાંથી **જીવિત** થઈ ગયો છે અને **તે** **ગાલીલમાં** **તમારી** **આગળ** **જશે****.** " '
+===== મહત્વપૂર્ણ શબ્દો: =====
 
-  * **[[:gu:obe:kt:angel]]**
-  * **[[:gu:obe:kt:disciple]]**
-  * **[[:gu:obe:kt:jesus]]**
-  * **[[:gu:obe:kt:raise]]**
-  * **[[:gu:obe:kt:death]]**
-  * **[[:gu:obe:other:galilee]]**
+  * દેવદુત
+  * શિષ્યો
+  * ઈસુ
+  * ઉઠી ગયો
+  * મૃત
+  * ગાલીલના
 
+===== અનુવાદ નોંધો: =====
 
-===== Translation Notes: =====
-
-  * **he will go to Galilee ahead of you **- That is, "he will meet you in Galilee" or, "he will be in Galilee when you get there." "You" here is plural, including the apostles and other disciples.
-
+  * તે તમારી પહેલા ગાલીલ જશે - એટલે કે, "તે ગાલીલમાં તમને મળશે” અથવા, "તે ગાલીલમાં હશે જ્યારે તમે ત્યાં પહોંચશો." "તમે" અહીં બહુવચન છે, પ્રેરિતો અને બીજા શિષ્યો સહિત .
 
 **[[:gu:obs:notes:frames:41-05|<<]] | [[:gu:obs:notes:41|Up]] | [[:gu:obs:notes:frames:41-07|>>]]**
