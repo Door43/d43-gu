@@ -1,21 +1,18 @@
-===== The Two Disciples [42-01] =====
+===== બે શિષ્યો [42-01] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-01.jpg?nolink&}}
 
-On the day that **Jesus** was **raised** from the dead, two of his **disciples** were going to a nearby town. As they walked, they talked about what had happened to Jesus. They had hoped that he was the **Messiah**, but then he was killed. Now the women said he was **alive** again. They did not know what to **believe**.
-===== Important Terms: =====
+એ દિવસે જ્યારે **ઈસુ** મૃત્યુમાંથી** ઊભા થયેલા** હતા, તેમના બે **શિષ્યો** નજીકના નગર જતાં હતા. તે લોકો ચાલતા જતા હતા, તેઓ ઈસુનું જે થયું હતું તેના વિશે વાત કરી રહ્યાં હતા. તેઓને આશા હતી કે તેઓ **મસીહ હતા**, પરંતુ પછી તેમની હત્યા કરવામાં આવી હતી. હવે મહિલાઓએ જણાવ્યું કે તેઓ ફરીથી **જીવંત** **થયા** **હતા**. તેઓને ખબર પડતી ન હતી કે શું **માને** .
+===== મહત્વપૂર્ણ શબ્દો: =====
 
-  * **[[:gu:obe:kt:jesus]]**
-  * **[[:gu:obe:kt:raise]]**
-  * **[[:gu:obe:kt:disciple]]**
-  * **[[:gu:obe:kt:christ]]**
-  * **[[:gu:obe:kt:life]]**
-  * **[[:gu:obe:kt:believe]]**
+  * **ઈસુ**
+  * **ઊઠ્યાં**
+  * **શિષ્યો**
+  * **મસીહ**
+  * **જીવંત**
+  * **માનવું**
+===== અનુવાદ નોંધો: =====
 
-
-===== Translation Notes: =====
-
-  * //(There are no notes for this frame.)// 
-
+  * (આ ચોકઠાં માટે કોઈ નોંધો નથી.)
 
 **[[:gu:obs:notes:frames:41-08|<<]] | [[:gu:obs:notes:42|Up]] | [[:gu:obs:notes:frames:42-02|>>]]**
