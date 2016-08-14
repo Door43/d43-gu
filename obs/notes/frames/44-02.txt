@@ -1,19 +1,17 @@
-===== Get Up and Walk [44-02] =====
+===== ઉભો થા અને ચાલ [44-02] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-02.jpg?nolink&}}
 
-**Peter** looked at the lame man and said, “I do not have any money to give you. But I will give you what I do have. **In the name of Jesus**, **get up** and walk!”
-===== Important Terms: =====
+પીતરે લંગડા માણસ તરફ જોયું અને કહ્યું, "હું કોઇ પૈસા તને આપી શકતો નથી. પરંતુ હું તને એ આપીશ જે મારી પાસે છે. ઈસુના નામે , ​​ઉભો થઈ જા અને ચાલ! "
 
+===== મહત્વપૂર્ણ શબ્દો: =====
 
-  * **[[:gu:obe:other:peter]]**
-  * **[[:gu:obe:kt:jesus]]**
+  * પીતર
+  * ઈસુ
 
+===== અનુવાદ નોંધો: =====
 
-===== Translation Notes: =====
-
-  * **In the name of Jesus** - "Name" here stands for the authority and power of the person. Therefore, this expression here means, "by the authority of Jesus."
-  * **get up** - That is, "stand up."
-
+  * ઈસુના નામે - "નામ" અહીં વ્યક્તિની સત્તા અને શક્તિ માટે વપરાયો છે. તેથી, આ સમીકરણનો અહીં અર્થ થાય છે, "ઈસુની સત્તા દ્વારા."
+  * ઉભો થઈ જા - એટલે કે, "ઊભો થા"
 
 **[[:gu:obs:notes:frames:44-01|<<]] | [[:gu:obs:notes:44|Up]] | [[:gu:obs:notes:frames:44-03|>>]]**
