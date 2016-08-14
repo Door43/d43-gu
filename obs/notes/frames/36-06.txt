@@ -1,19 +1,17 @@
-===== Alone with Jesus [36-06] =====
+===== ઈસુ સાથે એકલા [36-06] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-36-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-36-06.jpg?nolink&}}
 
-Then **Jesus touched them** and said, “**Do not be afraid**. **Get up**.” When they looked around, the **only one still there was Jesus**.
-===== Important Terms: =====
+પછી ઈસુએ તેમને સ્પર્શ કર્યો અને કહ્યું, "ગભરાશો નહિ. ઉભા થાઓ. " જ્યારે તેઓએ આસપાસ જોયું, ત્યાં એકમાત્ર ઈસુ જ હતા.
 
-  * **[[:gu:obe:kt:jesus]]**
+===== મહત્વપૂર્ણ શબ્દો: =====
 
+  * **ઈસુ**
+===== અનુવાદ નોંધો: =====
 
-===== Translation Notes: =====
-
-  * **touched them** - That is, "put his hand on them." Some languages may prefer to specify where he touched them. If so, this could be translated as, "he touched them on the shoulder" or, "he put his hand on each one's shoulder."
-  * **Do not be afraid** - This could also be translated as, "Stop being afraid."
-  * **Get up** - This could also be translated as, "Stand up" or, "Please get up." Make sure that it sounds like Jesus spoke this with kindness.
-  * **the only one still there was Jesus** - It is also possible to add, "Moses and Elijah had left."
-
+  * તેમને સ્પર્શ કર્યો - એટલે કે, "તેમના પર હાથ મૂક્યોં." કેટલીક ભાષાઓ એ સ્પષ્ટ કરવા માટે એ ચોક્કસ સ્થાન દર્શાવી શકે છે જ્યાં તેમણે તેમને સ્પર્શ કર્યું હતું. જો આમ હોય તો, આ રીતે આ રીતે પણ ભાષાંતર કરી શકાય છે, "તેમણે તેમના ખભા પર સ્પર્શ કર્યો" અથવા, "તેમણે દરેક વ્યક્તિના ખભા પર પોતાનો હાથ મૂક્યોં."
+  * ભયભીત ન થશો - આ રીતે પણ અનુવાદ કરી શકાય, "ડરો નહિ."
+  * ઉભા થાઓ - આ રીતે પણ અનુવાદ કરી શકાય, "ઉભા થાઓ" અથવા, "કૃપા કરીને ઉભા થાઓ." ખાતરી કરો કે એવું લાગે કે ઈસુ દયા સાથે તેઓ જોડે વાત કરી રહ્યા હતા.
+  * હજુ પણ ત્યાં માત્ર એક ઈસુ હતો - તે પણ ઉમેરી શકાય છે, "મૂસા અને એલિયા જતાં રહ્યા હતા."
 
 **[[:gu:obs:notes:frames:36-05|<<]] | [[:gu:obs:notes:36|Up]] | [[:gu:obs:notes:frames:36-07|>>]]**
