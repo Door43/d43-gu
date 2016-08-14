@@ -1,24 +1,23 @@
-===== The Miracles of Stephen [45-01] =====
+===== સ્તેફનના ચમત્કારો [45-01] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-01.jpg?nolink&}}
 
-One of the leaders **in the early Church** was a man named Stephen. He **had a good reputation** and **was full of the Holy Spirit and of wisdom**. Stephen did many **miracles** and **reasoned persuasively that** people should **believe** in **Jesus**.
-===== Important Terms: =====
+શરૂઆતના ચર્ચમાં નેતાઓમાંનો એક સ્તેફન નામનો એક માણસ હતો. તેની સારી પ્રતિષ્ઠા હતી અને પવિત્ર આત્માથી ભરપૂર હતો અને ઘણું શાણપણ હતું . સ્તેફને ઘણા ચમત્કાર કર્યા હતા અને સમજાવીને ચર્ચા કરતો હતો જેથી લોકો​​ ઈસુને માનવા લાગ્યા.
 
-  * **[[:gu:obe:kt:church]]**
-  * **[[:gu:obe:kt:holyspirit]]**
-  * **[[:gu:obe:kt:wise]]**
-  * **[[:gu:obe:kt:miracle]]**
-  * **[[:gu:obe:kt:believe]]**
-  * **[[:gu:obe:kt:jesus]]**
+===== મહત્વપૂર્ણ શબ્દો: =====
 
+  * ગીરજાઘર
+  * પવિત્ર આત્મા
+  * શાણપણ
+  * ચમત્કાર
+  * માનવું
+  * ઈસુ
 
-===== Translation Notes: =====
+===== અનુવાદ નોંધો: =====
 
-  * **the early Church** - That is, "the Church when it first began."
-  * **had a good reputation** - This could be translated as, "was thought well of by the people." Some languages might translate this as, "had a good name."
-  * **was full of the Holy Spirit and of wisdom** - This could also be translated as, "had power and ability from the Holy Spirit and had much wisdom" or, "was full of the Holy Spirit and was very wise."
-  * **reasoned persuasively that** - That is, "gave convincing reasons why."
-
+  * પ્રારંભિક ચર્ચ - એટલે કે, "ચર્ચ જ્યારે તેની પ્રથમ શરૂઆત થઈ"
+  * સારી પ્રતિષ્ઠા હતી આ રીતે અનુવાદ કરી શકાય "લોકો દ્વારા સારી રીતે માનવામાં આવતું હતું." - કેટલીક ભાષાઓ આ રીતે ભાષાંતર કરી શકે છે, "એક સારું નામ હતું."
+  * પવિત્ર આત્માથી અને શાણપણ ભરપૂર હતો આ રીતે પણ ભાષાંતર કરી શકાય છે, "પવિત્ર આત્માનો અધિકાર અને ક્ષમતા હતી અને ખૂબ શાણપણ હતું" અથવા, " પવિત્ર આત્માથી ભરપૂર હતો અને અત્યંત બુધ્ધિમાન હતો."
+  * સમજપુર્વક ચર્ચા કે - એટલે કે, "સમજાવીને કારણો આપતો કે શા માટે"
 
 **[[:gu:obs:notes:frames:44-09|<<]] | [[:gu:obs:notes:45|Up]] | [[:gu:obs:notes:frames:45-02|>>]]**
