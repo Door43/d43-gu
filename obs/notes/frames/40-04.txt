@@ -1,28 +1,27 @@
-===== The Two Robbers [40-04] =====
+===== બે લૂંટારાઓ [40-04] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-04.jpg?nolink&}}
 
-**Jesus** was **crucified** between **two robbers**. One of them **mocked** Jesus, but the other said, “Do you have no fear of **God**? We are **guilty**, **but this man is innocent**.” Then he said to Jesus, “**Please remember me in your kingdom**.” Jesus answered him, “Today, you will be with me in **Paradise**.”
-===== Important Terms: =====
+ઈસુ વધસ્તંભ પર બે ભાંગફોડિયાઓની વચ્ચે જડાયેલા હતા. તેમાંથી એકે ઈસુની ઠેકડી ઉડાડી, પરંતુ અન્યએ કહ્યું કે, "તને દેવનો કોઈ ડર નથી? આપણે દોષિત છીએ , પરંતુ આ માણસ નિર્દોષ છે ." પછી તેણે ઈસુને કહ્યું, "મને તમારા રાજ્ય માં કૃપા કરીને યાદ રાખજો ." ઈસુએ ઉત્તર આપ્યો, "આજે તું મારી સાથે સ્વર્ગમાં હોઈશ."
 
-  * **[[:gu:obe:kt:jesus]]**
-  * **[[:gu:obe:kt:crucify]]**
-  * **[[:gu:obe:other:mock]]**
-  * **[[:gu:obe:kt:god]]**
-  * **[[:gu:obe:kt:guilt]]**
-  * **[[:gu:obe:kt:innocent]]**
-  * **[[:gu:obe:kt:kingdomofgod]]**
+===== મહત્વપૂર્ણ શબ્દો: =====
 
+  * ઈસુ
+  * વધસ્તંભ પર જડીત
+  * ઠેકડી ઉડાડી
+  * દેવ
+  * દોષિત
+  * નિર્દોષ
+  * રાજ્ય
 
-===== Translation Notes: =====
+===== અનુવાદ નોંધો: =====
 
-  * **two robbers** - This could also be translated as, "two bandits." This refers to criminals who used force or violence to steal things.
-  * **Do you have no fear of God?** - The robber does not expect an answer to this question; it is a way that some languages use to make a strong statement. If your language does not use questions in this way, then translate this as, "You should fear God!"
-  * **We are guilty but this man is innocent** - This could be translated as, "You and I have done evil things and deserve to die, but this man, Jesus, has done nothing wrong and does not deserve to die." "We" here includes both robbers, but does not include Jesus.
-  * **this man** - This phrase refers to Jesus.
-  * **Please remember me** - That is, "Please accept me" or, "Please welcome me" or, "Please allow me to be with you." "Remember" here does not mean to recall something after forgetting it. Translate this in a way that communicates a humble request.
-  * **in your kingdom** - That is, "when you establish your kingdom" or, "when you are ruling as king."
-  * **Paradise** - This is another name for "heaven."
-
+  * બે ભાંગફોડિયાઓ - આ રીતે પણ ભાષાંતર કરી શકાય છે "બે ભાંગફોડિયાઓ." આ ગુનેગારો જે બળ અથવા હિંસાનો ઉપયોગ ચોરી કરવા માટે કરતા હતા તે બાબતોનો ઉલ્લેખ કરે છે.
+  * તમને દેવનો કોઈ ડર નથી? - લૂંટારાને આ પ્રશ્નના જવાબની અપેક્ષા નથી; તે રીતનો, કેટલીક ભાષાઓ, મજબૂત નિવેદન બનાવવા માટે ઉપયોગ કરે છે. તમારી ભાષા આ રીતે પ્રશ્નોનો ઉપયોગ કરતી ન હોય, તો પછી આ રીતે અનુવાદ કરો "તમારે ઈશ્વરનો ભય રાખવો જોઈએ!"
+  * આપણે દોષિ છીએ, પરંતુ આ માણસ નિર્દોષ છે - આ રીતે અનુવાદ કરી શકાય, "તમે અને મેં દુષ્ટ બાબતો કરી છે અને મૃત્યુ પામવાને લાયક છીએ, પરંતુ આ માણસ ઈસુએ, કશું ખોટું કર્યું નથી અને મૃત્યુ પામવાને લાયક નથી." "અમે" અહીં બંને ભાંગફોડિયાઓનો સમાવેશ કરે છે, પરંતુ ઈસુનો સમાવેશ નથી કરતું.
+  * આ માણસ - આ શબ્દસમૂહ ઈસુનો ઉલ્લેખ કરે છે .
+  * મને કૃપા કરીને યાદ રાખજો - એટલે કે, "કૃપા કરીને મને સ્વીકારી લેજો" અથવા, "કૃપા કરીને મને પ્રવેશ કરવા દેજો" અથવા, "મને તમારી સાથે આવવા માટે પરવાનગી આપજો" "યાદ" અહીં તે ભૂલી ગયા પછી કંઈક યાદ કરવું એવો અર્થ નથી. આ એવી રીતે અનુવાદ કરો કે એક નમ્ર વિનંતી પ્રદર્શીત કરે.
+  * તમારા સામ્રાજ્યમાં - એટલે કે, "જ્યારે તમે રાજા તરીકે શાસન વ્યવસ્થા સ્થાપો" અથવા,"જ્યારે તમે તમારું સામ્રાજ્ય સ્થાપિત કરો"
+  * સ્વર્ગ - "સ્વર્ગ" માટે આ બીજું નામ છે.
 
 **[[:gu:obs:notes:frames:40-03|<<]] | [[:gu:obs:notes:40|Up]] | [[:gu:obs:notes:frames:40-05|>>]]**
