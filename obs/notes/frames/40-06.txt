@@ -1,13 +1,13 @@
-===== The Darkness [40-06] =====
+===== અંધકાર [40-06] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-06.jpg?nolink&}}
 
-Then the sky over the whole region became completely dark, even though it was the middle of the day. It became dark at noon and stayed dark for three hours.
-===== Important Terms: =====
+પછી સમગ્ર પ્રદેશ પર આકાશમાં સંપૂર્ણપણે અંધકાર છવાઈ ગયો, તે દિવસનો મધ્ય કાળ હતો તો પણ. તે બપોરે ૩:૦૦ પહોર સુધી અંધારું રહ્યું હતું.
 
-===== Translation Notes: =====
+===== મહત્વપૂર્ણ શબ્દો: =====
 
-  * //(There are no notes in this frame.)// 
+===== અનુવાદ નોંધો: =====
 
+  * (આ ચોકઠાંમાં કોઈ નોંધો નથી.)
 
 **[[:gu:obs:notes:frames:40-05|<<]] | [[:gu:obs:notes:40|Up]] | [[:gu:obs:notes:frames:40-07|>>]]**
