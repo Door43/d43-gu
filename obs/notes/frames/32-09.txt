@@ -1,18 +1,17 @@
-===== The Man Was Healed [32-09] =====
+===== માણસ સાજો કરવામાં આવ્યો [32-09] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-09.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-09.jpg?nolink&}}
 
-When the people who took care of the pigs saw **what happened**, they ran into the town and told everyone that they met what **Jesus** had done. The people from the town came and saw the man **who used to have the demons**. He was sitting calmly, wearing clothes, and acting like a normal person.
-===== Important Terms: =====
+જ્યારે ભૂંડની કાળજી લેનારાઓએ જોયું કે શું થયું છે, તેઓ નગરમાં દોડી ગયા અને દરેકને મળ્યા અને તેઓને કહ્યું જે ઈસુએ કર્યું હતું. શહેરમાંથી ઘણા લોકો આવ્યા અને એ માણસને જોયો જેનામાં અશુધ્ધ આત્માઓ હતા. તે સ્વસ્થતાપૂર્વક બેઠો હતો, કપડાં પહેર્યા હતા, અને એક સામાન્ય વ્યક્તિ જેવો વ્યવહાર કરતો હતો.
 
-  * **[[:gu:obe:kt:jesus]]**
-  * **[[:gu:obe:kt:demon]]**
+===== મહત્વપૂર્ણ શબ્દો: =====
 
+  * ઈસુ
+  * અશુધ્ધ આત્માઓ
 
-===== Translation Notes: =====
+===== અનુવાદ નોંધો: =====
 
-  * **what happened** - That is, "how Jesus sent the demons out of the man and into the pigs."
-  * **who used to have the demons** - That is, "in whom the demons had lived" or, "who had been controlled by the evil spirits."
-
+  * શું થયું - એટલે કે, "કઈ રીતે ઈસુએ માણસમાંથી અને ભૂંડથી અશુધ્ધ આત્માઓ કાઢ્યાં."
+  * જેઓમાં અશુધ્ધ આત્માઓ હોય - એટલે કે, "જેઓમાં અશુધ્ધ આત્માઓ રહ્યાં હોય" અથવા, "જે અશુધ્ધ આત્માઓ દ્વારા નિયંત્રિત કરવામાં આવ્યા હોય."
 
 **[[:gu:obs:notes:frames:32-08|<<]] | [[:gu:obs:notes:32|Up]] | [[:gu:obs:notes:frames:32-10|>>]]**
