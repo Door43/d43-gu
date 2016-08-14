@@ -1,22 +1,20 @@
-===== Come Down from the Cross [40-05] =====
+===== વધસ્તંભ પરથી નીચે આવ [40-05] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-05.jpg?nolink&}}
 
-The **Jewish leaders** and the other people in the crowd **mocked Jesus**. They said to him, “If you are the **Son of God**, come down from the **cross** and **save** yourself! Then we will **believe** you.”
-===== Important Terms: =====
+**યહૂદી** **નેતાઓ** અને ભીડમાંના અન્ય લોકોએ **ઈસુની** **ઠેકડી** **ઉડાડી** . તે લોકોએ કહ્યું, "જો તું **દેવનો** **દીકરો** **છે** **તો**, **વધસ્તંભ** **પરથી** નીચે આવી જા અને **બચાવી** **લે** તારી જાતને! તો પછી અમે **માનીશું** તને."
+===== મહત્વપૂર્ણ શબ્દો: =====
 
-  * **[[:gu:obe:other:jewishleaders]]**
-  * **[[:gu:obe:other:mock]]**
-  * **[[:gu:obe:kt:jesus]]**
-  * **[[:gu:obe:kt:sonofgod]]**
-  * **[[:gu:obe:kt:cross]]**
-  * **[[:gu:obe:kt:save]]**
-  * **[[:gu:obe:kt:believe]]**
+  * યહૂદી નેતાઓ
+  * ઠેકડી ઉડાડી
+  * ઈસુ
+  * દેવનો દીકરો
+  * વધસ્તંભ
+  * બચાવવું
+  * માને છે
 
+===== અનુવાદ નોંધો: =====
 
-===== Translation Notes: =====
-
-  * **believe you** - That is, "believe in you" or, "believe that you are the Messiah."
-
+  * તમને માનીશું - એટલે કે, "તમારામાં વિશ્વાસ રાખીશું" અથવા, "માનીશું કે તું ખ્રિસ્ત છે."
 
 **[[:gu:obs:notes:frames:40-04|<<]] | [[:gu:obs:notes:40|Up]] | [[:gu:obs:notes:frames:40-06|>>]]**
