@@ -1,23 +1,22 @@
-===== Stephen's Arrest [45-02] =====
+===== સ્તેફનની ધરપકડ [45-02] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-02.jpg?nolink&}}
 
-**One day**, when Stephen was teaching about **Jesus**, some **Jews** who did not believe in Jesus began to argue with Stephen. They became very angry and lied about Stephen to the **religious leaders**. They said, “We heard him speak **evil** things about **Moses** and **God**!” So the religious leaders arrested Stephen and brought him to the **high priest** and the other leaders of the Jews, where more false **witnesses** lied about Stephen.
-===== Important Terms: =====
+એક દિવસ , જ્યારે સ્તેફન​​ ઈસુ વિશે શીખવી રહ્યો હતો, ત્યારે કેટલાક યહૂદીઓ જે ઈસુમાં વિશ્વાસ કરતા ન હતા, સ્તેફન સાથે દલીલ કરવાનું શરૂ કર્યું હતું. તેઓ ખૂબ જ ગુસ્સે થઈ ગયા અને ધાર્મિક નેતાઓ સામે સ્તેફન વિશે ખોટું બોલ્યા. તેઓએ કહ્યું, " અમે તેને મોઢેં મૂસા અને દેવ વિશે દુષ્ટ બાબતો બોલતા સાંભળ્યું છે ! "તેથી ધાર્મિક નેતાઓએ સ્તેફનની ધરપકડ કરી અને તેને પ્રમુખ યાજક અને યહૂદીઓના અન્ય નેતાઓ પાસે લાવ્યા, જ્યાં વધુ ખોટા સાક્ષીઓ સ્તેફન વિશે ખોટું બોલ્યા.
 
-  * **[[:gu:obe:kt:jesus]]**
-  * **[[:gu:obe:other:jew]]**
-  * **[[:gu:obe:other:jewishleaders]]**
-  * **[[:gu:obe:kt:evil]]**
-  * **[[:gu:obe:other:moses]]**
-  * **[[:gu:obe:kt:god]]**
-  * **[[:gu:obe:kt:highpriest]]**
-  * **[[:gu:obe:kt:witness]]**
+===== મહત્વપૂર્ણ શબ્દો: =====
 
+  * ઈસુ
+  * યહૂદીઓ
+  * ધાર્મિક નેતાઓ
+  * દુષ્ટ
+  * મૂસા
+  * દેવ
+  * પ્રમુખ યાજક
+  * સાક્ષીઓ
 
-===== Translation Notes: =====
+===== અનુવાદ નોંધો: =====
 
-  * **One day** - This phrase introduces an event that happened in the past, but does not state the specific time. Many languages have a similar way to begin telling a true story.
-
+  * એક દિવસ - આ શબ્દસમૂહ એક ઘટના જે ભૂતકાળમાં ઘટી હતી તેનો પરિચય આપે છે, પરંતુ ચોક્કસ સમય દર્શાવતો નથી. ઘણી ભાષાઓ એ જ રીતે એક સાચી વાર્તા કહેવી શરૂ કરતી હોય છે.
 
 **[[:gu:obs:notes:frames:45-01|<<]] | [[:gu:obs:notes:45|Up]] | [[:gu:obs:notes:frames:45-03|>>]]**
