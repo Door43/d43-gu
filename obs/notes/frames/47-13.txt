@@ -1,23 +1,24 @@
-===== The Good News Spreads [47-13] =====
+===== સુસમાચારનો ફેલાવો થયો [47-13] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-13.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-13.jpg?nolink&}}
 
-The next day **the leaders of the city** released **Paul** and **Silas** from prison and asked them to leave **Philippi**. Paul and Silas visited **Lydia** and some other friends and then left the city. **The good news about Jesus kept spreading**, and **the Church kept growing**.
-===== Important Terms: =====
+પછીના દિવસે શહેરના નેતાઓએ પાઉલ અને સિલાસને જેલમાંથી આઝાદ કર્યા અને તેમને ફિલિપ્પી છોડી જવા કહ્યું.
 
-  * **[[:gu:obe:other:paul]]**
-  * **[[:gu:obe:other:silas]]**
-  * **[[:gu:obe:other:philippi]]**
-  * **[[:gu:obe:kt:goodnews]]**
-  * **[[:gu:obe:kt:jesus]]**
-  * **[[:gu:obe:kt:church]]**
+પાઉલ અને સિલાસે લિડિયા અને કેટલાક અન્ય મિત્રોની મુલાકાત લીધી અને પછી એ શહેર છોડી દીધું. ઈસુ ખ્રિસ્તની સુવાર્તા ફેલાતી રહી, અને ચર્ચ વધતું રહ્યું.
 
+===== મહત્વપૂર્ણ શબ્દો: =====
 
-===== Translation Notes: =====
+  * પાઉલ
+  * સિલાસ
+  * ફિલિપ્પી
+  * સારા સમાચાર
+  * ઈસુ
+  * ચર્ચ
 
-  * **the leaders of the city** - This refers to, "the officials of the city" or, "the authorities of the city."
-  * **The good news about Jesus kept spreading** - That is, "People in more and more places were hearing the good news about Jesus."
-  * **the Church kept growing** - That is, "more and more people were becoming part of the Church" or, "more and more people were believing in Jesus."
+===== અનુવાદ નોંધો: =====
 
+  * શહેરના નેતાઓ - આનો સંદર્ભ છે, "શહેરના અધિકારીઓ" અથવા "શહેરના સત્તાવાળાઓ"
+  * ઈસુ ખ્રિસ્ત વિશેની સુવાર્તા ફેલાતી રહી - એટલે કે, "વધુ અને વધુ સ્થળોએ લોકો ઈસુ ખ્રિસ્તની સુવાર્તા સાંભતા હતા"
+  * ચર્ચ વધતું રહ્યું - એટલે કે, "વધુ અને વધુ લોકો ચર્ચનો એક ભાગ બની ગયા હતા" અથવા, "વધુ અને વધુ લોકો ઈસુમાં વિશ્વાસ કરતા હતા."
 
 **[[:gu:obs:notes:frames:47-12|<<]] | [[:gu:obs:notes:47|Up]] | [[:gu:obs:notes:frames:47-14|>>]]**
