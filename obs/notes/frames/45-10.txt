@@ -1,21 +1,18 @@
-===== Philip Preached about Jesus [45-10] =====
+===== ફિલિપે ઈસુ વિશે ઉપદેશ આપ્યો [45-10] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-10.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-10.jpg?nolink&}}
 
-Philip explained to the Ethiopian man that **Isaiah** was writing about **Jesus**. Philip also used other **scriptures** to tell him the **good news** about Jesus.
+ફિલિપે ઇથિયોપીયન માણસને સમજાવે છે કે યશાયા ઈસુ વિશે લખી રહ્યો હતો . ફિલિપે અન્ય ગ્રંથો પણ ઉપયોગ કર્યા હતા તેને ઈસુ વિશે સારા સમાચાર કહેવા માટે.
 
+===== મહત્વપૂર્ણ શબ્દો: =====
 
-===== Important Terms: =====
+  * યશાયા
+  * ઈસુ
+  * ગ્રંથો
+  * સારા સમાચાર
 
-  * **[[:gu:obe:other:isaiah]]**
-  * **[[:gu:obe:kt:jesus]]**
-  * **[[:gu:obe:kt:wordofgod]]**
-  * **[[:gu:obe:kt:goodnews]]**
+===== અનુવાદ નોંધો: =====
 
-
-===== Translation Notes: =====
-
-  * //(There are no notes for this frame.)// 
-
+  * (આ ચોકઠાં માટે કોઈ નોંધો નથી.)
 
 **[[:gu:obs:notes:frames:45-09|<<]] | [[:gu:obs:notes:45|Up]] | [[:gu:obs:notes:frames:45-11|>>]]**
