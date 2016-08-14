@@ -1,21 +1,20 @@
-===== The Ethiopian Read Isaiah [45-08] =====
+===== ઇથિયોપીયા વાસી યશાયા વાંચી રહ્યો હતો [45-08] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-08.jpg?nolink&}}
 
-When Philip **approached the chariot**, he heard the **Ethiopian** reading from what the **prophet Isaiah** wrote. The man read, “They led him like a **lamb** to be killed, and **as a lamb is silent**, he did not say a word. They treated him unfairly and did not respect him. **They took his life away from him**.”
-===== Important Terms: =====
+ફિલિપ જ્યારે રથ પાસે પહોંચ્યો, તેણે સાંભળ્યું જે ઇથિયોપીયન યશાયામાંથી વાંચી રહ્યો હતો જે પ્રબોધકે લખ્યું હતું. માણસે વાંચ્યું, "તેઓ તેને એવી રીતે દોરી રહ્યા હતા જાણે ઘેંટું વધ કરવા માટે લઈ જવાતું હોય, અને જેમ ઘેંટું શાંત હોય છે, તેમ તે એક પણ શબ્દ બોલતો ન હતો. તેઓએ તેની જોડે અયોગ્ય વ્યવહાર કર્યો અને તેનો આદર ન કર્યો હતો. તેઓએ તેનું જીવન તેનાથી દૂર કરી દિધું. . "
 
-  * **[[:gu:obe:other:chariot]]**
-  * **[[:gu:obe:other:isaiah]]**
-  * **[[:gu:obe:kt:lamb]]**
-  * **[[:gu:obe:kt:life]]**
+===== મહત્વપૂર્ણ શબ્દો: =====
 
+  * રથ
+  * યશાયા પ્રબોધક
+  * ઘેંટું
+  * જીવન
 
-===== Translation Notes: =====
+===== અનુવાદ નોંધો: =====
 
-  * **Ethiopian** - That is, a person from the country of Ethiopia. See note on **[[:gu:obs:notes:frames:45-07|[45-07]]]**.
-  * **approached the chariot** - That is, "got close to the chariot" or, "came near to the chariot."
-  * **as a lamb is silent** - This could also be translated as, "like a lamb that is silent even when it is about to be killed."
-
+  * ઇથિયોપીયન - એટલે કે, ઇથોપિયા દેશની એક વ્યક્તિ. પર નોંધ જુઓ __\ [____૪૫____-____૦૭____] __{૭][૮}.
+  * રથ પાસે પહોંચ્યો - એટલે કે, "રથ નજીક પહોંચી ગયો" અથવા, "રથ નજીક આવ્યો"
+  * જેમ ઘેંટું શાંત હોય - આ રીતે પણ ભાષાંતર કરી શકાય છે, "એક હલવાનના જેમ શાંત હોય છે જ્યારે તે હત્યા કરવા માટે લઈ જવામાં આવે છે."
 
 **[[:gu:obs:notes:frames:45-07|<<]] | [[:gu:obs:notes:45|Up]] | [[:gu:obs:notes:frames:45-09|>>]]**
