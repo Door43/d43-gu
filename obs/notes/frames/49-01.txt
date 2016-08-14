@@ -1,19 +1,18 @@
-===== The Virgin Birth [49-01] =====
+===== કુમારિકાથી જન્મ [49-01] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-01.jpg?nolink&}}
 
-An angel told a **virgin** named **Mary** that she would give birth to **God's Son**. So while she was still a virgin, she gave birth to a son and named him **Jesus**. Therefore, Jesus is both God and human.
-===== Important Terms: =====
+એક દેવદૂતે એક કુંવારી, નામે મેરીને કહ્યું કે તે ઈશ્વરના દીકરાને જન્મ આપશે . તેથી જ્યારે તે હજુ પણ એક કુંવારી હતી, તેણે એક પુત્રને જન્મ આપ્યો અને તેને નામ આપવામાં આવ્યું ઈસુ . તેથી ઈસુ, દેવ અને મનુષ્ય, બંને છે.
 
-  * **[[:gu:obe:other:virgin]]**
-  * **[[:gu:obe:other:mary]]**
-  * **[[:gu:obe:kt:sonofgod]]**
-  * **[[:gu:obe:kt:jesus]]**
+===== મહત્વપૂર્ણ શબ્દો: =====
 
+  * કુંવારી
+  * મેરી
+  * ઈશ્વરના દીકરા
+  * ઈસુ
 
-===== Translation Notes: =====
+===== અનુવાદ નોંધો: =====
 
-  * //(There are no notes for this frame.)// 
-
+  * (આ ચોકઠાં માટે કોઈ નોંધો નથી.)
 
 **[[:gu:obs:notes:frames:48-14|<<]] | [[:gu:obs:notes:49|Up]] | [[:gu:obs:notes:frames:49-02|>>]]**
