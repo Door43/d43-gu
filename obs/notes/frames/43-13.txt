@@ -1,22 +1,21 @@
-===== The Disciples Met Together [43-13] =====
+===== અનુયાયીઓ એકબીજાને મળ્યા [43-13] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-13.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-13.jpg?nolink&}}
 
-The **disciples** continually listened to the teaching of the **apostles**, spent time together, ate together, and **prayed** with each other. They enjoyed **praising God** together and they shared everything they had with each other. Everyone **thought well of them**. Every day, more people became **believers**.
-===== Important Terms: =====
+શિષ્યો પ્રેરિતો સાથે સતત ઉપદેશ સાંભળવા, સમય પસાર કરતા હતા, સાથે મળીને જમતા, અને એકબીજા સાથે મળીને પ્રાર્થના કરતા હતા. તેઓએ એકસાથે દેવની પ્રશંસા કરવામાં આનંદ મનાવ્યો  અને તે બધું તેઓએ એકબીજા સાથે એકબીજાનો હિસ્સો વેચીને કર્યું. દરેક વ્યક્તિઓ તેમને વિશે સારો મત ધરાવતા હતા. . દરેક દિવસે, વધુ લોકો શિષ્યો બનતા હતા.
 
-  * **[[:gu:obe:kt:disciple]]**
-  * **[[:gu:obe:kt:apostle]]**
-  * **[[:gu:obe:other:pray]]**
-  * **[[:gu:obe:other:praise]]**
-  * **[[:gu:obe:kt:god]]**
-  * **[[:gu:obe:kt:believer]]**
+===== મહત્વપૂર્ણ શબ્દો: =====
 
+  * શિષ્યો
+  * પ્રેરિતો
+  * પ્રાર્થના
+  * પ્રશંસા
+  * દેવ
+  * શિષ્યો
 
-===== Translation Notes: =====
+===== અનુવાદ નોંધો: =====
 
-  * **thought well of them** - That is, "had a positive opinion of them."
-  * //A Bible story from//  - These references may be slightly different in some Bible translations.
-
+  * તેમને વિશે સારો વિચાર ધરાવતા હતા - એટલે કે, "તેમના વિષે એક હકારાત્મક અભિપ્રાય ધરાવતા હતા"
+  * બાઇબલની વાર્તાઓ - આ સંદર્ભો બાઇબલના કેટલાક અનુવાદમાં સહેજ અલગ હોઈ શકે છે
 
 **[[:gu:obs:notes:frames:43-12|<<]] | [[:gu:obs:notes:43|Up]] | [[:gu:obs:notes:frames:44-01|>>]]**
