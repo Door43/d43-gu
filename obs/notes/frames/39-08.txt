@@ -1,22 +1,20 @@
-===== Judas Killed Himself [39-08] =====
+===== યહુદાએ પોતાને ખતમ કરી નાંખ્યો [39-08] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-08.jpg?nolink&}}
 
-**Peter** went away and **cried bitterly**. Meanwhile, **Judas**, **the betrayer**, saw that the **Jewish leaders had condemned Jesus to die**. Judas became full of sorrow and went away and killed himself.
-===== Important Terms: =====
+પીતર દૂર જતો રહ્યો અને છાતીફાટ આક્રંદ કર્યું. દરમિયાન, યહૂદા-વિશ્વાસઘાતીએ, જોયું કે યહૂદી નેતાઓએ ઈસુ મૃત્યુ પામે એવી નિંદા કરી હતી. યહુદા દુ:ખથી ભરાઈ ગયો હતો અને દૂર જઈને અને પોતાને મારી નાંખ્યો.
 
-  * **[[:gu:obe:other:peter]]**
-  * **[[:gu:obe:other:judasiscariot]]**
-  * **[[:gu:obe:kt:betray]]**
-  * **[[:gu:obe:other:jewishleaders]]**
-  * **[[:gu:obe:kt:jesus]]**
+===== મહત્વપૂર્ણ શબ્દો: =====
 
+  * **પીતર**
+  * **યહુદા**
+  * **વિશ્વાસઘાતી**
+  * **યહૂદી****નેતાઓ**
+  * **ઈસુ**
+===== અનુવાદ નોંધો: =====
 
-===== Translation Notes: =====
-
-  * **cried bitterly** - That is, "cried, feeling deep sorrow" or, "cried, feeling deep regret."
-  * **the betrayer** - That is, "who had betrayed Jesus" or, "who had helped the leaders arrest Jesus."
-  * **had condemned Jesus to die** - That is, "had said that Jesus was guilty and must die."
-
+  * છાતીફાટ આક્રંદ કરવું - એટલે કે, "બૂમ પાડી ઊઠ્યો, ઊંડુ દુ:ખ અનુભવ્યું" અથવા, "ઉંચે અવાજે, ઊંડી દિલગીરી અનુભવી."
+  * વિશ્વાસઘાતી - એટલે કે, "જેણે ઈસુને દગો કર્યો હતો" અથવા, "જેણે યહુદી નેતાઓને ઈસુને પકડવા મદદ કરી હતી."
+  * મૃત્યુ પામે એવી ઈસુની નિંદા કરી હતી - એટલે કે, જણાવ્યું હતું કે ઈસુ ગુનેગાર હતો અને મૃત્યુ પામવો જ જોઈએ"
 
 **[[:gu:obs:notes:frames:39-07|<<]] | [[:gu:obs:notes:39|Up]] | [[:gu:obs:notes:frames:39-09|>>]]**
