@@ -1,22 +1,21 @@
-===== The Seed Is the Word [33-06] =====
+===== શબ્દ એ બીજ છે [33-06] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-06.jpg?nolink&}}
 
+આ વાર્તા શિષ્યોમાં ગેરસમજ ઉત્પન્ન કરે છે. તેથી ઈસુએ સમજાવ્યું, "બીજ એ દેવનો શબ્દ છે. રસ્તો એ એક વ્યક્તિ છે જે દેવનો શબ્દ સાંભળે છે, પરંતુ તે સમજી શકતો નથી, અને શેતાન એ શબ્દ એની પાસેથી છીનવી લે છે."
 
-**This story confused the disciples**. So **Jesus** explained, “The seed is the **word of God**. The path **is a person** who hears God’s word, but does not understand it, and the **devil takes the word away from him**.”
-===== Important Terms: =====
+===== મહત્વપૂર્ણ શબ્દો: =====
 
-  * **[[:gu:obe:kt:disciple]]**
-  * **[[:gu:obe:kt:jesus]]**
-  * **[[:gu:obe:kt:wordofgod]]**
-  * **[[:gu:obe:kt:satan]]**
+  * શિષ્યો
+  * ઈસુ
+  * દેવનું વચન
+  * શેતાન
 
+===== અનુવાદ નોંધો: =====
 
-===== Translation Notes: =====
-
-  * **This story confused the disciples.** - That is, "The disciples did not understand this story."
-  * **is a person** - This comparison can also be translated as, "is like a person" or, "represents a person" or, "refers to a person" or, "is speaking about a person."
-  * **takes the word away from him** - This may also be translated as, "takes God's word away, causing him to forget it" or, "steals the word from his heart so he won't believe it and be saved." You may also add the following: "just as birds eat up the seeds that fall on a path."
-
+  * આ વાર્તા શિષ્યોને ગેરસમજ કરે છે - એટલે કે, "શિષ્યો આ વાર્તા સમજી શક્યા નહિ."
+  * એક વ્યક્તિ છે - આ સરખામણીનો આવી રીતે પણ અનુવાદ કરી શકાય છે, "એક વ્યક્તિ જેવો છે," અથવા "એક વ્યક્તિને રજૂ કરે છે" અથવા, "એક વ્યક્તિનો ઉલ્લેખ કરે છે" અથવા "એક વ્યક્તિ વિશે વાત કરે છે."
+  * તે શબ્દને છીનવી લે છે - આ, આ રીતે પણ ભાષાંતર કરી શકાય છે, "દેવનો શબ્દ છીનવી લે છે, તેને ભૂલાવે દે છે" અથવા, "તેના હ્રદયમાંથી શબ્દને ચોરી લે છે જેથી તે માને નહીં અને જેથી તેને બચાવી ન શકાય."
+  * તમે નીચેનું પણ ઉમેરી શકો છો-"જેવી રીતે પક્ષીઓ માર્ગ પર પડેલા બીજ ખાઈ જાય છે."
 
 **[[:gu:obs:notes:frames:33-05|<<]] | [[:gu:obs:notes:33|Up]] | [[:gu:obs:notes:frames:33-07|>>]]**
