@@ -1,26 +1,24 @@
-===== I Am the Resurrection [37-05] =====
+===== હું પુનરૂત્થાન છું [37-05] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-05.jpg?nolink&}}
 
-**Jesus** replied, “**I am the Resurrection and the Life**. Whoever **believes** in me **will live**, **even though he dies**. Everyone who believes in me **will never die**. Do you believe this?” **Martha** answered, “Yes, **Master**! I believe you are the **Messiah**, the **Son of God**.”
-===== Important Terms: =====
+ઈસુએ જવાબ આપ્યો, "હું પુનરૂત્થાન અને જીવન છું. જે કોઈ મને માને છે તે જીવિત રહેશે, મૃત્યુ પામે તેમ છતાં પણ. દરેક વ્યક્તિ જે મારામાં વિશ્વાસ કરે છે કદી મૃત્યુ પામશે નહિ. તું આ માને છે? " માર્થાએ જવાબ આપ્યો, "હા, સ્વામી! હું માનું છું કે તમે મસીહ છો, દેવના દીકરા છો."
 
-  * **[[:gu:obe:kt:jesus]]**
-  * **[[:gu:obe:kt:resurrection]]**
-  * **[[:gu:obe:kt:life]]**
-  * **[[:gu:obe:kt:believe]]**
-  * **[[:gu:obe:kt:death]]**
-  * **[[:gu:obe:kt:lord]]**
-  * **[[:gu:obe:kt:christ]]**
-  * **[[:gu:obe:kt:sonofgod]]**
+===== મહત્વપૂર્ણ શબ્દો: =====
 
+  * **ઈસુ**
+  * **પુનરૂત્થાન**
+  * **જીવન**
+  * **માનવું**
+  * **મૃત્યુ****પામે****છે**
+  * **સ્વામી**
+  * **મસીહ**
+  * **દેવનો****દીકરો**
+===== અનુવાદ નોંધો: =====
 
-===== Translation Notes: =====
-
-  * **I am the Resurrection and the Life** - This is one of several very powerful "I am" statements in which Jesus says something about his essential nature. In this one, Jesus indicated that he is the "provider" or, "source" of resurrection and life. If possible, translate this phrase in a way that makes it clear that this is his essential nature. This can also be translated as, "I am the one who resurrects people and causes them to live."
-  * **will live, even though he dies.** - That is, "will live forever, even if he dies." The English word, "he" does not only refer to men. Women who believe in Jesus will also live forever.
-  * **Martha** - Martha was the sister of Lazarus and Mary. See **[[:gu:obs:notes:frames:37-01|[37-01]]]**.
-  * **will never die** - This can also be translated as, "will live forever."
-
+  * હું પુનરુત્થાન તથા જીવન છું - અત્યંત શક્તિશાળી "હું છું" અનેક નિવેદનોમાંનું એક છે જેમાં ઈસુએ પોતાના આવશ્યક સ્વભાવ વિશે કંઈક કહે છે. આમાં, ઈસુએ જણાવ્યું હતું કે તેઓ "પ્રદાતા" અથવા, પુનરુત્થાન અને જીવનનો "સ્ત્રોત" છે. જો શક્ય હોય તો, આ શબ્દસમૂહનો એવી રીતે અનુવાદ કરો કે એક રીતે તે સ્પષ્ટ કરે કે આ તેમનો આવશ્યક પ્રકૃતિક સ્વભાવ છે. આવી રીતે પણ અનુવાદ કરી શકાય છે, "હું જ એકમાત્ર, જે લોકોને સજીવન કરનાર અને તેમના જીવંત રહેવા માટેનું કારણ છું."
+  * જીવી જશે, તે મૃત્યુ પામે તેમ છતાં - એટલે કે, "કાયમ જીવિત રહેશે, તે મૃત્યુ પામે તો પણ." આ ઇંગલિશ શબ્દ, "તે" માત્ર પુરૂષોનો સંદર્ભ નથી. જે મહિલાઓ ઇસુમાં માને તે પણ અનંતજીવન જીવશે.
+  * માર્થા - માર્થા લાજરસ અને મેરીની બહેન હતી. જુઓ __\ [____૩૭____-____૦૧____]__ {૭] [૮}.
+  * કદી મૃત્યુ પામશે નહિ - પણ આ રીતે ભાષાંતર કરી શકો છો, જેમ કે "કાયમ જીવશે."
 
 **[[:gu:obs:notes:frames:37-04|<<]] | [[:gu:obs:notes:37|Up]] | [[:gu:obs:notes:frames:37-06|>>]]**
