@@ -1,22 +1,21 @@
-===== Not All Will Be Saved [49-06] =====
+===== બધા જ નહિ બચાવી લેવાશે [49-06] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-06.jpg?nolink&}}
 
-**Jesus** taught that some people will **receive** him and be **saved**, but **others will not**. He said that some people are like good soil. They receive the **good news** of Jesus and are saved. Other people are like the hard soil of a path, where the **seed of God's word** does not enter and does not produce any harvest. Those people reject the message about Jesus and will not enter into **his kingdom**.
-===== Important Terms: =====
+ઈસુએ શીખવ્યું કે કેટલાક લોકો તેમને પ્રાપ્ત કરશે અને બચી જશે, પરંતુ અન્ય નહીં. તેમણે જણાવ્યું હતું કે કેટલાક લોકો સારી જમીન જેવા છે. તેઓ ઈસુના સારા સમાચાર પ્રાપ્ત કરશે અને બચાવી લેવામાં આવશે. અન્ય લોકો, જેઓ સખત માટી જેવા છે દેવના શબ્દના બીજ દાખલ નથી થવા દેતા અને કોઈપણ પાક પેદા નથી કરતા. તે લોકો ઈસુ વિશેનો સંદેશ નકારશે અને તેમના સામ્રાજ્યમાં દાખલ નહિ થશે.
 
-  * **[[:gu:obe:kt:jesus]]**
-  * **[[:gu:obe:kt:receive]]**
-  * **[[:gu:obe:kt:save]]**
-  * **[[:gu:obe:kt:goodnews]]**
-  * **[[:gu:obe:kt:wordofgod]]**
-  * **[[:gu:obe:kt:kingdomofgod]]**
+===== મહત્વપૂર્ણ શબ્દો: =====
 
+  * ઈસુ
+  * પ્રાપ્ત કરવું
+  * બચાવી લેવાયેલા
+  * સારા સમાચાર
+  * દેવ શબ્દ
+  * તેમનું સામ્રાજ્ય
 
-===== Translation Notes: =====
+===== અનુવાદ નોંધો: =====
 
-  * **others will not** - That is, "other people will not receive him and therefore will not be saved."
-  * **seed of God's word** - This can be translated as, "seed, which can be compared to God's word." This phrase makes a comparison between seed and God's word.
-
+  * અન્ય થશે નહિં- એટલે કે, "અન્ય લોકો તેને સ્વિકાર નહીં કરે અને તેથી તેનો બચાવ નહી થશે."
+  * દેવના શબ્દના બીજ - તે આ રીતે પણ અનુવાદ કરી શકાય છે, "બીજ, જેને દેવના શબ્દ સાથે સરખાવી શકાય." આ શબ્દ સમૂહ, બીજ અને દેવ શબ્દ વચ્ચે સરખામણી કરે છે.
 
 **[[:gu:obs:notes:frames:49-05|<<]] | [[:gu:obs:notes:49|Up]] | [[:gu:obs:notes:frames:49-07|>>]]**
