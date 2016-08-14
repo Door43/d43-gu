@@ -1,20 +1,19 @@
-===== The Field Is the World [50-08] =====
+===== ખેતર એ વિશ્વ છે [50-08] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-08.jpg?nolink&}}
 
-The **disciples** did not understand the meaning of the story, so they asked **Jesus** to explain it to them. Jesus said, “The man who planted the **good** seed represents the **Messiah**. The field represents the world. The good seed represents **the people of God’s kingdom**.”
-===== Important Terms: =====
+શિષ્યો વાર્તાનો અર્થ સમજી શક્યા નહિ, તેથી તેઓએ ઈસુને પૂંછ્યું તેમને તે સમજાવવા માટે. ઈસુએ કહ્યું, "જે માણસ સારા બીજનું વાવેતર કરે છે એ મસીહને રજુ કરે છે. ખેતર વિશ્વને રજૂ કરે છે. સારા બીજ દેવના સામ્રાજ્ય લોકોને રજૂ કરે છે."
 
-  * **[[:gu:obe:kt:disciple]]**
-  * **[[:gu:obe:kt:jesus]]**
-  * **[[:gu:obe:kt:good]]**
-  * **[[:gu:obe:kt:christ]]**
-  * **[[:gu:obe:kt:kingdomofgod]]**
+===== મહત્વપૂર્ણ શબ્દો: =====
 
+  * શિષ્યો
+  * ઈસુ
+  * સારું
+  * મસીહ
+  * દેવનું સામ્રાજ્ય
 
-===== Translation Notes: =====
+===== અનુવાદ નોંધો: =====
 
-  * **the people of God's kingdom** - This can also be translated as, "the people who live under God's authority" or, "the people who have submitted to God's rule" or, "the people who will live with God in his Kingdom."
-
+  * દેવના સામ્રાજ્યના લોકો- આ રીતે પણ ભાષાંતર કરી શકાય, "જે લોકો ઈશ્વરની સત્તા હેઠળ રહે છે" અથવા, "જે લોકો દેવના નિયમને માને છે" અથવા, "જે લોકો દેવ સાથે એમના રાજ્યમાં રહેશે."
 
 **[[:gu:obs:notes:frames:50-07|<<]] | [[:gu:obs:notes:50|Up]] | [[:gu:obs:notes:frames:50-09|>>]]**
