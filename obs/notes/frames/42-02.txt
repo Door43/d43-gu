@@ -1,19 +1,15 @@
-===== Jesus Walked with the Disciples [42-02] =====
+===== ઈસુ શિષ્યો સાથે ચાલ્યા [42-02] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-02.jpg?nolink&}}
 
-**Jesus** approached them and started walking with them, but they **did not recognize him**. He asked what they were talking about, and they told him about **all the remarkable things that had happened** concerning Jesus during the previous few days. They thought they were talking to a visitor who did not know what had happened in **Jerusalem**.
-===== Important Terms: =====
+**ઈસુએ** તેમની નજીક પહોંચ્યા અને તેમની સાથે ચાલવાનું શરૂ કર્યું, પરંતુ તેઓએ **​​****તેને** **ના** **ઓળખ્યો** . તેમણે તેઓને કહ્યું કે શેના વિશે વાત કરી રહ્યા હતા, અને તેઓએ એ દરેક વિશે જણાવ્યું જે **તમામ** **નોંધપાત્ર** **બાબતો** અગાઉના થોડા દિવસો પહેલા ઈસુ વિશે થઈ હતી. તેઓને એમ કે તેઓ એક મુસાફર જોડે વાતો કરી રહ્યા છે જે અજાણ હતો જે** યરૂશાલેમમાં** થયું હતું એ વિશે.
+===== મહત્વપૂર્ણ શબ્દો:  =====
 
+  * **ઈસુ**
+  * **યરૂશાલેમમાં**
+===== અનુવાદ નોંધો: =====
 
-  * **[[:gu:obe:kt:jesus]]**
-  * **[[:gu:obe:other:jerusalem]]**
-
-
-===== Translation Notes: =====
-
-  * **did not recognize him** - That is, "did not know that it was Jesus."
-  * **all the remarkable things that had happened** - This refers to the teaching and miracles of Jesus, his death, and the reports of his resurrection.
-
+  * તેમને ઓળખી ન શક્યા હતા - એટલે કે, "ખબર ન હતી કે તે ઈસુ હતો"
+  * તમામ નોંધપાત્ર બાબતો જે થઈ હતી – આ ઈસુના ઉપદેશ અને ચમત્કાર, તેમના મૃત્યુ, અને તેમના પુનરુત્થાન અહેવાલોનો ઉલ્લેખ કરે છે
 
 **[[:gu:obs:notes:frames:42-01|<<]] | [[:gu:obs:notes:42|Up]] | [[:gu:obs:notes:frames:42-03|>>]]**
