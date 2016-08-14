@@ -1,25 +1,23 @@
-===== The Passover [38-01] =====
+===== પાસ્ખાં પર્વ [38-01] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-01.jpg?nolink&}}
 
-Every year, the **Jews** celebrated the **Passover**. This was a celebration of how **God** had **saved** their ancestors from **slavery** in **Egypt many centuries earlier**. About three years after **Jesus** first began **preaching** and teaching publicly, Jesus told his **disciples** that he wanted to celebrate this Passover with them in **Jerusalem**, and that he would be killed there.
-===== Important Terms: =====
+દર વર્ષે, યહૂદીઓ પાસ્ખાં પર્વની ઉજવણી કરતા હતા. આ ઉજવણી દેવે કેવી રીતે તેમના પૂર્વજોને અગાઉની સદીઓમાં મિસરની ગુલામીમાંથી બચાવ્યા હતા એની યાદમાં કરવામાં આવતી હતી. લગભગ ત્રણ વર્ષ પછી ઈસુ પ્રથમ જાહેરમાં પ્રચાર અને શિક્ષણ ચાલુ કર્યું હતું, ઈસુએ પોતાના શિષ્યોને કહ્યું કે તેઓ તેમની સાથે યરૂશાલેમમાં આ પાસ્ખાપર્વ ઉજવણી કરવા ઇચ્છતા હતા અને ત્યાં તેની હત્યા કરવામાં આવશે.
 
-  * **[[:gu:obe:other:jew]]**
-  * **[[:gu:obe:kt:passover]]**
-  * **[[:gu:obe:kt:god]]**
-  * **[[:gu:obe:kt:save]]**
-  * **[[:gu:obe:other:servant]]**
-  * **[[:gu:obe:other:egypt]]**
-  * **[[:gu:obe:kt:jesus]]**
-  * **[[:gu:obe:other:preach]]**
-  * **[[:gu:obe:kt:disciple]]**
-  * **[[:gu:obe:other:jerusalem]]**
+===== મહત્વપૂર્ણ શબ્દો: =====
 
+  * **યહૂદીઓ**
+  * **પાસ્ખાં**
+  * **દેવ**
+  * **બચાવ્યા**
+  * **ગુલામી**
+  * **મિસર**
+  * **ઈસુ**
+  * **ઉપદેશ**
+  * **શિષ્યો**
+  * **યરૂશાલેમમાં**
+===== અનુવાદ નોંધો: =====
 
-===== Translation Notes: =====
-
-  * **many centuries earlier** - That is, "hundreds of years earlier" or, "a very long time before."
-
+  * ઘણી સદીઓ અગાઉ - એટલે કે, " સેંકડો વર્ષ પૂર્વે " અથવા, ' ખૂબ જ લાંબા સમય પહેલાં '
 
 **[[:gu:obs:notes:frames:37-11|<<]] | [[:gu:obs:notes:38|Up]] | [[:gu:obs:notes:frames:38-02|>>]]**
