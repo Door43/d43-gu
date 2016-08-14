@@ -1,21 +1,20 @@
-===== Ananias Baptized Saul [46-05] =====
+===== અનાન્યાએ શાઉલને બાપ્તિસ્મા આપ્યા [46-05] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-46-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-46-05.jpg?nolink&}}
 
-So Ananias went to **Saul**, placed his hands on him, and said, “**Jesus**, who appeared to you on your way **here**, sent me to you so that you can **regain your sight** and be filled with the **Holy Spirit**.” Saul immediately was able to see again, and Ananias **baptized** him. Then Saul ate some food and **his strength returned**.
-===== Important Terms: =====
+તેથી અનાન્યા શાઉલ પાસે ગયો, તેના પર હાથ મૂકી અને કહ્યું, "ઈસુ , જે તારા માર્ગ પર તને દેખાયા હતા, મને અહિં મોકલ્યો છે જેથી તું તારી દૃષ્ટિ પાછી મેળવી શકે અને સાથે પવિત્ર આત્માથી ભરવામાં આવશે. " શાઉલ તરત જ ફરીથી જોઈ શકવા માટે સમર્થ થયો, અને અનાન્યાએ તેને બાપ્તિસ્મા આપ્યા. શાઉલ થોડું જમ્યો અને તેની તાકાત પાછી આવી.
 
-  * **[[:gu:obe:other:paul]]**
-  * **[[:gu:obe:kt:jesus]]**
-  * **[[:gu:obe:kt:holyspirit]]**
-  * **[[:gu:obe:kt:baptize]]**
+===== મહત્વપૂર્ણ શબ્દો: =====
 
+  * શાઉલ
+  * ઈસુ
+  * પવિત્ર આત્મા
+  * બાપ્તિસ્મા
 
-===== Translation Notes: =====
+===== અનુવાદ નોંધો: =====
 
-  * **here** - That is, "to Damascus."
-  * **regain your sight** - This could also be translated as, "be able to see again."
-  * **his strength returned** - This could also be translated as, "he became strong again" or, "he felt better."
-
+  * અહીં - એટલે કે, "દમાસ્કસ તરફ."
+  * તારી દૃષ્ટિ પાછી લે - આ રીતે પણ ભાષાંતર કરી શકાય છે, "ફરીથી જોવા માટે સમર્થ બન"
+  * તેની તાકાત પાછી આવી - આ રીતે પણ ભાષાંતર કરી શકાય છે "તે ફરીથી મજબૂત બની ગયો હતો" અથવા, "તેને સારું લાગ્યું"
 
 **[[:gu:obs:notes:frames:46-04|<<]] | [[:gu:obs:notes:46|Up]] | [[:gu:obs:notes:frames:46-06|>>]]**
