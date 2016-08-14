@@ -1,19 +1,17 @@
-===== Peter's Promise [38-10] =====
+===== પીતરનું વચન [38-10] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-10.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-10.jpg?nolink&}}
 
-**Peter** then said to **Jesus**, “Even if I must **die**, I will never **deny you**!” All the other **disciples** said the same thing.
-===== Important Terms: =====
+પછી પીતરે કહ્યું ઈસુ, "ભલે મને મારી નાંખવામાં આવે, હું ક્યારેય તમને નકારીશ નહિ!" બીજા બધા શિષ્યોએ પણ એમ જ કહ્યું.
 
-  * **[[:gu:obe:other:peter]]**
-  * **[[:gu:obe:kt:jesus]]**
-  * **[[:gu:obe:kt:death]]**
-  * **[[:gu:obe:kt:disciple]]**
+===== મહત્વપૂર્ણ શબ્દો: =====
 
+  * **પીતર**
+  * **ઈસુ**
+  * **મૃત્યુ**
+  * **શિષ્યો**
+===== અનુવાદ નોંધો: =====
 
-===== Translation Notes: =====
-
-  * **deny you** - That is, "deny that I know you" or, "deny that I am your disciple" or, "disown you."
-
+  * તમને નામંજૂર કરવું - એટલે કે, "નામંજૂર કરવું કે હું તમને ઓળખું છું" અથવા, "નામંજૂર કરવું કે હું આપનો શિષ્ય છું" અથવા, "તમને નકારી કાઢું."
 
 **[[:gu:obs:notes:frames:38-09|<<]] | [[:gu:obs:notes:38|Up]] | [[:gu:obs:notes:frames:38-11|>>]]**
