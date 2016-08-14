@@ -1,20 +1,19 @@
-===== The Enemy [50-05] =====
+===== દુશ્મન [50-05] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-05.jpg?nolink&}}
 
-**Jesus** told his **disciples** a story to explain what will happen to people when the world ends. He said, “A man planted **good seed** in his field. While he was sleeping, his enemy came and planted **weed seeds** along with the **wheat**, and then he went away.”
-===== Important Terms: =====
+ઈસુ તેમના ​​શિષ્યોને સમજાવવા માટે એક વાર્તા કહી હતી કે લોકોનું શું થશે જ્યારે વિશ્વનો અંત થશે. તેમણે જણાવ્યું હતું કે, "એક માણસ તેના ખેતરમાં સારા બીનું વાવેતર કર્યું. જ્યારે તે ઊઘતો હતો, તેના દુશ્મન આવ્યા અને ઘઉંના બીજ સાથે ઘાસના બીજનું વાવેતર કર્યુ, અને પછી તે ભાગી ગયો."
 
-  * **[[:gu:obe:kt:jesus]]**
-  * **[[:gu:obe:kt:disciple]]**
-  * **[[:gu:obe:kt:good]]**
+===== મહત્વપૂર્ણ શબ્દો: =====
 
+  * ઈસુ
+  * શિષ્યો
+  * સારું
 
-===== Translation Notes: =====
+===== અનુવાદ નોંધો: =====
 
-  * **good seed** - This seed was wheat grain. If this type of seed is not known in your language area, it is best to use a general term for "seed." If there is no general term, it may be necessary to choose a type of grain seed that is known and say, for example, "good seed like rice."
-  * **weed seeds** - The weed seeds that were planted would grow up as tall grass but could not be eaten. They were useless.
-  * **wheat** - That is, "wheat seeds." Wheat is a kind of grain that grows like a tall grass. It has seeds that people use for food.
-
+  * સારા બી- આ બીજ ઘઉંના બીજ હતા. આ પ્રકારના બીજ તમારી ભાષાના વિસ્તારમાં જાણીતા ન હોય તો, તે માટે સામાન્ય શબ્દ "બીજ" વાપરવો શ્રેષ્ઠ છે. જો ત્યાં કોઈ સામાન્ય શબ્દ ન હોય તો, તે જરૂરી હોઈ શકે છે કે, અનાજ માટે જાણીતા બીજનો કોઈ પ્રકાર પસંદ કરો અને કહો, ઉદાહરણ તરીકે, "ચોખા જેવા સારા બીજ."
+  * ઘાસના બીજ - ઘાસના બીજ જેનું વાવેતર કરવામાં આવ્યું હતું એ ઘઉંના છોડ જેટલા ઉંચા  ઉગશે પરંતુ તે ખાઈ ન શકાય. તે નકામા હતા.
+  * ઘઉં- એટલે કે, "ઘઉંના બીજ. ઘઉં એક પ્રકારનું અનાજ છે કે જે ઊંચા ઘાસની જેમ વધે છે. તે બીજ ધરાવે છે જેને લોકો ખોરાક તરીકે ઉપયોગ કરે છે.
 
 **[[:gu:obs:notes:frames:50-04|<<]] | [[:gu:obs:notes:50|Up]] | [[:gu:obs:notes:frames:50-06|>>]]**
