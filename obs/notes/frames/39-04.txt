@@ -1,27 +1,25 @@
-===== I Am the Son of God [39-04] =====
+===== હું દેવ પુત્ર છું [39-04] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-04.jpg?nolink&}}
 
-Jesus said, “**I am**, and you will see me **seated with God and coming from heaven**.” The **high priest tore his clothes in anger** and shouted to the other **religious leaders**, “We do not need any more **witnesses**! You have heard him say that he is the **Son of God**. **What is your judgment**?”
-===== Important Terms: =====
+ઈસુએ કહ્યું, "હું છું, અને તમે મને દેવ સાથે બેઠા અને સ્વર્ગમાંથી આવતા જોઈ શકશો. પ્રમુખ યાજકે ગુસ્સો કરી પોતાના કપડાં ફાડી નાખ્યાં અને અન્ય ધાર્મિક નેતાઓને ઉંચે અવાજે કહ્યું, "હવે અમને કોઈપણ વધુ સાક્ષીની જરૂર નથી!. તમે તેને કહેતા સાંભળ્યું છે કે તે દેવનો દીકરો છે. તમારો નિર્ણય શું છે? "
 
-  * **[[:gu:obe:kt:jesus]]**
-  * **[[:gu:obe:kt:god]]**
-  * **[[:gu:obe:kt:heaven]]**
-  * **[[:gu:obe:kt:highpriest]]**
-  * **[[:gu:obe:other:jewishleaders]]**
-  * **[[:gu:obe:kt:witness]]**
-  * **[[:gu:obe:kt:sonofgod]]**
-  * **[[:gu:obe:kt:judge]]**
+===== મહત્વપૂર્ણ શબ્દો: =====
 
+  * **ઈસુ**
+  * **દેવ**
+  * **સ્વર્ગ**
+  * **પ્રમુખ****યાજક**
+  * **ધાર્મિક****નેતાઓ**
+  * **સાક્ષીઓ**
+  * **દેવનો****દીકરો**
+  * **ચુકાદો**
+===== અનુવાદ નોંધો: =====
 
-===== Translation Notes: =====
-
-  * **I am** - That is, "I am as you said" or, "I am the Messiah and the Son of God." "I am" is also the name of God (See **[[:gu:obs:notes:frames:09-14|[09-14]]]**). By saying simply, "I am" Jesus was also saying that he is God. If possible, translate this so that people will see a similarity between Jesus' answer and the name of God.
-  * **seated with God** - This could be translated as, "reigning with God." Because God is the ruler over all, people talk about him as sitting on a throne in heaven. By saying that he would be seated with God, Jesus claimed that he had authority to rule with the Father.
-  * **seated with God and coming from heaven** - This could be translated as, "sitting beside God and then coming from heaven."
-  * **tore his clothes in anger** - The Jews would tear their clothes to show grief or anger. If tearing the clothes means something else in your language, you may want to substitute a phrase such as, "he was extremely angry."
-  * **What is your judgment?** - That is, "What is your decision?" or, "Tell us what have you decided: Is he innocent or guilty?" The chief priest wanted the religious leaders to condemn Jesus for claiming to be equal with God.
-
+  * હું છું - એટલે કે, "હું છું જેમ તમે કહ્યું હતું" અથવા, "હું મસીહ અને ઈશ્વરના પુત્ર છું," "હું છું" એ પણ દેવના નામ છે (જુઓ __[____૮____} \ [____૦૯____-____૧૪____]__ {૯] {૧૦]). ફક્ત કહીને, "હું છું" ઈસુએ એ પણ જણાવ્યું હતું કે તેઓ દેવ છે. જો શક્ય હોય તો, આ એવી રીતે અનુવાદ કરો કે જેથી લોકો ઈસુના જવાબ અને દેવના નામ વચ્ચે સમાનતા જોવા પામે.
+  * ઈશ્વર સાથે બેઠા - આ તરીકે ભાષાંતર કરી શકાય છે, "દેવ સાથે સત્તાધીશ." કારણ કે દેવ બધા પર રાજ કરે છે, તે સ્વર્ગમાં રાજગાદી પર બેઠા છે તેને વિશે લોકો વાત કરે છે. એવું કહીને કે તેઓ ઈશ્વર સાથે બેઠા હશે દ્વારા ઈસુએ દાવો કર્યો હતો કે તેઓ પાસે પિતા સાથે રાજ કરવાની સત્તા હતી.
+  * ઈશ્વર સાથે બેઠા અને સ્વર્ગમાંથી આવતા - આ તરીકે ભાષાંતર કરી શકાય છે, "દેવની બાજુમાં બેઠેલા અને પછી સ્વર્ગમાંથી આવતા."
+  * ગુસ્સામાં તેના કપડાં ફાડી નાખ્યાં - યહૂદીઓ તેમના કપડાં દુઃખ અથવા ગુસ્સો બતાવવા માટે ફાડી નાંખે છે. કપડાં ફાડવા તમારી ભાષામાં બીજું કંઈક અર્થ ધરાવતું હોય, તો તમને એક અલગ શબ્દસમૂહની જરૂર પડશે જેમ કે, "તેને અત્યંત ગુસ્સો આવ્યો હતો."
+  * તમારો નિર્ણય શું છે? - એટલે કે, "તમારો નિર્ણય શું છે? " અથવા, "અમને કહો તમે શું નક્કી કર્યું છે:  શું તેઓ નિર્દોષ અથવા દોષિત છે? " મુખ્ય યાજક ઈસુને દેવ સાથે સમાન હોવાનો દાવો કરવા માટે ધાર્મિક નેતાઓ દ્વારા તિરસ્કાર ઈચ્છે છે.
 
 **[[:gu:obs:notes:frames:39-03|<<]] | [[:gu:obs:notes:39|Up]] | [[:gu:obs:notes:frames:39-05|>>]]**
