@@ -1,16 +1,15 @@
-===== The Ethiopian Went Home [45-13] =====
+===== ઇથિયોપીયન ઘરે ગયો [45-13] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-13.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-13.jpg?nolink&}}
 
-The Ethiopian continued traveling toward his home, happy that he knew **Jesus**.
-===== Important Terms: =====
+ઇથિયોપીયને તેના ઘર તરફ મુસાફરી ચાલુ રાખી, તે ખુશ હતો કે તે ઈસુને જાણતો હતો.
 
-  * **[[:gu:obe:kt:jesus]]**
+===== મહત્વપૂર્ણ શબ્દો: =====
 
+  * ઈસુ
 
-===== Translation Notes: =====
+===== અનુવાદ નોંધો: =====
 
-  * //A Bible story from//  - These references may be slightly different in some Bible translations.
-
+  * બાઇબલની વાર્તાઓ - આ સંદર્ભો બાઇબલના કેટલાક અનુવાદમા સહેજ અલગ હોઈ શકે છે
 
 **[[:gu:obs:notes:frames:45-12|<<]] | [[:gu:obs:notes:45|Up]] | [[:gu:obs:notes:frames:46-01|>>]]**
