@@ -1,21 +1,19 @@
-===== The Leaders Were Jealous [37-11] =====
+===== નેતાઓને ઇર્ષ્યા થઈ [37-11] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-11.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-11.jpg?nolink&}}
 
-But the **religious leaders** of the **Jews** were **jealous**, so they **gathered together** to plan how they could kill **Jesus** and **Lazarus**.
-===== Important Terms: =====
+પરંતુ યહૂદીઓના ધાર્મિક નેતાઓને ઇર્ષ્યા થઈ, જેથી તેઓ ભેગા થઈ યોજના રચી કે કેવી રીતે તેઓ ઈસુ અને લાજરસનો ઘાત કરી શકે   .
 
-  * **[[:gu:obe:other:jewishleaders]]**
-  * **[[:gu:obe:other:jew]]**
-  * **[[:gu:obe:kt:jesus]]**
-  * **[[:gu:obe:other:lazarus]]**
+===== મહત્વપૂર્ણ શબ્દો: =====
 
+  * **ધાર્મિક****નેતાઓ**
+  * **યહૂદીઓ**
+  * **ઈસુ**
+  * **લાજરસ**
+===== અનુવાદ નોંધો: =====
 
-===== Translation Notes: =====
-
-  * **jealous** - That is, "jealous of Jesus' power and popularity" or, "jealous that so many Jews were believing in Jesus."
-  * **gathered together** - That is, "met together" or, "joined together." This was a not a casual meeting, but a meeting for a specific purpose–to plan how to kill Jesus.
-  * //A Bible story from//  - These references may be slightly different in some Bible translations.
-
+  * ઇર્ષ્યા - એટલે કે, "ઈસુની શક્તિ અને લોકપ્રિયતાની ઇર્ષ્યા", અથવા "ઇર્ષ્યા કરી કેમ કે ઘણા યહુદીઓ ઈસુમાં વિશ્વાસ કરતા હતા."
+  * ભેગા મળીને - એટલે કે, "એક સાથે મળ્યા" અથવા, "એક સાથે જોડાયા હતા." આ એક પરચુરણ બેઠક ન હતી, પરંતુ એક ચોક્કસ ઈરાદાની બેઠક હતી જેમાં ઈસુને કેવી રીતે મારી નાંખવા એની યોજના હતી.
+  * બાઇબલની વાર્તા  - આ સંદર્ભો બાઇબલના કેટલાક અનુવાદમાં સહેજ અલગ હોઈ શકે છે.
 
 **[[:gu:obs:notes:frames:37-10|<<]] | [[:gu:obs:notes:37|Up]] | [[:gu:obs:notes:frames:38-01|>>]]**
