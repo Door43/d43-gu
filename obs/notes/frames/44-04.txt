@@ -1,20 +1,19 @@
-===== The Power of Jesus [44-04] =====
+===== ઈસુની શક્તિ [44-04] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-04.jpg?nolink&}}
 
-A crowd of people quickly came to see the man who was **healed**. **Peter** said to them, “Why are you amazed that this man is healed? We did not heal him through our own power or goodness. Rather, it is the **power** of **Jesus** and the **faith** that Jesus gives that healed this man.”
-===== Important Terms: =====
+ઝડપથી લોકોની ભીડ એ માણસને જોવા માટે આવી જે સાજો થયો હતો . પીતરે તેમને કહ્યું, "તમે શા માટે દંગ છો કે આ માણસ સાજો થઈ ગયો? અમે તેને અમારી પોતાની શક્તિ કે સારાપણ દ્વારા સાજો નથી કર્યો. ખરેખર તો, તે ઈસુની શક્તિ અને વિશ્વાસ છે જે ઈસુએ આ માણસને અપ્યો જેણે એને સાજો કર્યો છે. "
 
-  * **[[:gu:obe:other:heal]]**
-  * **[[:gu:obe:other:peter]]**
-  * **[[:gu:obe:kt:power]]**
-  * **[[:gu:obe:kt:jesus]]**
-  * **[[:gu:obe:kt:faith]]**
+===== મહત્વપૂર્ણ શબ્દો: =====
 
+  * સાજો
+  * પીતર
+  * શક્તિ
+  * ઈસુ
+  * વિશ્વાસ
 
-===== Translation Notes: =====
+===== અનુવાદ નોંધો: =====
 
-  * //(There are no notes for this frame.)// 
-
+  * (આ ચોકઠાં માટે કોઈ નોંધો નથી.)
 
 **[[:gu:obs:notes:frames:44-03|<<]] | [[:gu:obs:notes:44|Up]] | [[:gu:obs:notes:frames:44-05|>>]]**
