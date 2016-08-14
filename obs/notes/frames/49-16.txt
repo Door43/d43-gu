@@ -1,20 +1,19 @@
-===== Sins Are Forgiven [49-16] =====
+===== પાપ માફ છે [49-16] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-16.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-16.jpg?nolink&}}
 
-If you are a **Christian**, **God** has **forgiven** your **sins** because of what **Jesus** did. Now, God **considers you to be** a close friend instead of an enemy.
-===== Important Terms: =====
+જો તમે ખ્રિસ્તી છો, તો ઈસુએ જે કર્યું હતું તેના કારણે દેવે તમારા પાપો માફ કર્યા છે. હવે, દેવ તમને ગાઢ મિત્ર ગણે છે એક દુશ્મનને બદલે.
 
-  * **[[:gu:obe:kt:christian]]**
-  * **[[:gu:obe:kt:god]]**
-  * **[[:gu:obe:kt:forgive]]**
-  * **[[:gu:obe:kt:sin]]**
-  * **[[:gu:obe:kt:jesus]]**
+===== મહત્વપૂર્ણ શબ્દો: =====
 
+  * ખ્રિસ્તી
+  * દેવ
+  * માફ કરાયેલું
+  * પાપો
+  * ઈસુ
 
-===== Translation Notes: =====
+===== અનુવાદ નોંધો: =====
 
-  * **considers you to be** - That is, "thinks of you as" or, "regards you as" or, "calls you."
-
+  * તમને ધ્યાનમાં લે છે તેવા બનાવવા- એટલે કે, "તમારા વિશે વિચારે છે જેવા" અથવા, "તમને માને છે એવા" અથવા, "તમને કહે છે"
 
 **[[:gu:obs:notes:frames:49-15|<<]] | [[:gu:obs:notes:49|Up]] | [[:gu:obs:notes:frames:49-17|>>]]**
