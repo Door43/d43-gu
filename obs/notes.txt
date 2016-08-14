@@ -2,8 +2,8 @@
 
 //In order to help translators of [[:gu:obs|Open Bible Stories]] to do the best translation work possible, exegetical notes and resources for each frame (text + image) of each story are available here. These are the stories that have complete notes://
 
-[[gu:obs:01|1. સર્જન]]
-[[gu:obs:02|2. પાપનો જગતમાં પ્રવેશ]]
+- [[gu:obs:01|1. સર્જન]]
+- [[gu:obs:02|2. પાપનો જગતમાં પ્રવેશ]]
 [[gu:obs:03|3. જળપ્રલય]]
 [[gu:obs:04|4. ઇબ્રાહીમ સાથે ઇશ્વરનો કરાર]]
 [[gu:obs:05|5. વચનનો પુત્ર]]
