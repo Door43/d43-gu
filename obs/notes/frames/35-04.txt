@@ -1,18 +1,16 @@
-===== The Younger Son [35-04] =====
+===== નાનો પુત્ર [35-04] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-04.jpg?nolink&}}
 
-“Soon the younger son gathered all that he had and went far away and **wasted his money** in **sinful living**.”
-===== Important Terms: =====
+"ટૂંક સમયમાં નાના પુત્રએ બધું ભેગું કર્યું અને દૂર જતો રહ્યો અને તેને ઐયાશી જીવન જીવીને પૈસા વેડફી નાંખ્યા."
 
-  * **[[:gu:obe:kt:sin]]**
+===== મહત્વપૂર્ણ શબ્દો: =====
 
+  * **પાપી**
+===== અનુવાદ નોંધો: =====
 
-===== Translation Notes: =====
-
-  * (Jesus continues the story.)
-  * **wasted his money** - That is, "spent all his money without getting anything of value in exchange." In some languages it can be translated as, "threw his money away" or, "ate all his money."
-  * **sinful living** - That is, "doing sinful things."
-
+  * (ઈસુ વાર્તા કહેવાનું ચાલુ રાખે છે.)
+  * તેના પૈસા વેડફાઇ ગયા - એટલે કે, "બદલામાં કંઈપણ મૂલ્ય મેળવ્યા વગર તેના બધા પૈસા વેડફી નાંખ્યા." કેટલીક ભાષાઓમાં તે આ રીતે ભાષાંતર કરી શકાય છે, "તેના નાણાં ફેંકી દીધા" અથવા, "તેના બધા પૈસા ખાઈ ગયો."
+  * ઐયાશી જીવન - એટલે કે, "પાપી બાબતો કરી."
 
 **[[:gu:obs:notes:frames:35-03|<<]] | [[:gu:obs:notes:35|Up]] | [[:gu:obs:notes:frames:35-05|>>]]**
