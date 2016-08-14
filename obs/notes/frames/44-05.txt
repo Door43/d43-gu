@@ -1,31 +1,30 @@
-===== Peter Preached [44-05] =====
+===== પીતરનો ઉપદેશ [44-05] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-05.jpg?nolink&}}
 
-“You are the ones who told the **Roman** governor to kill **Jesus**. You killed the **author of life**, but **God raised** him from the **dead**. Although you did not understand what you were doing, God used **your actions** to **fulfill** the prophecies that the **Messiah** would **suffer** and die. So now, **repent** and **turn to God** so that **your sins will be washed away**.”
-===== Important Terms: =====
+"તમે લોકો એ છો જેમણે રોમન ગવર્નરને ઈસુને મારી નાંખવા કહ્યું હતું. તમે જીવનના લેખકને માર્યા પરંતુ દેવે તેમને મૃતકમાંથી જીવતા ઊઠાડ્યા. તેમ છતાં તમે તે સમજી શક્યા નહિ કે તમે શું કરી રહ્યા હતા, દેવે તમારી ક્રિયાઓનો ઉપયોગ ભવિષ્યવાણીને ​​પૂરી કરવા કર્યો કે મસીહ ​ દુઃખ ભોગવશે અને મૃત્યુ પામશે. તેથી હવે, પસ્તાવો કરો અને દેવ તરફ ફરો જેથી તમારા પાપો ધોવાઇ જશે . "
 
-  * **[[:gu:obe:other:rome]]**
-  * **[[:gu:obe:kt:jesus]]**
-  * **[[:gu:obe:kt:life]]**
-  * **[[:gu:obe:kt:god]]**
-  * **[[:gu:obe:kt:raise]]**
-  * **[[:gu:obe:kt:death]]**
-  * **[[:gu:obe:kt:fulfill]]**
-  * **[[:gu:obe:kt:prophet]]**
-  * **[[:gu:obe:kt:christ]]**
-  * **[[:gu:obe:kt:suffer]]**
-  * **[[:gu:obe:kt:repent]]**
-  * **[[:gu:obe:kt:sin]]**
+===== મહત્વપૂર્ણ શબ્દો: =====
 
+  * રોમન
+  * ઈસુ
+  * જીવન
+  * દેવ
+  * ઊઠાડ્યાં
+  * મૃત
+  * પૂરી થવી
+  * ભવિષ્યવાણીઓ
+  * મસીહ
+  * દુઃખ
+  * પસ્તાવો
+  * પાપો
 
-===== Translation Notes: =====
+===== અનુવાદ નોંધો: =====
 
-  * (Peter continues to preach to the crowd.)
-  * **author of life** - That is, "the one who created life" or, "the one who gives us life" or, "the one who causes people to live." This refers to Jesus.
-  * **your actions ** - This can also be translated as, "the things you did." This refers to their asking Pilate to kill Jesus.
-  * **turn to God** - That is, "decide to obey God."
-  * **your sin will be washed away** - This could be translated as, "God will wash away your sins" or, "God will take away your sins and make you clean." This is talking about God purifying people in their spirit by completely removing their sins. It does not mean physical washing.
-
+  * (પીતર ભીડ સમક્ષ ઉપદેશ ચાલુ રાખે છે.)
+  * જીવનનો લેખક -એટલે કે, "જે એક જીવન બનાવનાર" અથવા, "જે આપણને જીવન આપે છે" અથવા,"એક જે લોકોને જીવવા માટેનું કારણ બને છે." આ ઈસુનો ઉલ્લેખ કરે છે.
+  * તમારી ક્રિયાઓ - આ રીતે પણ ભાષાંતર કરી શકાય છે "જે બાબતો તમે કરી હતી." આ ઈસુને મારી નાખવા માટે તેમના પિલાતેને પૂછવા વિશેનો ઉલ્લેખ કરે છે.
+  * દેવ તરફ ફરો - એટલે કે, "દેવને માનવાનું નક્કી કરવું."
+  * તમારા પાપ ધોઇ નાંખશે - આ રીતે ભાષાંતર કરી શકય છે, "ઈશ્વર તમારા પાપો ધોઈ નાંખશે" અથવા, "દેવ તમારા પાપોને દૂર કરી અને તમને પવિત્ર કરશે". આ તે વિશે વાત કરે છે કે દેવ તેમના આત્માના શુદ્ધિકરણ દ્વારા સંપૂર્ણપણે તેમના પાપોને દૂર કરશે. આનો અર્થ એ ભૌતિક ધુલાઈ નથી.
 
 **[[:gu:obs:notes:frames:44-04|<<]] | [[:gu:obs:notes:44|Up]] | [[:gu:obs:notes:frames:44-06|>>]]**
