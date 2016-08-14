@@ -1,22 +1,21 @@
-===== The Holy Spirit [43-08] =====
+===== પવિત્ર આત્મા [43-08] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-08.jpg?nolink&}}
 
-“**Jesus is now exalted to the right hand of God the Father**. And Jesus has sent the **Holy Spirit** just as he **promised** he would do. The Holy Spirit is **causing** the things that you are now seeing and hearing.”
-===== Important Terms: =====
+"ઈસુ હવે દેવ પિતાની જમણી બાજુએ મહાનુભાવ છે . ઈસુએ પવિત્ર આત્મા મોકલ્યો છે જેમ તેઓએ વચન આપ્યું હતુ કે તેઓ કરશે. પવિત્ર આત્મા કારણ છે એ બાબતોનું જે તમે હમણાં જોઈ અને સુણી રહ્યા છો."
 
-  * **[[:gu:obe:kt:jesus]]**
-  * **[[:gu:obe:kt:godthefather]]**
-  * **[[:gu:obe:kt:holyspirit]]**
-  * **[[:gu:obe:kt:promise]]**
+===== મહત્વપૂર્ણ શબ્દો: =====
 
+  * ઈસુ
+  * ઈશ્વર પિતા
+  * પવિત્ર આત્મા
+  * વચન
 
-===== Translation Notes: =====
+===== અનુવાદ નોંધો: =====
 
-  * (Peter continues preaching to the crowd.)
-  * **Jesus is now exalted** - This could also be translated as, "Jesus is now lifted up" or, "Jesus is now raised up" or, "God has exalted Jesus."
-  * **the right hand of** - This could also be translated as, "the most important position with" or, "the place of highest honor next to."
-  * **causing** - That is, "enabling the believers to do" or, "giving these people the power to do."
-
+  * (પીતર ભીડ સામે પ્રચાર ચાલુ રાખે છે.)
+  * ઈસુ હવે મહાનુભાવ છે - આ રીતે પણ ભાષાંતર કરી શકાય છે "ઈસુ હવે ઊઠાવી લેવાયા છે" અથવા, "ઈસુ હવે ઉપર લઈ લેવામાં આવ્યા છે" અથવા, " દેવે ઈસુને મહાનુભાવ બનાવ્યા છે"
+  * ને જમણી બાજુ પર -આ રીતે પણ ભાષાંતર કરી શકાય છે "ની સાથે સૌથી મહત્વપૂર્ણ સ્થિતિ" અથવા, "ના પછી સર્વોચ્ચ સન્માન સ્થાન."
+  * પરિણમે - એટલે કે, "શિષ્યોને એ કરી શકે એ માટે સક્રિય કરવા " અથવા, "આ લોકોને  એ કરવાની સત્તા આપીને"
 
 **[[:gu:obs:notes:frames:43-07|<<]] | [[:gu:obs:notes:43|Up]] | [[:gu:obs:notes:frames:43-09|>>]]**
