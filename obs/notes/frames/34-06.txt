@@ -1,23 +1,21 @@
-===== Two Men at the Temple [34-06] =====
+===== મંદિર ખાતે બે પુરૂષો [34-06] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-06.jpg?nolink&}}
 
-Then **Jesus** told a **story** to some people who **trusted in their own good deeds** and **despised other people**. He said, “Two men went to the **Temple** to **pray**. One of them was a **tax collector**, and the other was a **religious leader**.”
-===== Important Terms: =====
+પછી ઈસુએ કેટલાક લોકો માટે વાર્તા કહી જેઓ તેમના પોતાના સારા કાર્યો પ્રત્યે વિશ્વસનીય હતા અને અન્ય લોકોને ધિક્કારતા હતા. તેમણે જણાવ્યું કે, "બે માણસો પ્રાર્થના માટે મંદિર ગયા. તેમાંથી એક એક જકાતદાર હતો અને અન્ય એક ધાર્મિક નેતા હતો. "
 
-  * **[[:gu:obe:kt:jesus]]**
-  * **[[:gu:obe:kt:trust]]**
-  * **[[:gu:obe:kt:temple]]**
-  * **[[:gu:obe:other:pray]]**
-  * **[[:gu:obe:other:taxcollector]]**
-  * **[[:gu:obe:other:jewishleaders]]**
+===== મહત્વપૂર્ણ શબ્દો: =====
 
+  * **ઈસુ**
+  * **વિશ્વસનીય**
+  * **મંદિર**
+  * **પ્રાર્થના**
+  * **જકાતદાર**
+  * **ધાર્મિક****નેતા**
+===== અનુવાદ નોંધો: =====
 
-===== Translation Notes: =====
-
-  * **story** - See how you translated this term in **[[:gu:obs:notes:frames:34-01|[34-01]]]**.
-  * **trusted in their own good deeds** - That is, "believed that their good deeds made them righteous" or, "were proud of how perfectly they kept God's law" or, "believed that their good deeds caused God to be completely pleased with them."
-  * **despised other people** - That is, "considered other people to be inferior to them" or, "looked down on other people."
-
+  * વાર્તા - જુઓ કે કેવી રીતે તમે આ શબ્દ __[____૮____} \ [____૩૪____-____૦૧____]__ {૯] {૧૦]માં અનુવાદ કર્યો હતો.
+  * પોતાના સારા કાર્યો પ્રત્યે વિશ્વસનીય - એટલે કે, "તેઓ એવું માને છે કે તેમના સારા કાર્યો તેમને ધર્મી બનાવે છે" અથવા, "માને છે કે તેમના સારા કાર્યોના કારણે દેવ તેમની સાથે સંપૂર્ણપણે ખુશ છે" અથવા, "ગર્વ કરે છે એ કેવી રીતે સંપૂર્ણપણે તેઓ દેવનો કાયદો રાખે છે."
+  * અન્ય લોકોને ધિક્કારે છે - એટલે કે, "અન્ય લોકો તેમને નજરમાં હલકી ગુણવત્તાવાળા ગણવામાં આવે છે" અથવા, "અન્ય લોકો તેઓને હલકા લાગતા હતા"
 
 **[[:gu:obs:notes:frames:34-05|<<]] | [[:gu:obs:notes:34|Up]] | [[:gu:obs:notes:frames:34-07|>>]]**
