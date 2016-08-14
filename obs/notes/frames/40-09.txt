@@ -1,23 +1,21 @@
-===== The Burial of Jesus [40-09] =====
+===== ઈસુની દફનવિધિ [40-09] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-09.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-09.jpg?nolink&}}
 
-Then **Joseph** and Nicodemus, two **Jewish leaders** who **believed Jesus** was the **Messiah**, **asked Pilate for Jesus’ body**. They wrapped his body in cloth and placed it in a **tomb** cut out of rock. Then they rolled a large stone in front of the tomb to block the opening.
-===== Important Terms: =====
+પછી **યુસુફ** અને નીકોદેમસ, બે **યહૂદી** **નેતાઓ** જે **ઈસુ** **પર** **વિશ્વાસ** **કરતા** હતા કે તે **મસીહ** **હતા**, ઈસુના **શરીર** **માટે** **પિલાતેને** **પૂછ્યું** . તેઓએ કાપડમાં તેમના શરીરને લપેટી અને એક **કબર** જે પથ્થરમાંથી બનાવવામાં આવી હતી તેમા મુક્યું. પછી તેઓએ કબરના મુખ પાસે એક વિશાળ પથ્થર ગબડાવી એનું પ્રવેશદ્વાર બંધ કરી દિધો.
+===== મહત્વપૂર્ણ શબ્દો: =====
 
-  * **[[:gu:obe:other:jewishleaders]]**
-  * **[[:gu:obe:kt:believe]]**
-  * **[[:gu:obe:kt:jesus]]**
-  * **[[:gu:obe:kt:christ]]**
-  * **[[:gu:obe:other:pilate]]**
-  * **[[:gu:obe:other:tomb]]**
+  * યહૂદી નેતાઓ
+  * માનતા હતા
+  * ઈસુ
+  * મસીહ
+  * પિલાતે
+  * કબર
 
+===== અનુવાદ નોંધો: =====
 
-===== Translation Notes: =====
-
-  * **Joseph** - This was not Mary's husband. It was another man named Joseph.
-  * **asked Pilate for Jesus' body** - That is, "asked Pilate to permit them to take Jesus' body down from the cross."
-  * //A Bible story from//  - These references may be slightly different in some Bible translations.
-
+  * યુસુફ - આ મેરીનો પતિ ન હતો. તે યૂસફ નામનો અન્ય માણસ હતો.
+  * ઈસુના શરીર માટે પિલાતેને પૂંછ્યું - એટલે કે, "પિલાતે પાસે ઈસુનો દેહવધસ્તંભ પરથી નીચે ઉતારી લઇ જવા તેની પરવાનગી માંગી."
+  * માંથી બાઇબલ વાર્તાઓ - આ સંદર્ભો બાઇબલના કેટલાક અનુવાદમાં સહેજ અલગ હોઈ શકે છે .
 
 **[[:gu:obs:notes:frames:40-08|<<]] | [[:gu:obs:notes:40|Up]] | [[:gu:obs:notes:frames:41-01|>>]]**
