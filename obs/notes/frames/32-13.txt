@@ -1,18 +1,15 @@
-===== The Sick Woman [32-13] =====
+===== બીમાર સ્ત્રી [32-13] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-13.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-13.jpg?nolink&}}
 
-**Jesus** returned to the other side of the lake. After he arrived there, a large crowd gathered around him and **pressed in on him**. In the crowd was a woman who had suffered from a bleeding problem for twelve years. She had paid all of her money to doctors so they would **heal** her, but **she only got worse**.
-===== Important Terms: =====
+ઈસુ તળાવ બીજી બાજુ પાછા ફર્યા. ત્યાં પહોંચ્યા પછી તેમણે, એક મોટી ભીડ તેને આસપાસ ભેગી થઈ ગઈ અને તેમની પર પડી દબાવવા લાગી. ભીડમાં એક મહિલા હતી જે બાર વર્ષથી રક્તસ્ત્રાવની સમસ્યા ભોગવી રહી હતી. તેથી તેણીએ ડોકટરોને તે મટાડવા માટે તેના તમામ નાણા ચૂકવ્યા હતા, પરંતુ તે માત્ર ખરાબ થતું જાતું હતું.
 
-  * **[[:gu:obe:kt:jesus]]**
-  * **[[:gu:obe:other:heal]]**
+===== મહત્વપૂર્ણ શબ્દો: =====
 
+  * ઈસુ
+  * મટાડવું
 
-===== Translation Notes: =====
+===== અનુવાદ નોંધો: =====
 
-  * **pressed in on him** - That is, "pushed tightly against him" or, "crowded in tightly around him."
-  * **she only got worse** - That is, "her condition only got worse" or, " her health got worse instead of better" or, "instead she became more sick."
-
-
-**[[:gu:obs:notes:frames:32-12|<<]] | [[:gu:obs:notes:32|Up]] | [[:gu:obs:notes:frames:32-14|>>]]**
+  * તેમના પર દબાવ આપવો - એટલે કે, "તેની સામે ગીચ ભીડ કરી દબાવ્યો" અથવા, "પૂર્ણપણે તેની સામે ખીચોખીચ ભીડ રચી"
+  * તે માત્ર ખરાબ થતી ગઈ - એટલે કે, "તેણીની સ્થિતિ માત્ર ખરાબ બનતી ગઈ" અથવા, "તેનું સ્વાસ્થ્ય સારું થવાને બદલે ખરાબ થઈ ગયું હતું" અથવા, "ને બદલે તે વધુ બીમાર બની હતી."
