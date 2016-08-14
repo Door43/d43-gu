@@ -1,23 +1,21 @@
-===== The Religious Leader's Prayer [34-07] =====
+===== ધાર્મિક નેતાની પ્રાર્થના [34-07] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-07.jpg?nolink&}}
 
-“The **religious leader prayed like this**, ‘Thank you, **God**, that **I am not a sinner like** other men—such as robbers, **unjust men**, **adulterers**, or even like that **tax collector**.’”
-===== Important Terms: =====
+" ધાર્મિક નેતા આવી રીતે પ્રાર્થના કરતો હતો "ધન્યવાદ તમને, દેવ કે હું અન્ય પુરૂષો જેવો પાપી નથી જેમ કે ભાંગફોડિયાઓ, અન્યાયી પુરૂષો, વ્યભિચારીઓ, અથવા જકાતદાર જેવો."
 
-  * **[[:gu:obe:other:jewishleaders]]**
-  * **[[:gu:obe:kt:god]]**
-  * **[[:gu:obe:kt:sin]]**
-  * **[[:gu:obe:kt:adultery]]**
-  * **[[:gu:obe:other:taxcollector]]**
+===== મહત્વપૂર્ણ શબ્દો: =====
 
+  * **ધાર્મિક****નેતા**
+  * **દેવ**
+  * **પાપી**
+  * **વ્યભિચારી**
+  * **જકાતદાર**
+===== અનુવાદ નોંધો: =====
 
-===== Translation Notes: =====
-
-  * (Jesus continues the story.)
-  * **The religious leader prayed like this** - Another way to say this would be, "This is how the religious leader prayed" or, "The religious leader prayed in this way."
-  * **I am not a sinner like** - That is, "I am not sinful like" or, "I am righteous, not like."
-  * **unjust men** - That is, "men who are not righteous" or, "people who do evil things" or, "law breakers."
-
+  * (ઈસુ વાર્તા ચાલુ રાખે છે.)
+  * ધાર્મિક નેતા આવી પ્રાર્થના બોલે છે - બીજી રીતે કહેવાનો માર્ગ આ હશે, "આ છે ધાર્મિક નેતાની પ્રાર્થના બોલવાનો તરીકો" અથવા, "આ રીતે ધાર્મિક નેતા પ્રાર્થના બોલે છે."
+  * જેમ હું પાપી નથી - એટલે કે, "હું એના જેવો પાપી નથી" અથવા, "હું ધર્મી છું, એના જેવો."
+  * અન્યાયી પુરૂષો - એટલે કે, "એ માણસ જે પ્રામાણિક નથી" અથવા, "જે લોકો અશુધ્ધ વસ્તુઓ કરતા હોય" અથવા, "કાયદો તોડનારા"
 
 **[[:gu:obs:notes:frames:34-06|<<]] | [[:gu:obs:notes:34|Up]] | [[:gu:obs:notes:frames:34-08|>>]]**
