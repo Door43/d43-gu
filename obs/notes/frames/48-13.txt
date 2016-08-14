@@ -1,24 +1,21 @@
-===== A Descendent of David [48-13] =====
+===== દાઉદનો એક વંશજ [48-13] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-13.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-13.jpg?nolink&}}
 
-**God promised King David** that one of his **descendants** would rule as **king** over God’s people forever. Because **Jesus** is the **Son of God** and the **Messiah**, is that special descendant of David who can rule forever.
+દેવે રાજા દાઉદને વચન આપ્યું હતું કે તેનો એક ​​વંશજ, કાયમ ઈશ્વરના લોકો પર રાજ કરશે. કારણ કે ઈસુ દેવનો દીકરો અને મસીહ છે, જે એ દાઉદ રાજાના ખાસ વંશજ જે હંમેશ માટે રાજ કરશે.
 
+===== મહત્વપૂર્ણ શબ્દો: =====
 
-===== Important Terms: =====
+  * દેવ
+  * વચન
+  * રાજા દાઉદ
+  * દેવનો દીકરો
+  * મસીહ
+  * વંશજો
+  * ઈસુ
 
-  * **[[:gu:obe:kt:god]]**
-  * **[[:gu:obe:kt:promise]]**
-  * **[[:gu:obe:other:david]]**
-  * **[[:gu:obe:kt:sonofgod]]**
-  * **[[:gu:obe:kt:christ]]**
-  * **[[:gu:obe:other:descendant]]**
-  * **[[:gu:obe:kt:jesus]]**
+===== અનુવાદ નોંધો: =====
 
-
-===== Translation Notes: =====
-
-  * //(There are no notes for this frame.)// 
-
+  * (આ ચોકઠાં માટે કોઈ નોંધો નથી.)
 
 **[[:gu:obs:notes:frames:48-12|<<]] | [[:gu:obs:notes:48|Up]] | [[:gu:obs:notes:frames:48-14|>>]]**
