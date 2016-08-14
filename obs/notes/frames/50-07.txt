@@ -1,23 +1,20 @@
-===== Wait for the Harvest [50-07] =====
+===== લણણી માટે રાહ જુઓ [50-07] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-07.jpg?nolink&}}
 
-“The **servants** responded to their **master**, ‘Should we pull out the weeds?’ The master said, ‘No. If you do that, **you will pull out some of the wheat as well**. Wait **until the harvest** and then gather the weeds into piles to be burned, but bring **the wheat** into my **barn**.’”
+સેવકોએ તેમના માલિકને જણાવ્યું હતું કે, ”અમે નીંદણ ખેંચી કાઢીએ? માલિકે કહ્યું "ના." જો તમે તે કરશો, તો તમે કેટલાક ઘઉં પણ તેમાંથી બહાર ખેંચી કાઢશો. લણણી સુધી રાહ જુઓ અને પછી નીંદણ ભેગું કરી ઢગલા બનાવો જેથી સળગાવી શકાય છે, પરંતુ ઘઉં મારા કોઠારમાં લઈ આવો."
 
+===== મહત્વપૂર્ણ શબ્દો: =====
 
-===== Important Terms: =====
+  * સેવકો
+  * માલિક
 
-  * **[[:gu:obe:other:servant]]**
-  * **[[:gu:obe:kt:lord]]**
+===== અનુવાદ નોંધો: =====
 
-
-===== Translation Notes: =====
-
-  * (Jesus continues to tell the story.)
-  * **you will pull out some of the wheat as well** - That is, "you will accidentally pull out some of the wheat also." It would be too difficult to distinguish young wheat from the weeds, and to pull the weeds without uprooting the wheat.
-  * **until the harvest** - That is, "until the time when the wheat is ready to harvest" or, "until the wheat has grown enough to be harvested."
-  * **the wheat** - That is, "the harvested wheat grains."
-  * **barn** - This refers to the building where the harvested wheat grain was saved and stored. It could also be called a "storehouse."
-
+  * (ઇસુ વાર્તા કહેવાનું ચાલુ રાખે છે.)
+  * તમે કેટલાક ઘઉં બહાર ખેંચી જશો તેમ જ - એટલે કે, "તમે કેટલાક ઘઉં પણ આકસ્મિક રીતે બહાર ખેંચી જશો." તે નીંદણ યુવાન ઘઉંથી અલગ કરવું મુશ્કેલ હશે, અને ઘઉં ઉન્મૂલન કર્યા વિના નીંદણ ખેંચવાનું પણ.
+  * લણણી સુધી - એટલે કે "તે સમય સુધી જ્યારે ઘઉં લણણી માટે તૈયાર થાય" અથવા "ત્યાં સુધી કે ઘઉં લણણી કરવા માટે તૈયાર થઈ જાય"
+  * ઘઉં - એટલે કે, " લણણી કરાયેલા ઘઉં"
+  * ઘરઆંગણે- આ ઇમારત જ્યાં ખેતીના ઘઉંનો પાક સાચવવામાં આવ્યા હતા અને સંગ્રહિત કરાયા હતા એનો ઉલ્લેખ કરે છે. તેને પણ એક "ગોદામ." કહી શકાય
 
 **[[:gu:obs:notes:frames:50-06|<<]] | [[:gu:obs:notes:50|Up]] | [[:gu:obs:notes:frames:50-08|>>]]**
