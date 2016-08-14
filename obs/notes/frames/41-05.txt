@@ -1,21 +1,19 @@
-===== Jesus Is Risen [41-05] =====
+===== ઈસુ મૃત્યુમાંથી જીવિત થઈ ઊઠ્યો છે! [41-05] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-05.jpg?nolink&}}
 
-When the women arrived at the tomb, the **angel** told them, “**Do not be afraid**. **Jesus** is not here. **He has risen from the dead**, just like he said he would! Look in the **tomb** and see.” The women looked into the tomb and saw where Jesus' body had been laid. His body was not there!
-===== Important Terms: =====
+સ્ત્રીઓ કબર પર આવી ત્યારે, દેવદુતે તેમને કહ્યું, **" ****ભયભીત** **ન** **થશો** . **ઈસુ** અહીં નથી. **તે** **મરણમાંથી** **સજીવન** **થયો** **છે**, જેમ તેમણે કહ્યું હતું કે તેઓ થશે! **કબર** માં નજર કરો અને જુઓ. " સ્ત્રીઓએ કબરમાં નજર કરી અને જોયું જ્યાં ઈસુના દેહને સુવડાવવામાં આવ્યો હતો. તેમનું શરીર ત્યાં ન હતું!
+===== મહત્વપૂર્ણ શબ્દો: =====
 
-  * **[[:gu:obe:kt:angel]]**
-  * **[[:gu:obe:kt:jesus]]**
-  * **[[:gu:obe:kt:raise]]**
-  * **[[:gu:obe:kt:death]]**
-  * **[[:gu:obe:other:tomb]]**
+  * દેવદુત
+  * ઈસુ
+  * ઉઠી ગયો
+  * મૃત
+  * કબર
 
+===== અનુવાદ નોંધો: =====
 
-===== Translation Notes: =====
-
-  * **Do not be afraid** - That is, "Stop being afraid." An angel shining like lightning was a frightening sight!
-  * **He has risen from the dead** - This could be translated as, "He has come back to life."
-
+  * ભયભીત ન થશો - એટલે કે, "ભયભીત થવાનું બંધ કરો." એક દેવદૂત વીજળી જેવો ચમકતા હતો એ એક ભયાનક દૃષ્ય હતું!
+  * તે મરણમાંથી સજીવન થયો છે – આ રીતે ભાષાંતર કરી શકાય છે "તે જીવનમાં પાછા આવી ગયા છે."
 
 **[[:gu:obs:notes:frames:41-04|<<]] | [[:gu:obs:notes:41|Up]] | [[:gu:obs:notes:frames:41-06|>>]]**
