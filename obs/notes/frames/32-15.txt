@@ -1,19 +1,17 @@
-===== Who Touched Me? [32-15] =====
+===== મને કોણ અડક્યું?  [32-15] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-15.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-15.jpg?nolink&}}
 
-Immediately, **Jesus** realized that **power had gone out from him**. So he turned around and asked, “Who touched me?” The **disciples** replied, “There are many people crowding around you and bumping into you. **Why did you ask, ‘Who touched me?’**”
-===== Important Terms: =====
+તરત જ, ઈસુએ જાણ્યું કે તેનામાંથી સાર્મથ્ય નિકળ્યું હતું. તેથી તેમણે પાછળ ફરીને કહ્યું કે, "મને કોણ અડક્યું?" શિષ્યોએ જવાબ આપ્યો, "ઘણા લોકો તમારી આસપાસ ભીડ વધારી અને તમારી તરફ અથડાઈ રહ્યા છે. તમે શા માટે પૂછો છો, “મને કોણે સ્પર્શ કર્યો?”
 
-  * **[[:gu:obe:kt:jesus]]**
-  * **[[:gu:obe:kt:power]]**
-  * **[[:gu:obe:kt:disciple]]**
+===== મહત્વપૂર્ણ શબ્દો: =====
 
+  * ઈસુ
+  * શક્તિ
+  * શિષ્યો
 
-===== Translation Notes: =====
+===== અનુવાદ નોંધો: =====
 
-  * **power had gone out from him** - This may be translated as, "healing power had flowed from him into someone else" or, "his power had healed someone." Jesus did not lose any power because of this.
-  * **Why did you ask, 'Who touched me?'** - In some languages it may be better to use an indirect quote here such as, "Why did you ask who was touching you?" or, "Why you are wondering who touched you?"
-
+તેનામાંથી સાર્મથ્ય બહાર નીકળ્યું - આ રીતે અનુવાદિત કરી શકાય છે, "સાજા કરવાની શક્તિ એનામાંથી નીકળી બીજા કોઈમાં જતી રહી હતી" અથવા, "તેની શક્તિએ કોઈને સાજો કર્યો હતો." ઈસુએ આને કારણે થોડીપણ શક્તિ ગુમાવી ન હતી.
 
 **[[:gu:obs:notes:frames:32-14|<<]] | [[:gu:obs:notes:32|Up]] | [[:gu:obs:notes:frames:32-16|>>]]**
