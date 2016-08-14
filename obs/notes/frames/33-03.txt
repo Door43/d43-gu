@@ -1,14 +1,14 @@
-===== The Seed on the Rocks [33-03] =====
+===== પથ્થરો પર બીજ [33-03] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-03.jpg?nolink&}}
 
-“Other seeds fell on **rocky ground**, where there was very little soil. The seeds in the rocky ground sprouted quickly, but their roots were not able to go deep into the soil. When the sun came up and it got hot, the plants withered and died.”
-===== Important Terms: =====
+"અન્ય બીજ ખડકાળ જમીન પર વેરાણા, જ્યાં ખૂબ જ ઓછી જમીન હતી. ખડકાળ જમીનમાં બીજ ઝડપથી ફણગાય છે, પરંતુ તેમના મૂળ જમીનમાં ઊંડે જવા માટે સક્ષમ નથી હોતા. જ્યારે સૂર્ય આવ્યો અને તે ગરમ થઈ ગયા, ત્યારે છોડ કરમાઇ ગયા અને મૃત્યુ પામ્યા. "
 
-===== Translation Notes: =====
+===== મહત્વપૂર્ણ શબ્દો: =====
 
-  * (Jesus continues the story.)
-  * **rocky ground** - That is, "ground that was full of rocks."
+===== અનુવાદ નોંધો: =====
 
+  * (ઈસુ વાર્તા ચાલુ રાખે છે.)
+  * ખડકાળ જમીન - એટલે કે, "જમીન જે ખડકાળ હતી."
 
 **[[:gu:obs:notes:frames:33-02|<<]] | [[:gu:obs:notes:33|Up]] | [[:gu:obs:notes:frames:33-04|>>]]**
