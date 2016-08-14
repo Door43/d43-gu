@@ -1,21 +1,19 @@
-===== Jesus' Prayer [37-09] =====
+===== ઈસુની પ્રાર્થના [37-09] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-09.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-09.jpg?nolink&}}
 
-Then **Jesus** looked up to **heaven** and said, “**Father**, thank you for **hearing me**. I know you always listen to me, but I say this for the sake of all these people standing here, so that they will **believe** you sent me.” Then Jesus shouted, “**Lazarus**, **come out**!”
-===== Important Terms: =====
+પછી ઈસુએ સ્વર્ગ તરફ જોયું અને કહ્યું, "પિતા, મારૂં સાંભળવા માટે આભાર. મને ખબર છે તમે હંમેશા મારૂં સાંભળો છો, પરંતુ હું અહીં ઉભા આ બધા લોકો ખાતર કહું છું, કે જેથી તેઓ ખાતરી કરી વિશ્વાસ કરશે કે તમે મને મોકલ્યો છે. " પછી ઈસુએ બુમ પાડી, "લાજરસ, બહાર આવ!"
 
-  * **[[:gu:obe:kt:jesus]]**
-  * **[[:gu:obe:kt:heaven]]**
-  * **[[:gu:obe:kt:godthefather]]**
-  * **[[:gu:obe:kt:believe]]**
-  * **[[:gu:obe:other:lazarus]]**
+===== મહત્વપૂર્ણ શબ્દો: =====
 
+  * **ઈસુ**
+  * **સ્વર્ગ**
+  * **પિતા**
+  * **માનવું**
+  * **લાજરસ**
+===== અનુવાદ નોંધો: =====
 
-===== Translation Notes: =====
-
-  * **hearing me** - That is, "listening to me." It may be helpful to add, "as I pray to you" or, "when I talk to you."
-  * **come out** - Some languages may prefer to say, "come out of the tomb."
-
+  * મારૂં સાંભળો છો - એટલે કે, "મને સાંભળો છો." આ ઉમેરવું મદદરૂપ થઈ શકે છે, "કારણ કે હું તમને પ્રાર્થના કરૂં છું" અથવા, "જ્યારે હું તમારી જોડે વાત કરૂં છું."
+  * બહાર આવ - કેટલીક ભાષાઓ એ કહેવું પસંદ કરી શકે છે, "કબરમાંથી બહાર આવ."
 
 **[[:gu:obs:notes:frames:37-08|<<]] | [[:gu:obs:notes:37|Up]] | [[:gu:obs:notes:frames:37-10|>>]]**
