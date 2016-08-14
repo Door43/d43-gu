@@ -1,17 +1,16 @@
-===== The Testimony of the Man [32-12] =====
+===== માણસની જુબાની [32-12] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-12.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-12.jpg?nolink&}}
 
-So the man went away and told everyone about what **Jesus** had done for him. Everyone who **heard his story was filled with wonder and amazement**.
-===== Important Terms: =====
+તેથી તે માણસ જતો રહ્યો અને લગભગ દરેકને કહ્યું કે **ઈસુએ** તેને માટે શું કર્યુ હતું. દરેક વ્યક્તિએ જેણે **તેની વાર્તા સાંભળી** તેઓ **આશ્ચર્ય અને અચંબાથી તરબોળ થઈ ગયા.**
+===== મહત્વપૂર્ણ શબ્દો: =====
 
-  * **[[:gu:obe:kt:jesus]]**
+  * ઈસુ
 
+===== અનુવાદ નોંધો: =====
 
-===== Translation Notes: =====
-
-  * **heard his story** - That is, "heard the man tell what had happened to him."
-  * **was filled with wonder and amazement** - The words "amazement" and "wonder" are similar in meaning. They are used together to emphasize how amazed the people were. This could be translated as, "completely astonished about what he told them."
-
+  * તેની વાર્તા સાંભળી - એટલે કે, "એ માણસને વર્ણન કરતા સાભળ્યો જે તેની સાથે થયુ ઘટ્યું તે."
+  * આશ્ચર્ય અને અચંબાથી તરબોળ થઈ ગયા - શબ્દો "અચંબો" અને "આશ્ચર્ય" સમાનાર્થી છે.
+  * તેઓને સાથે-સાથે વાપરીને ઉપયોગ કરવામાં આવે છે એના પર ભાર મૂકે છે કે કેવી રીતે લોકો પ્રભાવિત થયા હતા. આવી રીતે ભાષાંતર કરી શકાય છે "તેણે તેમને જે કહ્યું તે વિશે સંપૂર્ણપણે આશ્ચર્ય થયું."
 
 **[[:gu:obs:notes:frames:32-11|<<]] | [[:gu:obs:notes:32|Up]] | [[:gu:obs:notes:frames:32-13|>>]]**
