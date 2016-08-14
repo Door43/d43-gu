@@ -1,21 +1,20 @@
-===== The Jailer Was Baptized [47-12] =====
+===== જેલરને બાપ્તિસ્મા આપ્યા [47-12] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-12.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-12.jpg?nolink&}}
 
-The jailer and his whole family **believed** in **Jesus** and were **baptized**. Then the jailer gave **Paul** and **Silas** a meal and they **rejoiced** together.
-===== Important Terms: =====
+જેલર અને તેનું આખું કુટુંબ ઈસુમાં માનવા લાગ્યું અને બાપ્તિસ્મા લીધા હતા. પછી જેલરે પાઉલ અને સિલાસને ભોજન આપ્યું  અને તેઓ સાથે ઉજવણી કરી.
 
-  * **[[:gu:obe:kt:believe]]**
-  * **[[:gu:obe:kt:jesus]]**
-  * **[[:gu:obe:kt:baptize]]**
-  * **[[:gu:obe:other:paul]]**
-  * **[[:gu:obe:other:silas]]**
-  * **[[:gu:obe:kt:joy]]**
+===== મહત્વપૂર્ણ શબ્દો: =====
 
+  * સ્વિકારી લીધા
+  * ઈસુ
+  * બાપ્તિસ્મા
+  * પાઉલ
+  * સિલાસ
+  * ઉજવણી
 
-===== Translation Notes: =====
+===== અનુવાદ નોંધો: =====
 
-  * //(There are no notes for this frame.)// 
-
+  * (આ ચોકઠાં માટે કોઈ નોંધો નથી.)
 
 **[[:gu:obs:notes:frames:47-11|<<]] | [[:gu:obs:notes:47|Up]] | [[:gu:obs:notes:frames:47-13|>>]]**
