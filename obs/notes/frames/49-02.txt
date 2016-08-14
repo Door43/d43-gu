@@ -1,23 +1,22 @@
-===== The Miracles [49-02] =====
+===== ચમત્કારો [49-02] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-02.jpg?nolink&}}
 
-**Jesus** did many **miracles** that prove he is **God**. He walked on water, calmed storms, **healed** many sick people, **drove out demons**, **raised the dead to life**, and turned five loaves of bread and two small fish into enough food for over 5,000 people.
-===== Important Terms: =====
+ઈસુએ ઘણા ​​ચમત્કારો કર્યા હતા જે સાબિત કરે છે કે તે ​​દેવ છે. તે પાણી પર ચાલતા હતા, તોફાનો શાંત કર્યા, ઘણા માંદા લોકોને સાજા કર્યા, અશુધ્ધ આત્માઓને બહાર કાઢ્યા હતા, મૃતકોને જીવિત કર્યા હતા, અને બે નાની માછલી પાંચ રોટલીમાંથી 5,000 થી વધુ લોકો માટે પૂરતું જમવાનું પુરૂં પાડ્યું.
 
-  * **[[:gu:obe:kt:jesus]]**
-  * **[[:gu:obe:kt:miracle]]**
-  * **[[:gu:obe:kt:god]]**
-  * **[[:gu:obe:other:heal]]**
-  * **[[:gu:obe:kt:demon]]**
-  * **[[:gu:obe:kt:raise]]**
-  * **[[:gu:obe:kt:death]]**
+===== મહત્વપૂર્ણ શબ્દો: =====
 
+  * ઈસુ
+  * ચમત્કાર
+  * દેવ
+  * સાજા કરવું
+  * અશુધ્ધ આત્માઓ
+  * ઊભા કર્યા
+  * મૃત
 
-===== Translation Notes: =====
+===== અનુવાદ નોંધો: =====
 
-  * **drove out demons** - That is, "made demons come out of people."
-  * **raised the dead to life** - This could also be translated as, "caused dead people to become alive again."
-
+  * શુધ્ધ આત્માઓ બહાર કાઢે છે - એટલે કે, "દુષ્ટ આત્માઓ લોકોમાંથી બહાર કાઢે છે"
+  * મૃતકોને જીવતા કરી ઊભા કરે છે - આ રીતે પણ ભાષાંતર કરી શકાય છે, "મૃત લોકો ફરીથી જીવંત બનવાનું કારણ બને છે"
 
 **[[:gu:obs:notes:frames:49-01|<<]] | [[:gu:obs:notes:49|Up]] | [[:gu:obs:notes:frames:49-03|>>]]**
