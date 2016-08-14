@@ -1,22 +1,21 @@
-===== The People Attacked the Believers [45-06] =====
+===== લોકોએ ચેલાઓ પર હુમલો કર્યો [45-06] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-06.jpg?nolink&}}
 
-A young man named **Saul** agreed with the people who killed Stephen and **guarded their robes** while they threw stones at him. That day, many people in **Jerusalem** started **persecuting** the followers of Jesus, so the **believers** fled to other places. **But in spite of this**, they **preached** about Jesus everywhere they went.
-===== Important Terms: =====
+એક યુવાન માણસ નામે શાઉલ જે લોકો સ્તેફને મારી રહ્યા હતા તેઓ સાથે સંમત હતો અને તેમનો ઝભ્ભો સંભાળી રહ્યો હતો જ્યારે તેઓ તેના પર પથ્થરો ફેંકી રહ્યા હતા. તે દિવસે, યરૂશાલેમમાં ઘણા લોકોએ ઈસુના અનુયાયીઓને સતાવવાનું શરૂ કર્યું, જેથી અનુયાયીઓ અન્ય સ્થળોએ ભાગી ગયા. પરંતુ આમ હોવા છતાં, ઈસુ વિશે તેઓ ઉપદેશ આપતા રહ્યા જ્યાં જ્યાં તેઓ ગયા હતા.
 
-  * **[[:gu:obe:other:paul]]**
-  * **[[:gu:obe:other:jerusalem]]**
-  * **[[:gu:obe:other:persecute]]**
-  * **[[:gu:obe:kt:jesus]]**
-  * **[[:gu:obe:kt:believer]]**
-  * **[[:gu:obe:other:preach]]**
+===== મહત્વપૂર્ણ શબ્દો: =====
 
+  * શાઉલ
+  * યરૂશાલેમમાં
+  * સતાવતા હતા
+  * ઈસુ
+  * શિષ્યો
+  * ઉપદેશ
 
-===== Translation Notes: =====
+===== અનુવાદ નોંધો: =====
 
-  * **guarded their robes** - This could be translated as, "watched over their coats." He was probably making sure they didn't get stolen or damaged.
-  * **But in spite of this** - The Jewish leaders thought they could stop the spread of Jesus' teaching by persecuting his followers. Instead, this caused them to scatter and spread the message even more widely.
-
+  * તેમના ઝભ્ભાની દેખભાળ કરી હતી – આવી આ ભાષાંતર કરી શકાય છે, "તેમના ઉપરણાઓનું ધ્યાન રાખતો હતો."  તે કદાચ ખાતરી કરી રહ્યો હતો કે તે ચોરી ન થઈ જાય અથવા નુકસાન ન પામે.
+  * પરંતુ આમ હોવા છતાં - યહૂદી નેતાઓએ વિચાર્યું તેઓ તેમના અનુયાયીઓ ઉપર દમન ગુજારીને ઈસુના ઉપદેશના ફેલાવાને રોકી શકે છે. તેના બદલે, તેઓએ તેમને વધુ વ્યાપક રીતે સંદેશ ફેલાવવા માટેનું આ રીતે કારણ આપ્યું.
 
 **[[:gu:obs:notes:frames:45-05|<<]] | [[:gu:obs:notes:45|Up]] | [[:gu:obs:notes:frames:45-07|>>]]**
