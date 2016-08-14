@@ -1,27 +1,45 @@
-===== Jesus Went to Heaven [42-11] =====
+===== ઈસુ સ્વર્ગમાં ગયા [42-11] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-11.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-11.jpg?nolink&}}
 
 Forty days after **Jesus** rose from the dead, he told his **disciples**, “Stay in **Jerusalem** until my **Father** gives you **power** when the **Holy Spirit comes on you**.” Then Jesus went up to **heaven**, and **a cloud hid him from their sight**. Jesus sat down **at the right hand of God** to rule **over all things**.
 ===== Important Terms: =====
 
-  * **[[:gu:obe:kt:jesus]]**
-  * **[[:gu:obe:kt:disciple]]**
-  * **[[:gu:obe:other:jerusalem]]**
-  * **[[:gu:obe:kt:godthefather]]**
-  * **[[:gu:obe:kt:power]]**
-  * **[[:gu:obe:kt:holyspirit]]**
-  * **[[:gu:obe:kt:heaven]]**
-  * **[[:gu:obe:kt:god]]**
-
-
+  * **[[:gu:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
+  * **[[:gu:obe:kt:disciple|disciple]]**
+  * **[[:gu:obe:other:jerusalem|Jerusalem]]**
+  * **[[:gu:obe:kt:godthefather|God the Father, Heavenly Father]]**
+  * **[[:gu:obe:kt:power|power]]**
+  * **[[:gu:obe:kt:holyspirit|Holy Spirit, Spirit of God, Spirit of the Lord]]**
+  * **[[:gu:obe:kt:heaven|heaven, sky, heavens, heavenly]]**
+  * **[[:gu:obe:kt:god|God]]**
 ===== Translation Notes: =====
 
-  * **comes on you** - That is, "comes down upon you" or, "comes onto you."
-  * **a cloud hid him from their sight** - This could also be translated as, "he disappeared into a cloud."
-  * **at the right hand of God** - This could also be translated as, "at the right side of God."
-  * **over all things** - That is, "over everything."
+  * **comes on you**  - That is, "comes down upon you" or, "comes onto you."
+  * **a cloud hid him from their sight**  - This could also be translated as, "he disappeared into a cloud."
+  * **at the right hand of God**  - This could also be translated as, "at the right side of God."
+  * **over all things**  - That is, "over everything."
   * //A Bible story from//  - These references may be slightly different in some Bible translations.
 
+ચાલીસ દિવસ પછી **ઈસુ** જે મૃત હતો, જીવિત થયો, તેમણે તેમના **શિષ્યોને**  કહ્યું હતું, " **યરૂશાલેમમાં**  બની રહો જ્યાં સુધી મારા **પિતા**  તમને **શક્તિ****ન**   જ્યારે **પવિત્ર****આત્મા****તમારી****આવે**." પછી ઈસુ એ સુધી ગયા જ્યાં હતું **સ્વર્ગ**, અને **એક****વાદળે****તેમને તેઓની****દૃષ્ટિમાંથી****છુપાવી લીધા**  . ઈસુ **દેવની****જમણી****બાજુએ તમામ****બાબતો****પર**  શાસન કરવા બેઠા .
+
+===== મહત્વપૂર્ણ શબ્દો: =====
+
+  * ઈસુ
+  * શિષ્યો
+  * યરૂશાલેમમાં
+  * પિતા
+  * શક્તિ
+  * પવિત્ર આત્મા
+  * સ્વર્ગ
+  * દેવ
+  *
+===== અનુવાદ નોંધો: =====
+
+  * તમારી પર આવે છે - એટલે કે, "તમારી પર નીચે આવે છે" અથવા, "તમારી ઉપર આવે છે."
+  * એક વાદળે તેમને તેઓની દૃષ્ટિ માંથી છુપાવી લીધા - આ રીતે પણ ભાષાંતર કરી શકાય છે " તેઓ એક વાદળમાં અદ્રશ્ય થઈ ગયા."
+  * દેવની જમણી બાજુએ - આ રીતે પણ ભાષાંતર કરી શકાય છે, "દેવની જમણી બાજુ પર."
+  * તમામ બાબતો પર - એટલે કે, "બધી બાબતો પર"
+  * માંથી બાઇબલ વાર્તાઓ - આ સંદર્ભો બાઇબલના કેટલાક અનુવાદમાં સહેજ અલગ હોઈ શકે છે
 
 **[[:gu:obs:notes:frames:42-10|<<]] | [[:gu:obs:notes:42|Up]] | [[:gu:obs:notes:frames:43-01|>>]]**
